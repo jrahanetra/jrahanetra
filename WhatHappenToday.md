@@ -34,8 +34,6 @@ En 1990 : British Airways Flight 5390 lands safely at Southampton Airport after 
 <br/><br/>
 En 1987 : June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
 <br/><br/>
-En 1986 : Network SouthEast: The London & South Eastern sector of British Rail is relaunched as Network SouthEast.
-<br/><br/>
 En 1982 : Lebanon War: The Syrian Arab Army defeats the Israeli Defense Forces in the Battle of Sultan Yacoub.
 <br/><br/>
 En 1980 : The African National Congress in South Africa publishes a call to fight from their imprisoned leader Nelson Mandela.
