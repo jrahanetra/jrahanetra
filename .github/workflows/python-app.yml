@@ -8,34 +8,38 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 
-    
 permissions:
   contents: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        pip install requests
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Start script
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        python main.py > WhatHappenToday.md
-    - name: Push to github
-      run: |
-        git config --global user.name 'jrahanetra bot'
-        git config --global user.email 'jrahanetra@gmail.com'
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/jrahanetra/jrahanetra
-        git add .
-        git commit -m "Auto commit"
-        git push
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Start script
+        run: |
+          python main.py > WhatHappenToday.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'jrahanetra bot'
+          git config --global user.email 'jrahanetra@gmail.com'
+          git pull origin main || true
+          git add WhatHappenToday.md
+          git commit -m "Auto commit" || echo "Nothing to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
