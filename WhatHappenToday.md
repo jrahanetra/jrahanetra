@@ -72,6 +72,8 @@ En 1935 : Dr. Robert Smith takes his last drink, and Alcoholics Anonymous is fou
 <br/><br/>
 En 1935 : Chaco War ends: A truce is called between Bolivia and Paraguay who had been fighting since 1932.
 <br/><br/>
+En 1925 : The United Church of Canada is founded in Toronto as a merger of four Protestant denominations.
+<br/><br/>
 En 1924 : Fascists kidnap and kill Italian Socialist leader Giacomo Matteotti in Rome.
 <br/><br/>
 En 1918 : The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
