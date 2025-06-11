@@ -50,7 +50,7 @@ En 1962 : Frank Morris, John Anglin and Clarence Anglin allegedly become the onl
 <br/><br/>
 En 1956 : Start of Gal Oya riots, the first reported ethnic riots that target minority Sri Lankan Tamils in the Eastern Province. The total number of deaths is reportedly 150.
 <br/><br/>
-En 1955 : Eighty-three spectators are killed and at least one hundred are injured after an Austin-Healey and a Mercedes-Benz collide at the 24 Hours of Le Mans, the deadliest ever accident in motorsports.
+En 1955 : Over 80 spectators are killed and at least one hundred are injured after an Austin-Healey and a Mercedes-Benz collide at the 24 Hours of Le Mans, the deadliest ever accident in motorsports.
 <br/><br/>
 En 1944 : USS Missouri, the last battleship built by the United States Navy and future site of the signing of the Japanese Instrument of Surrender, is commissioned.
 <br/><br/>
