@@ -24,8 +24,6 @@ En 2002 : Antonio Meucci is acknowledged as the first inventor of the telephone 
 <br/><br/>
 En 2001 : Timothy McVeigh is executed for his role in the Oklahoma City bombing.
 <br/><br/>
-En 1999 : Bill Clinton,  issues Presidential proclamation No. 7203 establishing Gay and Lesbian Pride Month in the United States.
-<br/><br/>
 En 1998 : Compaq Computer pays US$9 billion for Digital Equipment Corporation in the largest high-tech acquisition.
 <br/><br/>
 En 1987 : Diane Abbott, Paul Boateng and Bernie Grant are elected as the first black MPs in Great Britain.
