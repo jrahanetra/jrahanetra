@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 12/6 ?(Hover on the year)</h1>
 
+En 2025 : Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the Meghani Nagar neighbourhood, Ahmedabad, India, killing all 242 people onboard as well as 5 people on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
+<br/><br/>
 En 2024 : A fire in a residential building in Mangaf, Kuwait City kills at least 50 people.
 <br/><br/>
 En 2019 : Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
