@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 13/6 ?(Hover on the year)</h1>
 
+En 2025 : Israeli strikes on Iran: Israel initiates air strikes against Iran.
+<br/><br/>
 En 2023 : At least 100 people are killed when a wedding boat capsizes on the Niger River in Kwara State, Nigeria.
 <br/><br/>
 En 2023 : Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
