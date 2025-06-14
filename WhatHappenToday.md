@@ -50,7 +50,7 @@ En 1941 : June deportation: The first major wave of Soviet mass deportations of 
 <br/><br/>
 En 1940 : World War II: The German occupation of Paris begins.
 <br/><br/>
-En 1940 : The Soviet Union presents an ultimatum to Lithuania resulting in Lithuanian loss of independence.
+En 1940 : The Soviet Union presents an ultimatum to Lithuania, resulting in Lithuanian loss of independence.
 <br/><br/>
 En 1940 : Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
 <br/><br/>
@@ -108,13 +108,13 @@ En 1618 : Joris Veseler prints the first Dutch newspaper Courante uyt Italien, D
 <br/><br/>
 En 1404 : Welsh rebel leader Owain Glyndŵr, having declared himself Prince of Wales, allies himself with the French against King Henry IV of England.
 <br/><br/>
-En 1381 : Richard II of England meets leaders of Peasants' Revolt at Mile End. The Tower of London is stormed by rebels who enter without resistance.
+En 1381 : Richard II of England meets leaders of the Peasants' Revolt at Mile End. The Tower of London is stormed by rebels who enter without resistance.
 <br/><br/>
 En 1287 : Kublai Khan defeats the force of Nayan and other traditionalist Borjigin princes in East Mongolia and Manchuria.
 <br/><br/>
 En 1285 : Second Mongol invasion of Vietnam: Forces led by Prince Trần Quang Khải of the Trần dynasty destroy most of the invading Mongol naval fleet in a battle at Chuong Duong.
 <br/><br/>
-En 1276 : While taking exile in Fuzhou, away from the advancing Mongol invaders, the remnants of the Song dynasty court hold the coronation ceremony for Emperor Duanzong.
+En 1276 : While in exile in Fuzhou, away from the advancing Mongol invaders, the remnants of the Song dynasty court hold the coronation ceremony for Emperor Duanzong.
 <br/><br/>
 En 1216 : First Barons' War: Prince Louis of France takes the city of Winchester, abandoned by John, King of England, and soon conquers over half of the kingdom.
 <br/><br/>
