@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 14/6 ?(Hover on the year)</h1>
 
-En 2017 : A fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.
+En 2017 : The Grenfell Tower fire, a catastrophic fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.
 <br/><br/>
 En 2017 : Republican U.S. House Majority Whip Steve Scalise of Louisiana, and three others, are shot and wounded while practicing for the annual Congressional Baseball Game.
 <br/><br/>
