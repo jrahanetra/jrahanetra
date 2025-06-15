@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 15/6 ?(Hover on the year)</h1>
 
+En 2025 : The day when Tatiana H decided to go for a coffee with Leonid C.
+<br/><br/>
 En 2022 : Microsoft retires its ubiquitous Internet Explorer after 26 years in favor of its new browser, Microsoft Edge.
 <br/><br/>
 En 2013 : A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
