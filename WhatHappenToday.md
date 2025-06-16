@@ -52,7 +52,7 @@ En 1948 : Members of the Malayan Communist Party kill three British plantation m
 <br/><br/>
 En 1940 : World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
 <br/><br/>
-En 1940 : A Communist government is installed in Lithuania.
+En 1940 : The Soviet Union occupies Lithuania, establishing the Lithuanian Soviet Socialist Republic (SSR).
 <br/><br/>
 En 1933 : The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
 <br/><br/>
