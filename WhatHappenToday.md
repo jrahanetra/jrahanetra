@@ -16,7 +16,7 @@ En 2013 : A multi-day cloudburst, centered on the North Indian state of Uttarakh
 <br/><br/>
 En 2012 : China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
 <br/><br/>
-En 2012 : The United States Air Force'import torch
+En 2012 : The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
 <br/><br/>
 En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
 <br/><br/>
@@ -112,5 +112,5 @@ En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders o
 <br/><br/>
 En 1407 : Ming–Hồ War: Retired King Hồ Quý Ly and his son King Hồ Hán Thương of Hồ dynasty are captured by the Ming armies.
 <br/><br/>
-En 632 : Yazdegerd III ascends the throne as king (shah) of the import torch
+En 632 : Yazdegerd III ascends the throne as king (shah) of the Persian Empire. He becomes the last ruler of the Sasanian dynasty (modern Iran).
 <br/><br/>
