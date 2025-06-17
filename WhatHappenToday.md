@@ -108,8 +108,6 @@ En 1596 : The Dutch explorer Willem Barentsz discovers the Arctic archipelago of
 <br/><br/>
 En 1579 : Sir Francis Drake claims a land he calls Nova Albion (modern California) for England.
 <br/><br/>
-En 1565 : Matsunaga Hisahide assassinates the 13th Ashikaga shōgun, Ashikaga Yoshiteru.
-<br/><br/>
 En 1497 : Battle of Deptford Bridge: Forces under King Henry VII defeat troops led by Michael An Gof.
 <br/><br/>
 En 1462 : Vlad the Impaler attempts to assassinate Mehmed II (The Night Attack at Târgovişte), forcing him to retreat from Wallachia.
