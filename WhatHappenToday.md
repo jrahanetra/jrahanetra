@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 18/6 ?(Hover on the year)</h1>
 
-En 2023 : Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including the co-founder and CEO of the company, Stockton Rush in the North Atlantic Ocean.
+En 2023 : Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including OceanGate co-founder and CEO Stockton Rush in the North Atlantic Ocean.
 <br/><br/>
 En 2018 : An earthquake of magnitude 6.1 strikes northern Osaka.
 <br/><br/>
