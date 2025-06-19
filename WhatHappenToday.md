@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 19/6 ?(Hover on the year)</h1>
 
-En 2021 : The first observance of Juneteenth as a U.S. federal holiday. Though the bill to recognize June 19 — commemorating the 1865 emancipation of the last enslaved people in Texas — was signed into law on June 17, 2021, the first official Juneteenth National Independence Day was celebrated just two days later, on June 19, 2021.
-<br/><br/>
 En 2020 : Animal rights advocate Regan Russell is run over and killed by a transport truck outside of a pig slaughterhouse in Burlington, Ontario.
 <br/><br/>
 En 2018 : The 10,000,000th United States Patent is issued.
