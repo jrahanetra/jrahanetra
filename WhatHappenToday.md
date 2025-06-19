@@ -12,7 +12,7 @@ En 2018 : The 10,000,000th United States Patent is issued.
 <br/><br/>
 En 2018 : Antwon Rose II is fatally shot in East Pittsburgh by East Pittsburgh Police Officer Michael Rosfeld after being involved in a near-fatal drive-by shooting.
 <br/><br/>
-En 2012 : WikiLeaks founder Julian Assange requests asylum in London's Ecuadorian Embassy for fear of extradition to the US after publication of previously classified documents including footage of civilian killings by the US army.
+En 2012 : WikiLeaks founder Julian Assange requests asylum in London's Ecuadorian Embassy for fear of extradition to the US after publication of previously classified documents including footage of civilian killings by the US army; he will remain there until 2019.
 <br/><br/>
 En 2009 : Mass riots involving over 10,000 people and 10,000 police officers break out in Shishou, China, over the dubious circumstances surrounding the death of a local chef.
 <br/><br/>
