@@ -100,7 +100,7 @@ En 910 : The Hungarians defeat the East Frankish army near the Rednitz River, ki
 <br/><br/>
 En 813 : Battle of Versinikia: The Bulgars led by Krum defeat the Byzantine army near Edirne. Emperor Michael I is forced to abdicate in favor of Leo V the Armenian.
 <br/><br/>
-En 331 : The Council of Ephesus, the third ecumenical council, begins, dealing with Nestorianism.
+En 431 : The Council of Ephesus, the third ecumenical council, begins, dealing with Nestorianism.
 <br/><br/>
 En -168 : Battle of Pydna: Romans under Lucius Aemilius Paullus defeat Macedonian King Perseus who surrenders after the battle, ending the Third Macedonian War.
 <br/><br/>
