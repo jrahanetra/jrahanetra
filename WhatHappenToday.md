@@ -20,6 +20,8 @@ En 2013 : Militants storm a high-altitude mountaineering base camp near Nanga Pa
 <br/><br/>
 En 2012 : Ashton Eaton breaks the decathlon world record at the United States Olympic Trials.
 <br/><br/>
+En 2005 : American social news and discussion site Reddit is founded in Medford, Massachusetts by Steve Huffman and Alexis Ohanian.
+<br/><br/>
 En 2001 : The 8.4 Mw  southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
 <br/><br/>
 En 1994 : NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center.
