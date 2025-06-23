@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 23/6 ?(Hover on the year)</h1>
 
-En 2025 : 2025 Iranian strikes on US military bases: Various incidents in Iraq and Qatar.
-<br/><br/>
 En 2018 : Twelve boys and an assistant coach from a soccer team in Thailand are trapped in a flooding cave, leading to an 18-day rescue operation.
 <br/><br/>
 En 2017 : A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
@@ -59,6 +57,8 @@ En 1951 : The ocean liner SS United States is christened and launched.
 En 1947 : The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft–Hartley Act.
 <br/><br/>
 En 1946 : The 1946 Vancouver Island earthquake strikes Vancouver Island, British Columbia, Canada.
+<br/><br/>
+En 1944 : An F4 tornado tears through the Appalachian Mountains, killing over 100 people in West Virginia, particularly in the town of Shinnston.
 <br/><br/>
 En 1942 : World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, is captured intact when it mistakenly lands at RAF Pembrey in Wales.
 <br/><br/>
