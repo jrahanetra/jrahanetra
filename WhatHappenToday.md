@@ -68,6 +68,8 @@ En 1931 : Wiley Post and Harold Gatty take off from Roosevelt Field, Long Island
 <br/><br/>
 En 1926 : The College Board administers the first SAT exam.
 <br/><br/>
+En 1925 : Shameen Incident: British Army and French Army soldiers stationed in the concession of Shameen open fire on Chinese protesters, resulting in at least 52 deaths.
+<br/><br/>
 En 1919 : Estonian War of Independence: The decisive defeat of the Baltische Landeswehr in the Battle of Cēsis; this date is celebrated as Victory Day in Estonia.
 <br/><br/>
 En 1917 : In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire.
