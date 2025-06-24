@@ -118,7 +118,7 @@ En 1497 : John Cabot lands in North America at Newfoundland leading the first Eu
 <br/><br/>
 En 1374 : A sudden outbreak of St. John's Dance causes people in the streets of Aachen, Germany, to experience hallucinations and begin to jump and twitch uncontrollably until they collapse from exhaustion.
 <br/><br/>
-En 1340 : Hundred Years' War: Battle of Sluys: The French fleet is almost completely destroyed by the English fleet commanded in person by King Edward III.
+En 1340 : Hundred Years' War: Battle of Sluys: The French fleet is almost completely destroyed by the English fleet commanded personally by King Edward III.
 <br/><br/>
 En 1314 : First War of Scottish Independence: The Battle of Bannockburn concludes with a decisive victory by Scottish forces led by Robert the Bruce.
 <br/><br/>
