@@ -32,7 +32,7 @@ En 1992 : Space Shuttle Columbia launches on STS-50, the first shuttle mission t
 <br/><br/>
 En 1991 : The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.
 <br/><br/>
-En 1983 : Indian Cricket Team won it's first ICC World Cup under Kapil Dev defeating West Indies.
+En 1983 : Indian Cricket Team won its first ICC World Cup under Kapil Dev defeating West Indies.
 <br/><br/>
 En 1981 : Microsoft is restructured to become an incorporated business in its home state of Washington.
 <br/><br/>
