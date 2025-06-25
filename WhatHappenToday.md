@@ -12,7 +12,7 @@ En 2022 : The prime minister of Bangladesh, Sheikh Hasina inaugurates the longes
 <br/><br/>
 En 2022 : Russo-Ukrainian War: The Battle of Sievierodonetsk ends after weeks of heavy fighting with the Russian capture of the city, leading to the Battle of Lysychansk.
 <br/><br/>
-En 2022 : Two people are killed and 21 more injured after a gunman opens fire at three sites in Oslo in a suspected Islamist anti-LGBTQ+ attack.
+En 2022 : 2 people are killed and 21 more injured after a gunman opens fire at three sites in Oslo in a suspected Islamist anti-LGBTQ+ attack.
 <br/><br/>
 En 2007 : PMTair Flight 241 crashes in the Dâmrei Mountains in Kampot Province, Cambodia, killing all 22 people on board.
 <br/><br/>
