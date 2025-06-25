@@ -50,7 +50,7 @@ En 1950 : The Korean War begins with the invasion of South Korea by North Korea.
 <br/><br/>
 En 1948 : The United States Congress passes the Displaced Persons Act to allow World War II refugees to immigrate to the United States above quota restrictions.
 <br/><br/>
-En 1947 : The Diary of a Young Girl (better known as The Diary of Anne Frank) is published.
+En 1947 : The Diary of a Young Girl (better known as The Diary of Anne Frank), which, according to the Anne Frank Fonds, was co-authored by Anne Frank and her father, Otto Frank, is published.
 <br/><br/>
 En 1944 : World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.
 <br/><br/>
