@@ -142,7 +142,7 @@ En 684 : Pope Benedict II is the last pope to require confirmation by the Byzant
 <br/><br/>
 En 363 : Roman emperor Julian is killed during the retreat from the Sasanian Empire.
 <br/><br/>
-En 221 : Roman emperor Elagabalus adopts his cousin Alexander Severus as his heir and receives the title of Caesar.
+En 221 : Roman emperor Elagabalus adopts his cousin Alexander Severus as his heir and grants him the title of Caesar.
 <br/><br/>
 En 4 : Augustus adopts Tiberius.
 <br/><br/>
