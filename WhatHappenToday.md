@@ -10,11 +10,11 @@ En 2024 : Julian Assange, founder of WikiLeaks, returns to Australia after plead
 <br/><br/>
 En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
 <br/><br/>
-En 2015 : The U.S. Supreme Court ruled, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
+En 2015 : The U.S. Supreme Court rules, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
 <br/><br/>
 En 2013 : Riots in China's Xinjiang region kill at least 36 people and injure 21 others.
 <br/><br/>
-En 2013 : The U.S. Supreme Court ruled, 5–4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
+En 2013 : The U.S. Supreme Court rules, 5–4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
 <br/><br/>
 En 2012 : The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs burning 347 homes in a matter of hours and killing two people.
 <br/><br/>
@@ -42,15 +42,15 @@ En 1981 : Dan-Air Flight 240, flying to East Midlands Airport, crashes in Nailst
 <br/><br/>
 En 1978 : Air Canada Flight 189, flying to Toronto, overruns the runway and crashes into the Etobicoke Creek ravine. Two of the 107 passengers on board perish.
 <br/><br/>
-En 1977 : Elvis Presley held his final concert in Indianapolis, Indiana at Market Square Arena.
+En 1977 : Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana.
 <br/><br/>
 En 1975 : Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial.
 <br/><br/>
 En 1974 : The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio.
 <br/><br/>
-En 1967 : Karol Wojtyła (later John Paul II) made a cardinal by Pope Paul VI.
+En 1967 : Karol Wojtyła (later John Paul II) is made a cardinal by Pope Paul VI.
 <br/><br/>
-En 1963 : Cold War: U.S. President John F. Kennedy gave his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
+En 1963 : Cold War: U.S. President John F. Kennedy gives his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
 <br/><br/>
 En 1960 : The former British Protectorate of British Somaliland gains its independence as Somaliland.
 <br/><br/>
@@ -108,7 +108,7 @@ En 1848 : End of the June Days Uprising in Paris.
 <br/><br/>
 En 1843 : Treaty of Nanking comes into effect, Hong Kong Island is ceded to the British "in perpetuity".
 <br/><br/>
-En 1830 : William IV becomes king of Britain and Hanover.
+En 1830 : William IV becomes king of Britain and Hanover following the death without surviving legitimate issue of his older brother George IV.
 <br/><br/>
 En 1794 : French Revolutionary Wars: Battle of Fleurus marks the first successful military use of aircraft and turns the tide of the War of the First Coalition.
 <br/><br/>
