@@ -68,7 +68,7 @@ En 1948 : Cold War: The first supply flights are made in response to the Berlin 
 <br/><br/>
 En 1948 : William Shockley files the original patent for the grown-junction transistor, the first bipolar junction transistor.
 <br/><br/>
-En 1948 : Shirley Jackson's short story The Lottery is published in The New Yorker magazine.
+En 1948 : Shirley Jackson's short story "The Lottery" is published in The New Yorker magazine.
 <br/><br/>
 En 1945 : The United Nations Charter is signed by 50 Allied nations in San Francisco, California.
 <br/><br/>
