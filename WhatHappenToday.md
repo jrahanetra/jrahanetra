@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 27/6 ?(Hover on the year)</h1>
 
-En 2025 : The third and final squid game season, Squid Game season 3 releases on Netflix.
+En 2025 : The third and final season in Squid Game, Squid Game season 3 releases on Netflix.
 <br/><br/>
 En 2024 : U.S. President Joe Biden debates former U.S. President Donald Trump. The debate leads to Biden's withdrawal from the election on July 21.
 <br/><br/>
