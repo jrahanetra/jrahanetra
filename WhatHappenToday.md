@@ -22,6 +22,8 @@ En 2007 : Tony Blair resigns as British Prime Minister, a position he had held s
 <br/><br/>
 En 2007 : The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
 <br/><br/>
+En 1995 : Space Shuttle Atlantis launches on STS-71, the first space shuttle mission to dock with the Russian space station Mir.
+<br/><br/>
 En 1994 : Members of the Aum Shinrikyo cult release sarin gas in Matsumoto, Japan. Seven people are killed, 660 injured.
 <br/><br/>
 En 1991 : Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.
