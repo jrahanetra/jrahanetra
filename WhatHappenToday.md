@@ -66,7 +66,7 @@ En 1919 : The Treaty of Versailles is signed, ending the state of war between Ge
 <br/><br/>
 En 1917 : World War I: Greece joins the Allied powers.
 <br/><br/>
-En 1914 : Archduke Franz Ferdinand of Austria and his wife Sophie are assassinated in Sarajevo; this is the casus belli of World War I.
+En 1914 : Causes of World War I: Archduke Franz Ferdinand of Austria and his wife Sophie are assassinated in Sarajevo, beginning the July Crisis and providing the casus belli of World War I.
 <br/><br/>
 En 1911 : The Nakhla meteorite,  the first one to suggest signs of aqueous processes on Mars, falls to Earth, landing in Egypt.
 <br/><br/>
