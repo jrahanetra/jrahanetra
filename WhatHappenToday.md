@@ -96,7 +96,7 @@ En 1946 : Crossroads Able is the first postwar nuclear weapon test.
 <br/><br/>
 En 1943 : The City of Tokyo and the Prefecture of Tokyo are both replaced by the Tokyo Metropolis.
 <br/><br/>
-En 1942 : World War II: First Battle of El Alamein.
+En 1942 : World War II: start of the First Battle of El Alamein.
 <br/><br/>
 En 1942 : The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished.
 <br/><br/>
