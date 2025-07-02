@@ -64,7 +64,7 @@ En 1890 : The U.S. Congress passes the Sherman Antitrust Act.
 <br/><br/>
 En 1881 : Charles J. Guiteau shoots and fatally wounds U.S. President James A. Garfield (who will die of complications from his wounds on September 19).
 <br/><br/>
-En 1871 : Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States.
+En 1871 : Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States during the Capture of Rome.
 <br/><br/>
 En 1864 : Dimitri Atanasescu founds the first Romanian school in the Balkans for the Aromanians in Trnovo, in the Ottoman Empire (now in North Macedonia).
 <br/><br/>
