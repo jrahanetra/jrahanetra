@@ -44,7 +44,9 @@ En 1977 : The George Jackson Brigade plants a bomb at the main power substation 
 <br/><br/>
 En 1976 : Israeli commandos raid Entebbe airport in Uganda, rescuing all but four of the passengers and crew of an Air France jetliner seized by Palestinian terrorists.
 <br/><br/>
-En 1966 : U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year.
+En 1973 : Barbados, Guyana, Jamaica, and Trinidad and Tobago all sign the Treaty of Chaguaramas in Chaguaramas, Trinidad and Tobago establishing the Caribbean Community (CARICOM), replacing the Caribbean Free Trade Association as another step towards Caribbean regional integration.
+<br/><br/>
+En 1966 : U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year.'
 <br/><br/>
 En 1961 : On its maiden voyage, the Soviet nuclear-powered submarine K-19 suffers a complete loss of coolant to its reactor. The crew are able to effect repairs, but 22 of them die of radiation poisoning over the following two years.
 <br/><br/>
