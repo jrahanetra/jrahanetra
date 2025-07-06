@@ -54,7 +54,7 @@ En 1947 : Referendum held in Sylhet to decide its fate in the Partition of India
 <br/><br/>
 En 1947 : The AK-47 goes into production in the Soviet Union.
 <br/><br/>
-En 1944 : Jackie Robinson refuses to move to the back of a bus, leading to a court-martial.
+En 1944 : Jackie Robinson refuses to move to the back of a bus, leading to his court-martial.
 <br/><br/>
 En 1944 : The Hartford circus fire, one of America's worst fire disasters, kills approximately 168 people and injures over 700 in Hartford, Connecticut.
 <br/><br/>
