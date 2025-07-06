@@ -84,6 +84,8 @@ En 1887 : David Kalākaua, monarch of the Kingdom of Hawaii, is forced to sign t
 <br/><br/>
 En 1885 : Louis Pasteur successfully tests his vaccine against rabies on Joseph Meister, a boy who was bitten by a rabid dog.
 <br/><br/>
+En 1875 : Nevesinje uprising of Serbs against Ottoman rule, in today's Republic of Srpska in Bosnia and Herzegovina
+<br/><br/>
 En 1854 : The Republican Party of the United States held its first convention in Jackson, Michigan.
 <br/><br/>
 En 1809 : The second day of the Battle of Wagram; France defeats the Austrian army in the largest battle to date of the Napoleonic Wars.
