@@ -8,8 +8,6 @@
 
 En 2022 : Boris Johnson announces his resignation as leader of the Conservative Party following days of pressure from the Members of Parliament (MPs) during the July 2022 United Kingdom government crisis.
 <br/><br/>
-En 2021 : Haitian crisis: Haitian President Jovenel Moïse is assassinated in his residence in the capital of Port-au-Prince.
-<br/><br/>
 En 2019 : The United States women's national soccer team defeated the Netherlands 2–0 at the 2019 FIFA Women's World Cup Final in Lyon, France.
 <br/><br/>
 En 2017 : The Treaty on the Prohibition of Nuclear Weapons was adopted with 122 countries voting in favour.
