@@ -12,7 +12,7 @@ En 2019 : The United States women's national soccer team defeated the Netherland
 <br/><br/>
 En 2017 : The Treaty on the Prohibition of Nuclear Weapons was adopted with 122 countries voting in favour.
 <br/><br/>
-En 2016 : Ex-US Army soldier Micah Xavier Johnson shoots fourteen policemen during an anti-police protest in downtown Dallas, Texas, killing five of them. He is subsequently killed by a robot-delivered bomb.
+En 2016 : Ex-US Army soldier Micah Xavier Johnson shoots fourteen policemen, killing five of them, in downtown Dallas, Texas at the end of a protest of recent police killings of Black men. He is subsequently killed by a robot-delivered bomb.
 <br/><br/>
 En 2013 : A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten people.
 <br/><br/>
