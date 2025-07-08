@@ -98,5 +98,3 @@ En 1283 : Roger of Lauria, commanding the Aragonese fleet, defeats an Angevin fl
 <br/><br/>
 En 1167 : The Byzantines defeat the Hungarian army decisively at Sirmium, forcing the Hungarians to sue for peace.
 <br/><br/>
-En 1099 : Some 15,000 starving Christian soldiers begin the siege of Jerusalem by marching in a religious procession around the city as its Muslim defenders watch.
-<br/><br/>
