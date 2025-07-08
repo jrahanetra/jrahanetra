@@ -8,7 +8,7 @@
 
 En 2014 : Israel launches an offensive on Gaza amid rising tensions following the kidnapping and murder of three Israeli teenagers.
 <br/><br/>
-En 2014 : The Brazil national football team suffers its joint-worst defeat, losing 7-1 to Germany in the semi-finals of the 2014 FIFA World Cup, in a match dubbed the Mineirazo.
+En 2014 : The Brazil national football team suffers its joint-worst defeat, losing 7–1 to Germany in the semi-finals of the FIFA World Cup, in a match dubbed the Mineiraço.
 <br/><br/>
 En 2011 : Space Shuttle Atlantis is launched in the final mission of the U.S. Space Shuttle program.
 <br/><br/>
