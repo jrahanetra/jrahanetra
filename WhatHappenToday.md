@@ -64,7 +64,7 @@ En 1876 : The Hamburg massacre prior to the 1876 United States presidential elec
 <br/><br/>
 En 1874 : The Mounties begin their March West.
 <br/><br/>
-En 1864 : Ikedaya Incident: The Choshu Han shishi's planned Shinsengumi sabotage on Kyoto, Japan at Ikedaya.
+En 1864 : Ikedaya Incident: The Choshu Han shishis planned Shinsengumi sabotage on Kyoto, Japan at Ikedaya.
 <br/><br/>
 En 1859 : King Charles XV & IV accedes to the throne of Sweden–Norway.
 <br/><br/>
