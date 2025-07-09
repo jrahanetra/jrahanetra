@@ -18,7 +18,7 @@ En 2002 : The African Union is established in Addis Ababa, Ethiopia, replacing t
 <br/><br/>
 En 1999 : Days of student protests begin after Iranian police and hardliners attack a student dormitory at the University of Tehran.
 <br/><br/>
-En 1997 : A Fokker 100 from the Brazilian airline TAM launches engineer Fernando Caldeira de Moura Campos into 2,400 meters of free fall after an explosion that depressurized the aircraft.
+En 1997 : An explosion aboard a Brazilian airline TAM  Fokker 100 launches engineer Fernando Caldeira de Moura Campos into a 2,400 meters free fall.  He survives.
 <br/><br/>
 En 1995 : The Navaly church bombing is carried out by the Sri Lanka Air Force killing 125 Tamil civilian refugees.
 <br/><br/>
@@ -32,7 +32,7 @@ En 1979 : A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge 
 <br/><br/>
 En 1977 : The Pinochet dictatorship in Chile organises the youth event of Acto de Chacarillas, a ritualised act reminiscent of Francoist Spain.
 <br/><br/>
-En 1962 : Starfish Prime tests the effects of a nuclear test at orbital altitudes.
+En 1962 : Starfish Prime tests the effects of a nuclear explosion at orbital altitudes.
 <br/><br/>
 En 1961 : Greece becomes the first member state to join the European Economic Community by signing the Athens Agreement, which was suspended in 1967 during the Greek junta.
 <br/><br/>
@@ -100,7 +100,7 @@ En 1789 : In Versailles, the National Assembly reconstitutes itself as the Natio
 <br/><br/>
 En 1776 : George Washington orders the Declaration of Independence to be read out to members of the Continental Army in Manhattan, while thousands of British troops on Staten Island prepare for the Battle of Long Island.
 <br/><br/>
-En 1763 : The Mozart family grand tour of Europe began, lifting the profile of son Wolfgang Amadeus.
+En 1763 : The Mozart family grand tour of Europe begins, lifting the profile of son Wolfgang Amadeus.
 <br/><br/>
 En 1762 : Catherine the Great becomes Empress of Russia following the coup against her husband, Peter III.
 <br/><br/>
