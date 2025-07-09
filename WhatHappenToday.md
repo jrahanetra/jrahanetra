@@ -34,7 +34,7 @@ En 1977 : The Pinochet dictatorship in Chile organises the youth event of Acto d
 <br/><br/>
 En 1962 : Starfish Prime tests the effects of a nuclear explosion at orbital altitudes.
 <br/><br/>
-En 1961 : Greece becomes the first member state to join the European Economic Community by signing the Athens Agreement, which was suspended in 1967 during the Greek junta.
+En 1961 : Greece becomes the first member state to join the European Economic Community by signing the Athens Agreement, which is later suspended in 1967 during the Greek junta.
 <br/><br/>
 En 1958 : A 7.8 Mw  strike-slip earthquake in Alaska causes a landslide that produces a megatsunami. The runup from the waves reached 525 m (1,722 ft) on the rim of Lituya Bay; five people were killed.
 <br/><br/>
