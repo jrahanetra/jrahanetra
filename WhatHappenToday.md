@@ -28,8 +28,6 @@ En 1986 : The New Zealand Parliament passes the Homosexual Law Reform Act legali
 <br/><br/>
 En 1982 : Pan Am Flight 759 crashes in Kenner, Louisiana, killing all 145 people on board and eight others on the ground.
 <br/><br/>
-En 1981 : Donkey Kong is released marking the beginning of Mario.
-<br/><br/>
 En 1979 : A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge and Beate Klarsfeld outside their home in France in an unsuccessful assassination attempt.
 <br/><br/>
 En 1977 : The Pinochet dictatorship in Chile organises the youth event of Acto de Chacarillas, a ritualised act reminiscent of Francoist Spain.
