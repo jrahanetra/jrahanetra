@@ -72,7 +72,7 @@ En 1951 : Korean War: Armistice negotiations begin at Kaesong.
 <br/><br/>
 En 1947 : Muhammad Ali Jinnah is recommended as the first Governor-General of Pakistan by the British Prime Minister, Clement Attlee.
 <br/><br/>
-En 1943 : World War II: Operation Husky begins in Sicily.
+En 1943 : World War II: Operation Husky, the Allied invasion of Sicily, begins.
 <br/><br/>
 En 1942 : World War II: An American pilot spots a downed, intact Mitsubishi A6M Zero on Akutan Island (the "Akutan Zero"), which the US Navy then uses to learn the aircraft's flight characteristics.
 <br/><br/>
