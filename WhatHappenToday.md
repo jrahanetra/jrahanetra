@@ -32,7 +32,7 @@ En 1979 : America's first space station, Skylab, is destroyed as it re-enters th
 <br/><br/>
 En 1978 : Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain killing 216 tourists.
 <br/><br/>
-En 1977 : Martin Luther King Jr., assassinated in 1968, is awarded the Presidential Medal of Freedom.
+En 1977 : Martin Luther King Jr., assassinated in 1968, is posthumously awarded the Presidential Medal of Freedom.
 <br/><br/>
 En 1973 : Varig Flight 820 crashes near Paris on approach to Orly Airport, killing 123 of the 134 on board. In response, the FAA bans smoking in airplane lavatories.
 <br/><br/>
