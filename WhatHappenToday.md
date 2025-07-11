@@ -18,7 +18,7 @@ En 2010 : Spain defeats the Netherlands to win the 2010 FIFA World Cup in Johann
 <br/><br/>
 En 2006 : Mumbai train bombings: 209 people are killed in a series of bomb attacks in Mumbai, India.
 <br/><br/>
-En 1995 : Yugoslav Wars: Srebrenica massacre begins; lasts until 22 July.
+En 1995 : Yugoslav Wars: Srebrenica massacre begins, lasting until 22 July.
 <br/><br/>
 En 1991 : Nigeria Airways Flight 2120 crashes in Jeddah, Saudi Arabia, killing all 261 passengers and crew on board.
 <br/><br/>
