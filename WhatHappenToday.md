@@ -26,7 +26,7 @@ En 1990 : Oka Crisis: First Nations land dispute in Quebec begins.
 <br/><br/>
 En 1983 : A TAME airline Boeing 737-200 crashes near Cuenca, Ecuador, killing all 119 passengers and crew on board.
 <br/><br/>
-En 1982 : West Germany defeats West Germany 3-1 at the Santiago Bernabéu Stadium to win the 1982 FIFA World Cup.
+En 1982 : Italy defeats West Germany 3-1 at the Santiago Bernabéu Stadium to win the 1982 FIFA World Cup.
 <br/><br/>
 En 1979 : America's first space station, Skylab, is destroyed as it re-enters the Earth's atmosphere over the Indian Ocean.
 <br/><br/>
