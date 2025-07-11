@@ -16,7 +16,7 @@ En 2010 : The Islamist militia group Al-Shabaab carries out multiple suicide bom
 <br/><br/>
 En 2010 : Spain defeats the Netherlands to win the 2010 FIFA World Cup in Johannesburg.
 <br/><br/>
-En 2006 : Mumbai train bombings: 209 people  are killed in a series of bomb attacks in Mumbai, India.
+En 2006 : Mumbai train bombings: 209 people are killed in a series of bomb attacks in Mumbai, India.
 <br/><br/>
 En 1995 : Yugoslav Wars: Srebrenica massacre begins; lasts until 22 July.
 <br/><br/>
