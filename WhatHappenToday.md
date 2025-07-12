@@ -22,6 +22,8 @@ En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission S
 <br/><br/>
 En 1998 : The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
 <br/><br/>
+En 1998 : France win their first World Cup title, defeating defending champions Brazil 3–0.
+<br/><br/>
 En 1995 : Chinese seismologists successfully predict the 1995 Myanmar–China earthquake, reducing the number of casualties to 11.
 <br/><br/>
 En 1979 : The island nation of Kiribati becomes independent from the United Kingdom.
