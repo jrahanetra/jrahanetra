@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 12/7 ?(Hover on the year)</h1>
 
+En 2024 : Gazpromavia Flight 9608 crashes in Russia's Kolomensky District near Kolomna, killing three.
+<br/><br/>
 En 2013 : Six people are killed and 200 injured in a French passenger train derailment in Brétigny-sur-Orge.
 <br/><br/>
 En 2012 : Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people.
@@ -19,8 +21,6 @@ En 2006 : The 2006 Lebanon War begins.
 En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
 <br/><br/>
 En 1998 : The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
-<br/><br/>
-En 1998 : France win their first World Cup title, defeating defending champions Brazil 3–0.
 <br/><br/>
 En 1995 : Chinese seismologists successfully predict the 1995 Myanmar–China earthquake, reducing the number of casualties to 11.
 <br/><br/>
