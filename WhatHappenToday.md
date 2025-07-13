@@ -20,6 +20,8 @@ En 2011 : Mumbai is rocked by three bomb blasts during the evening rush hour, ki
 <br/><br/>
 En 2011 : United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
 <br/><br/>
+En 2011 : Noar Linhas Aéreas Flight 4896 crashes in Boa Viagem, Recife, killing all 16 people on board.
+<br/><br/>
 En 2008 : Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001.
 <br/><br/>
 En 2003 : French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.
