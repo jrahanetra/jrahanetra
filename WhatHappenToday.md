@@ -8,7 +8,7 @@
 
 En 2024 : Former President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
 <br/><br/>
-En 2020 : After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru, where she drowned in California.
+En 2020 : After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru in California, where she had drowned.
 <br/><br/>
 En 2016 : Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
 <br/><br/>
