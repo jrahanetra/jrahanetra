@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 13/7 ?(Hover on the year)</h1>
 
-En 2024 : President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
+En 2024 : Former President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
 <br/><br/>
 En 2020 : After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru, where she drowned in California.
 <br/><br/>
