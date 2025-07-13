@@ -68,7 +68,7 @@ En 1814 : The Carabinieri, the national gendarmerie of Italy, is established.
 <br/><br/>
 En 1794 : The Battle of Trippstadt between French forces and those of Prussia and Austria begins.
 <br/><br/>
-En 1793 : Journalist and French revolutionary Jean-Paul Marat is assassinated in his bathtub by Charlotte Corday, a member of the opposing political faction.
+En 1793 : Journalist and French revolutionary Jean-Paul Marat is assassinated in his bathtub by Charlotte Corday, a member of the opposing political faction; Corday is guillotined four days later.
 <br/><br/>
 En 1787 : The Congress of the Confederation enacts the Northwest Ordinance establishing governing rules for the Northwest Territory. It also establishes procedures for the admission of new states and limits the expansion of slavery.
 <br/><br/>
