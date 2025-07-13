@@ -36,7 +36,7 @@ En 1985 : Vice President George H. W. Bush becomes the Acting President for the 
 <br/><br/>
 En 1977 : Somalia declares war on Ethiopia, starting the Ogaden War.
 <br/><br/>
-En 1977 : New York City: Amidst a period of financial and social turmoil experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
+En 1977 : Amidst a period of financial and social turmoil, New York City experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
 <br/><br/>
 En 1973 : Watergate scandal: Alexander Butterfield reveals the existence of a secret Oval Office taping system to investigators for the Senate Watergate Committee.
 <br/><br/>
