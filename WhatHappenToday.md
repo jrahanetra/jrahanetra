@@ -114,5 +114,5 @@ En 756 : An Lushan Rebellion: Emperor Xuanzong of Tang is ordered by his Imperia
 <br/><br/>
 En 70 : First Jewish–Roman War: Titus and his armies breach the walls of Jerusalem. (17th of Tammuz in the Hebrew calendar).
 <br/><br/>
-En -484 : Dedication of the Temple of Castor and Pollux in ancient Rome
+En -484 : Dedication of the Temple of Castor and Pollux in ancient Rome.
 <br/><br/>
