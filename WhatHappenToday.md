@@ -36,7 +36,9 @@ En 1983 : Nintendo released the Famicom in Japan.
 <br/><br/>
 En 1979 : U.S. president Jimmy Carter gives his "malaise speech".
 <br/><br/>
-En 1975 : Space Race: Apollo–Soyuz Test Project features the dual launch of an Apollo spacecraft and a Soyuz spacecraft on the first  Soviet-United States human-crewed flight. It was the last launch of both an Apollo spacecraft, and the Saturn family of rockets.
+En 1975 : Space Race: Apollo–Soyuz Test Project features the dual launch of an Apollo spacecraft and a Soyuz spacecraft on the first Soviet-United States human-crewed flight. It was the last launch of both an Apollo spacecraft, and the Saturn family of rockets.
+<br/><br/>
+En 1975 : Aeroflot Flight E-15 crashes on approach to Batumi International Airport, killing 40.
 <br/><br/>
 En 1974 : In Nicosia, Cyprus, Greek junta-sponsored nationalists launch a coup d'état, deposing Makarios III and installing Nikos Sampson as the president of Cyprus.
 <br/><br/>
