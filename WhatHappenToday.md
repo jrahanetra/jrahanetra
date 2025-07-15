@@ -32,7 +32,7 @@ En 1996 : A Belgian Air Force C-130 Hercules carrying the Royal Netherlands Army
 <br/><br/>
 En 1983 : An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.
 <br/><br/>
-En 1983 : Nintendo released the Famicom in Japan.
+En 1983 : Nintendo and Sega enter the console market with the respective releases of the Famicom and SG-1000 in Japan.
 <br/><br/>
 En 1979 : U.S. president Jimmy Carter gives his "malaise speech".
 <br/><br/>
