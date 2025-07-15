@@ -52,7 +52,7 @@ En 1954 : The Boeing 367-80, the prototype for both the Boeing 707 and C-135 ser
 <br/><br/>
 En 1946 : The State of North Borneo, now Sabah, Malaysia, is annexed by the United Kingdom.
 <br/><br/>
-En 1941 : The Holocaust: Nazi Germany begins the deportation of 100,000 Jews from the occupied Netherlands to extermination camps.
+En 1942 : The Holocaust: Nazi Germany begins the deportation of 100,000 Jews from the occupied Netherlands to extermination camps.
 <br/><br/>
 En 1927 : Massacre of July 15, 1927: Eighty-nine protesters are killed by Austrian police in Vienna.
 <br/><br/>
