@@ -98,7 +98,7 @@ En 1683 : Manchu Qing dynasty naval forces under commander Shi Lang defeat the K
 <br/><br/>
 En 1661 : The first banknotes in Europe are issued by the Swedish bank Stockholms Banco.
 <br/><br/>
-En 1536 : Jacques Cartier, navigator and explorer, returns home to St. Malo after claiming Stadacona (Quebec), Hochelaga (Montereal) and the River of Canada (St. Lawrence River) region for France.
+En 1536 : Jacques Cartier, navigator and explorer, returns home to St. Malo after claiming Stadacona (Quebec), Hochelaga (Montreal) and the River of Canada (St. Lawrence River) region for France.
 <br/><br/>
 En 1377 : King Richard II of England is crowned.
 <br/><br/>
