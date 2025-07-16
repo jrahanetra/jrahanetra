@@ -110,7 +110,7 @@ En 1228 : Saint Francis of Assisi was canonized.
 <br/><br/>
 En 1212 : Battle of Las Navas de Tolosa: After Pope Innocent III calls European knights to a crusade, the forces of kings Alfonso VIII of Castile, Sancho VII of Navarre, Peter II of Aragon and Afonso II of Portugal defeat those of the Berber Muslim leader Almohad, thus marking a significant turning point in the Reconquista and in the medieval history of Spain.
 <br/><br/>
-En 1054 : Three Roman legates break relations between Western and Eastern Christian churches through the act of placing a papal bull (of doubtful validity) of excommunication on the altar of Hagia Sophia during Saturday afternoon divine liturgy. Historians frequently describe the event as the formal start of the East–West Schism.
+En 1054 : Three Roman legates break relations between Western and Eastern Christian churches through the act of placing a papal bull of excommunication on the altar of Hagia Sophia during Saturday afternoon divine liturgy. Historians frequently describe the event as the formal start of the East–West Schism.
 <br/><br/>
 En 997 : Battle of Spercheios: Bulgarian forces of Tsar Samuel are defeated by a Byzantine army under general Nikephoros Ouranos at the Spercheios River in Greece.
 <br/><br/>
