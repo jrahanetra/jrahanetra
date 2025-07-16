@@ -34,7 +34,7 @@ En 1983 : Sikorsky S-61 disaster: A helicopter crashes off the Isles of Scilly, 
 <br/><br/>
 En 1979 : Iraqi President Ahmed Hassan al-Bakr resigns and is replaced by Saddam Hussein.
 <br/><br/>
-En 1969 : The Apollo 11 lunar landing mission is launched from Cape Canaveral in Florida, USA.
+En 1969 : The Apollo 11 lunar landing mission is launched from Cape Kennedy in Florida, USA.
 <br/><br/>
 En 1965 : The Mont Blanc Tunnel linking France and Italy opens.
 <br/><br/>
