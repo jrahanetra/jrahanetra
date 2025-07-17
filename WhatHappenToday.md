@@ -44,6 +44,8 @@ En 1968 : Abdul Rahman Arif is overthrown and the Ba'ath Party is installed as t
 <br/><br/>
 En 1962 : Nuclear weapons testing: The "Small Boy" test shot Little Feller I becomes the last atmospheric test detonation at the Nevada National Security Site.
 <br/><br/>
+En 1955 : Disneyland is dedicated and opened by Walt Disney in Anaheim, California.
+<br/><br/>
 En 1954 : First Indochina War: Viet Minh troops successfully ambush the armoured French column 'G.M. 42' in the Battle of Chu Dreh Pass in the Central Highlands. It is the last battle of the war.
 <br/><br/>
 En 1953 : The largest number of United States midshipman casualties in a single event results from an aircraft crash in Florida, killing 44.
