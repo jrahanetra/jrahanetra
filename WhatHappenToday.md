@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 17/7 ?(Hover on the year)</h1>
 
-En 2018 : Scott S. Sheppard announces that his team has discovered a dozen irregular moons of Jupiter.
-<br/><br/>
 En 2015 : At least 120 people are killed and 130 injured by a suicide bombing in Diyala Governorate, Iraq.
 <br/><br/>
 En 2014 : Malaysia Airlines Flight 17, a Boeing 777, crashes near the border of Ukraine and Russia after being shot down. All 298 people on board are killed.
@@ -19,8 +17,6 @@ En 2014 : Eric Garner is killed by police officer Daniel Pantaleo in New York Ci
 En 2007 : TAM Airlines Flight 3054, an Airbus A320, crashes into a warehouse after landing too fast and missing the end of the São Paulo–Congonhas Airport runway, killing 199 people.
 <br/><br/>
 En 2006 : The 7.7 Mw  Pangandaran tsunami earthquake severely affects the Indonesian island of Java, killing 668 people, and leaving more than 9,000 injured.
-<br/><br/>
-En 2001 : Concorde is brought back into service nearly a year after the July 2000 crash.
 <br/><br/>
 En 2000 : During approach to Lok Nayak Jayaprakash Airport, Alliance Air Flight 7412 suddenly crashes into a residential neighborhood in Patna, India, killing 60 people.
 <br/><br/>
@@ -34,15 +30,7 @@ En 1996 : TWA Flight 800: Off the coast of Long Island, New York, a Paris-bound 
 <br/><br/>
 En 1994 : Brazil win their fourth World Cup title, defeating Italy 3–2 on penalties.
 <br/><br/>
-En 1989 : Holy See–Poland relations are restored.
-<br/><br/>
-En 1985 : Founding of the EUREKA Network by former head of states François Mitterrand (France) and Helmut Kohl (Germany).
-<br/><br/>
-En 1984 : The national drinking age in the United States was changed from 18 to 21.
-<br/><br/>
 En 1981 : A structural failure leads to the collapse of a walkway at the Hyatt Regency in Kansas City, Missouri, killing 114 people and injuring more than 200.
-<br/><br/>
-En 1979 : Nicaraguan dictator General Anastasio Somoza Debayle resigns and flees to Miami, Florida, United States.
 <br/><br/>
 En 1976 : East Timor is annexed and becomes the 27th province of Indonesia.
 <br/><br/>
@@ -56,17 +44,13 @@ En 1968 : Abdul Rahman Arif is overthrown and the Ba'ath Party is installed as t
 <br/><br/>
 En 1962 : Nuclear weapons testing: The "Small Boy" test shot Little Feller I becomes the last atmospheric test detonation at the Nevada National Security Site.
 <br/><br/>
-En 1955 : Disneyland is dedicated and opened by Walt Disney in Anaheim, California.
-<br/><br/>
 En 1954 : First Indochina War: Viet Minh troops successfully ambush the armoured French column 'G.M. 42' in the Battle of Chu Dreh Pass in the Central Highlands. It is the last battle of the war.
 <br/><br/>
 En 1953 : The largest number of United States midshipman casualties in a single event results from an aircraft crash in Florida, killing 44.
 <br/><br/>
-En 1945 : World War II: The main three leaders of the Allied nations, Winston Churchill, Harry S. Truman and Joseph Stalin, meet in the German city of Potsdam to decide the future of a defeated Germany.
+En 1945 : World War II: The main three leaders of the Allied nations, Winston Churchill, Harry S. Truman and Joseph Stalin hold the Potsdam Conference in the German city of Potsdam to decide the future of a defeated Germany.
 <br/><br/>
 En 1944 : Port Chicago disaster: Near the San Francisco Bay, two ships laden with ammunition for the war explode in Port Chicago, California, killing 320.
-<br/><br/>
-En 1944 : World War II: At Sainte-Foy-de-Montgommery in Normandy, Field Marshal Erwin Rommel is seriously injured by Allied aircraft while returning to his headquarters.
 <br/><br/>
 En 1938 : Douglas Corrigan takes off from Brooklyn to fly the "wrong way" to Ireland and becomes known as "Wrong Way" Corrigan.
 <br/><br/>
@@ -78,13 +62,7 @@ En 1919 : The form of government in the Republic of Finland is officially confir
 <br/><br/>
 En 1918 : Tsar Nicholas II of Russia and his immediate family and retainers are executed by Bolshevik Chekists at the Ipatiev House in Yekaterinburg, Russia.
 <br/><br/>
-En 1918 : The RMS Carpathia, the ship that rescued the 705 survivors from the RMS Titanic, is sunk off Ireland by the German SM U-55; five lives are lost.
-<br/><br/>
-En 1917 : King George V issues a proclamation stating that the male line descendants of the British royal family will bear the surname Windsor.
-<br/><br/>
-En 1902 : Willis Carrier creates the first air conditioner in Buffalo, New York.
-<br/><br/>
-En 1901 : Liner Deutschland sets east to west transatlantic record of five days, eleven hours and five minutes.
+En 1918 : The RMS Carpathia is sunk off Ireland by the German SM U-55; five lives are lost.
 <br/><br/>
 En 1899 : NEC Corporation is organized as the first Japanese joint venture with foreign capital.
 <br/><br/>
