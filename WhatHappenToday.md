@@ -34,8 +34,6 @@ En 1996 : TWA Flight 800: Off the coast of Long Island, New York, a Paris-bound 
 <br/><br/>
 En 1994 : Brazil win their fourth World Cup title, defeating Italy 3–2 on penalties.
 <br/><br/>
-En 1989 : First flight of the B-2 Spirit Stealth Bomber.
-<br/><br/>
 En 1989 : Holy See–Poland relations are restored.
 <br/><br/>
 En 1985 : Founding of the EUREKA Network by former head of states François Mitterrand (France) and Helmut Kohl (Germany).
