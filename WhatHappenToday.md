@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 21/7 ?(Hover on the year)</h1>
 
-En 2024 : US President Joe Biden announces he will no longer seek a second term and withdraws from the 2024 election.
+En 2024 : U.S. President Joe Biden announces he will no longer seek a second term and withdraws from the 2024 election, endorsing Vice President Kamala Harris as she launches her own presidential campaign.
 <br/><br/>
 En 2023 : The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.
 <br/><br/>
@@ -16,7 +16,7 @@ En 2012 : Erden Eruç completes the first solo human-powered circumnavigation of
 <br/><br/>
 En 2011 : NASA's Space Shuttle program ends with the landing of Space Shuttle Atlantis on mission STS-135 at NASA's Kennedy Space Center.
 <br/><br/>
-En 2010 : President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
+En 2010 : U.S. President Barack Obama signs the Dodd–Frank Wall Street Reform and Consumer Protection Act.
 <br/><br/>
 En 2008 : Ram Baran Yadav is declared the first President of Nepal.
 <br/><br/>
