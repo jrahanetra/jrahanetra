@@ -16,7 +16,7 @@ En 2011 : Norway attacks: A bomb explodes, targeted at government buildings in c
 <br/><br/>
 En 2005 : Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.
 <br/><br/>
-En 2003 : Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
+En 2003 : Iraq War: Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
 <br/><br/>
 En 1997 : The second Blue Water Bridge opens between Port Huron, Michigan and Sarnia, Ontario.
 <br/><br/>
