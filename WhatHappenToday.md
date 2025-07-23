@@ -74,7 +74,7 @@ En 1943 : The Rayleigh bath chair murder occurred in Rayleigh, Essex, England.
 <br/><br/>
 En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland.
 <br/><br/>
-En 1942 : World War II: The German offensives Operation Edelweiss and Operation Braunschweig begin.
+En 1942 : World War II: The German offensives Operation Edelweiss and Operation Braunschweig begin on the Eastern Front.
 <br/><br/>
 En 1942 : Bulgarian poet and Communist leader Nikola Vaptsarov is executed by firing squad.
 <br/><br/>
