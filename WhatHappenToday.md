@@ -90,7 +90,7 @@ En 1921 : The Chinese Communist Party (CCP) is established at the founding Natio
 <br/><br/>
 En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana
 <br/><br/>
-En 1914 : Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.
+En 1914 : July Crisis: Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.
 <br/><br/>
 En 1908 : The Second Constitution accepted by the Ottomans.
 <br/><br/>
