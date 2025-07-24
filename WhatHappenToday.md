@@ -18,7 +18,7 @@ En 2012 : Syrian civil war: The People's Protection Units (YPG) capture the city
 <br/><br/>
 En 2009 : Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.
 <br/><br/>
-En 2001 : The Bandaranaike Airport attack is carried out by 14 Tamil Tiger commandos. Eleven civilian and military aircraft are destroyed and 15 are damaged. All 14 commandos are shot dead, while seven soldiers from the Sri Lanka Air Force are killed. In addition, three civilians and an engineer die. This incident slowed the Sri Lankan economy.
+En 2001 : The Bandaranaike Airport attack is carried out by 14 Tamil Tiger commandos, resulting in military and civilian casualties and destroyed aircraft.
 <br/><br/>
 En 1999 : Air Fiji flight 121 crashes while en route to Nadi, Fiji, killing all 17 people on board.
 <br/><br/>
