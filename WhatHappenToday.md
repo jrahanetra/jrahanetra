@@ -38,6 +38,8 @@ En 1978 : Birth of Louise Joy Brown, the first human to have been born after con
 <br/><br/>
 En 1976 : Viking program: Viking 1 takes the famous Face on Mars photo.
 <br/><br/>
+En 1975 : A Chorus Line opens on Broadway at the Shubert Theatre where it ran for 6,137 performances and won the 1976 Pulitzer Prize for Drama.  It had previously opened at the Off-Broadway at the Public Theater on April 15, 1975.
+<br/><br/>
 En 1973 : Soviet Mars 5 space probe is launched.
 <br/><br/>
 En 1971 : The Sohagpur massacre is perpetrated by the Pakistan Army.
