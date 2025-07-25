@@ -56,7 +56,7 @@ En 1956 : Forty-five miles south of Nantucket Island, the Italian ocean liner SS
 <br/><br/>
 En 1946 : The Crossroads Baker device is the first underwater nuclear weapon test.
 <br/><br/>
-En 1944 : World War II: Operation Spring is one of the bloodiest days for the First Canadian Army during the war.
+En 1944 : World War II: Operation Spring near Caen is one of the bloodiest days for the First Canadian Army during the war.
 <br/><br/>
 En 1943 : World War II: Benito Mussolini is forced out of office by the King (encouraged by the Grand Council of Fascism) and is replaced by Pietro Badoglio.
 <br/><br/>
