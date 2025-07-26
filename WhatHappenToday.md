@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 26/7 ?(Hover on the year)</h1>
 
-En 2024 : Olympic swimmer Ana Carolina Vieira is kicked out of the 2024 Summer Olympics in Paris after sneaking out of the Olympic Village.
-<br/><br/>
 En 2016 : The Sagamihara stabbings occur in Kanagawa Prefecture in Japan. Nineteen people are killed.
 <br/><br/>
 En 2016 : Hillary Clinton becomes the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.
