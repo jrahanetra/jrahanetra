@@ -142,7 +142,7 @@ En 1579 : Francis Drake, the English explorer, discovers a "fair and good" bay o
 <br/><br/>
 En 1529 : Francisco Pizarro González, Spanish conquistador, is appointed governor of Peru.
 <br/><br/>
-En 1509 : The Emperor Krishnadevaraya ascends to the throne, marking the beginning of the regeneration of the Vijayanagara Empire.
+En 1509 : Krishnadevaraya ascends to the throne as Emperor of Vijayanagara, marking the beginning of the regeneration of the Vijayanagara Empire.
 <br/><br/>
 En 1309 : The Holy Roman Emperor Henry VII is recognized King of the Romans by Pope Clement V.
 <br/><br/>
