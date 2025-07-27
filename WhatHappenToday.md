@@ -46,7 +46,7 @@ En 1953 : Cessation of hostilities is achieved in the Korean War when the United
 <br/><br/>
 En 1949 : Initial flight of the de Havilland Comet, the first jet-powered airliner.
 <br/><br/>
-En 1947 : In Vatican City, Rome, canonization of Catherine Labouré, the saint whose apparitions of the Virgin Mary originated the worldwide diffusion of the Miraculous Medal.
+En 1947 : In Vatican City, Rome, canonization of Catherine Labouré, the saint whose apparitions of the Virgin Mary originated the worldwide distribution of the Miraculous Medal.
 <br/><br/>
 En 1942 : World War II: Allied forces successfully halt the final Axis advance into Egypt.
 <br/><br/>
