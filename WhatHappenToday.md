@@ -42,7 +42,7 @@ En 1955 : The Austrian State Treaty restores Austrian sovereignty.
 <br/><br/>
 En 1955 : El Al Flight 402 is shot down by two fighter jets after straying into Bulgarian air space. All 58 people on board are killed.
 <br/><br/>
-En 1953 : Cessation of hostilities is achieved in the Korean War when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.
+En 1953 : Korean War: Cessation of hostilities is achieved when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.
 <br/><br/>
 En 1949 : Initial flight of the de Havilland Comet, the first jet-powered airliner.
 <br/><br/>
