@@ -18,7 +18,7 @@ En 1996 : In Atlanta, United States, a pipe bomb explodes at Centennial Olympic 
 <br/><br/>
 En 1995 : The Korean War Veterans Memorial is dedicated in Washington, D.C.
 <br/><br/>
-En 1990 : The Supreme Soviet of the Belarusian Soviet Republic declares independence of Belarus from the Soviet Union. Until 1996 the day is celebrated as the Independence Day of Belarus; after a referendum held that year the celebration of independence is moved to June 3.
+En 1990 : The Byelorussian Soviet Republic declares independence from the Soviet Union, becoming the Republic of Belarus. Until 1996, the day is celebrated as the Independence Day of Belarus; after a referendum held that year, the celebration of independence is moved to June 3.
 <br/><br/>
 En 1990 : The Jamaat al Muslimeen attempt a coup d'état in Trinidad and Tobago.
 <br/><br/>
