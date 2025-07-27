@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 27/7 ?(Hover on the year)</h1>
 
+En 2025 : A fighter jet crashes into a college in Dhaka, Bangladesh, killing more than 30 people.
+<br/><br/>
 En 2015 : At least seven people are killed and many injured after gunmen attack an Indian police station in Punjab.
 <br/><br/>
 En 2005 : After an incident during STS-114, NASA grounds the Space Shuttle, pending an investigation of the continuing problem with the shedding of foam insulation from the external fuel tank.
