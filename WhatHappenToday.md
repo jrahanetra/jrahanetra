@@ -36,7 +36,7 @@ En 1973 : Summer Jam at Watkins Glen: Nearly 600,000 people attend a rock festiv
 <br/><br/>
 En 1965 : Vietnam War: U.S. president Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000.
 <br/><br/>
-En 1962 : Beginning of the 8th World Festival of Youth and Students
+En 1962 : Beginning of the 8th World Festival of Youth and Students.
 <br/><br/>
 En 1960 : The German Volkswagen Act comes into force.
 <br/><br/>
