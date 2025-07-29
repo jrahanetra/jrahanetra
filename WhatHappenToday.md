@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 29/7 ?(Hover on the year)</h1>
 
-En 2024 : Three children are stabbed to death and 10 other people injured at a dance studio in Southport, England. This incident, coupled with widespread online misinformation, leads to various racially-motivated riots across the UK.
+En 2024 : Three children are stabbed to death and 10 other people injured at a dance studio in Southport, England. This incident, coupled with widespread online misinformation, leads to various racially motivated riots across the UK.
 <br/><br/>
 En 2021 : The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.
 <br/><br/>
