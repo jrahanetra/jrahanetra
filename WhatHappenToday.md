@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 30/7 ?(Hover on the year)</h1>
 
+En 2025 : A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Pacific Ocean.
+<br/><br/>
 En 2024 : A series of landslides occurs in Kerala, India, causing over 420 fatalities.
 <br/><br/>
 En 2020 : NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station.
