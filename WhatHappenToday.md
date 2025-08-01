@@ -16,7 +16,7 @@ En 2008 : Eleven mountaineers from international expeditions died on K2, the sec
 <br/><br/>
 En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
 <br/><br/>
-En 2004 : A supermarket fire kills 396 people and injures 500 others in Asunción, Paraguay.
+En 2004 : A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.
 <br/><br/>
 En 1998 : Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
 <br/><br/>
@@ -63,8 +63,6 @@ En 1957 : The United States and Canada form the North American Aerospace Defense
 En 1950 : Guam is organized as an unincorporated territory of the United States as the President Harry S. Truman signs the Guam Organic Act.
 <br/><br/>
 En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
-<br/><br/>
-En 1945 : The Japanese city of Toyama was completely devastated by a massive bombing raid conducted by B-29 strategic bombers of the U.S. Air Force.
 <br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
