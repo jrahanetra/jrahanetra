@@ -36,6 +36,8 @@ En 1980 : A train crash kills 18 people and injures over 170 more in County Cork
 <br/><br/>
 En 1976 : Niki Lauda has a severe accident that almost claims his life at the German Grand Prix at Nürburgring.
 <br/><br/>
+En 1975 : The final act of the CSCE meeting is signed in Helsinki, Finland.
+<br/><br/>
 En 1974 : Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the "Green Line", dividing Cyprus into two zones.
 <br/><br/>
 En 1971 : The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.
@@ -61,6 +63,8 @@ En 1957 : The United States and Canada form the North American Aerospace Defense
 En 1950 : Guam is organized as an unincorporated territory of the United States as the President Harry S. Truman signs the Guam Organic Act.
 <br/><br/>
 En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
+<br/><br/>
+En 1945 : The Japanese city of Toyama was completely devastated by a massive bombing raid conducted by B-29 strategic bombers of the U.S. Air Force.
 <br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
