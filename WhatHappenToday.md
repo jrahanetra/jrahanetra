@@ -12,7 +12,7 @@ En 2017 : A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
 <br/><br/>
 En 2008 : The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
 <br/><br/>
-En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth in the worst single accident in the history of K2 mountaineering.
+En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
 <br/><br/>
 En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
 <br/><br/>
@@ -66,7 +66,7 @@ En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners o
 <br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
-En 1943 : World War II: Operation Tidal Wave also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
+En 1943 : World War II: Operation Tidal Wave, also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
 <br/><br/>
 En 1937 : Josip Broz Tito reads the resolution "Manifesto of constitutional congress of KPH" to the constitutive congress of KPH (Croatian Communist Party) in woods near Samobor.
 <br/><br/>
