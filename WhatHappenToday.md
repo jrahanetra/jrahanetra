@@ -64,6 +64,8 @@ En 1950 : Guam is organized as an unincorporated territory of the United States 
 <br/><br/>
 En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
 <br/><br/>
+En 1945 : Toyama was completely devastated by a massive bombing raid conducted by B-29 strategic bombers of the U.S. Air Force.
+<br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
 En 1943 : World War II: Operation Tidal Wave also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
