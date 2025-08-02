@@ -38,6 +38,8 @@ En 1944 : ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day
 <br/><br/>
 En 1944 : World War II: The largest trade convoy of the world wars arrives safely in the Western Approaches.
 <br/><br/>
+En 1944 : The family gipsy camp (known as "Mexico" in the camp slang) in Auschwitz-Birkenau concentration camp was exterminated on this evening and inmates resisted. However thousands of Roma and Sinti inmates were killed during the night.
+<br/><br/>
 En 1943 : The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
 <br/><br/>
 En 1943 : World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
