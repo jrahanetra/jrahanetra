@@ -14,7 +14,7 @@ En 1999 : The Gaisal train disaster claims 285 lives in Assam, India.
 <br/><br/>
 En 1991 : Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.
 <br/><br/>
-En 1990 : Iraq invades Kuwait, eventually leading to the Gulf War.
+En 1990 : Iraqi invasion of Kuwait: Iraq invades Kuwait and temporarily establishes the Republic of Kuwait puppet state on the orders of Saddam Hussein, eventually leading to the Gulf War.
 <br/><br/>
 En 1989 : Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.
 <br/><br/>
@@ -32,7 +32,7 @@ En 1968 : An earthquake hits Casiguran, Aurora, Philippines killing more than 27
 <br/><br/>
 En 1947 : A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.
 <br/><br/>
-En 1945 : World War II: End of the Potsdam Conference.
+En 1945 : World War II: The Potsdam Conference ends.
 <br/><br/>
 En 1944 : ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
 <br/><br/>
@@ -40,7 +40,7 @@ En 1944 : World War II: The largest trade convoy of the world wars arrives safel
 <br/><br/>
 En 1943 : The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
 <br/><br/>
-En 1943 : World War II: The Motor Torpedo Boat PT-109 is rammed by the Japanese destroyer Amagiri and sinks. Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
+En 1943 : World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
 <br/><br/>
 En 1939 : Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.
 <br/><br/>
@@ -50,7 +50,7 @@ En 1934 : Reichskanzler Adolf Hitler becomes Führer of Germany following the de
 <br/><br/>
 En 1932 : The positron (antiparticle of the electron) is discovered by Carl D. Anderson.
 <br/><br/>
-En 1923 : Vice President Calvin Coolidge becomes U.S. President upon the death of President Warren G. Harding.
+En 1923 : U.S. Vice President Calvin Coolidge becomes president upon the death of President Warren G. Harding.
 <br/><br/>
 En 1922 : A typhoon hits Shantou, Republic of China, killing more than 50,000 people.
 <br/><br/>
@@ -58,7 +58,7 @@ En 1918 : The first general strike in Canadian history takes place in Vancouver.
 <br/><br/>
 En 1916 : World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.
 <br/><br/>
-En 1914 : The German occupation of Luxembourg during World War I begins.
+En 1914 : World War I: The German occupation of Luxembourg begins.
 <br/><br/>
 En 1903 : The Ilinden–Preobrazhenie Uprising against the Ottoman Empire begins.
 <br/><br/>
@@ -72,15 +72,15 @@ En 1869 : Japan's Edo society class system is abolished as part of the Meiji Res
 <br/><br/>
 En 1858 : The Government of India Act 1858 replaces Company rule in India with that of the British Raj.
 <br/><br/>
-En 1830 : Charles X of France abdicates the throne in favor of his grandson Henri.
+En 1830 : July Revolution: Charles X of France abdicates the throne in favor of his grandson Henri.
 <br/><br/>
 En 1798 : French Revolutionary Wars: The Battle of the Nile concludes in a British victory.
 <br/><br/>
 En 1790 : The first United States Census is conducted.
 <br/><br/>
-En 1784 : The first British mail coach service ran from Bristol to London.
+En 1784 : The first British mail coach service runs from Bristol to London.
 <br/><br/>
-En 1776 : The signing of the United States Declaration of Independence took place.
+En 1776 : The signing of the United States Declaration of Independence takes place.
 <br/><br/>
 En 1610 : During Henry Hudson's search for the Northwest Passage, he sails into what is now known as Hudson Bay.
 <br/><br/>
