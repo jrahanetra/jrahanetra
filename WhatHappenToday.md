@@ -48,6 +48,8 @@ En 1946 : An earthquake of magnitude 8.0 hits northern Dominican Republic. One h
 <br/><br/>
 En 1944 : The Holocaust: A tip from a Dutch informer leads the Gestapo to a sealed-off area in an Amsterdam warehouse, where they find and arrest Jewish diarist Anne Frank, her family, and four others.
 <br/><br/>
+En 1944 : Warsaw Uprising: Krzysztof Kamil Baczyński, a Polish poet and Home Army soldier, one of the most well known of the Generation of Columbuses, was killed in action by a German sniper in the Blanka Palace, Warsaw Old Town.
+<br/><br/>
 En 1944 : Under the state of emergency law, the Finnish Parliament elects Marshal C. G. E. Mannerheim as the President of Finland to replace the resigned Risto Ryti.
 <br/><br/>
 En 1936 : Prime Minister of Greece Ioannis Metaxas suspends parliament and the Constitution and establishes the 4th of August Regime.
