@@ -14,11 +14,11 @@ En 2018 : Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic
 <br/><br/>
 En 2018 : Crisis in Venezuela: Seven people are injured when two drones detonate explosives on Avenida Bolívar, Caracas while president Nicolás Maduro is giving a speech to the Venezuelan National Guard.
 <br/><br/>
-En 2007 : NASA's Phoenix spacecraft is launched.
+En 2007 : NASA's Phoenix Mars lander is launched.
 <br/><br/>
 En 2006 : A massacre is carried out by Sri Lankan government forces, killing 17 employees of the French INGO Action Against Hunger (known internationally as Action Contre la Faim, or ACF).
 <br/><br/>
-En 1995 : Operation Storm begins in Croatia.
+En 1995 : Operation Storm, the last major battle of the Croatian War of Independence begins.
 <br/><br/>
 En 1987 : The Federal Communications Commission rescinds the Fairness Doctrine which had required radio and television stations to give equal time to opposing views.
 <br/><br/>
