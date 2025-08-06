@@ -42,8 +42,6 @@ En 1956 : After going bankrupt in 1955, the American broadcaster DuMont Televisi
 <br/><br/>
 En 1945 : World War II: Hiroshima, Japan is devastated when the atomic bomb "Little Boy" is dropped by the United States B-29 Enola Gay. Around 70,000 people are killed instantly, and some tens of thousands die in subsequent years from burns and radiation poisoning.
 <br/><br/>
-En 1944 : The Warsaw Uprising occurs on August 1. After 63 days, it was brutally suppressed, during which time all men in Kraków are preventively detained to prevent a similar uprising, the Kraków Uprising, that was planned but never carried out.
-<br/><br/>
 En 1942 : Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
 <br/><br/>
 En 1940 : Estonia is annexed by the Soviet Union.
