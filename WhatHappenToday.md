@@ -88,5 +88,5 @@ En 1538 : Bogotá, Colombia, is founded by Gonzalo Jiménez de Quesada.
 <br/><br/>
 En 1284 : The Republic of Pisa is defeated in the Battle of Meloria by the Republic of Genoa, thus losing its naval dominance in the Mediterranean.
 <br/><br/>
-En 686 : The Ummayad forces suffer a deceisive defeat against the pro-Alid forces under Ibrahim ibn al-Ashtar in the battle of Khazir.
+En 686 : The Ummayad forces suffer a decisive defeat against the pro-Alid forces under Ibrahim ibn al-Ashtar in the battle of Khazir.
 <br/><br/>
