@@ -68,6 +68,8 @@ En 1930 : The last confirmed lynching of black people in the Northern United Sta
 <br/><br/>
 En 1927 : The Peace Bridge opens between Fort Erie, Ontario and Buffalo, New York.
 <br/><br/>
+En 1926 : The first British Grand Prix was held at Brooklands.
+<br/><br/>
 En 1909 : Alice Huyler Ramsey and three friends become the first women to complete a transcontinental auto trip, taking 59 days to travel from New York, New York to San Francisco, California.
 <br/><br/>
 En 1890 : Anna Månsdotter, found guilty of the 1889 Yngsjö murder, became the last woman to be executed in Sweden.[better source needed]
