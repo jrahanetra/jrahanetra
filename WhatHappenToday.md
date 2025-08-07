@@ -64,7 +64,7 @@ En 1942 : World War II: The Battle of Guadalcanal begins as the United States Ma
 <br/><br/>
 En 1933 : The Kingdom of Iraq slaughters over 3,000 Assyrians in the village of Simele. This date is recognized as Martyrs Day or National Day of Mourning by the Assyrian community in memory of the Simele massacre.
 <br/><br/>
-En 1930 : The last confirmed lynching of black people in the Northern United States occurs in Marion, Indiana; two men, Thomas Shipp and Abram Smith, are killed.
+En 1930 : The last confirmed lynching of black people in the Northern United States occurs in Marion, Indiana; two men, Thomas Shipp and Abram Smith, are murdered.
 <br/><br/>
 En 1927 : The Peace Bridge opens between Fort Erie, Ontario and Buffalo, New York.
 <br/><br/>
