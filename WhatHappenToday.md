@@ -68,11 +68,13 @@ En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a su
 <br/><br/>
 En 1946 : First flight of the nuclear capable Convair B-36, heaviest mass-produced piston-engined aircraft at the time.
 <br/><br/>
-En 1945 : The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials. The Soviet Union declares war on Japan.
+En 1945 : The London Charter is signed by France, the United Kingdom, the Soviet Union and the United States, establishing the laws and procedures for the Nuremberg trials.
+<br/><br/>
+En 1945 : World War II:  The Soviet Union declares war on Japan.
 <br/><br/>
 En 1942 : Quit India Movement is launched in India against the British rule in response to Mohandas Gandhi's call for swaraj or complete independence.
 <br/><br/>
-En 1940 : The "Aufbau Ost" directive is signed by Wilhelm Keitel.
+En 1940 : The "Aufbau Ost" directive for the mobilization of German forces for the invasion of the Soviet Union is signed by Wilhelm Keitel.
 <br/><br/>
 En 1929 : The German airship Graf Zeppelin begins a round-the-world flight.
 <br/><br/>
@@ -80,7 +82,7 @@ En 1919 : The Anglo-Afghan Treaty of 1919 is signed. It establishes peaceful rel
 <br/><br/>
 En 1918 : World War I: The Battle of Amiens begins a string of almost continuous Allied victories with a push through the German front lines (Hundred Days Offensive).
 <br/><br/>
-En 1908 : Wilbur Wright makes his first flight at a racecourse at Le Mans, France. It is the Wright Brothers' first public flight.
+En 1908 : Wilbur Wright makes the Wright Brothers' first public flight, at a racecourse at Le Mans, France.
 <br/><br/>
 En 1903 : Black Saturday occurs, killing 12 in a stadium collapse in Philadelphia.
 <br/><br/>
