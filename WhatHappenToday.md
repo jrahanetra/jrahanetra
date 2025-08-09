@@ -86,8 +86,6 @@ En 1610 : The First Anglo-Powhatan War begins in colonial Virginia.
 <br/><br/>
 En 1500 : Ottoman–Venetian War (1499–1503): The Ottomans capture Methoni, Messenia.
 <br/><br/>
-En 1428 : Sources cite biggest caravan trade between Podvisoki and Republic of Ragusa. Vlachs committed to Ragusan lord Tomo Bunić, that they will with 600 horses deliver 1,500 modius of salt. Delivery was meant for Dobrašin Veseoković, and Vlachs price was half of delivered salt.
-<br/><br/>
 En 1329 : Quilon, the first Indian Christian Diocese, is erected by Pope John XXII; the French-born Jordanus is appointed the first Bishop.
 <br/><br/>
 En 1173 : Construction of the campanile of the Cathedral of Pisa (now known as the Leaning Tower of Pisa) begins; it will take two centuries to complete.
