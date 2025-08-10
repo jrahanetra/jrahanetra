@@ -30,7 +30,7 @@ En 2001 : The 2001 Angola train attack occurred, causing 252 deaths.
 <br/><br/>
 En 2001 : Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.
 <br/><br/>
-En 1999 : Los Angeles Jewish Community Center shooting.
+En 1999 : One person is killed and five people are injured in the Los Angeles Jewish Community Center shooting.
 <br/><br/>
 En 1998 : HRH Prince Al-Muhtadee Billah is proclaimed the crown prince of Brunei with a Royal Proclamation.
 <br/><br/>
