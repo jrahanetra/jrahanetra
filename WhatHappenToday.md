@@ -68,9 +68,9 @@ En 1948 : Candid Camera makes its television debut after being on radio for a ye
 <br/><br/>
 En 1945 : The Japanese government announced that a message had been sent to the Allies accepting the terms of the Potsdam Declaration provided that it "does not comprise any demand that prejudices the prerogatives of the Emperor as sovereign ruler."
 <br/><br/>
-En 1944 : World War II: The Battle of Guam comes to an effective end.
+En 1944 : World War II: The Battle of Guam in the Pacific comes to an effective end.
 <br/><br/>
-En 1944 : World War II: The Battle of Narva ends with a defensive German victory.
+En 1944 : World War II: The Battle of Narva on the Eastern Front ends with a defensive German victory.
 <br/><br/>
 En 1937 : Spanish Civil War: The Regional Defence Council of Aragon is dissolved by the Second Spanish Republic.
 <br/><br/>
