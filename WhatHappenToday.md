@@ -24,7 +24,7 @@ En 1992 : Canada, Mexico and the United States announce completion of negotiatio
 <br/><br/>
 En 1990 : Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
 <br/><br/>
-En 1985 : Japan Air Lines Flight 123 crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, to become the worst single-plane air disaster.
+En 1985 : Japan Air Lines Flight 123 crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, becoming the worst single-plane air disaster.
 <br/><br/>
 En 1984 : An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.
 <br/><br/>
@@ -42,7 +42,7 @@ En 1964 : South Africa is banned from the Olympic Games due to the country's rac
 <br/><br/>
 En 1960 : Echo 1A, NASA's first successful communications satellite, is launched.
 <br/><br/>
-En 1953 : First thermonuclear bomb test: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
+En 1953 : Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
 <br/><br/>
 En 1953 : The 7.2 Ms  Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.
 <br/><br/>
