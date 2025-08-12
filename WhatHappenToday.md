@@ -58,7 +58,7 @@ En 1944 : Nazi German troops end the week-long Wola massacre, during which time 
 <br/><br/>
 En 1944 : Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.
 <br/><br/>
-En 1914 : World War I: The United Kingdom and the British Empire declare war on Austria-Hungary.
+En 1914 : World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary.
 <br/><br/>
 En 1914 : World War I: The Battle of Halen a.k.a. Battle of the Silver Helmets a clash between large Belgian and German cavalry formations at Halen, Belgium.
 <br/><br/>
