@@ -42,6 +42,8 @@ En 1944 : World War II: German troops begin the pillage and razing of Anogeia in
 <br/><br/>
 En 1942 : Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the "Development of Substitute Materials" project, better known as the Manhattan Project.
 <br/><br/>
+En 1940 : World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.
+<br/><br/>
 En 1937 : Second Sino-Japanese War: The Battle of Shanghai begins.
 <br/><br/>
 En 1920 : Polish–Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.
