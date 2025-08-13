@@ -50,7 +50,7 @@ En 1920 : Polish–Soviet War: The Battle of Warsaw begins and will last till Au
 <br/><br/>
 En 1918 : Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.
 <br/><br/>
-En 1918 : Bayerische Motoren Werke AG (BMW) established as a public company in Germany.
+En 1918 : Bayerische Motoren Werke AG (BMW) is established as a public company in Germany.
 <br/><br/>
 En 1913 : First production in the UK of stainless steel by Harry Brearley.
 <br/><br/>
