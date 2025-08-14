@@ -36,6 +36,8 @@ En 1994 : Ilich Ramírez Sánchez, also known as "Carlos the Jackal", is capture
 <br/><br/>
 En 1980 : Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.
 <br/><br/>
+En 1974 : Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.
+<br/><br/>
 En 1972 : An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people.
 <br/><br/>
 En 1971 : Bahrain declares independence from Britain.
