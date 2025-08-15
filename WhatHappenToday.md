@@ -10,6 +10,8 @@ En 2021 : Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghan
 <br/><br/>
 En 2020 : Russia begins production on the Sputnik V COVID-19 vaccine.
 <br/><br/>
+En 2020 : Jerome Kelleher made his senior football championship debut for Eire Og against Mallow
+<br/><br/>
 En 2015 : North Korea moves its clock back half an hour to introduce Pyongyang Time, 81⁄2 hours ahead of UTC.
 <br/><br/>
 En 2013 : At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video.
