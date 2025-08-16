@@ -28,6 +28,8 @@ En 1989 : A solar particle event affects computers at the Toronto Stock Exchange
 <br/><br/>
 En 1987 : Northwest Airlines Flight 255, a McDonnell Douglas MD-82, crashes after takeoff in Detroit, Michigan, killing 154 of the 155 on board, plus two people on the ground.
 <br/><br/>
+En 1986 : A Sudan Airways Fokker F27 Friendship is shot down near Malakal in present day South Sudan, killing 60.
+<br/><br/>
 En 1975 : Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.
 <br/><br/>
 En 1972 : In an unsuccessful coup d'état attempt, the Royal Moroccan Air Force fires upon Hassan II of Morocco's plane while he is traveling back to Rabat.
