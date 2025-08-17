@@ -142,7 +142,7 @@ En 1488 : Konrad Bitz, the Bishop of Turku, marks the date of his preface to Mis
 <br/><br/>
 En 1424 : Hundred Years' War: Battle of Verneuil: An English force under John, Duke of Bedford defeats a larger French army under Jean II, Duke of Alençon, John Stewart, and Earl Archibald of Douglas.
 <br/><br/>
-En 1386 : Karl Topia, the ruler of Princedom of Albania forges an alliance with the Republic of Venice, committing to participate in all wars of the Republic and receiving coastal protection against the Ottomans in return.
+En 1386 : Karl Topia, the ruler of Princedom of Albania, forges an alliance with the Republic of Venice, committing to participate in all wars of the Republic and receiving coastal protection against the Ottomans in return.
 <br/><br/>
 En 1186 : Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Austria sign a heritage agreement in which Ottokar gives his duchy to Leopold and to his son Frederick under the stipulation that Austria and Styria would henceforth remain undivided.
 <br/><br/>
