@@ -26,7 +26,7 @@ En 1999 : The 7.6 Mw  İzmit earthquake shakes northwestern Turkey with a maxi
 <br/><br/>
 En 1998 : Lewinsky scandal: US President Bill Clinton admits in taped testimony that he had an "improper physical relationship" with White House intern Monica Lewinsky; later that same day he admits before the nation that he "misled people" about the relationship.
 <br/><br/>
-En 1991 : Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots seven people and injures six others before turning the gun on himself.
+En 1991 : Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots and kills seven people and injures six others before turning the gun on himself.
 <br/><br/>
 En 1988 : President of Pakistan Muhammad Zia-ul-Haq and U.S. Ambassador Arnold Raphel are killed in a plane crash.
 <br/><br/>
@@ -85,6 +85,8 @@ En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after h
 En 1915 : A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h).
 <br/><br/>
 En 1914 : World War I: Battle of Stallupönen: The German army of General Hermann von François defeats the Russian force commanded by Paul von Rennenkampf near modern-day Nesterov, Russia.
+<br/><br/>
+En 1907 : Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington.
 <br/><br/>
 En 1896 : Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
 <br/><br/>
