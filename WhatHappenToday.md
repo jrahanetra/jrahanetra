@@ -90,7 +90,7 @@ En 1896 : Bridget Driscoll became the first recorded case of a pedestrian killed
 <br/><br/>
 En 1883 : The first public performance of the Dominican Republic's national anthem, Himno Nacional.
 <br/><br/>
-En 1876 : Richard Wagner's Götterdämmerung, the last opera in his Ringcycle, premieres at the Bayreuth Festspielhaus.
+En 1876 : Richard Wagner's Götterdämmerung, the last opera in his Ring cycle, premieres at the Bayreuth Festspielhaus.
 <br/><br/>
 En 1866 : The Grand Duchy of Baden announces its withdrawal from the German Confederation and signs a treaty of peace and alliance with Prussia.
 <br/><br/>
