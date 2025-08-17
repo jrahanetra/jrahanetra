@@ -144,5 +144,3 @@ En 1186 : Georgenberg Pact: Ottokar IV, Duke of Styria and Leopold V, Duke of Au
 <br/><br/>
 En 986 : Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgarians under the Comitopuli Samuel and Aron defeat the Byzantine forces at the Gate of Trajan, with Byzantine Emperor Basil II barely escaping.
 <br/><br/>
-En 682 : Pope Leo II begins his pontificate.
-<br/><br/>
