@@ -54,6 +54,8 @@ En 1955 : Hurricane Diane made landfall near Wilmington, North Carolina, and it 
 <br/><br/>
 En 1953 : First meeting of Narcotics Anonymous takes place, in Southern California.
 <br/><br/>
+En 1950 : Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea.
+<br/><br/>
 En 1949 : The 6.7 Ms  Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.
 <br/><br/>
 En 1949 : Matsukawa derailment: Unknown saboteurs cause a passenger train to derail and overturn in Fukushima Prefecture, Japan, killing three crew members and igniting a political firestorm between the Japanese Communist Party and the government of Occupied Japan that will eventually lead to the Japanese Red Purge.
