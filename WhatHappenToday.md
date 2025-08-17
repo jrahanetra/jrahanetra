@@ -146,5 +146,3 @@ En 986 : Byzantine–Bulgarian wars: Battle of the Gates of Trajan: The Bulgaria
 <br/><br/>
 En 682 : Pope Leo II begins his pontificate.
 <br/><br/>
-En 310 : Pope Eusebius dies, possibly from a hunger strike, shortly after being banished by the Emperor Maxentius to Sicily.
-<br/><br/>
