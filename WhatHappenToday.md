@@ -8,7 +8,7 @@
 
 En 2019 : One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).
 <br/><br/>
-En 2017 : The first terrorist attack ever sentenced as a crime in Finland kills two and injures eight.
+En 2017 : The Turku terror attack occurs in Finland when a knifeman kills two and injures eight.
 <br/><br/>
 En 2011 : A terrorist attack on Israel's Highway 12 near the Egyptian border kills 16 and injures 40.
 <br/><br/>
