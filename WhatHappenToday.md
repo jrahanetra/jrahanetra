@@ -112,8 +112,6 @@ En 1672 : Former Grand Pensionary Johan de Witt and his brother Cornelis are lyn
 <br/><br/>
 En 1648 : The Battle of Lens is the last major military confrontation of the Thirty Years' War, contributing to the signing of the Peace of Westphalia in October that year.
 <br/><br/>
-En 1589 : James VI of Scotland is married by proxy to Anne of Denmark at Kronborg Castle. James's proxy George Keith, 5th Earl Marischal made speeches and gave her a jewel.
-<br/><br/>
 En 1519 : On the third day of battle, philosopher and general Wang Yangming defeats Zhu Chenhao, ending the Prince of Ning rebellion against the reign of the Ming dynasty's Zhengde Emperor.
 <br/><br/>
 En 1467 : The Second Battle of Olmedo takes places as part of a succession conflict between Henry IV of Castile and his half-brother Alfonso, Prince of Asturias.
