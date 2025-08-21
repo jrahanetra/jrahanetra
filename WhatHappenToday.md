@@ -84,7 +84,7 @@ En 1810 : Jean-Baptiste Bernadotte, Marshal of France, is elected Crown Prince o
 <br/><br/>
 En 1808 : Battle of Vimeiro: British and Portuguese forces led by General Arthur Wellesley defeat French force under Major-General Jean-Andoche Junot near the village of Vimeiro, Portugal, the first Anglo-Portuguese victory of the Peninsular War.
 <br/><br/>
-En 1791 : A Vodou ceremony, led by Dutty Boukman, turns into a violent slave rebellion, beginning the Haitian Revolution.
+En 1791 : Enslaved Africans in Saint-Domingue, led by Dutty Boukman, held a Vodou ceremony that became a pivotal act of resistance. This gathering sparked a mass uprising against slavery, marking the beginning of the Haitian Revolution.
 <br/><br/>
 En 1778 : American Revolutionary War: British forces begin besieging the French outpost at Pondichéry.
 <br/><br/>
