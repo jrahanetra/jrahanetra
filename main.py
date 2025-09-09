@@ -14,7 +14,19 @@ print(f"""
 """)
 
 url = f"https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/{now.month}/{now.day}"
-data = json.loads(requests.get(url).content)
+headers = {
+    "User-Agent": "YourAppName/1.0 (your@email.com)",
+    "Accept": "application/json"
+}
+response = requests.get(url, headers=headers)
+
+if response.status_code == 200:
+    data = response.json()
+    for element in data["events"]:
+        print(f"En {element['year']} : {element['text']}")
+        print("<br/>" * 2)
+else:
+    print(f"Erreur {response.status_code} : {response.text}")
 
 for element in data["events"]:
     print(f"En {element['year']} : {element['text']}")
