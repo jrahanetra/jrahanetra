@@ -128,7 +128,7 @@ En 1320 : In the Battle of Saint George, the Byzantines under Andronikos Asen am
 <br/><br/>
 En 1141 : Yelü Dashi, the Liao dynasty general who founded the Qara Khitai, defeats the Seljuq and Kara-Khanid forces at the Battle of Qatwan.
 <br/><br/>
-En 1000 : Battle of Svolder, Viking Age.
+En 1000 : Battle of Svolder during the Viking Age.
 <br/><br/>
 En 337 : Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti.
 <br/><br/>
@@ -254,7 +254,7 @@ En 1320 : In the Battle of Saint George, the Byzantines under Andronikos Asen am
 <br/><br/>
 En 1141 : Yelü Dashi, the Liao dynasty general who founded the Qara Khitai, defeats the Seljuq and Kara-Khanid forces at the Battle of Qatwan.
 <br/><br/>
-En 1000 : Battle of Svolder, Viking Age.
+En 1000 : Battle of Svolder during the Viking Age.
 <br/><br/>
 En 337 : Constantine II, Constantius II, and Constans succeed their father Constantine I as co-emperors. The Roman Empire is divided between the three Augusti.
 <br/><br/>
