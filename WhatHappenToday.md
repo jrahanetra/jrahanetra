@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 10/9 ?(Hover on the year)</h1>
 
+En 2025 : Charlie Kirk is assassinated in Orem, Utah, whilst on his American Comeback Tour.
+<br/><br/>
 En 2017 : Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.
 <br/><br/>
 En 2008 : The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
@@ -91,6 +93,8 @@ En 1419 : John the Fearless, Duke of Burgundy is assassinated by adherents of th
 En 1089 : The first synod of pope Urban II starts in Melfi, with seventy bishops and twelve abbots in attendance. The synod issues several decrees about church law and deals with the relation with the Greek part of the Church.
 <br/><br/>
 En 506 : The bishops of Visigothic Gaul meet in the Council of Agde.
+<br/><br/>
+En 2025 : Charlie Kirk is assassinated in Orem, Utah, whilst on his American Comeback Tour.
 <br/><br/>
 En 2017 : Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.
 <br/><br/>
