@@ -80,7 +80,7 @@ En 1943 : World War II: German troops occupy Corsica and Kosovo-Metohija ending 
 <br/><br/>
 En 1941 : Construction begins on the Pentagon.
 <br/><br/>
-En 1941 : Charles Lindbergh's Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.
+En 1941 : Charles Lindbergh makes his Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.
 <br/><br/>
 En 1922 : The Treaty of Kars is ratified in Yerevan, Armenia.
 <br/><br/>
@@ -110,11 +110,7 @@ En 1851 : Christiana Resistance: Escaped slaves led by William Parker fight off 
 <br/><br/>
 En 1836 : The Riograndense Republic is proclaimed by rebels after defeating Empire of Brazil's troops in the Battle of Seival, during the Ragamuffin War.
 <br/><br/>
-En 1830 : Anti-Masonic Party convention; one of the first American political party conventions.
-<br/><br/>
 En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.
-<br/><br/>
-En 1826 : William Morgan is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
 <br/><br/>
@@ -244,7 +240,7 @@ En 1943 : World War II: German troops occupy Corsica and Kosovo-Metohija ending 
 <br/><br/>
 En 1941 : Construction begins on the Pentagon.
 <br/><br/>
-En 1941 : Charles Lindbergh's Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.
+En 1941 : Charles Lindbergh makes his Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.
 <br/><br/>
 En 1922 : The Treaty of Kars is ratified in Yerevan, Armenia.
 <br/><br/>
@@ -274,11 +270,7 @@ En 1851 : Christiana Resistance: Escaped slaves led by William Parker fight off 
 <br/><br/>
 En 1836 : The Riograndense Republic is proclaimed by rebels after defeating Empire of Brazil's troops in the Battle of Seival, during the Ragamuffin War.
 <br/><br/>
-En 1830 : Anti-Masonic Party convention; one of the first American political party conventions.
-<br/><br/>
 En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.
-<br/><br/>
-En 1826 : William Morgan is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
 <br/><br/>
