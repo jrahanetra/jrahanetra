@@ -114,7 +114,7 @@ En 1830 : Anti-Masonic Party convention; one of the first American political par
 <br/><br/>
 En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.
 <br/><br/>
-En 1826 : Captain William Morgan, an ex-freemason is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
+En 1826 : William Morgan is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
 <br/><br/>
@@ -278,7 +278,7 @@ En 1830 : Anti-Masonic Party convention; one of the first American political par
 <br/><br/>
 En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.
 <br/><br/>
-En 1826 : Captain William Morgan, an ex-freemason is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
+En 1826 : William Morgan is arrested in Batavia, New York for debt after declaring that he would publish The Mysteries of Free Masonry, a book against Freemasonry. This sets into motion the events that led to his mysterious disappearance.
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
 <br/><br/>
