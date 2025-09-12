@@ -62,7 +62,7 @@ En 1970 : Dawson's Field hijackings: Popular Front for the Liberation of Palesti
 <br/><br/>
 En 1969 : Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
 <br/><br/>
-En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and a former human altitude record holder (except for the Apollo lunar missions).
+En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
 <br/><br/>
 En 1962 : US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
 <br/><br/>
@@ -190,7 +190,7 @@ En 1970 : Dawson's Field hijackings: Popular Front for the Liberation of Palesti
 <br/><br/>
 En 1969 : Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
 <br/><br/>
-En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and a former human altitude record holder (except for the Apollo lunar missions).
+En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
 <br/><br/>
 En 1962 : US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
 <br/><br/>
