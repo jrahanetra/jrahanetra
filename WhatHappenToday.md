@@ -72,7 +72,7 @@ En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe 
 <br/><br/>
 En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
 <br/><br/>
-En 1935 : Nazi Germany announces two new laws related to race.  These became known as the Nuremberg Race Laws.
+En 1935 : Nazi Germany announces two new laws related to race and the rights of Jews.  These became known as the Nuremberg Race Laws.
 <br/><br/>
 En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe 
 <br/><br/>
 En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
 <br/><br/>
-En 1935 : Nazi Germany announces two new laws related to race.  These became known as the Nuremberg Race Laws.
+En 1935 : Nazi Germany announces two new laws related to race and the rights of Jews.  These became known as the Nuremberg Race Laws.
 <br/><br/>
 En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
 <br/><br/>
