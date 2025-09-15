@@ -64,13 +64,15 @@ En 1945 : A hurricane strikes southern Florida and the Bahamas, destroying 366 a
 <br/><br/>
 En 1944 : Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
 <br/><br/>
-En 1944 : The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+En 1944 : World War II:  The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
 <br/><br/>
 En 1942 : World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.
 <br/><br/>
 En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe launches its largest and most concentrated attack of the entire campaign.
 <br/><br/>
 En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
+<br/><br/>
+En 1935 : Nazi Germany announces two new laws related to race.  These became known as the Nuremberg Race Laws.
 <br/><br/>
 En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
 <br/><br/>
@@ -176,13 +178,15 @@ En 1945 : A hurricane strikes southern Florida and the Bahamas, destroying 366 a
 <br/><br/>
 En 1944 : Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
 <br/><br/>
-En 1944 : The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+En 1944 : World War II:  The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
 <br/><br/>
 En 1942 : World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.
 <br/><br/>
 En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe launches its largest and most concentrated attack of the entire campaign.
 <br/><br/>
 En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
+<br/><br/>
+En 1935 : Nazi Germany announces two new laws related to race.  These became known as the Nuremberg Race Laws.
 <br/><br/>
 En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
 <br/><br/>
