@@ -104,7 +104,7 @@ En 1776 : American Revolutionary War: The Battle of Harlem Heights is fought.
 <br/><br/>
 En 1732 : In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.
 <br/><br/>
-En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland.
+En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland on the death of his father, James II.
 <br/><br/>
 En 1620 : Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1776 : American Revolutionary War: The Battle of Harlem Heights is fought.
 <br/><br/>
 En 1732 : In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.
 <br/><br/>
-En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland.
+En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland on the death of his father, James II.
 <br/><br/>
 En 1620 : Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.
 <br/><br/>
