@@ -4,233 +4,213 @@
 <h3 align="center">A passionate FullStack and AI Developer from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/9 ?(Hover on the year)</h1>
+<h1> What happen this day 16/9 ?(Hover on the year)</h1>
 
-En 2020 : Signing of the Bahrain–Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.
+En 2022 : During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
 <br/><br/>
-En 2017 : The Parsons Green bombing takes place in London.
+En 2022 : The death of Mahsa Amini occurred, which sparked worldwide protests.
 <br/><br/>
-En 2011 : Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales, UK.
+En 2021 : A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
 <br/><br/>
-En 2008 : Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
+En 2015 : A 8.3 Mw  earthquake strikes the Chilean city of Illapel, killing 15 people, injuring at least 34, leaving at least six missing, and causing extensive damage. One person also dies in Argentina.
 <br/><br/>
-En 2004 : National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
+En 2014 : The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.
 <br/><br/>
-En 2001 : During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.
+En 2013 : A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.
 <br/><br/>
-En 1995 : Malaysia Airlines Flight 2133 crashes at Tawau Airport in Malaysia, killing 34.
+En 2007 : One-Two-Go Airlines Flight 269 carrying 130 crew and passengers crashes in Thailand, killing 90 people.
 <br/><br/>
-En 1983 : Israeli premier Menachem Begin resigns.
+En 2007 : Security guards working for Blackwater Worldwide shoot and kill 17 Iraqis in Nisour Square, Baghdad.
 <br/><br/>
-En 1981 : The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.
+En 2005 : The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.
 <br/><br/>
-En 1981 : The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.
+En 2004 : Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.
 <br/><br/>
-En 1978 : At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
+En 1996 : Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.
 <br/><br/>
-En 1975 : The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
+En 1994 : The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.
 <br/><br/>
-En 1974 : Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.
+En 1992 : The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.
 <br/><br/>
-En 1972 : A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.
+En 1992 : Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.
 <br/><br/>
-En 1971 : The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.
+En 1990 : The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
 <br/><br/>
-En 1968 : The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.
+En 1987 : The Montreal Protocol is signed to protect the ozone layer from depletion.
 <br/><br/>
-En 1966 : U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.
+En 1982 : Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
 <br/><br/>
-En 1963 : Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
+En 1979 : Eight people escape from East Germany to the west in a homemade hot air balloon.
 <br/><br/>
-En 1962 : The Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis.
+En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
 <br/><br/>
-En 1959 : Nikita Khrushchev becomes the first Soviet leader to visit the United States.
+En 1976 : Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
 <br/><br/>
-En 1958 : A Central Railroad of New Jersey commuter train runs through an open drawbridge at the Newark Bay, killing 48.
+En 1975 : Papua New Guinea gains independence from Australia.
 <br/><br/>
-En 1954 : Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.
+En 1975 : Cape Verde, Mozambique, and São Tomé and Príncipe join the United Nations.
 <br/><br/>
-En 1952 : The United Nations cedes Eritrea to Ethiopia.
+En 1975 : The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.
 <br/><br/>
-En 1950 : Korean War: The U.S. X Corps lands at Inchon.
+En 1970 : King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.
 <br/><br/>
-En 1948 : The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.
+En 1966 : The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.
 <br/><br/>
-En 1948 : The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).
+En 1963 : Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore is soon expelled from this new country.
 <br/><br/>
-En 1947 : Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.
+En 1961 : The United States National Hurricane Research Project drops eight cylinders of silver iodide into the eyewall of Hurricane Esther. Wind speed reduces by 10%, giving rise to Project Stormfury.
 <br/><br/>
-En 1945 : A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.
+En 1961 : Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people.
 <br/><br/>
-En 1944 : Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
+En 1961 : Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
 <br/><br/>
-En 1944 : World War II:  The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+En 1959 : The first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City.
 <br/><br/>
-En 1942 : World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.
+En 1956 : TCN-9 Sydney is the first Australian television station to commence regular broadcasts.
 <br/><br/>
-En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe launches its largest and most concentrated attack of the entire campaign.
+En 1955 : The military coup to unseat President Juan Perón of Argentina is launched at midnight.
 <br/><br/>
-En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
+En 1955 : A Soviet Zulu-class submarine becomes the first to launch a ballistic missile.
 <br/><br/>
-En 1935 : Nazi Germany announces two new laws related to race and the rights of Jews.  These became known as the Nuremberg Race Laws.
+En 1953 : American Airlines Flight 723 crashes in Colonie, New York, killing 28 people.
 <br/><br/>
-En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
+En 1945 : World War II: The Japanese occupation of Hong Kong comes to an end.
 <br/><br/>
-En 1916 : World War I: Tanks are used for the first time in battle, at the Battle of the Somme.
+En 1943 : World War II: The German Tenth Army reports that it can no longer contain the Allied bridgehead around Salerno.
 <br/><br/>
-En 1915 : New Culture Movement: Chen Duxiu establishes the New Youth magazine in Shanghai.
+En 1940 : World War II: Italian troops conquer Sidi Barrani.
 <br/><br/>
-En 1894 : First Sino-Japanese War: Japan defeats the Qing dynasty in the Battle of Pyongyang, causing the Qing army to withdraw to the Chinese border with Korea.
+En 1920 : The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400.
 <br/><br/>
-En 1873 : Franco-Prussian War: The last Imperial German Army troops leave France upon completion of payment of indemnity.
+En 1914 : World War I: The Siege of Przemyśl (present-day Poland) begins.
 <br/><br/>
-En 1862 : American Civil War: Confederate forces capture Harpers Ferry, Virginia.
+En 1908 : The General Motors Corporation is founded.
 <br/><br/>
-En 1835 : HMS Beagle, with Charles Darwin aboard, reaches the Galápagos Islands. The ship lands at Chatham or San Cristobal, the easternmost of the archipelago.
+En 1893 : Settlers make a land run for prime land in the Cherokee Strip in Oklahoma.
 <br/><br/>
-En 1830 : The Liverpool to Manchester railway line opens; British MP William Huskisson becomes the first widely reported railway passenger fatality when he is struck and killed by the locomotive Rocket.
+En 1880 : The Cornell Daily Sun prints its first issue in Ithaca, New York.
 <br/><br/>
-En 1821 : The Captaincy General of Guatemala declares independence from Spain.
+En 1863 : Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist.
 <br/><br/>
-En 1820 : Constitutionalist revolution in Lisbon, Portugal.
+En 1822 : French physicist Augustin-Jean Fresnel, in a "note" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence.
 <br/><br/>
-En 1816 : HMS Whiting runs aground on the Doom Bar.
+En 1810 : With the Grito de Dolores, Father Miguel Hidalgo begins Mexico's fight for independence from Spain.
 <br/><br/>
-En 1813 : Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.
+En 1779 : American Revolutionary War: The Franco-American Siege of Savannah begins.
 <br/><br/>
-En 1812 : The Grande Armée under Napoleon reaches the Kremlin in Moscow during the failed French invasion of Russia.
+En 1776 : American Revolutionary War: The Battle of Harlem Heights is fought.
 <br/><br/>
-En 1812 : War of 1812: A second supply train sent to relieve Fort Harrison is ambushed in the Attack at the Narrows.
+En 1732 : In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.
 <br/><br/>
-En 1795 : Britain seizes the Dutch Cape Colony in southern Africa to prevent its use by the Batavian Republic.
+En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland.
 <br/><br/>
-En 1794 : French Revolutionary Wars: Arthur Wellesley (later Duke of Wellington) sees his first combat at the Battle of Boxtel during the Flanders Campaign.
+En 1620 : Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.
 <br/><br/>
-En 1789 : The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.
+En 1400 : Owain Glyndŵr is declared Prince of Wales by his followers.
 <br/><br/>
-En 1776 : American Revolutionary War: British forces land at Kip's Bay during the New York Campaign.
+En 681 : Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council.
 <br/><br/>
-En 1762 : Seven Years' War: Battle of Signal Hill.
+En 2022 : During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
 <br/><br/>
-En 1556 : Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain.
+En 2022 : The death of Mahsa Amini occurred, which sparked worldwide protests.
 <br/><br/>
-En 1530 : Appearance of the miraculous portrait of Saint Dominic in Soriano in Soriano Calabro, Calabria, Italy; commemorated as a feast day by the Roman Catholic Church 1644–1912.
+En 2021 : A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
 <br/><br/>
-En 1440 : Gilles de Rais, one of the earliest known serial killers, is taken into custody upon an accusation brought against him by  Jean de Malestroit, Bishop of Nantes.
+En 2015 : A 8.3 Mw  earthquake strikes the Chilean city of Illapel, killing 15 people, injuring at least 34, leaving at least six missing, and causing extensive damage. One person also dies in Argentina.
 <br/><br/>
-En 994 : Major Fatimid victory over the Byzantine Empire at the Battle of the Orontes.
+En 2014 : The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.
 <br/><br/>
-En 2020 : Signing of the Bahrain–Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.
+En 2013 : A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.
 <br/><br/>
-En 2017 : The Parsons Green bombing takes place in London.
+En 2007 : One-Two-Go Airlines Flight 269 carrying 130 crew and passengers crashes in Thailand, killing 90 people.
 <br/><br/>
-En 2011 : Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales, UK.
+En 2007 : Security guards working for Blackwater Worldwide shoot and kill 17 Iraqis in Nisour Square, Baghdad.
 <br/><br/>
-En 2008 : Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
+En 2005 : The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.
 <br/><br/>
-En 2004 : National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
+En 2004 : Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.
 <br/><br/>
-En 2001 : During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.
+En 1996 : Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.
 <br/><br/>
-En 1995 : Malaysia Airlines Flight 2133 crashes at Tawau Airport in Malaysia, killing 34.
+En 1994 : The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.
 <br/><br/>
-En 1983 : Israeli premier Menachem Begin resigns.
+En 1992 : The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.
 <br/><br/>
-En 1981 : The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.
+En 1992 : Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.
 <br/><br/>
-En 1981 : The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.
+En 1990 : The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
 <br/><br/>
-En 1978 : At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
+En 1987 : The Montreal Protocol is signed to protect the ozone layer from depletion.
 <br/><br/>
-En 1975 : The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
+En 1982 : Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
 <br/><br/>
-En 1974 : Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.
+En 1979 : Eight people escape from East Germany to the west in a homemade hot air balloon.
 <br/><br/>
-En 1972 : A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.
+En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
 <br/><br/>
-En 1971 : The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.
+En 1976 : Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
 <br/><br/>
-En 1968 : The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.
+En 1975 : Papua New Guinea gains independence from Australia.
 <br/><br/>
-En 1966 : U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.
+En 1975 : Cape Verde, Mozambique, and São Tomé and Príncipe join the United Nations.
 <br/><br/>
-En 1963 : Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
+En 1975 : The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.
 <br/><br/>
-En 1962 : The Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis.
+En 1970 : King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.
 <br/><br/>
-En 1959 : Nikita Khrushchev becomes the first Soviet leader to visit the United States.
+En 1966 : The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.
 <br/><br/>
-En 1958 : A Central Railroad of New Jersey commuter train runs through an open drawbridge at the Newark Bay, killing 48.
+En 1963 : Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore is soon expelled from this new country.
 <br/><br/>
-En 1954 : Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.
+En 1961 : The United States National Hurricane Research Project drops eight cylinders of silver iodide into the eyewall of Hurricane Esther. Wind speed reduces by 10%, giving rise to Project Stormfury.
 <br/><br/>
-En 1952 : The United Nations cedes Eritrea to Ethiopia.
+En 1961 : Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people.
 <br/><br/>
-En 1950 : Korean War: The U.S. X Corps lands at Inchon.
+En 1961 : Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
 <br/><br/>
-En 1948 : The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.
+En 1959 : The first successful photocopier, the Xerox 914, is introduced in a demonstration on live television from New York City.
 <br/><br/>
-En 1948 : The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).
+En 1956 : TCN-9 Sydney is the first Australian television station to commence regular broadcasts.
 <br/><br/>
-En 1947 : Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.
+En 1955 : The military coup to unseat President Juan Perón of Argentina is launched at midnight.
 <br/><br/>
-En 1945 : A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.
+En 1955 : A Soviet Zulu-class submarine becomes the first to launch a ballistic missile.
 <br/><br/>
-En 1944 : Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
+En 1953 : American Airlines Flight 723 crashes in Colonie, New York, killing 28 people.
 <br/><br/>
-En 1944 : World War II:  The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+En 1945 : World War II: The Japanese occupation of Hong Kong comes to an end.
 <br/><br/>
-En 1942 : World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.
+En 1943 : World War II: The German Tenth Army reports that it can no longer contain the Allied bridgehead around Salerno.
 <br/><br/>
-En 1940 : World War II: The climax of the Battle of Britain, when the Luftwaffe launches its largest and most concentrated attack of the entire campaign.
+En 1940 : World War II: Italian troops conquer Sidi Barrani.
 <br/><br/>
-En 1935 : Nazi Germany adopts a new national flag bearing the swastika.
+En 1920 : The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400.
 <br/><br/>
-En 1935 : Nazi Germany announces two new laws related to race and the rights of Jews.  These became known as the Nuremberg Race Laws.
+En 1914 : World War I: The Siege of Przemyśl (present-day Poland) begins.
 <br/><br/>
-En 1918 : World War I: Allied troops break through the Bulgarian defenses on the Macedonian front.
+En 1908 : The General Motors Corporation is founded.
 <br/><br/>
-En 1916 : World War I: Tanks are used for the first time in battle, at the Battle of the Somme.
+En 1893 : Settlers make a land run for prime land in the Cherokee Strip in Oklahoma.
 <br/><br/>
-En 1915 : New Culture Movement: Chen Duxiu establishes the New Youth magazine in Shanghai.
+En 1880 : The Cornell Daily Sun prints its first issue in Ithaca, New York.
 <br/><br/>
-En 1894 : First Sino-Japanese War: Japan defeats the Qing dynasty in the Battle of Pyongyang, causing the Qing army to withdraw to the Chinese border with Korea.
+En 1863 : Robert College, in Istanbul, the first American educational institution outside the United States, is founded by Christopher Robert, an American philanthropist.
 <br/><br/>
-En 1873 : Franco-Prussian War: The last Imperial German Army troops leave France upon completion of payment of indemnity.
+En 1822 : French physicist Augustin-Jean Fresnel, in a "note" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence.
 <br/><br/>
-En 1862 : American Civil War: Confederate forces capture Harpers Ferry, Virginia.
+En 1810 : With the Grito de Dolores, Father Miguel Hidalgo begins Mexico's fight for independence from Spain.
 <br/><br/>
-En 1835 : HMS Beagle, with Charles Darwin aboard, reaches the Galápagos Islands. The ship lands at Chatham or San Cristobal, the easternmost of the archipelago.
+En 1779 : American Revolutionary War: The Franco-American Siege of Savannah begins.
 <br/><br/>
-En 1830 : The Liverpool to Manchester railway line opens; British MP William Huskisson becomes the first widely reported railway passenger fatality when he is struck and killed by the locomotive Rocket.
+En 1776 : American Revolutionary War: The Battle of Harlem Heights is fought.
 <br/><br/>
-En 1821 : The Captaincy General of Guatemala declares independence from Spain.
+En 1732 : In Campo Maior, Portugal, a storm hits the Armory and a violent explosion ensues, killing two-thirds of its inhabitants.
 <br/><br/>
-En 1820 : Constitutionalist revolution in Lisbon, Portugal.
+En 1701 : James Francis Edward Stuart, sometimes called the "Old Pretender", becomes the Jacobite claimant to the thrones of England and Scotland.
 <br/><br/>
-En 1816 : HMS Whiting runs aground on the Doom Bar.
+En 1620 : Pilgrims set sail for Virginia from Plymouth, England in the Mayflower.
 <br/><br/>
-En 1813 : Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.
+En 1400 : Owain Glyndŵr is declared Prince of Wales by his followers.
 <br/><br/>
-En 1812 : The Grande Armée under Napoleon reaches the Kremlin in Moscow during the failed French invasion of Russia.
-<br/><br/>
-En 1812 : War of 1812: A second supply train sent to relieve Fort Harrison is ambushed in the Attack at the Narrows.
-<br/><br/>
-En 1795 : Britain seizes the Dutch Cape Colony in southern Africa to prevent its use by the Batavian Republic.
-<br/><br/>
-En 1794 : French Revolutionary Wars: Arthur Wellesley (later Duke of Wellington) sees his first combat at the Battle of Boxtel during the Flanders Campaign.
-<br/><br/>
-En 1789 : The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.
-<br/><br/>
-En 1776 : American Revolutionary War: British forces land at Kip's Bay during the New York Campaign.
-<br/><br/>
-En 1762 : Seven Years' War: Battle of Signal Hill.
-<br/><br/>
-En 1556 : Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain.
-<br/><br/>
-En 1530 : Appearance of the miraculous portrait of Saint Dominic in Soriano in Soriano Calabro, Calabria, Italy; commemorated as a feast day by the Roman Catholic Church 1644–1912.
-<br/><br/>
-En 1440 : Gilles de Rais, one of the earliest known serial killers, is taken into custody upon an accusation brought against him by  Jean de Malestroit, Bishop of Nantes.
-<br/><br/>
-En 994 : Major Fatimid victory over the Byzantine Empire at the Battle of the Orontes.
+En 681 : Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council.
 <br/><br/>
