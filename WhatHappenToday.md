@@ -36,11 +36,13 @@ En 1992 : Black Wednesday: The British pound is forced out of the European Excha
 <br/><br/>
 En 1990 : The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
 <br/><br/>
-En 1987 : The Montreal Protocol is signed to protect the ozone layer from depletion.
+En 1987 : The Montreal Perotocol is signed to protect the ozone layer from depletion.
 <br/><br/>
 En 1982 : Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
 <br/><br/>
 En 1979 : Eight people escape from East Germany to the west in a homemade hot air balloon.
+<br/><br/>
+En 1979 : The Sugarhill Gang released their first single Rapper's Delight.
 <br/><br/>
 En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
 <br/><br/>
@@ -140,11 +142,13 @@ En 1992 : Black Wednesday: The British pound is forced out of the European Excha
 <br/><br/>
 En 1990 : The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
 <br/><br/>
-En 1987 : The Montreal Protocol is signed to protect the ozone layer from depletion.
+En 1987 : The Montreal Perotocol is signed to protect the ozone layer from depletion.
 <br/><br/>
 En 1982 : Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
 <br/><br/>
 En 1979 : Eight people escape from East Germany to the west in a homemade hot air balloon.
+<br/><br/>
+En 1979 : The Sugarhill Gang released their first single Rapper's Delight.
 <br/><br/>
 En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
 <br/><br/>
