@@ -46,6 +46,8 @@ En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a 
 <br/><br/>
 En 1976 : Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
 <br/><br/>
+En 1976 : Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship
+<br/><br/>
 En 1975 : Papua New Guinea gains independence from Australia.
 <br/><br/>
 En 1975 : Cape Verde, Mozambique, and São Tomé and Príncipe join the United Nations.
@@ -149,6 +151,8 @@ En 1979 : Eight people escape from East Germany to the west in a homemade hot ai
 En 1978 : The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
 <br/><br/>
 En 1976 : Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
+<br/><br/>
+En 1976 : Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship
 <br/><br/>
 En 1975 : Papua New Guinea gains independence from Australia.
 <br/><br/>
