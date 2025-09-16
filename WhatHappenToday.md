@@ -8,7 +8,7 @@
 
 En 2022 : During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
 <br/><br/>
-En 2022 : The death of Mahsa Amini occurred, which sparked worldwide protests.
+En 2022 : The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.
 <br/><br/>
 En 2021 : A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
 <br/><br/>
@@ -114,7 +114,7 @@ En 681 : Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical 
 <br/><br/>
 En 2022 : During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
 <br/><br/>
-En 2022 : The death of Mahsa Amini occurred, which sparked worldwide protests.
+En 2022 : The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.
 <br/><br/>
 En 2021 : A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
 <br/><br/>
