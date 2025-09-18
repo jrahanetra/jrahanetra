@@ -48,7 +48,7 @@ En 1962 : Burundi, Jamaica, Rwanda and Trinidad and Tobago are admitted to the U
 <br/><br/>
 En 1962 : Aeroflot Flight 213 crashes into a mountain near Chersky Airport, killing 32 people.
 <br/><br/>
-En 1961 : U.N. Secretary-General Dag Hammarskjöld dies in an air crash while attempting to negotiate peace in the Katanga region of the Democratic Republic of the Congo.
+En 1961 : United Nations Secretary-General Dag Hammarskjöld dies in an air crash while attempting to negotiate peace in the Katanga region of the Democratic Republic of the Congo.
 <br/><br/>
 En 1960 : Fidel Castro arrives in New York City as the head of the Cuban delegation to the United Nations.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1962 : Burundi, Jamaica, Rwanda and Trinidad and Tobago are admitted to the U
 <br/><br/>
 En 1962 : Aeroflot Flight 213 crashes into a mountain near Chersky Airport, killing 32 people.
 <br/><br/>
-En 1961 : U.N. Secretary-General Dag Hammarskjöld dies in an air crash while attempting to negotiate peace in the Katanga region of the Democratic Republic of the Congo.
+En 1961 : United Nations Secretary-General Dag Hammarskjöld dies in an air crash while attempting to negotiate peace in the Katanga region of the Democratic Republic of the Congo.
 <br/><br/>
 En 1960 : Fidel Castro arrives in New York City as the head of the Cuban delegation to the United Nations.
 <br/><br/>
