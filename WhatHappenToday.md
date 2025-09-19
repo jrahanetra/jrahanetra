@@ -14,8 +14,6 @@ En 2022 : A strong earthquake kills 2 and injures over 30 in Mexico's state of M
 <br/><br/>
 En 2021 : The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.
 <br/><br/>
-En 2019 : A drone strike by the United States kills 30 civilian farmers in Afghanistan.
-<br/><br/>
 En 2017 : The 2017 Puebla earthquake strikes Mexico, causing 370 deaths and over 6,000 injuries, as well as extensive damage.
 <br/><br/>
 En 2016 : In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.
@@ -113,8 +111,6 @@ En 2022 : The state funeral of Queen Elizabeth II of the United Kingdom is held 
 En 2022 : A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.
 <br/><br/>
 En 2021 : The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.
-<br/><br/>
-En 2019 : A drone strike by the United States kills 30 civilian farmers in Afghanistan.
 <br/><br/>
 En 2017 : The 2017 Puebla earthquake strikes Mexico, causing 370 deaths and over 6,000 injuries, as well as extensive damage.
 <br/><br/>
