@@ -98,9 +98,9 @@ En 1777 : American Revolutionary War: British forces win a tactically expensive 
 <br/><br/>
 En 1676 : Jamestown is burned to the ground by the forces of Nathaniel Bacon during Bacon's Rebellion.
 <br/><br/>
-En 1410 : End of the Siege Of Marienburg: The State of the Teutonic Order repulses the joint Polish—Lithuanian forces.
+En 1410 : End of the Siege of Marienburg: The State of the Teutonic Order repulses the joint Polish—Lithuanian forces.
 <br/><br/>
-En 1356 : Battle Of Poitiers: An English army under the command of Edward the Black Prince defeats a French army and captures King John II.
+En 1356 : Battle of Poitiers: An English army under the command of Edward the Black Prince defeats a French army and captures King John II.
 <br/><br/>
 En 634 : Siege of Damascus: The Rashidun Arabs under Khalid ibn al-Walid capture Damascus from the Byzantine Empire.
 <br/><br/>
@@ -198,9 +198,9 @@ En 1777 : American Revolutionary War: British forces win a tactically expensive 
 <br/><br/>
 En 1676 : Jamestown is burned to the ground by the forces of Nathaniel Bacon during Bacon's Rebellion.
 <br/><br/>
-En 1410 : End of the Siege Of Marienburg: The State of the Teutonic Order repulses the joint Polish—Lithuanian forces.
+En 1410 : End of the Siege of Marienburg: The State of the Teutonic Order repulses the joint Polish—Lithuanian forces.
 <br/><br/>
-En 1356 : Battle Of Poitiers: An English army under the command of Edward the Black Prince defeats a French army and captures King John II.
+En 1356 : Battle of Poitiers: An English army under the command of Edward the Black Prince defeats a French army and captures King John II.
 <br/><br/>
 En 634 : Siege of Damascus: The Rashidun Arabs under Khalid ibn al-Walid capture Damascus from the Byzantine Empire.
 <br/><br/>
