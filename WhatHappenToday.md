@@ -4,189 +4,177 @@
 <h3 align="center">A passionate FullStack and AI Developer from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 22/9 ?(Hover on the year)</h1>
+<h1> What happen this day 23/9 ?(Hover on the year)</h1>
 
-En 2024 : Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.
+En 2024 : Israel launches airstrikes against Hezbollah targets in Lebanon, killing more than 490 people.
 <br/><br/>
-En 2013 : At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
+En 2022 : Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.
 <br/><br/>
-En 2006 : Twenty-three people were killed in a maglev train collision in Lathen, Germany.
+En 2020 : A grand jury in Kentucky declines to indict three police officers for the shooting death of Breonna Taylor in a drug raid gone wrong, leading to nationwide protests in the U.S.
 <br/><br/>
-En 1995 : An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
+En 2019 : Twenty people die on the first of two days of rioting in Papua and West Papua over an alleged racist incident.
 <br/><br/>
-En 1995 : The Nagerkovil school bombing is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
+En 2013 : Twenty-five people are killed after Typhoon Usagi passes Hong Kong and China.
 <br/><br/>
-En 1993 : A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
+En 2010 : Teresa Lewis becomes the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed by lethal injection.
 <br/><br/>
-En 1993 : A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
+En 2008 : Matti Saari kills ten people at a school in Finland before committing suicide.
 <br/><br/>
-En 1991 : The Dead Sea Scrolls are made available to the public for the first time.
+En 2004 : Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
 <br/><br/>
-En 1981 : During a military exercise, a Turkish Air Force Northrop F-5 crashes in Babaeski as a result of pilot error, killing one crew member and also 65 soldiers on the ground.
+En 1999 : Qantas Flight 1 overrun a runway in Bangkok during a storm, causing minor injuries to some passengers.
 <br/><br/>
-En 1980 : Iraq invades Iran, sparking the nearly eight year Iran–Iraq War.
+En 1983 : Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.
 <br/><br/>
-En 1979 : A bright flash, resembling the detonation of a nuclear weapon, is observed near the Prince Edward Islands. Its cause is never determined.
+En 1973 : Argentine general election: Juan Perón returns to power in Argentina.
 <br/><br/>
-En 1976 : Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.
+En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hit Lake Michigan during Michigan's first coho salmon sport fishing season.
 <br/><br/>
-En 1975 : Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.
+En 1964 : Typhoon Wilda, one of the strongest typhoons to ever strike Japan, makes landfall, causing at least 30 fatalities and sinking at least 64 ships.
 <br/><br/>
-En 1966 : Twenty-four people are killed when Ansett-ANA Flight 149 crashes in Winton, Queensland, Australia.
+En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditched into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
 <br/><br/>
-En 1965 : The Indo-Pakistani War of 1965 between India and Pakistan over Kashmir ends after the United Nations calls for a ceasefire.
+En 1961 : U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.
 <br/><br/>
-En 1960 : The Sudanese Republic is renamed Mali after the withdrawal of Senegal from the Mali Federation.
+En 1957 : Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.
 <br/><br/>
-En 1957 : In Haiti, François Duvalier is elected president.
+En 1956 : A tropical storm originating in the eastern Pacific Ocean passes into the Gulf of Mexico and is upgraded and named Hurricane Flossy just hours before striking the Gulf Coast and causing 15 deaths and an estimated USD$24.8 million in damages.
 <br/><br/>
-En 1953 : The Four Level Interchange, first stack interchange in the world opened in Los Angeles.
+En 1955 : An all-white jury in Mississippi finds Roy Bryant and J. W. Milam not guilty in the torture-murder of 14-year-old African American boy Emmett Till.
 <br/><br/>
-En 1948 : Gail Halvorsen officially starts parachuting candy to children as part of the Berlin Airlift.
+En 1952 : After being accused of financial improprieties, Senator Richard Nixon delivers his "Checkers speech" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.
 <br/><br/>
-En 1948 : Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.
+En 1951 : George VI, king of the United Kingdom, has his left lung removed in an operation after a malignant tumour was found.
 <br/><br/>
-En 1941 : The Holocaust in Ukraine: On the Jewish New Year Day, the German SS murders 6,000 Jews in Vinnytsia, Ukraine. Those are the survivors of the previous killings that took place a few days earlier in which about 24,000 Jews were executed.
+En 1950 : Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.
 <br/><br/>
-En 1939 : World War II: A joint German–Soviet military parade in Brest-Litovsk is held to celebrate the successful invasion of Poland.
+En 1947 : A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.
 <br/><br/>
-En 1934 : The Gresford disaster in Wales kills 266 miners and rescuers.
+En 1942 : World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.
 <br/><br/>
-En 1919 : The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.
+En 1932 : Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State.
 <br/><br/>
-En 1914 : A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.
+En 1920 : The Louisiana hurricane dissipated over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
 <br/><br/>
-En 1910 : The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.
+En 1918 : World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.
 <br/><br/>
-En 1896 : Queen Victoria surpasses her grandfather King George III as the longest reigning monarch in British history (later surpassed by her great-great-granddaughter Elizabeth II on 9 September 2015).
+En 1913 : The United Mine Workers of America launch a strike which eventually escalated into the Colorado Coalfield War.
 <br/><br/>
-En 1892 : A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.
+En 1905 : Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.
 <br/><br/>
-En 1891 : The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.
+En 1899 : The American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
 <br/><br/>
-En 1885 : Lord Randolph Churchill makes a speech in Ulster in opposition to the Irish Home Rule movement.
+En 1884 : On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.
 <br/><br/>
-En 1866 : The Battle of Curupayty is Paraguay's only significant victory in the Paraguayan War.
+En 1879 : The Macedo-Romanian Cultural Society is founded.
 <br/><br/>
-En 1862 : A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.
+En 1868 : The Grito de Lares occurs in Puerto Rico against Spanish rule.
 <br/><br/>
-En 1857 : The Russian warship Lefort capsizes and sinks during a storm in the Gulf of Finland, killing all 826 aboard.
+En 1846 : Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.
 <br/><br/>
-En 1823 : Joseph Smith claims to have found the golden plates after being directed by God through the Angel Moroni to the place where they were buried.
+En 1821 : Tripolitsa, Greece, is captured by Greek rebels during the Greek War of Independence.
 <br/><br/>
-En 1792 : Primidi Vendémiaire of year one of the French Republican Calendar as the French First Republic comes into being.
+En 1803 : Second Anglo-Maratha War: The Battle of Assaye is fought between the British East India Company and the Maratha Empire in India.
 <br/><br/>
-En 1789 : The office of United States Postmaster General is established.
+En 1779 : American Revolution: John Paul Jones, naval commander of the United States, on board the USS Bonhomme Richard, wins the Battle of Flamborough Head.
 <br/><br/>
-En 1789 : Battle of Rymnik: Alexander Suvorov's Russian and allied army defeats superior Ottoman Empire forces.
+En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ended in a Royalist victory.
 <br/><br/>
-En 1776 : Nathan Hale is hanged for spying during the American Revolution.
+En 1561 : King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.
 <br/><br/>
-En 1761 : George III and Charlotte of Mecklenburg-Strelitz are crowned King and Queen, respectively, of the Kingdom of Great Britain.
+En 1459 : The Battle of Blore Heath, the first major battle of the English Wars of the Roses, is won by the Yorkists.
 <br/><br/>
-En 1711 : The first attacks of the Tuscarora War begin in present-day North Carolina.
+En 1409 : The Battle of Kherlen is the second significant victory over Ming dynasty China by the Mongols since 1368.
 <br/><br/>
-En 1692 : Martha Corey, Mary Eastey, Alice Parker, Mary Parker, Ann Pudeator, Wilmot Redd, Margaret Scott, and Samuel Wardwell are hanged, the last of those to be executed in the Salem witch trials.
+En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.
 <br/><br/>
-En 1586 : Eighty Years' War: A Spanish force led by the Marquis del Vasto successfully fights its way past a joint English/Dutch ambush in the Battle of Zutphen.
+En 1122 : Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.
 <br/><br/>
-En 1499 : The Treaty of Basel concludes the Swabian War.
+En 38 : Drusilla, Caligula's sister who died in June, with whom the emperor is said to have an incestuous relationship, is deified.
 <br/><br/>
-En 1359 : An Aragonese cavalry force defeats a superior Castilian cavalry force in the Battle of Araviana during the War of the Two Peters.
+En 2024 : Israel launches airstrikes against Hezbollah targets in Lebanon, killing more than 490 people.
 <br/><br/>
-En 1236 : The Samogitians defeat the Livonian Brothers of the Sword in the Battle of Saule.
+En 2022 : Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.
 <br/><br/>
-En 904 : The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government.
+En 2020 : A grand jury in Kentucky declines to indict three police officers for the shooting death of Breonna Taylor in a drug raid gone wrong, leading to nationwide protests in the U.S.
 <br/><br/>
-En 2024 : Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.
+En 2019 : Twenty people die on the first of two days of rioting in Papua and West Papua over an alleged racist incident.
 <br/><br/>
-En 2013 : At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
+En 2013 : Twenty-five people are killed after Typhoon Usagi passes Hong Kong and China.
 <br/><br/>
-En 2006 : Twenty-three people were killed in a maglev train collision in Lathen, Germany.
+En 2010 : Teresa Lewis becomes the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed by lethal injection.
 <br/><br/>
-En 1995 : An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
+En 2008 : Matti Saari kills ten people at a school in Finland before committing suicide.
 <br/><br/>
-En 1995 : The Nagerkovil school bombing is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
+En 2004 : Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
 <br/><br/>
-En 1993 : A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
+En 1999 : Qantas Flight 1 overrun a runway in Bangkok during a storm, causing minor injuries to some passengers.
 <br/><br/>
-En 1993 : A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
+En 1983 : Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.
 <br/><br/>
-En 1991 : The Dead Sea Scrolls are made available to the public for the first time.
+En 1973 : Argentine general election: Juan Perón returns to power in Argentina.
 <br/><br/>
-En 1981 : During a military exercise, a Turkish Air Force Northrop F-5 crashes in Babaeski as a result of pilot error, killing one crew member and also 65 soldiers on the ground.
+En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hit Lake Michigan during Michigan's first coho salmon sport fishing season.
 <br/><br/>
-En 1980 : Iraq invades Iran, sparking the nearly eight year Iran–Iraq War.
+En 1964 : Typhoon Wilda, one of the strongest typhoons to ever strike Japan, makes landfall, causing at least 30 fatalities and sinking at least 64 ships.
 <br/><br/>
-En 1979 : A bright flash, resembling the detonation of a nuclear weapon, is observed near the Prince Edward Islands. Its cause is never determined.
+En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditched into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
 <br/><br/>
-En 1976 : Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.
+En 1961 : U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.
 <br/><br/>
-En 1975 : Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.
+En 1957 : Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.
 <br/><br/>
-En 1966 : Twenty-four people are killed when Ansett-ANA Flight 149 crashes in Winton, Queensland, Australia.
+En 1956 : A tropical storm originating in the eastern Pacific Ocean passes into the Gulf of Mexico and is upgraded and named Hurricane Flossy just hours before striking the Gulf Coast and causing 15 deaths and an estimated USD$24.8 million in damages.
 <br/><br/>
-En 1965 : The Indo-Pakistani War of 1965 between India and Pakistan over Kashmir ends after the United Nations calls for a ceasefire.
+En 1955 : An all-white jury in Mississippi finds Roy Bryant and J. W. Milam not guilty in the torture-murder of 14-year-old African American boy Emmett Till.
 <br/><br/>
-En 1960 : The Sudanese Republic is renamed Mali after the withdrawal of Senegal from the Mali Federation.
+En 1952 : After being accused of financial improprieties, Senator Richard Nixon delivers his "Checkers speech" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.
 <br/><br/>
-En 1957 : In Haiti, François Duvalier is elected president.
+En 1951 : George VI, king of the United Kingdom, has his left lung removed in an operation after a malignant tumour was found.
 <br/><br/>
-En 1953 : The Four Level Interchange, first stack interchange in the world opened in Los Angeles.
+En 1950 : Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.
 <br/><br/>
-En 1948 : Gail Halvorsen officially starts parachuting candy to children as part of the Berlin Airlift.
+En 1947 : A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.
 <br/><br/>
-En 1948 : Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.
+En 1942 : World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.
 <br/><br/>
-En 1941 : The Holocaust in Ukraine: On the Jewish New Year Day, the German SS murders 6,000 Jews in Vinnytsia, Ukraine. Those are the survivors of the previous killings that took place a few days earlier in which about 24,000 Jews were executed.
+En 1932 : Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State.
 <br/><br/>
-En 1939 : World War II: A joint German–Soviet military parade in Brest-Litovsk is held to celebrate the successful invasion of Poland.
+En 1920 : The Louisiana hurricane dissipated over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
 <br/><br/>
-En 1934 : The Gresford disaster in Wales kills 266 miners and rescuers.
+En 1918 : World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.
 <br/><br/>
-En 1919 : The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.
+En 1913 : The United Mine Workers of America launch a strike which eventually escalated into the Colorado Coalfield War.
 <br/><br/>
-En 1914 : A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.
+En 1905 : Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.
 <br/><br/>
-En 1910 : The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.
+En 1899 : The American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
 <br/><br/>
-En 1896 : Queen Victoria surpasses her grandfather King George III as the longest reigning monarch in British history (later surpassed by her great-great-granddaughter Elizabeth II on 9 September 2015).
+En 1884 : On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.
 <br/><br/>
-En 1892 : A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.
+En 1879 : The Macedo-Romanian Cultural Society is founded.
 <br/><br/>
-En 1891 : The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.
+En 1868 : The Grito de Lares occurs in Puerto Rico against Spanish rule.
 <br/><br/>
-En 1885 : Lord Randolph Churchill makes a speech in Ulster in opposition to the Irish Home Rule movement.
+En 1846 : Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.
 <br/><br/>
-En 1866 : The Battle of Curupayty is Paraguay's only significant victory in the Paraguayan War.
+En 1821 : Tripolitsa, Greece, is captured by Greek rebels during the Greek War of Independence.
 <br/><br/>
-En 1862 : A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.
+En 1803 : Second Anglo-Maratha War: The Battle of Assaye is fought between the British East India Company and the Maratha Empire in India.
 <br/><br/>
-En 1857 : The Russian warship Lefort capsizes and sinks during a storm in the Gulf of Finland, killing all 826 aboard.
+En 1779 : American Revolution: John Paul Jones, naval commander of the United States, on board the USS Bonhomme Richard, wins the Battle of Flamborough Head.
 <br/><br/>
-En 1823 : Joseph Smith claims to have found the golden plates after being directed by God through the Angel Moroni to the place where they were buried.
+En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ended in a Royalist victory.
 <br/><br/>
-En 1792 : Primidi Vendémiaire of year one of the French Republican Calendar as the French First Republic comes into being.
+En 1561 : King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.
 <br/><br/>
-En 1789 : The office of United States Postmaster General is established.
+En 1459 : The Battle of Blore Heath, the first major battle of the English Wars of the Roses, is won by the Yorkists.
 <br/><br/>
-En 1789 : Battle of Rymnik: Alexander Suvorov's Russian and allied army defeats superior Ottoman Empire forces.
+En 1409 : The Battle of Kherlen is the second significant victory over Ming dynasty China by the Mongols since 1368.
 <br/><br/>
-En 1776 : Nathan Hale is hanged for spying during the American Revolution.
+En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.
 <br/><br/>
-En 1761 : George III and Charlotte of Mecklenburg-Strelitz are crowned King and Queen, respectively, of the Kingdom of Great Britain.
+En 1122 : Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.
 <br/><br/>
-En 1711 : The first attacks of the Tuscarora War begin in present-day North Carolina.
-<br/><br/>
-En 1692 : Martha Corey, Mary Eastey, Alice Parker, Mary Parker, Ann Pudeator, Wilmot Redd, Margaret Scott, and Samuel Wardwell are hanged, the last of those to be executed in the Salem witch trials.
-<br/><br/>
-En 1586 : Eighty Years' War: A Spanish force led by the Marquis del Vasto successfully fights its way past a joint English/Dutch ambush in the Battle of Zutphen.
-<br/><br/>
-En 1499 : The Treaty of Basel concludes the Swabian War.
-<br/><br/>
-En 1359 : An Aragonese cavalry force defeats a superior Castilian cavalry force in the Battle of Araviana during the War of the Two Peters.
-<br/><br/>
-En 1236 : The Samogitians defeat the Livonian Brothers of the Sword in the Battle of Saule.
-<br/><br/>
-En 904 : The warlord Zhu Quanzhong kills Emperor Zhaozong, the penultimate emperor of the Tang dynasty, after seizing control of the imperial government.
+En 38 : Drusilla, Caligula's sister who died in June, with whom the emperor is said to have an incestuous relationship, is deified.
 <br/><br/>
