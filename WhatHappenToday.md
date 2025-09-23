@@ -22,17 +22,17 @@ En 2008 : Matti Saari kills ten people at a school in Finland before committing 
 <br/><br/>
 En 2004 : Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
 <br/><br/>
-En 1999 : Qantas Flight 1 overrun a runway in Bangkok during a storm, causing minor injuries to some passengers.
+En 1999 : Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.
 <br/><br/>
 En 1983 : Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.
 <br/><br/>
 En 1973 : Argentine general election: Juan Perón returns to power in Argentina.
 <br/><br/>
-En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hit Lake Michigan during Michigan's first coho salmon sport fishing season.
+En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hits Lake Michigan during Michigan's first coho salmon sport fishing season.
 <br/><br/>
 En 1964 : Typhoon Wilda, one of the strongest typhoons to ever strike Japan, makes landfall, causing at least 30 fatalities and sinking at least 64 ships.
 <br/><br/>
-En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditched into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
+En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditches into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
 <br/><br/>
 En 1961 : U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.
 <br/><br/>
@@ -54,7 +54,7 @@ En 1942 : World War II: The Matanikau action on Guadalcanal begins: U.S. Marines
 <br/><br/>
 En 1932 : Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State.
 <br/><br/>
-En 1920 : The Louisiana hurricane dissipated over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
+En 1920 : The Louisiana hurricane dissipates over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
 <br/><br/>
 En 1918 : World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.
 <br/><br/>
@@ -78,7 +78,7 @@ En 1803 : Second Anglo-Maratha War: The Battle of Assaye is fought between the B
 <br/><br/>
 En 1779 : American Revolution: John Paul Jones, naval commander of the United States, on board the USS Bonhomme Richard, wins the Battle of Flamborough Head.
 <br/><br/>
-En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ended in a Royalist victory.
+En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ends in a Royalist victory.
 <br/><br/>
 En 1561 : King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.
 <br/><br/>
@@ -108,17 +108,17 @@ En 2008 : Matti Saari kills ten people at a school in Finland before committing 
 <br/><br/>
 En 2004 : Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
 <br/><br/>
-En 1999 : Qantas Flight 1 overrun a runway in Bangkok during a storm, causing minor injuries to some passengers.
+En 1999 : Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.
 <br/><br/>
 En 1983 : Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.
 <br/><br/>
 En 1973 : Argentine general election: Juan Perón returns to power in Argentina.
 <br/><br/>
-En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hit Lake Michigan during Michigan's first coho salmon sport fishing season.
+En 1967 : Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hits Lake Michigan during Michigan's first coho salmon sport fishing season.
 <br/><br/>
 En 1964 : Typhoon Wilda, one of the strongest typhoons to ever strike Japan, makes landfall, causing at least 30 fatalities and sinking at least 64 ships.
 <br/><br/>
-En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditched into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
+En 1962 : Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditches into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
 <br/><br/>
 En 1961 : U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1942 : World War II: The Matanikau action on Guadalcanal begins: U.S. Marines
 <br/><br/>
 En 1932 : Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State.
 <br/><br/>
-En 1920 : The Louisiana hurricane dissipated over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
+En 1920 : The Louisiana hurricane dissipates over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
 <br/><br/>
 En 1918 : World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1803 : Second Anglo-Maratha War: The Battle of Assaye is fought between the B
 <br/><br/>
 En 1779 : American Revolution: John Paul Jones, naval commander of the United States, on board the USS Bonhomme Richard, wins the Battle of Flamborough Head.
 <br/><br/>
-En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ended in a Royalist victory.
+En 1642 : First English Civil War: The Battle of Powick Bridge, the first engagement between the primary field armies of the Royalists and the Parliamentarians, ends in a Royalist victory.
 <br/><br/>
 En 1561 : King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.
 <br/><br/>
