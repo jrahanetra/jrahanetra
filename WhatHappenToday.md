@@ -62,7 +62,7 @@ En 1913 : The United Mine Workers of America launch a strike which eventually es
 <br/><br/>
 En 1905 : Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.
 <br/><br/>
-En 1899 : The American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
+En 1899 : Philippine-American War:  the American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
 <br/><br/>
 En 1884 : On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1913 : The United Mine Workers of America launch a strike which eventually es
 <br/><br/>
 En 1905 : Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.
 <br/><br/>
-En 1899 : The American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
+En 1899 : Philippine-American War:  the American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
 <br/><br/>
 En 1884 : On the night of 23–24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.
 <br/><br/>
