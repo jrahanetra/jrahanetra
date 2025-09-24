@@ -32,7 +32,7 @@ En 1975 : Southwest Face expedition members become the first persons to reach th
 <br/><br/>
 En 1973 : Guinea-Bissau declares its independence from Portugal.
 <br/><br/>
-En 1972 : Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India.
+En 1972 : Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India, overrunning the runway resulting in 11 injuries.
 <br/><br/>
 En 1960 : USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched.
 <br/><br/>
@@ -66,7 +66,7 @@ En 1890 : The Church of Jesus Christ of Latter-day Saints officially renounces p
 <br/><br/>
 En 1877 : The Battle of Shiroyama is a decisive victory of the Imperial Japanese Army over the Satsuma Rebellion.
 <br/><br/>
-En 1875 : The 1864 play Heath Cobblers by Aleksis Kivi is premiered for the first time in Oulu, Finland.
+En 1875 : The 1864 play Heath Cobblers by Aleksis Kivi premieres in Oulu, Finland.
 <br/><br/>
 En 1869 : Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.
 <br/><br/>
@@ -84,7 +84,7 @@ En 1789 : The United States Congress passes the Judiciary Act, creating the offi
 <br/><br/>
 En 1674 : Second Tantrik Coronation of Shivaji.
 <br/><br/>
-En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentarian victory over a Royalist army commanded in person by King Charles.
+En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentarian victory over a Royalist army commanded in person by King Charles I.
 <br/><br/>
 En 1568 : Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.
 <br/><br/>
@@ -116,7 +116,7 @@ En 1975 : Southwest Face expedition members become the first persons to reach th
 <br/><br/>
 En 1973 : Guinea-Bissau declares its independence from Portugal.
 <br/><br/>
-En 1972 : Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India.
+En 1972 : Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India, overrunning the runway resulting in 11 injuries.
 <br/><br/>
 En 1960 : USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1890 : The Church of Jesus Christ of Latter-day Saints officially renounces p
 <br/><br/>
 En 1877 : The Battle of Shiroyama is a decisive victory of the Imperial Japanese Army over the Satsuma Rebellion.
 <br/><br/>
-En 1875 : The 1864 play Heath Cobblers by Aleksis Kivi is premiered for the first time in Oulu, Finland.
+En 1875 : The 1864 play Heath Cobblers by Aleksis Kivi premieres in Oulu, Finland.
 <br/><br/>
 En 1869 : Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1789 : The United States Congress passes the Judiciary Act, creating the offi
 <br/><br/>
 En 1674 : Second Tantrik Coronation of Shivaji.
 <br/><br/>
-En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentarian victory over a Royalist army commanded in person by King Charles.
+En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentarian victory over a Royalist army commanded in person by King Charles I.
 <br/><br/>
 En 1568 : Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.
 <br/><br/>
