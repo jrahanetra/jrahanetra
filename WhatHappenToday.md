@@ -88,7 +88,7 @@ En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentar
 <br/><br/>
 En 1568 : Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.
 <br/><br/>
-En 787 : Second Council of Nicaea: The council assembles at the church of Hagia Sophia.
+En 787 : The Second Council of Nicaea begins at the Church of Holy Wisdom in the city of Nicaea in Bithynia.
 <br/><br/>
 En 2023 : NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.
 <br/><br/>
@@ -172,5 +172,5 @@ En 1645 : The Battle of Rowton Heath in England occurs, ending in a Parliamentar
 <br/><br/>
 En 1568 : Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.
 <br/><br/>
-En 787 : Second Council of Nicaea: The council assembles at the church of Hagia Sophia.
+En 787 : The Second Council of Nicaea begins at the Church of Holy Wisdom in the city of Nicaea in Bithynia.
 <br/><br/>
