@@ -16,7 +16,7 @@ En 2013 : A 7.7-magnitude earthquake strikes southern Pakistan, killing at least
 <br/><br/>
 En 2009 : The G20 summit begins in Pittsburgh with 30 global leaders in attendance.
 <br/><br/>
-En 2009 : SA Airlink Flight 8911 crashes near Durban International Airport in Durban, South Africa, killing the captain and injuring the rest of the crew.
+En 2009 : South African Airlink Flight 8911 crashes near Durban International Airport in Durban, South Africa, killing the captain and injuring the rest of the crew.
 <br/><br/>
 En 2008 : Thabo Mbeki resigns as president of South Africa.
 <br/><br/>
@@ -100,7 +100,7 @@ En 2013 : A 7.7-magnitude earthquake strikes southern Pakistan, killing at least
 <br/><br/>
 En 2009 : The G20 summit begins in Pittsburgh with 30 global leaders in attendance.
 <br/><br/>
-En 2009 : SA Airlink Flight 8911 crashes near Durban International Airport in Durban, South Africa, killing the captain and injuring the rest of the crew.
+En 2009 : South African Airlink Flight 8911 crashes near Durban International Airport in Durban, South Africa, killing the captain and injuring the rest of the crew.
 <br/><br/>
 En 2008 : Thabo Mbeki resigns as president of South Africa.
 <br/><br/>
