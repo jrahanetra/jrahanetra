@@ -8,8 +8,6 @@
 
 En 2018 : Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.
 <br/><br/>
-En 2017 : Fortnite: Battle Royale is released to the public.
-<br/><br/>
 En 2003 : The 8.3 Mw  Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.
 <br/><br/>
 En 1998 : PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.
@@ -101,8 +99,6 @@ En 762 : Led by Muhammad al-Nafs al-Zakiyya, the Hasanid branch of the Alids beg
 En 275 : For the last time, the Roman Senate chooses an emperor; they elect 75-year-old Marcus Claudius Tacitus.
 <br/><br/>
 En 2018 : Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.
-<br/><br/>
-En 2017 : Fortnite: Battle Royale is released to the public.
 <br/><br/>
 En 2003 : The 8.3 Mw  Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.
 <br/><br/>
