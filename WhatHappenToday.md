@@ -10,9 +10,9 @@ En 2024 : Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurr
 <br/><br/>
 En 2022 : A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.
 <br/><br/>
-En 2014 : A mass kidnapping occurs in Iguala, Mexico.
+En 2014 : A mass kidnapping of 43 students from a teaching college occurs in Iguala, Mexico.
 <br/><br/>
-En 2010 : The Philippine Bar exam bombing occurred near the De La Salle University in Taft Avenue, Manila injuring 47 people.
+En 2010 : The Philippine Bar exam bombing occurrs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
 <br/><br/>
 En 2009 : Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
 <br/><br/>
@@ -102,9 +102,9 @@ En 2024 : Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurr
 <br/><br/>
 En 2022 : A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.
 <br/><br/>
-En 2014 : A mass kidnapping occurs in Iguala, Mexico.
+En 2014 : A mass kidnapping of 43 students from a teaching college occurs in Iguala, Mexico.
 <br/><br/>
-En 2010 : The Philippine Bar exam bombing occurred near the De La Salle University in Taft Avenue, Manila injuring 47 people.
+En 2010 : The Philippine Bar exam bombing occurrs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
 <br/><br/>
 En 2009 : Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
 <br/><br/>
