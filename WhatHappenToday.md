@@ -12,7 +12,7 @@ En 2022 : A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resul
 <br/><br/>
 En 2014 : A mass kidnapping of 43 students from a teaching college occurs in Iguala, Mexico.
 <br/><br/>
-En 2010 : The Philippine Bar exam bombing occurrs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
+En 2010 : The Philippine Bar exam bombing occurs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
 <br/><br/>
 En 2009 : Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1799 : War of the 2nd Coalition: French troops defeat Austro-Russian forces, 
 <br/><br/>
 En 1789 : George Washington appoints Thomas Jefferson the first United States Secretary of State.
 <br/><br/>
-En 1777 : American Revolution: British troops occupy Philadelphia.
+En 1777 : American Revolutionary War: British troops capture and begin the occupation of Philadelphia, which had been serving as the American capital city, during the Philadelphia campaign.
 <br/><br/>
 En 1688 : The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.
 <br/><br/>
@@ -104,7 +104,7 @@ En 2022 : A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resul
 <br/><br/>
 En 2014 : A mass kidnapping of 43 students from a teaching college occurs in Iguala, Mexico.
 <br/><br/>
-En 2010 : The Philippine Bar exam bombing occurrs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
+En 2010 : The Philippine Bar exam bombing occurs near the De La Salle University in Taft Avenue, Manila injuring 47 people.
 <br/><br/>
 En 2009 : Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
 <br/><br/>
@@ -166,7 +166,7 @@ En 1799 : War of the 2nd Coalition: French troops defeat Austro-Russian forces, 
 <br/><br/>
 En 1789 : George Washington appoints Thomas Jefferson the first United States Secretary of State.
 <br/><br/>
-En 1777 : American Revolution: British troops occupy Philadelphia.
+En 1777 : American Revolutionary War: British troops capture and begin the occupation of Philadelphia, which had been serving as the American capital city, during the Philadelphia campaign.
 <br/><br/>
 En 1688 : The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.
 <br/><br/>
