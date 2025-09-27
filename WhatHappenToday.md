@@ -12,7 +12,7 @@ En 2019 : Over two million people participated in worldwide strikes to protest c
 <br/><br/>
 En 2014 : 63 people are killed in an eruption of Mount Ontake in Japan.
 <br/><br/>
-En 2012 : In Minneapolis, a gunman shoots seven citizens, killing five and then himself.
+En 2012 : In Minneapolis, a gunman shoots eight people, killing six and injuring 2 and then kills himself.
 <br/><br/>
 En 2008 : CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
 <br/><br/>
@@ -110,7 +110,7 @@ En 2019 : Over two million people participated in worldwide strikes to protest c
 <br/><br/>
 En 2014 : 63 people are killed in an eruption of Mount Ontake in Japan.
 <br/><br/>
-En 2012 : In Minneapolis, a gunman shoots seven citizens, killing five and then himself.
+En 2012 : In Minneapolis, a gunman shoots eight people, killing six and injuring 2 and then kills himself.
 <br/><br/>
 En 2008 : CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
 <br/><br/>
