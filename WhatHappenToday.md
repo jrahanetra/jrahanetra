@@ -26,6 +26,8 @@ En 2008 : Falcon 1 becomes the first privately developed liquid-fuel ground-laun
 <br/><br/>
 En 2008 : The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event. Almost a year later it was revealed that Alonso's team-mate Nelson Piquet Jr. had been ordered to crash his car to help bring out the safety car and give Alonso the advantage and win.
 <br/><br/>
+En 2006 : Typhoon Xangsane passes over Manila after impacting parts of Southern Luzon and Eastern Visayas, becoming the strongest to affect the Philippine capital in 11 years.
+<br/><br/>
 En 2000 : Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
 <br/><br/>
 En 1995 : Bob Denard and a group of mercenaries take the islands of the Comoros in a coup.
@@ -139,6 +141,8 @@ En 2009 : The military junta leading Guinea attacks a protest rally, killing or 
 En 2008 : Falcon 1 becomes the first privately developed liquid-fuel ground-launched vehicle to put a payload into orbit by the RatSat mission.
 <br/><br/>
 En 2008 : The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event. Almost a year later it was revealed that Alonso's team-mate Nelson Piquet Jr. had been ordered to crash his car to help bring out the safety car and give Alonso the advantage and win.
+<br/><br/>
+En 2006 : Typhoon Xangsane passes over Manila after impacting parts of Southern Luzon and Eastern Visayas, becoming the strongest to affect the Philippine capital in 11 years.
 <br/><br/>
 En 2000 : Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
 <br/><br/>
