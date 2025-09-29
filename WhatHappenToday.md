@@ -70,11 +70,11 @@ En 1923 : The First American Track and Field championships for women are held.
 <br/><br/>
 En 1920 : Ukrainian War of Independence: The Ukrainian Soviet Socialist Republic agree to a truce with the Makhnovshchina.
 <br/><br/>
-En 1918 : Bulgaria signs the Armistice of Salonica ending its participation in World War I.
+En 1918 : World War I:  Bulgaria signs the Armistice of Salonica ending its participation.
 <br/><br/>
-En 1918 : The Hindenburg Line is broken by an Allied attack in World War I.
+En 1918 : World War I:  The Hindenburg Line is broken by an Allied attack.
 <br/><br/>
-En 1918 : Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end World War I.
+En 1918 : World War I:  Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end the war.
 <br/><br/>
 En 1911 : Italy declares war on the Ottoman Empire, In this war , Italy gains Libya which ends Ottoman rule in North Africa .
 <br/><br/>
@@ -180,11 +180,11 @@ En 1923 : The First American Track and Field championships for women are held.
 <br/><br/>
 En 1920 : Ukrainian War of Independence: The Ukrainian Soviet Socialist Republic agree to a truce with the Makhnovshchina.
 <br/><br/>
-En 1918 : Bulgaria signs the Armistice of Salonica ending its participation in World War I.
+En 1918 : World War I:  Bulgaria signs the Armistice of Salonica ending its participation.
 <br/><br/>
-En 1918 : The Hindenburg Line is broken by an Allied attack in World War I.
+En 1918 : World War I:  The Hindenburg Line is broken by an Allied attack.
 <br/><br/>
-En 1918 : Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end World War I.
+En 1918 : World War I:  Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end the war.
 <br/><br/>
 En 1911 : Italy declares war on the Ottoman Empire, In this war , Italy gains Libya which ends Ottoman rule in North Africa .
 <br/><br/>
