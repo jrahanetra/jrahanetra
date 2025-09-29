@@ -76,7 +76,7 @@ En 1918 : The Hindenburg Line is broken by an Allied attack in World War I.
 <br/><br/>
 En 1918 : Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end World War I.
 <br/><br/>
-En 1911 : Italy declares war on the Ottoman Empire.
+En 1911 : Italy declares war on the Ottoman Empire, In this war , Italy gains Libya which ends Ottoman rule in North Africa .
 <br/><br/>
 En 1907 : The cornerstone is laid at the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) in Washington, D.C.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1918 : The Hindenburg Line is broken by an Allied attack in World War I.
 <br/><br/>
 En 1918 : Germany's Supreme Army Command tells Kaiser Wilhelm II and Imperial Chancellor Georg Michaelis to open negotiations for an armistice to end World War I.
 <br/><br/>
-En 1911 : Italy declares war on the Ottoman Empire.
+En 1911 : Italy declares war on the Ottoman Empire, In this war , Italy gains Libya which ends Ottoman rule in North Africa .
 <br/><br/>
 En 1907 : The cornerstone is laid at the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) in Washington, D.C.
 <br/><br/>
