@@ -16,7 +16,7 @@ En 2011 : The special court in India convicted all 269 accused officials for atr
 <br/><br/>
 En 2009 : The 8.1 Mw  Samoa earthquake results in a tsunami that kills over 189 and injures hundreds.
 <br/><br/>
-En 2008 : The stock market crashes after the first United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession.
+En 2008 : The stock market crashes with the Dow Jones dropping a then record 778 points after the United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession.
 <br/><br/>
 En 2007 : Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.
 <br/><br/>
@@ -126,7 +126,7 @@ En 2011 : The special court in India convicted all 269 accused officials for atr
 <br/><br/>
 En 2009 : The 8.1 Mw  Samoa earthquake results in a tsunami that kills over 189 and injures hundreds.
 <br/><br/>
-En 2008 : The stock market crashes after the first United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession.
+En 2008 : The stock market crashes with the Dow Jones dropping a then record 778 points after the United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession.
 <br/><br/>
 En 2007 : Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.
 <br/><br/>
