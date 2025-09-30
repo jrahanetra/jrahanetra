@@ -34,6 +34,8 @@ En 1968 : The Boeing 747 is rolled out and shown to the public for the first tim
 <br/><br/>
 En 1966 : Bechuanaland declares its independence, and becomes the Republic of Botswana.
 <br/><br/>
+En 1960 : The Flintstones animated sitcom premieres on ABC television.
+<br/><br/>
 En 1954 : The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
 <br/><br/>
 En 1949 : The Berlin Airlift ends.
@@ -70,7 +72,7 @@ En 1909 : The Cunard Line's RMS Mauretania makes a record-breaking westbound cro
 <br/><br/>
 En 1907 : The McKinley National Memorial, the final resting place of assassinated U.S. President William McKinley and his family, is dedicated in Canton, Ohio.
 <br/><br/>
-En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, starts working in La Coruña, Spain.
+En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
 En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
 <br/><br/>
@@ -130,6 +132,8 @@ En 1968 : The Boeing 747 is rolled out and shown to the public for the first tim
 <br/><br/>
 En 1966 : Bechuanaland declares its independence, and becomes the Republic of Botswana.
 <br/><br/>
+En 1960 : The Flintstones animated sitcom premieres on ABC television.
+<br/><br/>
 En 1954 : The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
 <br/><br/>
 En 1949 : The Berlin Airlift ends.
@@ -166,7 +170,7 @@ En 1909 : The Cunard Line's RMS Mauretania makes a record-breaking westbound cro
 <br/><br/>
 En 1907 : The McKinley National Memorial, the final resting place of assassinated U.S. President William McKinley and his family, is dedicated in Canton, Ohio.
 <br/><br/>
-En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, starts working in La Coruña, Spain.
+En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
 En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
 <br/><br/>
