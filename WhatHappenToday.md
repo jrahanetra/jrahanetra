@@ -44,7 +44,7 @@ En 1947 : Pakistan joins the United Nations.
 <br/><br/>
 En 1945 : The Bourne End rail crash, in Hertfordshire, England, kills 43.
 <br/><br/>
-En 1944 : The Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
+En 1944 : World War II:  the Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
 <br/><br/>
 En 1943 : The United States Merchant Marine Academy is dedicated by President Roosevelt.
 <br/><br/>
@@ -62,7 +62,7 @@ En 1936 : American journalists Herbert R. Ekins, reporter for the New York World
 <br/><br/>
 En 1935 : The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated.
 <br/><br/>
-En 1918 : Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeat the Central Powers at the battle of Dibrivka.
+En 1918 : Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeats the Central Powers at the battle of Dibrivka.
 <br/><br/>
 En 1915 : World War I: Radoje Ljutovac becomes the first soldier in history to shoot down an enemy aircraft with ground-to-air fire.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride a
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant (later known as Appleton Edison Light Company) begins operation.
 <br/><br/>
-En 1863 : Georges Bizet's opera Les pêcheurs de perles, premiered in Paris.
+En 1863 : Georges Bizet's opera Les pêcheurs de perles, premieres in Paris.
 <br/><br/>
 En 1791 : The first performance of Mozart's opera The Magic Flute takes place two months before his death.
 <br/><br/>
@@ -94,7 +94,7 @@ En 1520 : Suleiman the Magnificent is proclaimed sultan of the Ottoman Empire.
 <br/><br/>
 En 1399 : Henry IV is proclaimed king of England.
 <br/><br/>
-En 1342 : Battle of Morlaix in the Hundred Years' War.
+En 1342 : Battle of Morlaix is fought in the Hundred Years' War.
 <br/><br/>
 En 1139 : A magnitude 7.7 earthquake strikes the Caucasus mountains in the Seljuk Empire, causing mass destruction and killing up to 300,000 people.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1947 : Pakistan joins the United Nations.
 <br/><br/>
 En 1945 : The Bourne End rail crash, in Hertfordshire, England, kills 43.
 <br/><br/>
-En 1944 : The Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
+En 1944 : World War II:  the Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
 <br/><br/>
 En 1943 : The United States Merchant Marine Academy is dedicated by President Roosevelt.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1936 : American journalists Herbert R. Ekins, reporter for the New York World
 <br/><br/>
 En 1935 : The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated.
 <br/><br/>
-En 1918 : Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeat the Central Powers at the battle of Dibrivka.
+En 1918 : Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeats the Central Powers at the battle of Dibrivka.
 <br/><br/>
 En 1915 : World War I: Radoje Ljutovac becomes the first soldier in history to shoot down an enemy aircraft with ground-to-air fire.
 <br/><br/>
@@ -172,7 +172,7 @@ En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride a
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant (later known as Appleton Edison Light Company) begins operation.
 <br/><br/>
-En 1863 : Georges Bizet's opera Les pêcheurs de perles, premiered in Paris.
+En 1863 : Georges Bizet's opera Les pêcheurs de perles, premieres in Paris.
 <br/><br/>
 En 1791 : The first performance of Mozart's opera The Magic Flute takes place two months before his death.
 <br/><br/>
@@ -190,7 +190,7 @@ En 1520 : Suleiman the Magnificent is proclaimed sultan of the Ottoman Empire.
 <br/><br/>
 En 1399 : Henry IV is proclaimed king of England.
 <br/><br/>
-En 1342 : Battle of Morlaix in the Hundred Years' War.
+En 1342 : Battle of Morlaix is fought in the Hundred Years' War.
 <br/><br/>
 En 1139 : A magnitude 7.7 earthquake strikes the Caucasus mountains in the Seljuk Empire, causing mass destruction and killing up to 300,000 people.
 <br/><br/>
