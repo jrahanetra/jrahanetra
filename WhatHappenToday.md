@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 2/10 ?(Hover on the year)</h1>
 
+En 2025 : 2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.
+<br/><br/>
 En 2019 : A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.
 <br/><br/>
 En 2018 : The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey.
@@ -75,6 +77,8 @@ En 1263 : The Battle of Largs is fought between Norwegians and Scots.
 En 939 : Battle of Andernach: Otto I, Holy Roman Emperor, crushes a rebellion against his rule, by a coalition of Eberhard of Franconia and other Frankish dukes.
 <br/><br/>
 En 829 : Theophilos succeeds his father Michael II as Byzantine Emperor.
+<br/><br/>
+En 2025 : 2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.
 <br/><br/>
 En 2019 : A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.
 <br/><br/>
