@@ -74,7 +74,7 @@ En 1862 : American Civil War: The two-day Second Battle of Corinth begins as Con
 <br/><br/>
 En 1792 : A militia departs from the Spanish stronghold of Valdivia to quell a Huilliche uprising in southern Chile.
 <br/><br/>
-En 1789 : George Washington proclaims Thursday November 26, 1789 a Thanksgiving Day.
+En 1789 : George Washington proclaims Thursday November 26, 1789 as Thanksgiving Day.
 <br/><br/>
 En 1739 : The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1862 : American Civil War: The two-day Second Battle of Corinth begins as Con
 <br/><br/>
 En 1792 : A militia departs from the Spanish stronghold of Valdivia to quell a Huilliche uprising in southern Chile.
 <br/><br/>
-En 1789 : George Washington proclaims Thursday November 26, 1789 a Thanksgiving Day.
+En 1789 : George Washington proclaims Thursday November 26, 1789 as Thanksgiving Day.
 <br/><br/>
 En 1739 : The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.
 <br/><br/>
