@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 5/10 ?(Hover on the year)</h1>
 
+En 2021 : Windows 11 is released to the general public.
+<br/><br/>
 En 2011 : In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered.
 <br/><br/>
 En 2000 : Mass demonstrations in Serbia force the resignation of Slobodan Milošević.
@@ -93,6 +95,8 @@ En 869 : The Fourth Council of Constantinople is convened to depose patriarch Ph
 En 816 : King Louis the Pious is crowned emperor of the Holy Roman Empire by the Pope.
 <br/><br/>
 En 610 : Heraclius arrives at Constantinople, kills Byzantine Emperor Phocas, and becomes emperor.
+<br/><br/>
+En 2021 : Windows 11 is released to the general public.
 <br/><br/>
 En 2011 : In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered.
 <br/><br/>
