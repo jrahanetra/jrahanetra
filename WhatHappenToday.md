@@ -92,7 +92,7 @@ En 404 : Byzantine Empress Eudoxia dies from the miscarriage of her seventh preg
 <br/><br/>
 En 23 : Rebels decapitate Wang Mang two days after his capital was sacked during a peasant rebellion.
 <br/><br/>
-En -69 : Third Mithridatic War: The military of the Roman Republic subdue Armenia.
+En -69 : Third Mithridatic War: The military of the Roman Republic subdues Armenia.
 <br/><br/>
 En -105 : Cimbrian War: Defeat at the Battle of Arausio of the Roman army of the mid-Republic
 <br/><br/>
@@ -182,7 +182,7 @@ En 404 : Byzantine Empress Eudoxia dies from the miscarriage of her seventh preg
 <br/><br/>
 En 23 : Rebels decapitate Wang Mang two days after his capital was sacked during a peasant rebellion.
 <br/><br/>
-En -69 : Third Mithridatic War: The military of the Roman Republic subdue Armenia.
+En -69 : Third Mithridatic War: The military of the Roman Republic subdues Armenia.
 <br/><br/>
 En -105 : Cimbrian War: Defeat at the Battle of Arausio of the Roman army of the mid-Republic
 <br/><br/>
