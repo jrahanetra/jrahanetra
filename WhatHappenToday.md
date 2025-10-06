@@ -54,7 +54,7 @@ En 1923 : The Turkish National Movement enters Constantinople.
 <br/><br/>
 En 1920 : Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.
 <br/><br/>
-En 1915 : World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen .
+En 1915 : World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen.
 <br/><br/>
 En 1915 : World War I: Entente forces land in Thessaloniki, to open the Macedonian front against the Central Powers.
 <br/><br/>
@@ -144,7 +144,7 @@ En 1923 : The Turkish National Movement enters Constantinople.
 <br/><br/>
 En 1920 : Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.
 <br/><br/>
-En 1915 : World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen .
+En 1915 : World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen.
 <br/><br/>
 En 1915 : World War I: Entente forces land in Thessaloniki, to open the Macedonian front against the Central Powers.
 <br/><br/>
