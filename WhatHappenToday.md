@@ -90,7 +90,7 @@ En 618 : Transition from Sui to Tang: Wang Shichong decisively defeats Li Mi at 
 <br/><br/>
 En 404 : Byzantine Empress Eudoxia dies from the miscarriage of her seventh pregnancy.
 <br/><br/>
-En 23 : Rebels decapitate Wang Mang two days after his capital was sacked during a peasant rebellion.
+En 23 : Rebels decapitate Wang Mang , only Emperor of the Xin Dynasty,  after his capital was sacked during a peasant rebellion.
 <br/><br/>
 En -69 : Third Mithridatic War: The military of the Roman Republic subdues Armenia.
 <br/><br/>
@@ -180,7 +180,7 @@ En 618 : Transition from Sui to Tang: Wang Shichong decisively defeats Li Mi at 
 <br/><br/>
 En 404 : Byzantine Empress Eudoxia dies from the miscarriage of her seventh pregnancy.
 <br/><br/>
-En 23 : Rebels decapitate Wang Mang two days after his capital was sacked during a peasant rebellion.
+En 23 : Rebels decapitate Wang Mang , only Emperor of the Xin Dynasty,  after his capital was sacked during a peasant rebellion.
 <br/><br/>
 En -69 : Third Mithridatic War: The military of the Roman Republic subdues Armenia.
 <br/><br/>
