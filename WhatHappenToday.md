@@ -40,13 +40,13 @@ En 1970 : Aleksandr Solzhenitsyn wins the Nobel Prize in literature.
 <br/><br/>
 En 1969 : The opening rally of the Days of Rage occurs, organized by the Weather Underground in Chicago.
 <br/><br/>
-En 1967 : Guerrilla leader Che Guevara and his men are captured in Bolivia.
+En 1967 : Guerrilla leader Che Guevara and his men are captured in Bolivia.  Guevara would be executed the next day.
 <br/><br/>
-En 1962 : Der Spiegel publishes an article disclosing the sorry state of the Bundeswehr, and is soon accused of treason.
+En 1962 : Der Spiegel publishes an article disclosing the sorry state of the Bundeswehr, leading to accusations of treason.
 <br/><br/>
 En 1956 : The New York Yankees's Don Larsen pitches the only perfect game in a World Series.
 <br/><br/>
-En 1952 : The Harrow and Wealdstone rail crash kills 112 people.
+En 1952 : The Harrow and Wealdstone rail crash in England kills 112 people.
 <br/><br/>
 En 1944 : World War II: Captain Bobbie Brown earns a Medal of Honor for his actions during the Battle of Crucifix Hill, just outside Aachen.
 <br/><br/>
@@ -58,7 +58,7 @@ En 1939 : World War II: Germany annexes western Poland.
 <br/><br/>
 En 1921 : KDKA in Pittsburgh's Forbes Field conducts the first live broadcast of a football game.
 <br/><br/>
-En 1918 : World War I: Corporal Alvin C. York kills 28 German soldiers and captures 132 for which he was awarded the Medal of Honor.
+En 1918 : World War I: Corporal Alvin C. York kills 28 German soldiers and captures 132, for which he was awarded the Medal of Honor.
 <br/><br/>
 En 1912 : The First Balkan War begins when Montenegro declares war against the Ottoman Empire.
 <br/><br/>
@@ -80,7 +80,7 @@ En 1813 : The Treaty of Ried is signed between Bavaria and Austria.
 <br/><br/>
 En 1645 : Jeanne Mance opens the first lay hospital of North America in Montreal.
 <br/><br/>
-En 1573 : End of the Spanish siege of Alkmaar, the first Dutch victory in the Eighty Years' War.
+En 1573 : The Spanish siege of Alkmaar ends with the first Dutch victory in the Eighty Years' War.
 <br/><br/>
 En 1480 : The Great Stand on the Ugra River puts an end to Tatar rule over Moscow
 <br/><br/>
@@ -130,13 +130,13 @@ En 1970 : Aleksandr Solzhenitsyn wins the Nobel Prize in literature.
 <br/><br/>
 En 1969 : The opening rally of the Days of Rage occurs, organized by the Weather Underground in Chicago.
 <br/><br/>
-En 1967 : Guerrilla leader Che Guevara and his men are captured in Bolivia.
+En 1967 : Guerrilla leader Che Guevara and his men are captured in Bolivia.  Guevara would be executed the next day.
 <br/><br/>
-En 1962 : Der Spiegel publishes an article disclosing the sorry state of the Bundeswehr, and is soon accused of treason.
+En 1962 : Der Spiegel publishes an article disclosing the sorry state of the Bundeswehr, leading to accusations of treason.
 <br/><br/>
 En 1956 : The New York Yankees's Don Larsen pitches the only perfect game in a World Series.
 <br/><br/>
-En 1952 : The Harrow and Wealdstone rail crash kills 112 people.
+En 1952 : The Harrow and Wealdstone rail crash in England kills 112 people.
 <br/><br/>
 En 1944 : World War II: Captain Bobbie Brown earns a Medal of Honor for his actions during the Battle of Crucifix Hill, just outside Aachen.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1939 : World War II: Germany annexes western Poland.
 <br/><br/>
 En 1921 : KDKA in Pittsburgh's Forbes Field conducts the first live broadcast of a football game.
 <br/><br/>
-En 1918 : World War I: Corporal Alvin C. York kills 28 German soldiers and captures 132 for which he was awarded the Medal of Honor.
+En 1918 : World War I: Corporal Alvin C. York kills 28 German soldiers and captures 132, for which he was awarded the Medal of Honor.
 <br/><br/>
 En 1912 : The First Balkan War begins when Montenegro declares war against the Ottoman Empire.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1813 : The Treaty of Ried is signed between Bavaria and Austria.
 <br/><br/>
 En 1645 : Jeanne Mance opens the first lay hospital of North America in Montreal.
 <br/><br/>
-En 1573 : End of the Spanish siege of Alkmaar, the first Dutch victory in the Eighty Years' War.
+En 1573 : The Spanish siege of Alkmaar ends with the first Dutch victory in the Eighty Years' War.
 <br/><br/>
 En 1480 : The Great Stand on the Ugra River puts an end to Tatar rule over Moscow
 <br/><br/>
