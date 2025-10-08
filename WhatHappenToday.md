@@ -24,6 +24,8 @@ En 1991 : Upon the expiration of the Brioni Agreement, Croatia and Slovenia seve
 <br/><br/>
 En 1990 : First Intifada: Israeli police kill 17 Palestinians and wound over 100 near the Dome of the Rock.
 <br/><br/>
+En 1986 : An explosion occurred at the Cipel-Marco fur factory in Kwai Chung, Hong Kong, killing 14 and injuring 10.
+<br/><br/>
 En 1982 : Poland bans Solidarity and all other trade unions.
 <br/><br/>
 En 1982 : After its London premiere, Cats opens on Broadway and runs for nearly 18 years before closing on September 10, 2000.
@@ -113,6 +115,8 @@ En 2001 : U.S. president George W. Bush announces the establishment of the Offic
 En 1991 : Upon the expiration of the Brioni Agreement, Croatia and Slovenia sever all official relations with Yugoslavia.
 <br/><br/>
 En 1990 : First Intifada: Israeli police kill 17 Palestinians and wound over 100 near the Dome of the Rock.
+<br/><br/>
+En 1986 : An explosion occurred at the Cipel-Marco fur factory in Kwai Chung, Hong Kong, killing 14 and injuring 10.
 <br/><br/>
 En 1982 : Poland bans Solidarity and all other trade unions.
 <br/><br/>
