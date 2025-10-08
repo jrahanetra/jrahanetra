@@ -28,8 +28,6 @@ En 1986 : An explosion occurred at the Cipel-Marco fur factory in Kwai Chung, Ho
 <br/><br/>
 En 1982 : Poland bans Solidarity and all other trade unions.
 <br/><br/>
-En 1982 : After its London premiere, Cats opens on Broadway and runs for nearly 18 years before closing on September 10, 2000.
-<br/><br/>
 En 1978 : Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.
 <br/><br/>
 En 1974 : Franklin National Bank collapses due to fraud and mismanagement; at the time it is the largest bank failure in the history of the United States.
@@ -119,8 +117,6 @@ En 1990 : First Intifada: Israeli police kill 17 Palestinians and wound over 100
 En 1986 : An explosion occurred at the Cipel-Marco fur factory in Kwai Chung, Hong Kong, killing 14 and injuring 10.
 <br/><br/>
 En 1982 : Poland bans Solidarity and all other trade unions.
-<br/><br/>
-En 1982 : After its London premiere, Cats opens on Broadway and runs for nearly 18 years before closing on September 10, 2000.
 <br/><br/>
 En 1978 : Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.
 <br/><br/>
