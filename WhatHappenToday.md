@@ -96,7 +96,7 @@ En 876 : Frankish forces led by Louis the Younger prevent a West Frankish invasi
 <br/><br/>
 En 451 : The first session of the Council of Chalcedon begins.
 <br/><br/>
-En 316 : Constantine I defeats Roman Emperor Licinius, who loses his European territories.
+En 316 : Constantine I defeats Licinius, who loses his European territories.
 <br/><br/>
 En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice deliberately targeted the Church of the Holy Savior Ghazanchetsots of Shusha.
 <br/><br/>
@@ -188,5 +188,5 @@ En 876 : Frankish forces led by Louis the Younger prevent a West Frankish invasi
 <br/><br/>
 En 451 : The first session of the Council of Chalcedon begins.
 <br/><br/>
-En 316 : Constantine I defeats Roman Emperor Licinius, who loses his European territories.
+En 316 : Constantine I defeats Licinius, who loses his European territories.
 <br/><br/>
