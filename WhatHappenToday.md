@@ -28,7 +28,7 @@ En 1986 : The Phantom of the Opera, eventually the second longest running musica
 <br/><br/>
 En 1986 : Fox Broadcasting Company (FBC) launches as the fourth US television network.
 <br/><br/>
-En 1984 : The popular children's television show Thomas & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.
+En 1984 : The popular children's television show Thomas The Tank Engine & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.
 <br/><br/>
 En 1983 : South Korean President Chun Doo-hwan survives an assassination attempt in Rangoon, Burma, but the blast kills 21 and injures 17 others.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1986 : The Phantom of the Opera, eventually the second longest running musica
 <br/><br/>
 En 1986 : Fox Broadcasting Company (FBC) launches as the fourth US television network.
 <br/><br/>
-En 1984 : The popular children's television show Thomas & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.
+En 1984 : The popular children's television show Thomas The Tank Engine & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.
 <br/><br/>
 En 1983 : South Korean President Chun Doo-hwan survives an assassination attempt in Rangoon, Burma, but the blast kills 21 and injures 17 others.
 <br/><br/>
