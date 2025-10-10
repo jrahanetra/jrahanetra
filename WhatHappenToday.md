@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 10/10 ?(Hover on the year)</h1>
 
+En 2025 : A 7.4-magnitude earthquake struck off the coast of eastern Mindanao in the Philippines.
+<br/><br/>
 En 2022 : Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig are jointly awarded the Nobel Memorial Prize in Economic Sciences.
 <br/><br/>
 En 2018 : Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage.
@@ -107,6 +109,8 @@ En 732 : Charles Martel's forces defeat an Umayyad army near Tours, France.
 En 680 : The Battle of Karbala marks the martyrdom of Husayn ibn Ali.
 <br/><br/>
 En 19 : The Roman general Germanicus dies near Antioch. He was convinced that the mysterious illness that ended in his death was a result of poisoning by the Syrian governor Gnaeus Calpurnius Piso, whom he had ordered to leave the province.
+<br/><br/>
+En 2025 : A 7.4-magnitude earthquake struck off the coast of eastern Mindanao in the Philippines.
 <br/><br/>
 En 2022 : Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig are jointly awarded the Nobel Memorial Prize in Economic Sciences.
 <br/><br/>
