@@ -34,8 +34,6 @@ En 1999 : Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a b
 <br/><br/>
 En 1999 : The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia.
 <br/><br/>
-En 1998 : Matthew Shepard, a gay student at University of Wyoming, dies five days after he was beaten outside of Laramie.
-<br/><br/>
 En 1997 : The Sidi Daoud massacre in Algeria kills 43 people at a fake roadblock.
 <br/><br/>
 En 1996 : New Zealand holds its first general election under the new mixed-member proportional representation system, which led to Jim Bolger's National Party forming a coalition government with Winston Peters's New Zealand First.
@@ -167,8 +165,6 @@ En 2000 : The USS Cole, a US Navy destroyer, is badly damaged by two al-Qaeda su
 En 1999 : Pervez Musharraf takes power in Pakistan from Nawaz Sharif through a bloodless coup.
 <br/><br/>
 En 1999 : The former Autonomous Soviet Republic of Abkhazia declares its independence from Georgia.
-<br/><br/>
-En 1998 : Matthew Shepard, a gay student at University of Wyoming, dies five days after he was beaten outside of Laramie.
 <br/><br/>
 En 1997 : The Sidi Daoud massacre in Algeria kills 43 people at a fake roadblock.
 <br/><br/>
