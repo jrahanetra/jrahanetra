@@ -86,7 +86,7 @@ En 1269 : The present church building at Westminster Abbey is consecrated.
 <br/><br/>
 En 409 : Vandals and Alans cross the Pyrenees and appear in Hispania.
 <br/><br/>
-En 54 : Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adoptive son Nero, rather than by Britannicus, his son with Messalina.
+En 54 : Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina.
 <br/><br/>
 En 2019 : Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.
 <br/><br/>
@@ -168,5 +168,5 @@ En 1269 : The present church building at Westminster Abbey is consecrated.
 <br/><br/>
 En 409 : Vandals and Alans cross the Pyrenees and appear in Hispania.
 <br/><br/>
-En 54 : Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adoptive son Nero, rather than by Britannicus, his son with Messalina.
+En 54 : Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina.
 <br/><br/>
