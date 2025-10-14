@@ -64,7 +64,7 @@ En 1957 : The 23rd Canadian Parliament becomes the only one to be personally ope
 <br/><br/>
 En 1957 : At least 81 people are killed in the most devastating flood in the history of the Spanish city of Valencia.
 <br/><br/>
-En 1956 : Dalit Buddhist movement - Dr. B. R. Ambedkar, an Indian scholar and leader of India's Untouchables, converts to Buddhism along with 500,000 of his followers (see Navayana Buddhism).
+En 1956 : Dr. B. R. Ambedkar, leader of India's Untouchable caste, converts to Buddhism along with 385,000 of his followers (see Neo-Buddhism).
 <br/><br/>
 En 1952 : Korean War: The Battle of Triangle Hill is the biggest and bloodiest battle of 1952.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1957 : The 23rd Canadian Parliament becomes the only one to be personally ope
 <br/><br/>
 En 1957 : At least 81 people are killed in the most devastating flood in the history of the Spanish city of Valencia.
 <br/><br/>
-En 1956 : Dalit Buddhist movement - Dr. B. R. Ambedkar, an Indian scholar and leader of India's Untouchables, converts to Buddhism along with 500,000 of his followers (see Navayana Buddhism).
+En 1956 : Dr. B. R. Ambedkar, leader of India's Untouchable caste, converts to Buddhism along with 385,000 of his followers (see Neo-Buddhism).
 <br/><br/>
 En 1952 : Korean War: The Battle of Triangle Hill is the biggest and bloodiest battle of 1952.
 <br/><br/>
