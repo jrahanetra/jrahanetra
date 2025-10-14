@@ -10,7 +10,7 @@ En 2023 : Australians vote to reject a constitutional amendment that would have 
 <br/><br/>
 En 2021 : About 10,000 American employees of John Deere go on strike.
 <br/><br/>
-En 2017 : A massive truck bombing in Somalia kills 358 people and injures more than 400 others.
+En 2017 : An Al-Shabaab suicide bomber detonated a massive truck bomb at the Zobe junction in Somalia’s capital, Mogadishu, killing 587 people, injuring 316 others, and leaving more than 500 missing.
 <br/><br/>
 En 2015 : A suicide bomb attack in Tonsa, Pakistan kills at least seven people and injures 13 others.
 <br/><br/>
@@ -140,7 +140,7 @@ En 2023 : Australians vote to reject a constitutional amendment that would have 
 <br/><br/>
 En 2021 : About 10,000 American employees of John Deere go on strike.
 <br/><br/>
-En 2017 : A massive truck bombing in Somalia kills 358 people and injures more than 400 others.
+En 2017 : An Al-Shabaab suicide bomber detonated a massive truck bomb at the Zobe junction in Somalia’s capital, Mogadishu, killing 587 people, injuring 316 others, and leaving more than 500 missing.
 <br/><br/>
 En 2015 : A suicide bomb attack in Tonsa, Pakistan kills at least seven people and injures 13 others.
 <br/><br/>
