@@ -10,7 +10,7 @@ En 2022 : Liz Truss steps down as British Prime Minister and leader of the Conse
 <br/><br/>
 En 2017 : Syrian civil war: The Syrian Democratic Forces (SDF) declare victory in the Raqqa campaign.
 <br/><br/>
-En 2011 : Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill him shortly thereafter, ending the first Libyan civil war.
+En 2011 : Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill them shortly thereafter, ending the first Libyan civil war.
 <br/><br/>
 En 2005 : The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
 <br/><br/>
@@ -54,7 +54,7 @@ En 1944 : World War II: The Soviet Red Army and Yugoslav Partisans liberate Belg
 <br/><br/>
 En 1944 : Liquefied natural gas leaks from storage tanks in Cleveland and then explodes, leveling 30 blocks and killing 130 people.
 <br/><br/>
-En 1944 : American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
+En 1944 : World War II:  American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
 <br/><br/>
 En 1941 : World War II: Thousands of civilians in German-occupied Serbia are murdered in the Kragujevac massacre.
 <br/><br/>
@@ -86,7 +86,7 @@ En 2022 : Liz Truss steps down as British Prime Minister and leader of the Conse
 <br/><br/>
 En 2017 : Syrian civil war: The Syrian Democratic Forces (SDF) declare victory in the Raqqa campaign.
 <br/><br/>
-En 2011 : Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill him shortly thereafter, ending the first Libyan civil war.
+En 2011 : Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill them shortly thereafter, ending the first Libyan civil war.
 <br/><br/>
 En 2005 : The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
 <br/><br/>
@@ -130,7 +130,7 @@ En 1944 : World War II: The Soviet Red Army and Yugoslav Partisans liberate Belg
 <br/><br/>
 En 1944 : Liquefied natural gas leaks from storage tanks in Cleveland and then explodes, leveling 30 blocks and killing 130 people.
 <br/><br/>
-En 1944 : American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
+En 1944 : World War II:  American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
 <br/><br/>
 En 1941 : World War II: Thousands of civilians in German-occupied Serbia are murdered in the Kragujevac massacre.
 <br/><br/>
