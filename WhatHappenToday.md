@@ -12,6 +12,8 @@ En 2019 : Thirty people are killed in a fiery bus crash in western Democratic Re
 <br/><br/>
 En 2019 : In Canada, the 2019 Canadian federal election ends, resulting in incumbent Prime Minister Justin Trudeau remaining in office, albeit with the Liberal Party in a minority government.
 <br/><br/>
+En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people and injuring 187.
+<br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
 En 2005 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
@@ -121,6 +123,8 @@ En 2021 : A shooting occurs on the set of the film Rust, in which actor Alec Bal
 En 2019 : Thirty people are killed in a fiery bus crash in western Democratic Republic of the Congo.
 <br/><br/>
 En 2019 : In Canada, the 2019 Canadian federal election ends, resulting in incumbent Prime Minister Justin Trudeau remaining in office, albeit with the Liberal Party in a minority government.
+<br/><br/>
+En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people and injuring 187.
 <br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
