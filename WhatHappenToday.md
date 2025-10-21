@@ -16,7 +16,7 @@ En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people a
 <br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
-En 2005 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
+En 2003 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
 <br/><br/>
 En 1994 : North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
 <br/><br/>
@@ -128,7 +128,7 @@ En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people a
 <br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
-En 2005 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
+En 2003 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
 <br/><br/>
 En 1994 : North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
 <br/><br/>
