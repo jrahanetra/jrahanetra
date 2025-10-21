@@ -116,7 +116,7 @@ En 1097 : First Crusade: Crusaders led by Godfrey of Bouillon, Bohemund of Taran
 <br/><br/>
 En 1096 : A Seljuk Turkish army successfully fights off the People's Crusade at the Battle of Civetot.
 <br/><br/>
-En 310 : Sixty-seven days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.
+En 310 : Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.
 <br/><br/>
 En 2021 : A shooting occurs on the set of the film Rust, in which actor Alec Baldwin discharged a prop weapon which had been loaded, killing the director of photography, Halyna Hutchins, and injuring director Joel Souza.
 <br/><br/>
@@ -228,5 +228,5 @@ En 1097 : First Crusade: Crusaders led by Godfrey of Bouillon, Bohemund of Taran
 <br/><br/>
 En 1096 : A Seljuk Turkish army successfully fights off the People's Crusade at the Battle of Civetot.
 <br/><br/>
-En 310 : Sixty-seven days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.
+En 310 : Sixty-five days after being exiled by the Emperor Maxentius to Sicily, Pope Eusebius dies.
 <br/><br/>
