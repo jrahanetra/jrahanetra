@@ -60,7 +60,7 @@ En 1910 : Hawley Harvey Crippen (the first felon to be arrested with the help of
 <br/><br/>
 En 1907 : A run on the stock of the Knickerbocker Trust Company sets events in motion that will spark the Panic of 1907.
 <br/><br/>
-En 1895 : In Paris an express train derails after overrunning the buffer stop, crossing almost 30 metres (100 ft) of concourse before crashing through a wall and falling 10 metres (33 ft) to the road below.
+En 1895 : In Paris, an express train derails after overrunning the buffer stop, crossing almost 30 metres (100 ft) of concourse before crashing through a wall and falling 10 metres (33 ft) to the road below.
 <br/><br/>
 En 1884 : The International Meridian Conference designates the Royal Observatory, Greenwich as the world's prime meridian.
 <br/><br/>
@@ -156,7 +156,7 @@ En 1910 : Hawley Harvey Crippen (the first felon to be arrested with the help of
 <br/><br/>
 En 1907 : A run on the stock of the Knickerbocker Trust Company sets events in motion that will spark the Panic of 1907.
 <br/><br/>
-En 1895 : In Paris an express train derails after overrunning the buffer stop, crossing almost 30 metres (100 ft) of concourse before crashing through a wall and falling 10 metres (33 ft) to the road below.
+En 1895 : In Paris, an express train derails after overrunning the buffer stop, crossing almost 30 metres (100 ft) of concourse before crashing through a wall and falling 10 metres (33 ft) to the road below.
 <br/><br/>
 En 1884 : The International Meridian Conference designates the Royal Observatory, Greenwich as the world's prime meridian.
 <br/><br/>
