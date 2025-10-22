@@ -94,7 +94,7 @@ En 1724 : J. S. Bach leads the first performance of Schmücke dich, o liebe Seel
 <br/><br/>
 En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War.
 <br/><br/>
-En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival begin a period of civil war and disorder.
+En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
 En 906 : Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.
 <br/><br/>
@@ -190,7 +190,7 @@ En 1724 : J. S. Bach leads the first performance of Schmücke dich, o liebe Seel
 <br/><br/>
 En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War.
 <br/><br/>
-En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival begin a period of civil war and disorder.
+En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
 En 906 : Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.
 <br/><br/>
