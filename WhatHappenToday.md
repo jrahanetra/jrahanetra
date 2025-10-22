@@ -94,8 +94,6 @@ En 1724 : J. S. Bach leads the first performance of Schmücke dich, o liebe Seel
 <br/><br/>
 En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War.
 <br/><br/>
-En 1707 : In one of the worst maritime disasters in the history of the British Isles, at least 1,400 sailors on four Royal Navy ships were lost in stormy weather off the Isles of Scilly.
-<br/><br/>
 En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
 En 906 : Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.
@@ -191,8 +189,6 @@ En 1730 : Construction of the Ladoga Canal is completed in Russia.
 En 1724 : J. S. Bach leads the first performance of Schmücke dich, o liebe Seele (Adorn yourself, O dear soul) in Leipzig on the 20th Sunday after Trinity, based on the communion hymn of the same name.
 <br/><br/>
 En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish defeat in the Great Northern War.
-<br/><br/>
-En 1707 : In one of the worst maritime disasters in the history of the British Isles, at least 1,400 sailors on four Royal Navy ships were lost in stormy weather off the Isles of Scilly.
 <br/><br/>
 En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
