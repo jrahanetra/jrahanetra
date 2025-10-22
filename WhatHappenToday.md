@@ -52,7 +52,7 @@ En 1941 : World War II: French resistance member Guy Môquet and 29 other hostag
 <br/><br/>
 En 1936 : Dod Orsborne, captain of the Girl Pat is convicted of its theft and imprisoned, having caused a media sensation when it went missing.
 <br/><br/>
-En 1934 : In East Liverpool, Ohio, FBI agents shoot and kill notorious bank robber Pretty Boy Floyd.
+En 1934 : In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.
 <br/><br/>
 En 1923 : The royalist Leonardopoulos–Gargalidis coup d'état attempt fails in Greece, discrediting the monarchy and paving the way for the establishment of the Second Hellenic Republic.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1941 : World War II: French resistance member Guy Môquet and 29 other hostag
 <br/><br/>
 En 1936 : Dod Orsborne, captain of the Girl Pat is convicted of its theft and imprisoned, having caused a media sensation when it went missing.
 <br/><br/>
-En 1934 : In East Liverpool, Ohio, FBI agents shoot and kill notorious bank robber Pretty Boy Floyd.
+En 1934 : In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.
 <br/><br/>
 En 1923 : The royalist Leonardopoulos–Gargalidis coup d'état attempt fails in Greece, discrediting the monarchy and paving the way for the establishment of the Second Hellenic Republic.
 <br/><br/>
