@@ -116,7 +116,7 @@ En 1295 : The first treaty forming the Auld Alliance between Scotland and France
 <br/><br/>
 En 1157 : The Battle of Grathe Heath ends the Danish Civil War.
 <br/><br/>
-En 1086 : Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeats the Castilians, but are unable to take advantage of their victory.
+En 1086 : Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeat the Castilians, but are unable to take advantage of their victory.
 <br/><br/>
 En 502 : The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius.
 <br/><br/>
@@ -236,7 +236,7 @@ En 1295 : The first treaty forming the Auld Alliance between Scotland and France
 <br/><br/>
 En 1157 : The Battle of Grathe Heath ends the Danish Civil War.
 <br/><br/>
-En 1086 : Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeats the Castilians, but are unable to take advantage of their victory.
+En 1086 : Spanish Reconquista: At the Battle of Sagrajas, the Almoravids defeat the Castilians, but are unable to take advantage of their victory.
 <br/><br/>
 En 502 : The Synodus Palmaris, called by Gothic king Theoderic, absolves Pope Symmachus of all charges, thus ending the schism of Antipope Laurentius.
 <br/><br/>
