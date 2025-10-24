@@ -12,7 +12,7 @@ En 2016 : A French surveillance aircraft flying to Libya crashes on takeoff in M
 <br/><br/>
 En 2016 : Three heavily armed terrorists from the Islamic State – Khorasan Province open fire on and eventually suicide bomb a police training centre in Balochistan, Pakistan, killing at least 59 cadets and injuring more than 165 others.
 <br/><br/>
-En 2015 : A driver crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
+En 2015 : A driver deliberately crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
 <br/><br/>
 En 2014 : The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
 <br/><br/>
@@ -136,7 +136,7 @@ En 2016 : A French surveillance aircraft flying to Libya crashes on takeoff in M
 <br/><br/>
 En 2016 : Three heavily armed terrorists from the Islamic State – Khorasan Province open fire on and eventually suicide bomb a police training centre in Balochistan, Pakistan, killing at least 59 cadets and injuring more than 165 others.
 <br/><br/>
-En 2015 : A driver crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
+En 2015 : A driver deliberately crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
 <br/><br/>
 En 2014 : The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
 <br/><br/>
