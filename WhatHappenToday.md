@@ -70,7 +70,7 @@ En 1931 : The George Washington Bridge opens to public traffic over the Hudson R
 <br/><br/>
 En 1930 : A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
 <br/><br/>
-En 1929 : "Black Thursday" on the New York Stock Exchange.
+En 1929 : "Black Thursday" on the New York Stock Exchange, the first day of the panic in the markets that contributes to the Great Depression.
 <br/><br/>
 En 1926 : Harry Houdini's last performance takes place at the Garrick Theatre in Detroit.
 <br/><br/>
@@ -82,7 +82,7 @@ En 1912 : First Balkan War: The Battle of Kirk Kilisse concludes with a Bulgaria
 <br/><br/>
 En 1912 : First Balkan War: The Battle of Kumanovo concludes with the Serbian victory against the Ottoman Empire.
 <br/><br/>
-En 1911 : Orville Wright remains in the air nine minutes and 45 seconds in a glider at Kill Devil Hills, North Carolina.
+En 1911 : Orville Wright remains in the air for nine minutes and 45 seconds in a glider at Kill Devil Hills, North Carolina.
 <br/><br/>
 En 1902 : Guatemala's Santa María volcano begins to erupt, becoming the third-largest eruption of the 20th century.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1931 : The George Washington Bridge opens to public traffic over the Hudson R
 <br/><br/>
 En 1930 : A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
 <br/><br/>
-En 1929 : "Black Thursday" on the New York Stock Exchange.
+En 1929 : "Black Thursday" on the New York Stock Exchange, the first day of the panic in the markets that contributes to the Great Depression.
 <br/><br/>
 En 1926 : Harry Houdini's last performance takes place at the Garrick Theatre in Detroit.
 <br/><br/>
@@ -206,7 +206,7 @@ En 1912 : First Balkan War: The Battle of Kirk Kilisse concludes with a Bulgaria
 <br/><br/>
 En 1912 : First Balkan War: The Battle of Kumanovo concludes with the Serbian victory against the Ottoman Empire.
 <br/><br/>
-En 1911 : Orville Wright remains in the air nine minutes and 45 seconds in a glider at Kill Devil Hills, North Carolina.
+En 1911 : Orville Wright remains in the air for nine minutes and 45 seconds in a glider at Kill Devil Hills, North Carolina.
 <br/><br/>
 En 1902 : Guatemala's Santa María volcano begins to erupt, becoming the third-largest eruption of the 20th century.
 <br/><br/>
