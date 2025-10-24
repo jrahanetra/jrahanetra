@@ -26,6 +26,8 @@ En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbe
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
+En 2000 : Linkin Park releases their debut studio album, Hybrid Theory.
+<br/><br/>
 En 1998 : Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.
 <br/><br/>
 En 1992 : The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
@@ -65,8 +67,6 @@ En 1944 : World War II: Japan's center force is temporarily repulsed in the Batt
 En 1944 : World War II: The USS Shark (SS-314) was lost with all 87 hands in the Bashi Straits after torpedoing the Japanese freighter Arisan Maru.
 <br/><br/>
 En 1944 : World War II: The USS Tang (SS-306) sank in the Formosa Strait after being struck by its own torpedo, with 78 of its crew lost.
-<br/><br/>
-En 1944 : Steve Featherston was born
 <br/><br/>
 En 1931 : The George Washington Bridge opens to public traffic over the Hudson River.
 <br/><br/>
@@ -152,6 +152,8 @@ En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbe
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
+En 2000 : Linkin Park releases their debut studio album, Hybrid Theory.
+<br/><br/>
 En 1998 : Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.
 <br/><br/>
 En 1992 : The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
@@ -191,8 +193,6 @@ En 1944 : World War II: Japan's center force is temporarily repulsed in the Batt
 En 1944 : World War II: The USS Shark (SS-314) was lost with all 87 hands in the Bashi Straits after torpedoing the Japanese freighter Arisan Maru.
 <br/><br/>
 En 1944 : World War II: The USS Tang (SS-306) sank in the Formosa Strait after being struck by its own torpedo, with 78 of its crew lost.
-<br/><br/>
-En 1944 : Steve Featherston was born
 <br/><br/>
 En 1931 : The George Washington Bridge opens to public traffic over the Hudson River.
 <br/><br/>
