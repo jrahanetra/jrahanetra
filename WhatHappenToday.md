@@ -66,6 +66,8 @@ En 1944 : World War II: The USS Shark (SS-314) was lost with all 87 hands in the
 <br/><br/>
 En 1944 : World War II: The USS Tang (SS-306) sank in the Formosa Strait after being struck by its own torpedo, with 78 of its crew lost.
 <br/><br/>
+En 1944 : Steve Featherston was born
+<br/><br/>
 En 1931 : The George Washington Bridge opens to public traffic over the Hudson River.
 <br/><br/>
 En 1930 : A bloodless coup d'état in Brazil ends the First Republic, replacing it with the Vargas Era.
@@ -189,6 +191,8 @@ En 1944 : World War II: Japan's center force is temporarily repulsed in the Batt
 En 1944 : World War II: The USS Shark (SS-314) was lost with all 87 hands in the Bashi Straits after torpedoing the Japanese freighter Arisan Maru.
 <br/><br/>
 En 1944 : World War II: The USS Tang (SS-306) sank in the Formosa Strait after being struck by its own torpedo, with 78 of its crew lost.
+<br/><br/>
+En 1944 : Steve Featherston was born
 <br/><br/>
 En 1931 : The George Washington Bridge opens to public traffic over the Hudson River.
 <br/><br/>
