@@ -26,8 +26,6 @@ En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbe
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
-En 2000 : Linkin Park releases their debut studio album, Hybrid Theory.
-<br/><br/>
 En 1998 : Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.
 <br/><br/>
 En 1992 : The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
@@ -151,8 +149,6 @@ En 2005 : Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 
 En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbeaten matches at 49 matches, which is the record in the Premier League.
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
-<br/><br/>
-En 2000 : Linkin Park releases their debut studio album, Hybrid Theory.
 <br/><br/>
 En 1998 : Deep Space 1 is launched to explore the asteroid belt and test new spacecraft technologies.
 <br/><br/>
