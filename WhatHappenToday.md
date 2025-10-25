@@ -24,6 +24,8 @@ En 1995 : A commuter train slams into a school bus in Fox River Grove, Illinois,
 <br/><br/>
 En 1990 : The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.
 <br/><br/>
+En 1989 : The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.
+<br/><br/>
 En 1983 : The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.
 <br/><br/>
 En 1980 : Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.
@@ -33,6 +35,8 @@ En 1973 : Egypt and Israel accept United Nations Security Council Resolution 339
 En 1971 : The People's Republic of China replaces the Republic of China at the United Nations.
 <br/><br/>
 En 1968 : A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people.
+<br/><br/>
+En 1968 : Soyuz 2 is launched.
 <br/><br/>
 En 1962 : Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
 <br/><br/>
@@ -106,6 +110,8 @@ En 1995 : A commuter train slams into a school bus in Fox River Grove, Illinois,
 <br/><br/>
 En 1990 : The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.
 <br/><br/>
+En 1989 : The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.
+<br/><br/>
 En 1983 : The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.
 <br/><br/>
 En 1980 : Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.
@@ -115,6 +121,8 @@ En 1973 : Egypt and Israel accept United Nations Security Council Resolution 339
 En 1971 : The People's Republic of China replaces the Republic of China at the United Nations.
 <br/><br/>
 En 1968 : A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people.
+<br/><br/>
+En 1968 : Soyuz 2 is launched.
 <br/><br/>
 En 1962 : Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
 <br/><br/>
