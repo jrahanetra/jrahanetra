@@ -40,6 +40,8 @@ En 1968 : Soyuz 2 is launched.
 <br/><br/>
 En 1962 : Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
 <br/><br/>
+En 1950 : The 7th Regiment of the 6th Division of the Republic of Korea Army reached the Yalu River at Ch'osan, becoming the first group from the south to arrive at the border with China, and began firing artillery shells into Chinese territory. The Battle of Onjong, the first major battle in the Korean War between the Chinese and United Nations forces, began after Communist Chinese forces encountered a regiment of the 6th Division of the South Korean Army.
+<br/><br/>
 En 1949 : The Battle of Guningtou in the Taiwan Strait begins.
 <br/><br/>
 En 1945 : Fifty years of Japanese administration of Taiwan formally ends when the Republic of China assumes control.
@@ -125,6 +127,8 @@ En 1968 : A Fairchild F-27 crashes into Moose Mountain while on approach to Leba
 En 1968 : Soyuz 2 is launched.
 <br/><br/>
 En 1962 : Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
+<br/><br/>
+En 1950 : The 7th Regiment of the 6th Division of the Republic of Korea Army reached the Yalu River at Ch'osan, becoming the first group from the south to arrive at the border with China, and began firing artillery shells into Chinese territory. The Battle of Onjong, the first major battle in the Korean War between the Chinese and United Nations forces, began after Communist Chinese forces encountered a regiment of the 6th Division of the South Korean Army.
 <br/><br/>
 En 1949 : The Battle of Guningtou in the Taiwan Strait begins.
 <br/><br/>
