@@ -34,8 +34,6 @@ En 1989 : China Airlines Flight 204 crashes after takeoff from Hualien Airport i
 <br/><br/>
 En 1985 : The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
 <br/><br/>
-En 1981 : Urho Kekkonen, the 8th President of Finland, resigns after being the longest-serving Finnish president since 1956.
-<br/><br/>
 En 1979 : Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
 <br/><br/>
 En 1977 : Ali Maow Maalin, the last natural case of smallpox, develops a rash in Somalia. The WHO and the CDC consider this date to be the anniversary of the eradication of smallpox, the most spectacular success of vaccination.
@@ -133,8 +131,6 @@ En 1991 : Three months after the end of the Ten-Day War, the last soldier of the
 En 1989 : China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
 <br/><br/>
 En 1985 : The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
-<br/><br/>
-En 1981 : Urho Kekkonen, the 8th President of Finland, resigns after being the longest-serving Finnish president since 1956.
 <br/><br/>
 En 1979 : Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
 <br/><br/>
