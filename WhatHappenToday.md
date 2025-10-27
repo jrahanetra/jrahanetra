@@ -50,7 +50,7 @@ En 1958 : Iskander Mirza, the first President of Pakistan, is deposed by General
 <br/><br/>
 En 1954 : Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
 <br/><br/>
-En 1948 : Ecological disaster in Donora, Pennsylvania.
+En 1948 : A deadly smog event begins in Donora, Pennsylvania, eventually killing 20 and sickening thousands.
 <br/><br/>
 En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
 <br/><br/>
@@ -144,7 +144,7 @@ En 1958 : Iskander Mirza, the first President of Pakistan, is deposed by General
 <br/><br/>
 En 1954 : Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
 <br/><br/>
-En 1948 : Ecological disaster in Donora, Pennsylvania.
+En 1948 : A deadly smog event begins in Donora, Pennsylvania, eventually killing 20 and sickening thousands.
 <br/><br/>
 En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
 <br/><br/>
