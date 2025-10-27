@@ -54,7 +54,7 @@ En 1948 : Ecological disaster in Donora, Pennsylvania.
 <br/><br/>
 En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
 <br/><br/>
-En 1936 : Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
+En 1936 : Abdication Crisis:  Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
 <br/><br/>
 En 1930 : Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1948 : Ecological disaster in Donora, Pennsylvania.
 <br/><br/>
 En 1944 : World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
 <br/><br/>
-En 1936 : Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
+En 1936 : Abdication Crisis:  Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
 <br/><br/>
 En 1930 : Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
 <br/><br/>
