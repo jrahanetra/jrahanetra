@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 28/10 ?(Hover on the year)</h1>
 
-En 2023 : The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 11 to 12, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
+En 2023 : The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 12 to 11, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
 <br/><br/>
 En 2018 : Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.
 <br/><br/>
@@ -116,7 +116,7 @@ En 306 : Maxentius is proclaimed Roman emperor.
 <br/><br/>
 En 97 : Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.
 <br/><br/>
-En 2023 : The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 11 to 12, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
+En 2023 : The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 12 to 11, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
 <br/><br/>
 En 2018 : Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.
 <br/><br/>
