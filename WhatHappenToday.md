@@ -38,7 +38,7 @@ En 1998 : In South Africa, the Truth and Reconciliation Commission presents its 
 <br/><br/>
 En 1998 : Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
 <br/><br/>
-En 1998 : ATSC HDTV broadcasting in the United States is inaugurated with the launch of the STS-95 space shuttle mission.
+En 1998 : ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission.
 <br/><br/>
 En 1998 : Hurricane Mitch, the second deadliest Atlantic hurricane in history, makes landfall in Honduras.
 <br/><br/>
@@ -84,13 +84,13 @@ En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political 
 <br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
-En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventualy contributing to the Great Depression.
+En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventually contributing to the Great Depression.
 <br/><br/>
 En 1923 : Turkey becomes a republic following the dissolution of the Ottoman Empire.
 <br/><br/>
-En 1918 : The German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.
+En 1918 : World War I:  the German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.
 <br/><br/>
-En 1914 : Ottoman entry into World War I.
+En 1914 : World War I :  the Ottoman Empire enters the war on the side of the Central Powers.
 <br/><br/>
 En 1888 : The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1998 : In South Africa, the Truth and Reconciliation Commission presents its 
 <br/><br/>
 En 1998 : Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
 <br/><br/>
-En 1998 : ATSC HDTV broadcasting in the United States is inaugurated with the launch of the STS-95 space shuttle mission.
+En 1998 : ATSC HDTV broadcasting in the United States is inaugurated with live coverage of the launch of the STS-95 space shuttle mission.
 <br/><br/>
 En 1998 : Hurricane Mitch, the second deadliest Atlantic hurricane in history, makes landfall in Honduras.
 <br/><br/>
@@ -196,13 +196,13 @@ En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political 
 <br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
-En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventualy contributing to the Great Depression.
+En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventually contributing to the Great Depression.
 <br/><br/>
 En 1923 : Turkey becomes a republic following the dissolution of the Ottoman Empire.
 <br/><br/>
-En 1918 : The German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.
+En 1918 : World War I:  the German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.
 <br/><br/>
-En 1914 : Ottoman entry into World War I.
+En 1914 : World War I :  the Ottoman Empire enters the war on the side of the Central Powers.
 <br/><br/>
 En 1888 : The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.
 <br/><br/>
