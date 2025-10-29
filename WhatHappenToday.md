@@ -70,7 +70,7 @@ En 1957 : Israel's prime minister David Ben-Gurion and five of his ministers are
 <br/><br/>
 En 1956 : Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal.
 <br/><br/>
-En 1955 : The Soviet battleship Novorossiysk strikes a World War II mine in the harbor at Sevastopol.
+En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailers.
 <br/><br/>
 En 1953 : BCPA Flight 304 DC-6 crashes near San Francisco.
 <br/><br/>
@@ -80,7 +80,7 @@ En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armo
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
 <br/><br/>
-En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting to register outrage over Nazi Germany's persecution of Jews.
+En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting at the Royal Albert Hall to register outrage over Nazi Germany's persecution of Jews.
 <br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
@@ -182,7 +182,7 @@ En 1957 : Israel's prime minister David Ben-Gurion and five of his ministers are
 <br/><br/>
 En 1956 : Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal.
 <br/><br/>
-En 1955 : The Soviet battleship Novorossiysk strikes a World War II mine in the harbor at Sevastopol.
+En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailers.
 <br/><br/>
 En 1953 : BCPA Flight 304 DC-6 crashes near San Francisco.
 <br/><br/>
@@ -192,7 +192,7 @@ En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armo
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
 <br/><br/>
-En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting to register outrage over Nazi Germany's persecution of Jews.
+En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting at the Royal Albert Hall to register outrage over Nazi Germany's persecution of Jews.
 <br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
