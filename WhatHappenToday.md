@@ -62,7 +62,7 @@ En 1967 : Montreal's World Fair, Expo 67, closes with over 50 million visitors.
 <br/><br/>
 En 1964 : The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.
 <br/><br/>
-En 1964 : Biggest jewel heist; involving the Star of India in the American Museum of Natural History in New York City by Murph the Surf and gang.
+En 1964 : Biggest jewel heist in American history when Murph the Surf and gang burgle the American Museum of Natural History stealing the Star of India and other gems.
 <br/><br/>
 En 1960 : An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1953 : BCPA Flight 304 DC-6 crashes near San Francisco.
 <br/><br/>
 En 1948 : Israeli-Palestinian conflict: Safsaf massacre: Israeli soldiers capture the Palestinian village of Safsaf in the Galilee; afterwards, between 52 and 64 villagers are massacred by the IDF.
 <br/><br/>
-En 1944 : The Dutch city of Breda is liberated by 1st Polish Armoured Division.
+En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armoured Division.
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1967 : Montreal's World Fair, Expo 67, closes with over 50 million visitors.
 <br/><br/>
 En 1964 : The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.
 <br/><br/>
-En 1964 : Biggest jewel heist; involving the Star of India in the American Museum of Natural History in New York City by Murph the Surf and gang.
+En 1964 : Biggest jewel heist in American history when Murph the Surf and gang burgle the American Museum of Natural History stealing the Star of India and other gems.
 <br/><br/>
 En 1960 : An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1953 : BCPA Flight 304 DC-6 crashes near San Francisco.
 <br/><br/>
 En 1948 : Israeli-Palestinian conflict: Safsaf massacre: Israeli soldiers capture the Palestinian village of Safsaf in the Galilee; afterwards, between 52 and 64 villagers are massacred by the IDF.
 <br/><br/>
-En 1944 : The Dutch city of Breda is liberated by 1st Polish Armoured Division.
+En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armoured Division.
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
 <br/><br/>
