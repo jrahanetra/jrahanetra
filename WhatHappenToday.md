@@ -12,7 +12,7 @@ En 2022 : At least 100 people are killed and over 300 are injured by a double c
 <br/><br/>
 En 2020 : Jeremy Corbyn, Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party.
 <br/><br/>
-En 2018 : A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.
+En 2018 : A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.  This is the first of two crashes that will lead to the plane being grounded worldwide.
 <br/><br/>
 En 2015 : China announces the end of its one-child policy after 35 years.
 <br/><br/>
@@ -124,7 +124,7 @@ En 2022 : At least 100 people are killed and over 300 are injured by a double c
 <br/><br/>
 En 2020 : Jeremy Corbyn, Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party.
 <br/><br/>
-En 2018 : A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.
+En 2018 : A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.  This is the first of two crashes that will lead to the plane being grounded worldwide.
 <br/><br/>
 En 2015 : China announces the end of its one-child policy after 35 years.
 <br/><br/>
