@@ -80,8 +80,6 @@ En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armo
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
 <br/><br/>
-En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting at the Royal Albert Hall to register outrage over Nazi Germany's persecution of Jews.
-<br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
 En 1929 : Black Tuesday: The New York Stock Exchange crashes, ending the Great Bull Market of the 1920s and eventually contributing to the Great Depression.
@@ -191,8 +189,6 @@ En 1948 : Israeli-Palestinian conflict: Safsaf massacre: Israeli soldiers captur
 En 1944 : World War II:  The Dutch city of Breda is liberated by 1st Polish Armoured Division.
 <br/><br/>
 En 1944 : World War II: The Soviet Red Army enters Hungary.
-<br/><br/>
-En 1942 : The Holocaust: In the United Kingdom, leading clergymen and political figures hold a public meeting at the Royal Albert Hall to register outrage over Nazi Germany's persecution of Jews.
 <br/><br/>
 En 1941 : The Holocaust: In the Kaunas Ghetto, over 10,000 Jews are shot by German occupiers at the Ninth Fort, a massacre known as the "Great Action".
 <br/><br/>
