@@ -56,8 +56,6 @@ En 1948 : A luzzu fishing boat overloaded with passengers capsizes and sinks in 
 <br/><br/>
 En 1947 : The General Agreement on Tariffs and Trade (GATT), the foundation of the World Trade Organization (WTO), is founded.
 <br/><br/>
-En 1945 : Jackie Robinson of the Kansas City Monarchs signs a contract for the Brooklyn Dodgers, breaking the baseball color line.
-<br/><br/>
 En 1944 : Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII.
 <br/><br/>
 En 1942 : World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.
@@ -153,8 +151,6 @@ En 1953 : President Eisenhower approves the top-secret document NSC 162/2 concer
 En 1948 : A luzzu fishing boat overloaded with passengers capsizes and sinks in the Gozo Channel off Qala, Gozo, Malta, killing 23 of the 27 people on board.
 <br/><br/>
 En 1947 : The General Agreement on Tariffs and Trade (GATT), the foundation of the World Trade Organization (WTO), is founded.
-<br/><br/>
-En 1945 : Jackie Robinson of the Kansas City Monarchs signs a contract for the Brooklyn Dodgers, breaking the baseball color line.
 <br/><br/>
 En 1944 : Holocaust: Anne and Margot Frank are deported from Auschwitz to the Bergen-Belsen concentration camp, where they die from disease the following year, shortly before the end of WWII.
 <br/><br/>
