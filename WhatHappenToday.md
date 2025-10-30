@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 30/10 ?(Hover on the year)</h1>
 
-En 2025 : Andrew Mountbatten Windsor is stripped of his royal titles, losing his right to be a prince, due to associations with Jeffrey Epstein
-<br/><br/>
 En 2023 : First rescue of a prisoner during the Israeli invasion of Gaza.
 <br/><br/>
 En 2022 : A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
@@ -103,8 +101,6 @@ En 758 : Guangzhou is sacked by Arab and Persian pirates.
 En 637 : Arab–Byzantine wars: Antioch surrenders to the Rashidun Caliphate after the Battle of the Iron Bridge.
 <br/><br/>
 En 130 : Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
-<br/><br/>
-En 2025 : Andrew Mountbatten Windsor is stripped of his royal titles, losing his right to be a prince, due to associations with Jeffrey Epstein
 <br/><br/>
 En 2023 : First rescue of a prisoner during the Israeli invasion of Gaza.
 <br/><br/>
