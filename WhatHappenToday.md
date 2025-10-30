@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 30/10 ?(Hover on the year)</h1>
 
-En 2023 : First rescue of a hostage from Gaza during Iron Swords War.
+En 2023 : First rescue of a prisoner during the Israeli invasion of Gaza.
 <br/><br/>
 En 2022 : A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
 <br/><br/>
@@ -14,7 +14,7 @@ En 2020 : A magnitude 7.0 earthquake strikes the Aegean Sea between Greece and T
 <br/><br/>
 En 2015 : A fire in a nightclub in the Romanian capital of Bucharest kills sixty-four people and leaves more than 147 injured.
 <br/><br/>
-En 2014 : Sweden becomes the first European Union member state to officially recognize the State of Palestine.
+En 2014 : Sweden becomes the first European Union member state to officially recognize Palestine as an independent and sovereign state.
 <br/><br/>
 En 2014 : Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas.
 <br/><br/>
@@ -104,7 +104,7 @@ En 637 : Arab–Byzantine wars: Antioch surrenders to the Rashidun Caliphate aft
 <br/><br/>
 En 130 : Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
 <br/><br/>
-En 2023 : First rescue of a hostage from Gaza during Iron Swords War.
+En 2023 : First rescue of a prisoner during the Israeli invasion of Gaza.
 <br/><br/>
 En 2022 : A pedestrian suspension bridge collapses in the city of Morbi, Gujarat, leading to the deaths of at least 135 people.
 <br/><br/>
@@ -112,7 +112,7 @@ En 2020 : A magnitude 7.0 earthquake strikes the Aegean Sea between Greece and T
 <br/><br/>
 En 2015 : A fire in a nightclub in the Romanian capital of Bucharest kills sixty-four people and leaves more than 147 injured.
 <br/><br/>
-En 2014 : Sweden becomes the first European Union member state to officially recognize the State of Palestine.
+En 2014 : Sweden becomes the first European Union member state to officially recognize Palestine as an independent and sovereign state.
 <br/><br/>
 En 2014 : Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas.
 <br/><br/>
