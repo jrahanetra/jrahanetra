@@ -102,7 +102,7 @@ En 758 : Guangzhou is sacked by Arab and Persian pirates.
 <br/><br/>
 En 637 : Arab–Byzantine wars: Antioch surrenders to the Rashidun Caliphate after the Battle of the Iron Bridge.
 <br/><br/>
-En 130 : In 130 CE, Emperor Hadrian established the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
+En 130 : Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
 <br/><br/>
 En 2023 : First rescue of a hostage from Gaza during Iron Swords War.
 <br/><br/>
@@ -200,5 +200,5 @@ En 758 : Guangzhou is sacked by Arab and Persian pirates.
 <br/><br/>
 En 637 : Arab–Byzantine wars: Antioch surrenders to the Rashidun Caliphate after the Battle of the Iron Bridge.
 <br/><br/>
-En 130 : In 130 CE, Emperor Hadrian established the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
+En 130 : Emperor Hadrian establishes the city of Antinoöpolis on the Nile in honour of his companion Antinous, creating a new Hellenizing foundation in Roman Egypt.
 <br/><br/>
