@@ -16,7 +16,7 @@ En 2014 : During a test flight, the VSS Enterprise, a Virgin Galactic experiment
 <br/><br/>
 En 2011 : The global population of humans reaches seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.
 <br/><br/>
-En 2009 : Satoshi Nakamoto posted the Bitcoin white-paper on the cypherpunks cryptography mailing list.
+En 2008 : Satoshi Nakamoto posted the Bitcoin white-paper on the cypherpunks cryptography mailing list.
 <br/><br/>
 En 2003 : Mahathir Mohamad resigns as Prime Minister of Malaysia and is replaced by Deputy Prime Minister Abdullah Ahmad Badawi, marking an end to Mahathir's 22 years in power.
 <br/><br/>
@@ -112,7 +112,7 @@ En 2014 : During a test flight, the VSS Enterprise, a Virgin Galactic experiment
 <br/><br/>
 En 2011 : The global population of humans reaches seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.
 <br/><br/>
-En 2009 : Satoshi Nakamoto posted the Bitcoin white-paper on the cypherpunks cryptography mailing list.
+En 2008 : Satoshi Nakamoto posted the Bitcoin white-paper on the cypherpunks cryptography mailing list.
 <br/><br/>
 En 2003 : Mahathir Mohamad resigns as Prime Minister of Malaysia and is replaced by Deputy Prime Minister Abdullah Ahmad Badawi, marking an end to Mahathir's 22 years in power.
 <br/><br/>
