@@ -40,13 +40,13 @@ En 1984 : Indian Prime Minister Indira Gandhi is assassinated by two Sikh securi
 <br/><br/>
 En 1979 : Western Airlines Flight 2605 crashes on landing in Mexico City, killing 73 people.
 <br/><br/>
-En 1973 : Mountjoy Prison helicopter escape. Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.
+En 1973 : Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.
 <br/><br/>
 En 1968 : Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of "all air, naval, and artillery bombardment of North Vietnam" effective November 1.
 <br/><br/>
 En 1963 : Indiana State Fairgrounds Coliseum gas explosion: A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis kills 81 people and injures another 400 during an ice show.
 <br/><br/>
-En 1961 : In the Soviet Union, Joseph Stalin's body is removed from Lenin's Mausoleum, also known as the Lenin Tomb.
+En 1961 : In the Soviet Union, Joseph Stalin's body is removed from Lenin's Mausoleum, and is buried near the Kremlin Wall under a plain white marker.
 <br/><br/>
 En 1956 : Suez Crisis: The United Kingdom and France begin bombing Egypt to force the reopening of the Suez Canal.
 <br/><br/>
@@ -136,13 +136,13 @@ En 1984 : Indian Prime Minister Indira Gandhi is assassinated by two Sikh securi
 <br/><br/>
 En 1979 : Western Airlines Flight 2605 crashes on landing in Mexico City, killing 73 people.
 <br/><br/>
-En 1973 : Mountjoy Prison helicopter escape. Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.
+En 1973 : Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.
 <br/><br/>
 En 1968 : Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of "all air, naval, and artillery bombardment of North Vietnam" effective November 1.
 <br/><br/>
 En 1963 : Indiana State Fairgrounds Coliseum gas explosion: A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis kills 81 people and injures another 400 during an ice show.
 <br/><br/>
-En 1961 : In the Soviet Union, Joseph Stalin's body is removed from Lenin's Mausoleum, also known as the Lenin Tomb.
+En 1961 : In the Soviet Union, Joseph Stalin's body is removed from Lenin's Mausoleum, and is buried near the Kremlin Wall under a plain white marker.
 <br/><br/>
 En 1956 : Suez Crisis: The United Kingdom and France begin bombing Egypt to force the reopening of the Suez Canal.
 <br/><br/>
