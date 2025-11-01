@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 1/11 ?(Hover on the year)</h1>
 
+En 2025 : A mass stabbing occurs on an LNER train near Huntingdon railway station in Cambridgeshire, England.
+<br/><br/>
 En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 14 people and injuring 3.
 <br/><br/>
 En 2012 : A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh, killing 26 people and injuring 135.
@@ -169,6 +171,8 @@ En 1141 : Empress Matilda's reign as "Lady of the English" ends as Stephen of Bl
 En 996 : Emperor Otto III issues a deed to Gottschalk, Bishop of Freising, which is the oldest known document using the name Ostarrîchi (Austria in Old High German).
 <br/><br/>
 En 365 : Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul.
+<br/><br/>
+En 2025 : A mass stabbing occurs on an LNER train near Huntingdon railway station in Cambridgeshire, England.
 <br/><br/>
 En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 14 people and injuring 3.
 <br/><br/>
