@@ -34,6 +34,8 @@ En 1983 : U.S. President Ronald Reagan signs a bill creating Martin Luther King 
 <br/><br/>
 En 1982 : Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
 <br/><br/>
+En 1976 : Jimmy Carter elected 39th President of the United States.
+<br/><br/>
 En 1973 : Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
 <br/><br/>
 En 1967 : Vietnam War: US President Lyndon B. Johnson and "The Wise Men" conclude that the American people should be given more optimistic reports on the progress of the war.
@@ -65,6 +67,8 @@ En 1947 : In California, designer Howard Hughes performs the maiden (and only) f
 En 1940 : World War II: First day of Battle of Elaia–Kalamas between the Greeks and the Italians.
 <br/><br/>
 En 1936 : The BBC Television Service, the world's first regular, "high-definition" (then defined as at least 200 lines) service begins. Renamed BBC1 in 1964, the channel still runs to this day.
+<br/><br/>
+En 1930 : Tafari Makonnen crowned as Emperor Haile Selassie of Ethiopia: The coronation of Tafari Makonnen as Haile Selassie symbolized Ethiopia’s efforts at modernization and international diplomacy.
 <br/><br/>
 En 1920 : In the United States, KDKA of Pittsburgh starts broadcasting as the first commercial radio station. The first broadcast is the result of the 1920 United States presidential election.
 <br/><br/>
@@ -122,6 +126,8 @@ En 1983 : U.S. President Ronald Reagan signs a bill creating Martin Luther King 
 <br/><br/>
 En 1982 : Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
 <br/><br/>
+En 1976 : Jimmy Carter elected 39th President of the United States.
+<br/><br/>
 En 1973 : Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
 <br/><br/>
 En 1967 : Vietnam War: US President Lyndon B. Johnson and "The Wise Men" conclude that the American people should be given more optimistic reports on the progress of the war.
@@ -153,6 +159,8 @@ En 1947 : In California, designer Howard Hughes performs the maiden (and only) f
 En 1940 : World War II: First day of Battle of Elaia–Kalamas between the Greeks and the Italians.
 <br/><br/>
 En 1936 : The BBC Television Service, the world's first regular, "high-definition" (then defined as at least 200 lines) service begins. Renamed BBC1 in 1964, the channel still runs to this day.
+<br/><br/>
+En 1930 : Tafari Makonnen crowned as Emperor Haile Selassie of Ethiopia: The coronation of Tafari Makonnen as Haile Selassie symbolized Ethiopia’s efforts at modernization and international diplomacy.
 <br/><br/>
 En 1920 : In the United States, KDKA of Pittsburgh starts broadcasting as the first commercial radio station. The first broadcast is the result of the 1920 United States presidential election.
 <br/><br/>
