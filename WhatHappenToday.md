@@ -88,7 +88,7 @@ En 1898 : France withdraws its troops from Fashoda (now in Sudan), ending the Fa
 <br/><br/>
 En 1881 : The Mapuche uprising of 1881 begins in Chile.
 <br/><br/>
-En 1868 : John Willis Menard (R-LA) was the first African American elected to the United States Congress.  Because of an electoral challenge, he was never seated.
+En 1868 : John Willis Menard (R-LA) becomes the first African American elected to the United States Congress.  Because of an electoral challenge, he is never seated.
 <br/><br/>
 En 1867 : Giuseppe Garibaldi and his followers are defeated in the Battle of Mentana and fail to end the Pope's Temporal power in Rome (it would be achieved three years later).
 <br/><br/>
@@ -202,7 +202,7 @@ En 1898 : France withdraws its troops from Fashoda (now in Sudan), ending the Fa
 <br/><br/>
 En 1881 : The Mapuche uprising of 1881 begins in Chile.
 <br/><br/>
-En 1868 : John Willis Menard (R-LA) was the first African American elected to the United States Congress.  Because of an electoral challenge, he was never seated.
+En 1868 : John Willis Menard (R-LA) becomes the first African American elected to the United States Congress.  Because of an electoral challenge, he is never seated.
 <br/><br/>
 En 1867 : Giuseppe Garibaldi and his followers are defeated in the Battle of Mentana and fail to end the Pope's Temporal power in Rome (it would be achieved three years later).
 <br/><br/>
