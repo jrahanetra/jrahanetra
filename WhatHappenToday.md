@@ -64,7 +64,7 @@ En 1943 : World War II: Five hundred aircraft of the U.S. 8th Air Force devastat
 <br/><br/>
 En 1942 : World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.
 <br/><br/>
-En 1936 : Franklin D. Roosevelt is elected the 32nd President of the United States.
+En 1936 : Franklin D. Roosevelt is reelected as President of the United States.
 <br/><br/>
 En 1935 : George II of Greece regains his throne through a popular, though possibly fixed, plebiscite.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1943 : World War II: Five hundred aircraft of the U.S. 8th Air Force devastat
 <br/><br/>
 En 1942 : World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.
 <br/><br/>
-En 1936 : Franklin D. Roosevelt is elected the 32nd President of the United States.
+En 1936 : Franklin D. Roosevelt is reelected as President of the United States.
 <br/><br/>
 En 1935 : George II of Greece regains his throne through a popular, though possibly fixed, plebiscite.
 <br/><br/>
