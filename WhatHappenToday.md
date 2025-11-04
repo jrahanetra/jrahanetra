@@ -48,6 +48,8 @@ En 1956 : Soviet troops enter Hungary to end the Hungarian revolution against th
 <br/><br/>
 En 1952 : The United States government establishes the National Security Agency, or NSA.
 <br/><br/>
+En 1946 : UNESCO constitution comes into force: UNESCO’s constitution entered into force, creating a UN agency devoted to education, science and culture and promoting international collaboration.
+<br/><br/>
 En 1944 : World War II: The 7th Macedonian Liberation Brigade liberates Bitola for the Allies.
 <br/><br/>
 En 1944 : World War II: Operation Pheasant, an Allied offensive to liberate North Brabant in the Netherlands, ends successfully.
@@ -145,6 +147,8 @@ En 1960 : At the Kasakela Chimpanzee Community in Tanzania, Jane Goodall observe
 En 1956 : Soviet troops enter Hungary to end the Hungarian revolution against the Soviet Union that started on October 23. Thousands are killed, more are wounded, and nearly a quarter million leave the country.
 <br/><br/>
 En 1952 : The United States government establishes the National Security Agency, or NSA.
+<br/><br/>
+En 1946 : UNESCO constitution comes into force: UNESCO’s constitution entered into force, creating a UN agency devoted to education, science and culture and promoting international collaboration.
 <br/><br/>
 En 1944 : World War II: The 7th Macedonian Liberation Brigade liberates Bitola for the Allies.
 <br/><br/>
