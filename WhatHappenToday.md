@@ -92,7 +92,7 @@ En 1862 : American Civil War: Abraham Lincoln removes George B. McClellan as com
 <br/><br/>
 En 1862 : American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved.
 <br/><br/>
-En 1838 : On November 5, 1838, Honduras declared its absolute independence from the Federal Republic of Central America, becoming a fully sovereign nation.
+En 1838 : Honduras declared its absolute independence from the Federal Republic of Central America, becoming a fully sovereign nation.
 <br/><br/>
 En 1834 : Founding of the Free University of Brussels by Pierre-Théodore Verhaegen.
 <br/><br/>
@@ -204,7 +204,7 @@ En 1862 : American Civil War: Abraham Lincoln removes George B. McClellan as com
 <br/><br/>
 En 1862 : American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved.
 <br/><br/>
-En 1838 : On November 5, 1838, Honduras declared its absolute independence from the Federal Republic of Central America, becoming a fully sovereign nation.
+En 1838 : Honduras declared its absolute independence from the Federal Republic of Central America, becoming a fully sovereign nation.
 <br/><br/>
 En 1834 : Founding of the Free University of Brussels by Pierre-Théodore Verhaegen.
 <br/><br/>
