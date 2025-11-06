@@ -22,7 +22,7 @@ En 1988 : Lancang–Gengma earthquakes: At least 730 are killed after two powerf
 <br/><br/>
 En 1986 : Sumburgh disaster: A British International Helicopters Boeing 234LR Chinook crashes 2.5 miles (4.0 km) east of Sumburgh Airport killing 45 people. It is the deadliest civilian helicopter crash on record.
 <br/><br/>
-En 1985 : Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
+En 1985 : Colombian conflict: leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
 <br/><br/>
 En 1977 : The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
 <br/><br/>
@@ -38,15 +38,13 @@ En 1943 : World War II: The 1st Ukrainian Front liberates Kyiv from German occup
 <br/><br/>
 En 1936 : Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
 <br/><br/>
-En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
+En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York.
 <br/><br/>
 En 1869 : In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 <br/><br/>
 En 1860 : Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.
 <br/><br/>
 En 1792 : Battle of Jemappes in the French Revolutionary Wars.
-<br/><br/>
-En 1577 : The first recorded observation from Earth of the Great Comet of 1577 takes place by Aztec astronomers in Mexico, followed by reports from Italy on November 7 and Japan on November 8. Astronomer Tycho Brahe will track the comet from November 13 until January 26 before it departs the Solar System.
 <br/><br/>
 En 1217 : The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs.
 <br/><br/>
@@ -70,7 +68,7 @@ En 1988 : Lancang–Gengma earthquakes: At least 730 are killed after two powerf
 <br/><br/>
 En 1986 : Sumburgh disaster: A British International Helicopters Boeing 234LR Chinook crashes 2.5 miles (4.0 km) east of Sumburgh Airport killing 45 people. It is the deadliest civilian helicopter crash on record.
 <br/><br/>
-En 1985 : Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
+En 1985 : Colombian conflict: leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
 <br/><br/>
 En 1977 : The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
 <br/><br/>
@@ -86,15 +84,13 @@ En 1943 : World War II: The 1st Ukrainian Front liberates Kyiv from German occup
 <br/><br/>
 En 1936 : Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
 <br/><br/>
-En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
+En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York.
 <br/><br/>
 En 1869 : In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 <br/><br/>
 En 1860 : Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.
 <br/><br/>
 En 1792 : Battle of Jemappes in the French Revolutionary Wars.
-<br/><br/>
-En 1577 : The first recorded observation from Earth of the Great Comet of 1577 takes place by Aztec astronomers in Mexico, followed by reports from Italy on November 7 and Japan on November 8. Astronomer Tycho Brahe will track the comet from November 13 until January 26 before it departs the Solar System.
 <br/><br/>
 En 1217 : The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs.
 <br/><br/>
