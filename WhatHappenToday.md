@@ -24,8 +24,6 @@ En 1986 : Sumburgh disaster: A British International Helicopters Boeing 234LR Ch
 <br/><br/>
 En 1985 : Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
 <br/><br/>
-En 1984 : President Ronald Reagan wins a landslide re-election over Walter Mondale, carrying 49 of 50 states.
-<br/><br/>
 En 1977 : The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
 <br/><br/>
 En 1976 : Uttawar forced sterilisations: Mass vasectomy of nearly 800 men of Uttawar village, Palwal district, Haryana during India's Emergency imposed by Indira Gandhi.
@@ -41,8 +39,6 @@ En 1943 : World War II: The 1st Ukrainian Front liberates Kyiv from German occup
 En 1936 : Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
 <br/><br/>
 En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
-<br/><br/>
-En 1888 : Republican Benjamin Harrison wins the U.S. presidency despite losing the popular vote to Grover Cleveland by more than 90,000 ballots.
 <br/><br/>
 En 1869 : In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 <br/><br/>
@@ -76,8 +72,6 @@ En 1986 : Sumburgh disaster: A British International Helicopters Boeing 234LR Ch
 <br/><br/>
 En 1985 : Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
 <br/><br/>
-En 1984 : President Ronald Reagan wins a landslide re-election over Walter Mondale, carrying 49 of 50 states.
-<br/><br/>
 En 1977 : The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
 <br/><br/>
 En 1976 : Uttawar forced sterilisations: Mass vasectomy of nearly 800 men of Uttawar village, Palwal district, Haryana during India's Emergency imposed by Indira Gandhi.
@@ -93,8 +87,6 @@ En 1943 : World War II: The 1st Ukrainian Front liberates Kyiv from German occup
 En 1936 : Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
 <br/><br/>
 En 1900 : President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
-<br/><br/>
-En 1888 : Republican Benjamin Harrison wins the U.S. presidency despite losing the popular vote to Grover Cleveland by more than 90,000 ballots.
 <br/><br/>
 En 1869 : In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 <br/><br/>
