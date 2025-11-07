@@ -100,7 +100,7 @@ En 1916 : Woodrow Wilson is reelected as President of the United States.
 <br/><br/>
 En 1916 : Boston Elevated Railway Company's streetcar No. 393 smashes through the warning gates of the open Summer Street drawbridge in Boston, Massachusetts, plunging into the frigid waters of Fort Point Channel, killing 46 people.
 <br/><br/>
-En 1914 : The German colony of Kiaochow Bay and its centre at Tsingtao are captured by Japanese forces.
+En 1914 : The German colony of Kiaochow Bay and its centre at Tsingtao are captured by Japanese forces. This leaves Germany without a far east base.
 <br/><br/>
 En 1913 : The first day of the Great Lakes Storm of 1913, a massive blizzard that ultimately killed 250 and caused over $5 million (about $159,243,000 in 2024 dollars) damage. Winds reach hurricane force on this date.
 <br/><br/>
@@ -246,7 +246,7 @@ En 1916 : Woodrow Wilson is reelected as President of the United States.
 <br/><br/>
 En 1916 : Boston Elevated Railway Company's streetcar No. 393 smashes through the warning gates of the open Summer Street drawbridge in Boston, Massachusetts, plunging into the frigid waters of Fort Point Channel, killing 46 people.
 <br/><br/>
-En 1914 : The German colony of Kiaochow Bay and its centre at Tsingtao are captured by Japanese forces.
+En 1914 : The German colony of Kiaochow Bay and its centre at Tsingtao are captured by Japanese forces. This leaves Germany without a far east base.
 <br/><br/>
 En 1913 : The first day of the Great Lakes Storm of 1913, a massive blizzard that ultimately killed 250 and caused over $5 million (about $159,243,000 in 2024 dollars) damage. Winds reach hurricane force on this date.
 <br/><br/>
