@@ -118,7 +118,7 @@ En 1602 : The Bodleian Library at the University of Oxford is opened to the publ
 <br/><br/>
 En 1576 : Eighty Years' War: Pacification of Ghent: The States General of the Netherlands meet and unite to oppose Spanish occupation.
 <br/><br/>
-En 1520 : Stockholm Bloodbath begins: A successful invasion of Sweden by Danish forces results in the execution of around 100 people, mostly noblemen.
+En 1520 : After being crowned king of Sweden, Christian II gave the order to execute nearly 100 people, mostly noblemen, despite promises of general amnesty.
 <br/><br/>
 En 1519 : Hernán Cortés enters Tenochtitlán and Aztec ruler Moctezuma welcomes him with a great celebration.
 <br/><br/>
@@ -240,7 +240,7 @@ En 1602 : The Bodleian Library at the University of Oxford is opened to the publ
 <br/><br/>
 En 1576 : Eighty Years' War: Pacification of Ghent: The States General of the Netherlands meet and unite to oppose Spanish occupation.
 <br/><br/>
-En 1520 : Stockholm Bloodbath begins: A successful invasion of Sweden by Danish forces results in the execution of around 100 people, mostly noblemen.
+En 1520 : After being crowned king of Sweden, Christian II gave the order to execute nearly 100 people, mostly noblemen, despite promises of general amnesty.
 <br/><br/>
 En 1519 : Hernán Cortés enters Tenochtitlán and Aztec ruler Moctezuma welcomes him with a great celebration.
 <br/><br/>
