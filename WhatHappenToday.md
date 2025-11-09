@@ -156,6 +156,8 @@ En 1180 : The Battle of Fujigawa: Minamoto forces (30,000 men) under Minamoto no
 <br/><br/>
 En 694 : At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
 <br/><br/>
+En 324 : The Lateran Basilica in Rome was dedicated by Pope Sylvester I
+<br/><br/>
 En 2023 : U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.
 <br/><br/>
 En 2020 : Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia.
@@ -305,4 +307,6 @@ En 1277 : The Treaty of Aberconwy, a humiliating settlement forced on Llywelyn a
 En 1180 : The Battle of Fujigawa: Minamoto forces (30,000 men) under Minamoto no Yoritomo defeat Taira no Koremori during a night attack near the Fuji River but he escapes safely with the routed army.
 <br/><br/>
 En 694 : At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
+<br/><br/>
+En 324 : The Lateran Basilica in Rome was dedicated by Pope Sylvester I
 <br/><br/>
