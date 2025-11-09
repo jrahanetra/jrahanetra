@@ -54,6 +54,8 @@ En 1965 : A Catholic Worker Movement member, Roger Allen LaPorte, protesting aga
 <br/><br/>
 En 1963 : At a coal mine in Miike, Japan, an explosion kills 458 and hospitalises 839 with carbon monoxide poisoning.
 <br/><br/>
+En 1963 : The Tsurumi rail accident on the Tōkaidō Main Line in Yokohama kills 162 people.
+<br/><br/>
 En 1960 : Robert McNamara is named president of the Ford Motor Company, becoming the first non-Ford family member to serve in that post. He resigns a month later to join the newly elected John F. Kennedy administration.
 <br/><br/>
 En 1953 : Cambodia gains independence from France.
@@ -201,6 +203,8 @@ En 1965 : Several U.S. states and parts of Canada are hit by a series of blackou
 En 1965 : A Catholic Worker Movement member, Roger Allen LaPorte, protesting against the Vietnam War, sets himself on fire in front of the United Nations building.
 <br/><br/>
 En 1963 : At a coal mine in Miike, Japan, an explosion kills 458 and hospitalises 839 with carbon monoxide poisoning.
+<br/><br/>
+En 1963 : The Tsurumi rail accident on the Tōkaidō Main Line in Yokohama kills 162 people.
 <br/><br/>
 En 1960 : Robert McNamara is named president of the Ford Motor Company, becoming the first non-Ford family member to serve in that post. He resigns a month later to join the newly elected John F. Kennedy administration.
 <br/><br/>
