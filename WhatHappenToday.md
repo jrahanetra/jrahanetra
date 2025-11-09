@@ -72,7 +72,7 @@ En 1938 : Kristallnacht occurs, instigated by the Nazis using the killing of Ger
 <br/><br/>
 En 1937 : Second Sino-Japanese War: The Chinese Army withdraws from the Battle of Shanghai.
 <br/><br/>
-En 1936 : American fashion designer Ruth Harkness encounters and captures a nine-week-old panda cub in Sichuan; it becomes the first live giant panda to enter the United States.
+En 1936 : American fashion designer Ruth Harkness encounters and captures a nine-week-old panda cub in Sichuan; he becomes the first live giant panda to enter the United States.
 <br/><br/>
 En 1935 : The Committee for Industrial Organization, the precursor to the Congress of Industrial Organizations, is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor.
 <br/><br/>
@@ -224,7 +224,7 @@ En 1938 : Kristallnacht occurs, instigated by the Nazis using the killing of Ger
 <br/><br/>
 En 1937 : Second Sino-Japanese War: The Chinese Army withdraws from the Battle of Shanghai.
 <br/><br/>
-En 1936 : American fashion designer Ruth Harkness encounters and captures a nine-week-old panda cub in Sichuan; it becomes the first live giant panda to enter the United States.
+En 1936 : American fashion designer Ruth Harkness encounters and captures a nine-week-old panda cub in Sichuan; he becomes the first live giant panda to enter the United States.
 <br/><br/>
 En 1935 : The Committee for Industrial Organization, the precursor to the Congress of Industrial Organizations, is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor.
 <br/><br/>
