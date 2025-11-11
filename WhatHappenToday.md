@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 11/11 ?(Hover on the year)</h1>
 
+En 2024 : A vehicle-ramming attack in Zhuhai, China, kills 38 people and injures 48.
+<br/><br/>
 En 2022 : Russo-Ukrainian War: Ukrainian armed forces enter the city of Kherson following a successful two-month southern counteroffensive.
 <br/><br/>
 En 2020 : Typhoon Vamco makes landfall in Luzon and several offshore islands, killing 67 people. The storm causes the worst floods in the region since Typhoon Ketsana in 2009.
@@ -141,6 +143,8 @@ En 1100 : Henry I of England marries Matilda of Scotland, the daughter of Malcol
 En 1028 : Constantine VIII dies, ending his uninterrupted reign as emperor or co-emperor of the Byzantine Empire of 66 years.
 <br/><br/>
 En 308 : At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.
+<br/><br/>
+En 2024 : A vehicle-ramming attack in Zhuhai, China, kills 38 people and injures 48.
 <br/><br/>
 En 2022 : Russo-Ukrainian War: Ukrainian armed forces enter the city of Kherson following a successful two-month southern counteroffensive.
 <br/><br/>
