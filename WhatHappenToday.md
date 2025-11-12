@@ -82,7 +82,7 @@ En 1954 : Ellis Island ceases operations.
 <br/><br/>
 En 1948 : Aftermath of World War II: In Tokyo, the International Military Tribunal for the Far East sentences seven Japanese military and government officials, including General Hideki Tojo, to death for their roles in World War II.
 <br/><br/>
-En 1944 : World War II: The Royal Air Force launches 29 Avro Lancaster bombers, which sink the German battleship Tirpitz, with 12,000 lb Tallboy bombs off Tromsø, Norway.
+En 1944 : World War II: The Royal Air Force sink the German battleship Tirpitz, moored off Tromsø, Norway.
 <br/><br/>
 En 1942 : World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.
 <br/><br/>
@@ -206,7 +206,7 @@ En 1954 : Ellis Island ceases operations.
 <br/><br/>
 En 1948 : Aftermath of World War II: In Tokyo, the International Military Tribunal for the Far East sentences seven Japanese military and government officials, including General Hideki Tojo, to death for their roles in World War II.
 <br/><br/>
-En 1944 : World War II: The Royal Air Force launches 29 Avro Lancaster bombers, which sink the German battleship Tirpitz, with 12,000 lb Tallboy bombs off Tromsø, Norway.
+En 1944 : World War II: The Royal Air Force sink the German battleship Tirpitz, moored off Tromsø, Norway.
 <br/><br/>
 En 1942 : World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.
 <br/><br/>
