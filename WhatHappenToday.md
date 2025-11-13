@@ -42,7 +42,7 @@ En 1990 : In Aramoana, New Zealand, David Gray shoots dead 13 people in a massac
 <br/><br/>
 En 1989 : Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
 <br/><br/>
-En 1986 : The Late, Late Breakfast Show incident leads to death of 24 year old Michael Lush and show cancellation.
+En 1986 : Michael Lush falls to his death on the set of The Late, Late Breakfast Show, leading to the show's cancellation.
 <br/><br/>
 En 1985 : The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.
 <br/><br/>
@@ -60,7 +60,7 @@ En 1966 : In response to Fatah raids against Israelis near the West Bank border,
 <br/><br/>
 En 1966 : All Nippon Airways Flight 533 crashes into the Seto Inland Sea near Matsuyama Airport in Japan, killing 50 people.
 <br/><br/>
-En 1965 : Fire and sinking of SS Yarmouth Castle, 87 dead.
+En 1965 : The SS Yarmouth Castle catches fire and sinks, killing 87.
 <br/><br/>
 En 1956 : The Supreme Court of the United States affirmed a lower court ruling that invalidated Alabama laws requiring segregated buses, thus ending the Montgomery bus boycott.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1990 : In Aramoana, New Zealand, David Gray shoots dead 13 people in a massac
 <br/><br/>
 En 1989 : Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
 <br/><br/>
-En 1986 : The Late, Late Breakfast Show incident leads to death of 24 year old Michael Lush and show cancellation.
+En 1986 : Michael Lush falls to his death on the set of The Late, Late Breakfast Show, leading to the show's cancellation.
 <br/><br/>
 En 1985 : The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1966 : In response to Fatah raids against Israelis near the West Bank border,
 <br/><br/>
 En 1966 : All Nippon Airways Flight 533 crashes into the Seto Inland Sea near Matsuyama Airport in Japan, killing 50 people.
 <br/><br/>
-En 1965 : Fire and sinking of SS Yarmouth Castle, 87 dead.
+En 1965 : The SS Yarmouth Castle catches fire and sinks, killing 87.
 <br/><br/>
 En 1956 : The Supreme Court of the United States affirmed a lower court ruling that invalidated Alabama laws requiring segregated buses, thus ending the Montgomery bus boycott.
 <br/><br/>
