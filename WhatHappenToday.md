@@ -88,9 +88,9 @@ En 1916 : World War I: Prime Minister of Australia Billy Hughes is expelled from
 <br/><br/>
 En 1914 : Zaian War: Berber tribesmen inflict the heaviest defeat of French forces in Morocco at the Battle of El Herri.
 <br/><br/>
-En 1901 : The 1901 Caister lifeboat disaster.
+En 1901 : The 1901 Caister lifeboat disaster occurs, killing 9 of the 12 crew members.
 <br/><br/>
-En 1893 : 13 November stabbing by Léon Léauthier during the Ère des attentats (1892-1894). Influential event for the birth of modern terrorism.
+En 1893 : 13 November stabbing is committed by Léon Léauthier during the Ère des attentats. This is an influential event in the birth of modern terrorism.
 <br/><br/>
 En 1887 : Bloody Sunday clashes in central London.
 <br/><br/>
@@ -196,9 +196,9 @@ En 1916 : World War I: Prime Minister of Australia Billy Hughes is expelled from
 <br/><br/>
 En 1914 : Zaian War: Berber tribesmen inflict the heaviest defeat of French forces in Morocco at the Battle of El Herri.
 <br/><br/>
-En 1901 : The 1901 Caister lifeboat disaster.
+En 1901 : The 1901 Caister lifeboat disaster occurs, killing 9 of the 12 crew members.
 <br/><br/>
-En 1893 : 13 November stabbing by Léon Léauthier during the Ère des attentats (1892-1894). Influential event for the birth of modern terrorism.
+En 1893 : 13 November stabbing is committed by Léon Léauthier during the Ère des attentats. This is an influential event in the birth of modern terrorism.
 <br/><br/>
 En 1887 : Bloody Sunday clashes in central London.
 <br/><br/>
