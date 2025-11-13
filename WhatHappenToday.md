@@ -26,7 +26,7 @@ En 2000 : Philippine House Speaker Manny Villar passes the articles of impeachme
 <br/><br/>
 En 1996 : As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number,
 <br/><br/>
-En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empireit was portugese.
+En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.
 <br/><br/>
 En 1995 : Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.
 <br/><br/>
@@ -134,7 +134,7 @@ En 2000 : Philippine House Speaker Manny Villar passes the articles of impeachme
 <br/><br/>
 En 1996 : As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number,
 <br/><br/>
-En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empireit was portugese.
+En 1995 : Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.
 <br/><br/>
 En 1995 : Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.
 <br/><br/>
