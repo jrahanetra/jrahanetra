@@ -64,7 +64,7 @@ En 1967 : The Congress of Colombia, in commemoration of the 150th anniversary of
 <br/><br/>
 En 1967 : American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser.
 <br/><br/>
-En 1965 : Vietnam War: The Battle of Ia Drang begins: The first major engagement between regular American and North Vietnamese forces.
+En 1965 : Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces.
 <br/><br/>
 En 1960 : Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1967 : The Congress of Colombia, in commemoration of the 150th anniversary of
 <br/><br/>
 En 1967 : American physicist Theodore Maiman is given a patent for his ruby laser systems, the world's first laser.
 <br/><br/>
-En 1965 : Vietnam War: The Battle of Ia Drang begins: The first major engagement between regular American and North Vietnamese forces.
+En 1965 : Vietnam War: The Battle of Ia Drang begins. This is the first major engagement between regular American and North Vietnamese forces.
 <br/><br/>
 En 1960 : Ruby Bridges becomes the first black child to attend an all-white elementary school in Louisiana.
 <br/><br/>
