@@ -10,6 +10,8 @@ En 2022 : The world population reached eight billion.
 <br/><br/>
 En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
 <br/><br/>
+En 2020 : Olivia Govik released her debut single, 1997, on Spotify, featuring Peter Edström.
+<br/><br/>
 En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
 <br/><br/>
 En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
@@ -129,6 +131,8 @@ En 655 : Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumb
 En 2022 : The world population reached eight billion.
 <br/><br/>
 En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
+<br/><br/>
+En 2020 : Olivia Govik released her debut single, 1997, on Spotify, featuring Peter Edström.
 <br/><br/>
 En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
 <br/><br/>
