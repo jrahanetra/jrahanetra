@@ -42,7 +42,7 @@ En 1973 : U.S. president Richard Nixon signs the Trans-Alaska Pipeline Authoriza
 <br/><br/>
 En 1967 : Aeroflot Flight 2230 crashes near Koltsovo Airport, killing 107.
 <br/><br/>
-En 1966 : The Temptations release  Greatest Hits album which goes on to be Billboard Year-End R&B album of 1967.
+En 1966 : The Temptations release their Greatest Hits album, which goes on to be the Billboard Year-End R&B album of 1967.
 <br/><br/>
 En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1973 : U.S. president Richard Nixon signs the Trans-Alaska Pipeline Authoriza
 <br/><br/>
 En 1967 : Aeroflot Flight 2230 crashes near Koltsovo Airport, killing 107.
 <br/><br/>
-En 1966 : The Temptations release  Greatest Hits album which goes on to be Billboard Year-End R&B album of 1967.
+En 1966 : The Temptations release their Greatest Hits album, which goes on to be the Billboard Year-End R&B album of 1967.
 <br/><br/>
 En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
 <br/><br/>
