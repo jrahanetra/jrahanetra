@@ -46,9 +46,9 @@ En 1966 : The Temptations release  Greatest Hits album which goes on to be Billb
 <br/><br/>
 En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
 <br/><br/>
-En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
+En 1959 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
 <br/><br/>
-En 1958 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
+En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
 <br/><br/>
 En 1945 : UNESCO is founded.
 <br/><br/>
@@ -150,9 +150,9 @@ En 1966 : The Temptations release  Greatest Hits album which goes on to be Billb
 <br/><br/>
 En 1965 : Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
 <br/><br/>
-En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
+En 1959 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
 <br/><br/>
-En 1958 : National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
+En 1959 : Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
 <br/><br/>
 En 1945 : UNESCO is founded.
 <br/><br/>
