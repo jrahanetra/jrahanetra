@@ -14,7 +14,7 @@ En 2013 : A rare late-season tornado outbreak strikes the Midwest. Illinois and 
 <br/><br/>
 En 2012 : At least 50 schoolchildren are killed in an accident at a railway crossing near Manfalut, Egypt.
 <br/><br/>
-En 2003 : Actor Arnold Schwarzenegger's tenure as the governor of California began.
+En 2003 : Actor Arnold Schwarzenegger's tenure as the governor of California begins.
 <br/><br/>
 En 2000 : A catastrophic landslide in Log pod Mangartom, Slovenia, kills seven, and causes millions of SIT of damage. It is one of the worst catastrophes in Slovenia in the past 100 years.
 <br/><br/>
@@ -130,7 +130,7 @@ En 2013 : A rare late-season tornado outbreak strikes the Midwest. Illinois and 
 <br/><br/>
 En 2012 : At least 50 schoolchildren are killed in an accident at a railway crossing near Manfalut, Egypt.
 <br/><br/>
-En 2003 : Actor Arnold Schwarzenegger's tenure as the governor of California began.
+En 2003 : Actor Arnold Schwarzenegger's tenure as the governor of California begins.
 <br/><br/>
 En 2000 : A catastrophic landslide in Log pod Mangartom, Slovenia, kills seven, and causes millions of SIT of damage. It is one of the worst catastrophes in Slovenia in the past 100 years.
 <br/><br/>
