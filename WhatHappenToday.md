@@ -34,7 +34,7 @@ En 1987 : King's Cross fire: In London, 31 people die in a fire at the city's bu
 <br/><br/>
 En 1985 : The first comic of Calvin and Hobbes is published in ten newspapers.
 <br/><br/>
-En 1983 : Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentially raided on the ground, resulting in seven deaths.
+En 1983 : Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentialy raided on the ground, resulting in seven deaths.
 <br/><br/>
 En 1978 : The McDonnell Douglas F/A-18 Hornet makes its first flight, at the Naval Air Test Center in Maryland, United States.
 <br/><br/>
@@ -144,7 +144,7 @@ En 1987 : King's Cross fire: In London, 31 people die in a fire at the city's bu
 <br/><br/>
 En 1985 : The first comic of Calvin and Hobbes is published in ten newspapers.
 <br/><br/>
-En 1983 : Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentially raided on the ground, resulting in seven deaths.
+En 1983 : Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentialy raided on the ground, resulting in seven deaths.
 <br/><br/>
 En 1978 : The McDonnell Douglas F/A-18 Hornet makes its first flight, at the Naval Air Test Center in Maryland, United States.
 <br/><br/>
