@@ -54,7 +54,7 @@ En 1947 : The Ballantyne's Department Store fire in Christchurch, New Zealand, k
 <br/><br/>
 En 1944 : The Popular Socialist Youth is founded in Cuba.
 <br/><br/>
-En 1943 : World War II: Battle of Berlin: Four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
+En 1943 : World War II:  In the first action of the Berlin Air Offensive, four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
 <br/><br/>
 En 1940 : World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1947 : The Ballantyne's Department Store fire in Christchurch, New Zealand, k
 <br/><br/>
 En 1944 : The Popular Socialist Youth is founded in Cuba.
 <br/><br/>
-En 1943 : World War II: Battle of Berlin: Four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
+En 1943 : World War II:  In the first action of the Berlin Air Offensive, four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
 <br/><br/>
 En 1940 : World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece.
 <br/><br/>
