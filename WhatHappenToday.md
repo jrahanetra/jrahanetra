@@ -44,7 +44,7 @@ En 1971 : Oman declares its independence from the United Kingdom.
 <br/><br/>
 En 1970 : U.S. President Richard Nixon asks the U.S. Congress for $155 million in supplemental aid for the Cambodian government.
 <br/><br/>
-En 1963 : The first push-button telephone goes into service.
+En 1963 : The Bell Telephone Company introduces the first push-button telephone.
 <br/><br/>
 En 1961 : Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1971 : Oman declares its independence from the United Kingdom.
 <br/><br/>
 En 1970 : U.S. President Richard Nixon asks the U.S. Congress for $155 million in supplemental aid for the Cambodian government.
 <br/><br/>
-En 1963 : The first push-button telephone goes into service.
+En 1963 : The Bell Telephone Company introduces the first push-button telephone.
 <br/><br/>
 En 1961 : Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
 <br/><br/>
