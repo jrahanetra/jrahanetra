@@ -46,7 +46,7 @@ En 1970 : U.S. President Richard Nixon asks the U.S. Congress for $155 million 
 <br/><br/>
 En 1963 : The first push-button telephone goes into service.
 <br/><br/>
-En 1961 : United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
+En 1961 : Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
 <br/><br/>
 En 1949 : The Iva Valley Shooting occurs after the coal miners of Enugu in Nigeria go on strike over withheld wages; 21 miners are shot dead and 51 are wounded by police under the supervision of the British colonial administration of Nigeria.
 <br/><br/>
@@ -88,7 +88,7 @@ En 1863 : King Christian IX of Denmark signs the November constitution that decl
 <br/><br/>
 En 1812 : Napoleonic Wars: The Battle of Krasnoi ends in French defeat, but Marshal of France Michel Ney's leadership leads to him becoming known as "the bravest of the brave".
 <br/><br/>
-En 1809 : In a naval action during the Napoleonic Wars, French frigates defeat British East Indiamen in the Bay of Bengal.
+En 1809 : Napoleonic Wars:  In a naval action, French frigates defeat British East Indiamen in the Bay of Bengal.
 <br/><br/>
 En 1803 : The Battle of Vertières, the last major battle of the Haitian Revolution, is fought, leading to the establishment of the Republic of Haiti, the first black republic in the Western Hemisphere.
 <br/><br/>
@@ -156,7 +156,7 @@ En 1970 : U.S. President Richard Nixon asks the U.S. Congress for $155 million 
 <br/><br/>
 En 1963 : The first push-button telephone goes into service.
 <br/><br/>
-En 1961 : United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
+En 1961 : Vietnam War:  United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
 <br/><br/>
 En 1949 : The Iva Valley Shooting occurs after the coal miners of Enugu in Nigeria go on strike over withheld wages; 21 miners are shot dead and 51 are wounded by police under the supervision of the British colonial administration of Nigeria.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1863 : King Christian IX of Denmark signs the November constitution that decl
 <br/><br/>
 En 1812 : Napoleonic Wars: The Battle of Krasnoi ends in French defeat, but Marshal of France Michel Ney's leadership leads to him becoming known as "the bravest of the brave".
 <br/><br/>
-En 1809 : In a naval action during the Napoleonic Wars, French frigates defeat British East Indiamen in the Bay of Bengal.
+En 1809 : Napoleonic Wars:  In a naval action, French frigates defeat British East Indiamen in the Bay of Bengal.
 <br/><br/>
 En 1803 : The Battle of Vertières, the last major battle of the Haitian Revolution, is fought, leading to the establishment of the Republic of Haiti, the first black republic in the Western Hemisphere.
 <br/><br/>
