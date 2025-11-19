@@ -100,7 +100,7 @@ En 1802 : The Garinagu arrive at British Honduras (present-day Belize).
 <br/><br/>
 En 1794 : The United States and the Kingdom of Great Britain sign Jay's Treaty, which attempts to resolve some of the lingering problems left over from the American Revolutionary War.
 <br/><br/>
-En 1493 : Christopher Columbus goes ashore on an island called Borinquen he first saw the day before. He names it San Juan Bautista (later renamed again Puerto Rico).
+En 1646 : The current Saint Peter's Basilica is consecrated in Rome, replacing an earlier basilica on the same site.
 <br/><br/>
 En 636 : The Rashidun Caliphate defeats the Sasanian Empire at the Battle of al-Qādisiyyah in Iraq.
 <br/><br/>
@@ -200,7 +200,7 @@ En 1802 : The Garinagu arrive at British Honduras (present-day Belize).
 <br/><br/>
 En 1794 : The United States and the Kingdom of Great Britain sign Jay's Treaty, which attempts to resolve some of the lingering problems left over from the American Revolutionary War.
 <br/><br/>
-En 1493 : Christopher Columbus goes ashore on an island called Borinquen he first saw the day before. He names it San Juan Bautista (later renamed again Puerto Rico).
+En 1646 : The current Saint Peter's Basilica is consecrated in Rome, replacing an earlier basilica on the same site.
 <br/><br/>
 En 636 : The Rashidun Caliphate defeats the Sasanian Empire at the Battle of al-Qādisiyyah in Iraq.
 <br/><br/>
