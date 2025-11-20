@@ -56,7 +56,7 @@ En 1962 : Cuban Missile Crisis ends: In response to the Soviet Union agreeing to
 <br/><br/>
 En 1959 : The Declaration of the Rights of the Child is adopted by the United Nations.
 <br/><br/>
-En 1947 : The Princess Elizabeth marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
+En 1947 : The Princess Elizabeth (the future Queen) marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
 <br/><br/>
 En 1946 : Indonesian National Revolution: 96 Indonesian including I Gusti Ngurah Rai were killed during the Battle of Margarana with Dutch forces.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1962 : Cuban Missile Crisis ends: In response to the Soviet Union agreeing to
 <br/><br/>
 En 1959 : The Declaration of the Rights of the Child is adopted by the United Nations.
 <br/><br/>
-En 1947 : The Princess Elizabeth marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
+En 1947 : The Princess Elizabeth (the future Queen) marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
 <br/><br/>
 En 1946 : Indonesian National Revolution: 96 Indonesian including I Gusti Ngurah Rai were killed during the Battle of Margarana with Dutch forces.
 <br/><br/>
