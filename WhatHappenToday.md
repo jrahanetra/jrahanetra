@@ -52,6 +52,8 @@ En 1992 : A major tornado strikes the Houston, Texas area during the afternoon. 
 <br/><br/>
 En 1990 : Bangkok Airways Flight 125 crashes on approach to Samui Airport, killing 38.
 <br/><br/>
+En 1989 : Aeroflot Flight 37577 crashes on approach to Sovetsky Airport, killing 32.
+<br/><br/>
 En 1986 : National Security Council member Oliver North and his secretary start to shred documents allegedly implicating them in the Iran–Contra affair.
 <br/><br/>
 En 1985 : United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
@@ -187,6 +189,8 @@ En 1995 : The Dayton Agreement is initialed at the Wright-Patterson Air Force Ba
 En 1992 : A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes.
 <br/><br/>
 En 1990 : Bangkok Airways Flight 125 crashes on approach to Samui Airport, killing 38.
+<br/><br/>
+En 1989 : Aeroflot Flight 37577 crashes on approach to Sovetsky Airport, killing 32.
 <br/><br/>
 En 1986 : National Security Council member Oliver North and his secretary start to shred documents allegedly implicating them in the Iran–Contra affair.
 <br/><br/>
