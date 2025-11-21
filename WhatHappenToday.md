@@ -64,7 +64,7 @@ En 1979 : The United States Embassy in Islamabad, Pakistan, is attacked by a mob
 <br/><br/>
 En 1977 : Minister of Internal Affairs Allan Highet announces that the national anthems of New Zealand shall be the traditional anthem "God Save the Queen" and "God Defend New Zealand".
 <br/><br/>
-En 1974 : The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but subsequently acquitted.
+En 1974 : The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but are later exonerated.
 <br/><br/>
 En 1972 : Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic.
 <br/><br/>
@@ -100,7 +100,7 @@ En 1944 : World War II: American submarine USS Sealion sinks the Japanese battle
 <br/><br/>
 En 1942 : The completion of the Alaska Highway (also known as the Alcan Highway) is celebrated (however, the highway is not usable by standard road vehicles until 1943).
 <br/><br/>
-En 1927 : Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of state police dressed in civilian clothes.
+En 1927 : Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of Colorado state police dressed in civilian clothes.
 <br/><br/>
 En 1922 : Rebecca Latimer Felton of Georgia takes the oath of office, becoming the first female United States Senator.
 <br/><br/>
@@ -112,7 +112,7 @@ En 1918 : The Parliament (Qualification of Women) Act 1918 is passed, allowing w
 <br/><br/>
 En 1918 : A pogrom takes place in Lwów (now Lviv); over three days, at least 50 Jews and 270 Ukrainian Christians are killed by Poles.
 <br/><br/>
-En 1916 : Mines from SM U-73 sink HMHS Britannic, the largest ship lost in the First World War.
+En 1916 : World War I:  Mines from SM U-73 sink HMHS Britannic, the largest ship lost in the war.
 <br/><br/>
 En 1910 : Sailors on board Brazil's warships including the Minas Gerais, São Paulo, and Bahia, violently rebel in what is now known as the Revolta da Chibata (Revolt of the Lash).
 <br/><br/>
@@ -202,7 +202,7 @@ En 1979 : The United States Embassy in Islamabad, Pakistan, is attacked by a mob
 <br/><br/>
 En 1977 : Minister of Internal Affairs Allan Highet announces that the national anthems of New Zealand shall be the traditional anthem "God Save the Queen" and "God Defend New Zealand".
 <br/><br/>
-En 1974 : The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but subsequently acquitted.
+En 1974 : The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but are later exonerated.
 <br/><br/>
 En 1972 : Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic.
 <br/><br/>
@@ -238,7 +238,7 @@ En 1944 : World War II: American submarine USS Sealion sinks the Japanese battle
 <br/><br/>
 En 1942 : The completion of the Alaska Highway (also known as the Alcan Highway) is celebrated (however, the highway is not usable by standard road vehicles until 1943).
 <br/><br/>
-En 1927 : Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of state police dressed in civilian clothes.
+En 1927 : Columbine Mine massacre: Striking coal miners are allegedly attacked with machine guns by a detachment of Colorado state police dressed in civilian clothes.
 <br/><br/>
 En 1922 : Rebecca Latimer Felton of Georgia takes the oath of office, becoming the first female United States Senator.
 <br/><br/>
@@ -250,7 +250,7 @@ En 1918 : The Parliament (Qualification of Women) Act 1918 is passed, allowing w
 <br/><br/>
 En 1918 : A pogrom takes place in Lwów (now Lviv); over three days, at least 50 Jews and 270 Ukrainian Christians are killed by Poles.
 <br/><br/>
-En 1916 : Mines from SM U-73 sink HMHS Britannic, the largest ship lost in the First World War.
+En 1916 : World War I:  Mines from SM U-73 sink HMHS Britannic, the largest ship lost in the war.
 <br/><br/>
 En 1910 : Sailors on board Brazil's warships including the Minas Gerais, São Paulo, and Bahia, violently rebel in what is now known as the Revolta da Chibata (Revolt of the Lash).
 <br/><br/>
