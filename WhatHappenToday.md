@@ -84,7 +84,7 @@ En 1964 : Second Vatican Council: The third session of the Roman Catholic Church
 <br/><br/>
 En 1962 : The Chinese People's Liberation Army declares a unilateral ceasefire in the Sino-Indian War.
 <br/><br/>
-En 1961 : The "La Ronde" opens in Honolulu, first revolving restaurant in the United States.
+En 1961 : "La Ronde" opens in Honolulu, the first revolving restaurant in the United States.
 <br/><br/>
 En 1959 : American disc jockey Alan Freed, who had popularized the term "rock and roll" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.
 <br/><br/>
@@ -222,7 +222,7 @@ En 1964 : Second Vatican Council: The third session of the Roman Catholic Church
 <br/><br/>
 En 1962 : The Chinese People's Liberation Army declares a unilateral ceasefire in the Sino-Indian War.
 <br/><br/>
-En 1961 : The "La Ronde" opens in Honolulu, first revolving restaurant in the United States.
+En 1961 : "La Ronde" opens in Honolulu, the first revolving restaurant in the United States.
 <br/><br/>
 En 1959 : American disc jockey Alan Freed, who had popularized the term "rock and roll" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.
 <br/><br/>
