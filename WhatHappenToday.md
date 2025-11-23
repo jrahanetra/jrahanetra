@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 23/11 ?(Hover on the year)</h1>
 
-En 2025 : Arch Enemy announce the departure of Alissa White-Gluz as the group vocalist.
-<br/><br/>
 En 2019 : The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.
 <br/><br/>
 En 2018 : Founders of Italian fashion brand Dolce & Gabbana issue an apology following a series of offensive advertisements on social media promoting a fashion show in Shanghai, China, which was canceled.
@@ -107,8 +105,6 @@ En 1499 : Seven days after being convicted of treason, Perkin Warbeck, a pretend
 En 1248 : Conquest of Seville by Christian troops under King Ferdinand III of Castile.
 <br/><br/>
 En -534 : Thespis of Icaria becomes the first recorded actor to portray a character on stage.
-<br/><br/>
-En 2025 : Arch Enemy announce the departure of Alissa White-Gluz as the group vocalist.
 <br/><br/>
 En 2019 : The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.
 <br/><br/>
