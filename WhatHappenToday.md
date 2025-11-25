@@ -60,7 +60,7 @@ En 1947 : New Zealand ratifies the Statute of Westminster and thus becomes indep
 <br/><br/>
 En 1943 : World War II: Statehood of Bosnia and Herzegovina is re-established at the State Anti-fascist Council for the National Liberation of Bosnia and Herzegovina.
 <br/><br/>
-En 1941 : HMS Barham is sunk by a German torpedo during World War II.
+En 1941 : World War II:  HMS Barham is sunk by a German torpedo.
 <br/><br/>
 En 1936 : In Berlin, Germany and Japan sign the Anti-Comintern Pact, agreeing to consult on measures "to safeguard their common interests" in the case of an unprovoked attack by the Soviet Union against either nation.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1917 : World War I: German forces defeat Portuguese army of about 1,200 at Ne
 <br/><br/>
 En 1915 : Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences.
 <br/><br/>
-En 1912 : Românul de la Pind, the longest-running newspaper by and about Aromanians until World War II, ceases its publications.
+En 1912 : Românul de la Pind, the longest-running newspaper by and about Aromanians prior to World War II, ceases its publications.
 <br/><br/>
 En 1908 : A fire breaks out on SS Sardinia as it leaves Malta's Grand Harbour, resulting in the ship's grounding and the deaths of at least 118 people.
 <br/><br/>
@@ -96,7 +96,7 @@ En 1826 : The Greek frigate Hellas arrives in Nafplion to become the first flags
 <br/><br/>
 En 1795 : Partitions of Poland: Stanisław August Poniatowski, the last king of independent Poland, is forced to abdicate and is exiled to Russia.
 <br/><br/>
-En 1783 : American Revolutionary War: The last British troops leave New York City three months after the signing of the Treaty of Paris.
+En 1783 : American Revolutionary War: The last British troops leave New York City, three months after the signing of the Treaty of Paris.
 <br/><br/>
 En 1759 : An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.
 <br/><br/>
@@ -104,7 +104,7 @@ En 1758 : French and Indian War: British forces capture Fort Duquesne from Frenc
 <br/><br/>
 En 1755 : King Ferdinand VI of Spain grants royal protection to the Beaterio de la Compañia de Jesus, now known as the Congregation of the Religious of the Virgin Mary.
 <br/><br/>
-En 1678 : Trunajaya rebellion: After a long and logistically challenging march, the allied Mataram and Dutch troops successfully assaulted the rebel stronghold of Kediri.
+En 1678 : Trunajaya rebellion: After a long and logistically challenging march, the allied Mataram and Dutch troops successfully assault the rebel stronghold of Kediri.
 <br/><br/>
 En 1667 : A deadly earthquake rocks Shemakha in the Caucasus, killing 80,000 people.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1947 : New Zealand ratifies the Statute of Westminster and thus becomes indep
 <br/><br/>
 En 1943 : World War II: Statehood of Bosnia and Herzegovina is re-established at the State Anti-fascist Council for the National Liberation of Bosnia and Herzegovina.
 <br/><br/>
-En 1941 : HMS Barham is sunk by a German torpedo during World War II.
+En 1941 : World War II:  HMS Barham is sunk by a German torpedo.
 <br/><br/>
 En 1936 : In Berlin, Germany and Japan sign the Anti-Comintern Pact, agreeing to consult on measures "to safeguard their common interests" in the case of an unprovoked attack by the Soviet Union against either nation.
 <br/><br/>
@@ -196,7 +196,7 @@ En 1917 : World War I: German forces defeat Portuguese army of about 1,200 at Ne
 <br/><br/>
 En 1915 : Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences.
 <br/><br/>
-En 1912 : Românul de la Pind, the longest-running newspaper by and about Aromanians until World War II, ceases its publications.
+En 1912 : Românul de la Pind, the longest-running newspaper by and about Aromanians prior to World War II, ceases its publications.
 <br/><br/>
 En 1908 : A fire breaks out on SS Sardinia as it leaves Malta's Grand Harbour, resulting in the ship's grounding and the deaths of at least 118 people.
 <br/><br/>
@@ -218,7 +218,7 @@ En 1826 : The Greek frigate Hellas arrives in Nafplion to become the first flags
 <br/><br/>
 En 1795 : Partitions of Poland: Stanisław August Poniatowski, the last king of independent Poland, is forced to abdicate and is exiled to Russia.
 <br/><br/>
-En 1783 : American Revolutionary War: The last British troops leave New York City three months after the signing of the Treaty of Paris.
+En 1783 : American Revolutionary War: The last British troops leave New York City, three months after the signing of the Treaty of Paris.
 <br/><br/>
 En 1759 : An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.
 <br/><br/>
@@ -226,7 +226,7 @@ En 1758 : French and Indian War: British forces capture Fort Duquesne from Frenc
 <br/><br/>
 En 1755 : King Ferdinand VI of Spain grants royal protection to the Beaterio de la Compañia de Jesus, now known as the Congregation of the Religious of the Virgin Mary.
 <br/><br/>
-En 1678 : Trunajaya rebellion: After a long and logistically challenging march, the allied Mataram and Dutch troops successfully assaulted the rebel stronghold of Kediri.
+En 1678 : Trunajaya rebellion: After a long and logistically challenging march, the allied Mataram and Dutch troops successfully assault the rebel stronghold of Kediri.
 <br/><br/>
 En 1667 : A deadly earthquake rocks Shemakha in the Caucasus, killing 80,000 people.
 <br/><br/>
