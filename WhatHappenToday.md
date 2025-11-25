@@ -32,7 +32,7 @@ En 1980 : Sangoulé Lamizana, president of Upper Volta, is ousted from power in 
 <br/><br/>
 En 1977 : Former Senator Benigno Aquino Jr., is found guilty by the Philippine Military Commission No. 2 and is sentenced to death by firing squad. He is later assassinated in 1983.
 <br/><br/>
-En 1975 : Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establishment a communist regime.
+En 1975 : Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.
 <br/><br/>
 En 1975 : Suriname gains independence from the Netherlands.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1980 : Sangoulé Lamizana, president of Upper Volta, is ousted from power in 
 <br/><br/>
 En 1977 : Former Senator Benigno Aquino Jr., is found guilty by the Philippine Military Commission No. 2 and is sentenced to death by firing squad. He is later assassinated in 1983.
 <br/><br/>
-En 1975 : Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establishment a communist regime.
+En 1975 : Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.
 <br/><br/>
 En 1975 : Suriname gains independence from the Netherlands.
 <br/><br/>
