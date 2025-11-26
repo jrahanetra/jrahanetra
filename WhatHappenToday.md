@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 26/11 ?(Hover on the year)</h1>
 
+En 2025 : Tai Po Wan Fuk Court Structure Fire, At least 4 dead.
+<br/><br/>
 En 2021 : COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
 <br/><br/>
 En 2019 : A magnitude 6.4 earthquake strikes western Albania leaving at least 52 people dead and over 1,000 injured. This was the world's deadliest earthquake of 2019, and the deadliest to strike the country in 99 years.
@@ -109,6 +111,8 @@ En 1346 : Having been elected German king at Rhens on 11 July 1346, Charles IV i
 En 1161 : Battle of Caishi: A Song dynasty fleet fights a naval engagement with Jin dynasty ships on the Yangtze river during the Jin–Song Wars.
 <br/><br/>
 En 783 : The Asturian queen Adosinda is held at a monastery to prevent her nephew from retaking the throne from Mauregatus.
+<br/><br/>
+En 2025 : Tai Po Wan Fuk Court Structure Fire, At least 4 dead.
 <br/><br/>
 En 2021 : COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
 <br/><br/>
