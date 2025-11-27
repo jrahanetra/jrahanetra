@@ -106,7 +106,7 @@ En 1727 : The foundation stone to the Jerusalem Church in Berlin is laid.
 <br/><br/>
 En 1542 : Palace plot of Renyin year: A group of Ming dynasty palace women fail to murder the Jiajing Emperor, and are executed by slow-slicing.
 <br/><br/>
-En 1382 : Al-Salih Hajji, the last Qalawunid sultan, was deposed by Barquq in 1382, ending the long period of the Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty and starting the reign of the Circassian Burji Mamluk.
+En 1382 : Al-Salih Hajji, the last Qalawunid sultan, is deposed by Barquq, ending the long Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty, and beginning the reign of the Circassian Burji Mamluk.
 <br/><br/>
 En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
 <br/><br/>
@@ -220,7 +220,7 @@ En 1727 : The foundation stone to the Jerusalem Church in Berlin is laid.
 <br/><br/>
 En 1542 : Palace plot of Renyin year: A group of Ming dynasty palace women fail to murder the Jiajing Emperor, and are executed by slow-slicing.
 <br/><br/>
-En 1382 : Al-Salih Hajji, the last Qalawunid sultan, was deposed by Barquq in 1382, ending the long period of the Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty and starting the reign of the Circassian Burji Mamluk.
+En 1382 : Al-Salih Hajji, the last Qalawunid sultan, is deposed by Barquq, ending the long Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty, and beginning the reign of the Circassian Burji Mamluk.
 <br/><br/>
 En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
 <br/><br/>
