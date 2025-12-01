@@ -118,7 +118,7 @@ En 1822 : Pedro I is crowned Emperor of Brazil.
 <br/><br/>
 En 1821 : José Núñez de Cáceres wins the independence of the Dominican Republic from Spain and names the new territory the Republic of Spanish Haiti.
 <br/><br/>
-En 1768 : The former slave ship Fredensborg sinks off Tromøya in Norway.
+En 1768 : The slave ship Fredensborg sinks off Tromøya in Norway.
 <br/><br/>
 En 1662 : Diarist John Evelyn records skating on the frozen lake in St James's Park, London, watched by Charles II and Queen Catherine.
 <br/><br/>
@@ -242,7 +242,7 @@ En 1822 : Pedro I is crowned Emperor of Brazil.
 <br/><br/>
 En 1821 : José Núñez de Cáceres wins the independence of the Dominican Republic from Spain and names the new territory the Republic of Spanish Haiti.
 <br/><br/>
-En 1768 : The former slave ship Fredensborg sinks off Tromøya in Norway.
+En 1768 : The slave ship Fredensborg sinks off Tromøya in Norway.
 <br/><br/>
 En 1662 : Diarist John Evelyn records skating on the frozen lake in St James's Park, London, watched by Charles II and Queen Catherine.
 <br/><br/>
