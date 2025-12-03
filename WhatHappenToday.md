@@ -10,7 +10,7 @@ En 2024 : Martial law is declared in South Korea.
 <br/><br/>
 En 2023 : Mount Marapi located in West Sumatra, Indonesia begins a sporadic series of eruptions. 23 people were killed, and 12 were injured.
 <br/><br/>
-En 2022 : Massive power outage after Moore County substation attack, that leaves 45,000 people, without power, for five days, leading to a FBI probe.
+En 2022 : Massive power outage after Moore County substation attack that leaves 45,000 people without power for five days, leading to an FBI probe.
 <br/><br/>
 En 2014 : The Japanese space agency, JAXA, launches the space explorer Hayabusa2 from the Tanegashima Space Center on a six-year round trip mission to an asteroid to collect rock samples.
 <br/><br/>
@@ -110,7 +110,7 @@ En 2024 : Martial law is declared in South Korea.
 <br/><br/>
 En 2023 : Mount Marapi located in West Sumatra, Indonesia begins a sporadic series of eruptions. 23 people were killed, and 12 were injured.
 <br/><br/>
-En 2022 : Massive power outage after Moore County substation attack, that leaves 45,000 people, without power, for five days, leading to a FBI probe.
+En 2022 : Massive power outage after Moore County substation attack that leaves 45,000 people without power for five days, leading to an FBI probe.
 <br/><br/>
 En 2014 : The Japanese space agency, JAXA, launches the space explorer Hayabusa2 from the Tanegashima Space Center on a six-year round trip mission to an asteroid to collect rock samples.
 <br/><br/>
