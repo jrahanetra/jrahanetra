@@ -84,7 +84,7 @@ En 1919 : Ukrainian War of Independence: The Polonsky conspiracy is initiated, w
 <br/><br/>
 En 1918 : U.S. President Woodrow Wilson sails for the World War I peace talks in Versailles, becoming the first US president to travel to Europe while in office.
 <br/><br/>
-En 1917 : The Finnish Senate submits to the Parliament of Finland a proposal for the form of government of the Republic of Finland and issued a communication to Parliament declaring the independence of Finland.
+En 1917 : The Finnish Senate submits to the Parliament of Finland a proposal for the form of government of the Republic of Finland and issues a communication to Parliament declaring the independence of Finland.
 <br/><br/>
 En 1909 : In Canadian football, the First Grey Cup game is played. The University of Toronto Varsity Blues defeat the Toronto Parkdale Canoe Club, 26–6.
 <br/><br/>
@@ -124,7 +124,7 @@ En 1783 : At Fraunces Tavern in New York City, U.S. General George Washington bi
 <br/><br/>
 En 1745 : Charles Edward Stuart's army reaches Derby, its furthest point during the Second Jacobite Rising.
 <br/><br/>
-En 1676 : The Battle of Lund, becomes the bloodiest battle in Scandinavian history.
+En 1676 : The Battle of Lund occurs, and is the bloodiest battle in Scandinavian history.
 <br/><br/>
 En 1623 : 50 Christians are executed in Edo, Japan, during the Great Martyrdom of Edo.
 <br/><br/>
@@ -218,7 +218,7 @@ En 1919 : Ukrainian War of Independence: The Polonsky conspiracy is initiated, w
 <br/><br/>
 En 1918 : U.S. President Woodrow Wilson sails for the World War I peace talks in Versailles, becoming the first US president to travel to Europe while in office.
 <br/><br/>
-En 1917 : The Finnish Senate submits to the Parliament of Finland a proposal for the form of government of the Republic of Finland and issued a communication to Parliament declaring the independence of Finland.
+En 1917 : The Finnish Senate submits to the Parliament of Finland a proposal for the form of government of the Republic of Finland and issues a communication to Parliament declaring the independence of Finland.
 <br/><br/>
 En 1909 : In Canadian football, the First Grey Cup game is played. The University of Toronto Varsity Blues defeat the Toronto Parkdale Canoe Club, 26–6.
 <br/><br/>
@@ -258,7 +258,7 @@ En 1783 : At Fraunces Tavern in New York City, U.S. General George Washington bi
 <br/><br/>
 En 1745 : Charles Edward Stuart's army reaches Derby, its furthest point during the Second Jacobite Rising.
 <br/><br/>
-En 1676 : The Battle of Lund, becomes the bloodiest battle in Scandinavian history.
+En 1676 : The Battle of Lund occurs, and is the bloodiest battle in Scandinavian history.
 <br/><br/>
 En 1623 : 50 Christians are executed in Edo, Japan, during the Great Martyrdom of Edo.
 <br/><br/>
