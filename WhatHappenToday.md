@@ -10,7 +10,7 @@ En 2024 : UnitedHealthcare CEO Brian Thompson is shot and killed in Manhattan, N
 <br/><br/>
 En 2021 : Semeru on the Indonesian island of Java erupts, killing at least 68 people.
 <br/><br/>
-En 2017 : The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 440 square miles (1,140 km2) in Ventura and Santa Barbara Counties.
+En 2017 : The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 1,140 square kilometers (440 sq mi) in Ventura and Santa Barbara Counties.
 <br/><br/>
 En 2015 : A firebomb is thrown into a restaurant in the Egyptian capital of Cairo, killing 17 people.
 <br/><br/>
@@ -144,7 +144,7 @@ En 2024 : UnitedHealthcare CEO Brian Thompson is shot and killed in Manhattan, N
 <br/><br/>
 En 2021 : Semeru on the Indonesian island of Java erupts, killing at least 68 people.
 <br/><br/>
-En 2017 : The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 440 square miles (1,140 km2) in Ventura and Santa Barbara Counties.
+En 2017 : The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 1,140 square kilometers (440 sq mi) in Ventura and Santa Barbara Counties.
 <br/><br/>
 En 2015 : A firebomb is thrown into a restaurant in the Egyptian capital of Cairo, killing 17 people.
 <br/><br/>
