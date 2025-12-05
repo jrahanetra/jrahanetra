@@ -34,7 +34,7 @@ En 1983 : Dissolution of the Military Junta in Argentina.
 <br/><br/>
 En 1977 : Egypt breaks diplomatic relations with Syria, Libya, Algeria, Iraq and South Yemen in retaliation to preventing President Anwar el‐Sadat from pursuing negotiations with Israel at the Tripoli confer.
 <br/><br/>
-En 1971 : Battle of Gazipur: Pakistani forces stand defeated as India cedes Gazipur to Bangladesh.
+En 1971 : Battle of Gazipur: Pakistani forces are defeated as India cedes Gazipur to Bangladesh.
 <br/><br/>
 En 1964 : Vietnam War: For his heroism in battle earlier in the year, Captain Roger Donlon is awarded the first Medal of Honor of the war.
 <br/><br/>
@@ -46,7 +46,7 @@ En 1958 : The Preston By-pass, the UK's first stretch of motorway, opens to traf
 <br/><br/>
 En 1955 : The American Federation of Labor and the Congress of Industrial Organizations merge and form the AFL–CIO.
 <br/><br/>
-En 1955 : E. D. Nixon and Rosa Parks lead the Montgomery bus boycott.
+En 1955 : The Civil Rights Movement:  the Montgomery bus boycott begins, led by E. D. Nixon and Rosa Parks.
 <br/><br/>
 En 1952 : Beginning of the Great Smog in London. A cold fog combines with air pollution and brings the city to a standstill for four days. Later, a Ministry of Health report estimates 4,000 fatalities as a result of it.
 <br/><br/>
@@ -142,7 +142,7 @@ En 1983 : Dissolution of the Military Junta in Argentina.
 <br/><br/>
 En 1977 : Egypt breaks diplomatic relations with Syria, Libya, Algeria, Iraq and South Yemen in retaliation to preventing President Anwar el‐Sadat from pursuing negotiations with Israel at the Tripoli confer.
 <br/><br/>
-En 1971 : Battle of Gazipur: Pakistani forces stand defeated as India cedes Gazipur to Bangladesh.
+En 1971 : Battle of Gazipur: Pakistani forces are defeated as India cedes Gazipur to Bangladesh.
 <br/><br/>
 En 1964 : Vietnam War: For his heroism in battle earlier in the year, Captain Roger Donlon is awarded the first Medal of Honor of the war.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1958 : The Preston By-pass, the UK's first stretch of motorway, opens to traf
 <br/><br/>
 En 1955 : The American Federation of Labor and the Congress of Industrial Organizations merge and form the AFL–CIO.
 <br/><br/>
-En 1955 : E. D. Nixon and Rosa Parks lead the Montgomery bus boycott.
+En 1955 : The Civil Rights Movement:  the Montgomery bus boycott begins, led by E. D. Nixon and Rosa Parks.
 <br/><br/>
 En 1952 : Beginning of the Great Smog in London. A cold fog combines with air pollution and brings the city to a standstill for four days. Later, a Ministry of Health report estimates 4,000 fatalities as a result of it.
 <br/><br/>
