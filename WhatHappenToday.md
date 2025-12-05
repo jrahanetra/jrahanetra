@@ -70,7 +70,7 @@ En 1921 : The Football Association bans women's football in England from league 
 <br/><br/>
 En 1919 : Ukrainian War of Independence: The Polonsky conspiracy is suppressed and its participants are executed by the Kontrrazvedka.
 <br/><br/>
-En 1914 : The Imperial Trans-Antarctic Expedition began in an attempt to make the first land crossing of Antarctica.
+En 1914 : The Imperial Trans-Antarctic Expedition begins in an attempt to make the first land crossing of Antarctica.
 <br/><br/>
 En 1895 : New Haven Symphony Orchestra of Connecticut performs its first concert.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1921 : The Football Association bans women's football in England from league 
 <br/><br/>
 En 1919 : Ukrainian War of Independence: The Polonsky conspiracy is suppressed and its participants are executed by the Kontrrazvedka.
 <br/><br/>
-En 1914 : The Imperial Trans-Antarctic Expedition began in an attempt to make the first land crossing of Antarctica.
+En 1914 : The Imperial Trans-Antarctic Expedition begins in an attempt to make the first land crossing of Antarctica.
 <br/><br/>
 En 1895 : New Haven Symphony Orchestra of Connecticut performs its first concert.
 <br/><br/>
