@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 7/12 ?(Hover on the year)</h1>
 
+En 2025 : British racing driver Lando Norris wins the Formula One World Drivers' Championship in 2025 with McLaren.
+<br/><br/>
 En 2024 : Battle of Damascus (2024): Syrian opposition forces enter the Rif Dimashq Governorate, reaching within 20 km of the capital Damascus.
 <br/><br/>
 En 2017 : Aztec High School shooting: William Atchison kills two students at his former high school.
@@ -91,6 +93,8 @@ En 927 : The Sajid emir of Adharbayjan, Yusuf ibn Abi'l-Saj is defeated and capt
 En 574 : Byzantine Emperor Justin II, suffering recurring seizures of insanity, adopts his general Tiberius and proclaims him as Caesar.
 <br/><br/>
 En -43 : Marcus Tullius Cicero is assassinated in Formia on orders of Marcus Antonius.
+<br/><br/>
+En 2025 : British racing driver Lando Norris wins the Formula One World Drivers' Championship in 2025 with McLaren.
 <br/><br/>
 En 2024 : Battle of Damascus (2024): Syrian opposition forces enter the Rif Dimashq Governorate, reaching within 20 km of the capital Damascus.
 <br/><br/>
