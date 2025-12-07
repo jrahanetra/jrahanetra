@@ -8,7 +8,7 @@
 
 En 2024 : Battle of Damascus (2024): Syrian opposition forces enter the Rif Dimashq Governorate, reaching within 20 km of the capital Damascus.
 <br/><br/>
-En 2017 : Aztec High School shooting: Former student William Atchison opens fire on former high school, killing 2.
+En 2017 : Aztec High School shooting: William Atchison kills two students at his former high school.
 <br/><br/>
 En 2016 : Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, operated by an ATR-42-500 crashes near Havelian, killing all 47 on board.
 <br/><br/>
@@ -69,8 +69,6 @@ En 1922 : The Parliament of Northern Ireland votes to remain a part of the Unite
 En 1917 : World War I: The United States declares war on Austria-Hungary.
 <br/><br/>
 En 1904 : Comparative fuel trials begin between warships HMS Spiteful and HMS Peterel: Spiteful was the first warship powered solely by fuel oil, and the trials led to the obsolescence of coal in ships of the Royal Navy.
-<br/><br/>
-En 1865 : The United States celebrates Thanksgiving.
 <br/><br/>
 En 1842 : First concert of the New York Philharmonic, founded by Ureli Corelli Hill.
 <br/><br/>
@@ -94,7 +92,7 @@ En -43 : Marcus Tullius Cicero is assassinated in Formia on orders of Marcus Ant
 <br/><br/>
 En 2024 : Battle of Damascus (2024): Syrian opposition forces enter the Rif Dimashq Governorate, reaching within 20 km of the capital Damascus.
 <br/><br/>
-En 2017 : Aztec High School shooting: Former student William Atchison opens fire on former high school, killing 2.
+En 2017 : Aztec High School shooting: William Atchison kills two students at his former high school.
 <br/><br/>
 En 2016 : Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, operated by an ATR-42-500 crashes near Havelian, killing all 47 on board.
 <br/><br/>
@@ -155,8 +153,6 @@ En 1922 : The Parliament of Northern Ireland votes to remain a part of the Unite
 En 1917 : World War I: The United States declares war on Austria-Hungary.
 <br/><br/>
 En 1904 : Comparative fuel trials begin between warships HMS Spiteful and HMS Peterel: Spiteful was the first warship powered solely by fuel oil, and the trials led to the obsolescence of coal in ships of the Royal Navy.
-<br/><br/>
-En 1865 : The United States celebrates Thanksgiving.
 <br/><br/>
 En 1842 : First concert of the New York Philharmonic, founded by Ureli Corelli Hill.
 <br/><br/>
