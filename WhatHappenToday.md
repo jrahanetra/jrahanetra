@@ -28,11 +28,7 @@ En 2001 : A raid conducted by the Internal Security Department (ISD) of Singapor
 <br/><br/>
 En 1998 : Eighty-one people are killed by armed groups in Algeria.
 <br/><br/>
-En 1992 : The Galileo spacecraft flies past Earth for the second time.
-<br/><br/>
 En 1991 : The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.
-<br/><br/>
-En 1990 : The Galileo spacecraft flies past Earth for the first time.
 <br/><br/>
 En 1988 : A United States Air Force A-10 Thunderbolt II crashes into an apartment complex in Remscheid, Germany, killing five people and injuring 50 others.
 <br/><br/>
@@ -80,7 +76,7 @@ En 1907 : King Gustaf V of Sweden accedes to the Swedish throne.
 <br/><br/>
 En 1864 : Pope Pius IX promulgates the encyclical Quanta cura and its appendix, the Syllabus of Errors, outlining the authority of the Catholic Church and condemning various liberal ideas.
 <br/><br/>
-En 1863 : Between two and three thousand churchgoers die during the Church of the Company Fire. Deemed as probably the largest single building fire by number of victims in modern history, it began at the start of a Mass held at the Church of the Society of Jesus in Santiago, Chile, during the celebration of the recently proclaimed Feast of the Immaculate Conception.
+En 1863 : Between two and three thousand churchgoers die in the Church of the Company Fire, possibly the largest single building fire by number of victims in modern history.
 <br/><br/>
 En 1854 : In his Apostolic constitution Ineffabilis Deus, Pope Pius IX proclaims the dogmatic definition of Immaculate Conception, which holds that the Blessed Virgin Mary was conceived free of Original Sin.
 <br/><br/>
@@ -118,11 +114,7 @@ En 2001 : A raid conducted by the Internal Security Department (ISD) of Singapor
 <br/><br/>
 En 1998 : Eighty-one people are killed by armed groups in Algeria.
 <br/><br/>
-En 1992 : The Galileo spacecraft flies past Earth for the second time.
-<br/><br/>
 En 1991 : The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.
-<br/><br/>
-En 1990 : The Galileo spacecraft flies past Earth for the first time.
 <br/><br/>
 En 1988 : A United States Air Force A-10 Thunderbolt II crashes into an apartment complex in Remscheid, Germany, killing five people and injuring 50 others.
 <br/><br/>
@@ -170,7 +162,7 @@ En 1907 : King Gustaf V of Sweden accedes to the Swedish throne.
 <br/><br/>
 En 1864 : Pope Pius IX promulgates the encyclical Quanta cura and its appendix, the Syllabus of Errors, outlining the authority of the Catholic Church and condemning various liberal ideas.
 <br/><br/>
-En 1863 : Between two and three thousand churchgoers die during the Church of the Company Fire. Deemed as probably the largest single building fire by number of victims in modern history, it began at the start of a Mass held at the Church of the Society of Jesus in Santiago, Chile, during the celebration of the recently proclaimed Feast of the Immaculate Conception.
+En 1863 : Between two and three thousand churchgoers die in the Church of the Company Fire, possibly the largest single building fire by number of victims in modern history.
 <br/><br/>
 En 1854 : In his Apostolic constitution Ineffabilis Deus, Pope Pius IX proclaims the dogmatic definition of Immaculate Conception, which holds that the Blessed Virgin Mary was conceived free of Original Sin.
 <br/><br/>
