@@ -106,8 +106,6 @@ En 1822 : French physicist Augustin-Jean Fresnel, in a memoir read to the Academ
 <br/><br/>
 En 1775 : American Revolutionary War: British troops and Loyalists, misinformed about Patriot militia strength, lose the Battle of Great Bridge, ending British rule in Virginia.
 <br/><br/>
-En 1688 : Glorious Revolution: Williamite forces defeat Jacobites at Battle of Reading, forcing James II to flee England. (Date is Old Style; the date in the New Style modern calendar is 19 December.)
-<br/><br/>
 En 1636 : The Qing dynasty of China, led by Emperor Hong Taiji, invades Joseon.
 <br/><br/>
 En 1531 : The Virgin of Guadalupe first appears to Juan Diego at Tepeyac, Mexico City.
@@ -217,8 +215,6 @@ En 1824 : Patriot forces led by General Antonio José de Sucre defeat a Royalist
 En 1822 : French physicist Augustin-Jean Fresnel, in a memoir read to the Academy of Sciences, coins the terms linear polarization, circular polarization, and elliptical polarization, and reports a direct refraction experiment verifying his theory that optical rotation is a form of birefringence.
 <br/><br/>
 En 1775 : American Revolutionary War: British troops and Loyalists, misinformed about Patriot militia strength, lose the Battle of Great Bridge, ending British rule in Virginia.
-<br/><br/>
-En 1688 : Glorious Revolution: Williamite forces defeat Jacobites at Battle of Reading, forcing James II to flee England. (Date is Old Style; the date in the New Style modern calendar is 19 December.)
 <br/><br/>
 En 1636 : The Qing dynasty of China, led by Emperor Hong Taiji, invades Joseon.
 <br/><br/>
