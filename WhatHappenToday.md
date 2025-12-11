@@ -34,7 +34,7 @@ En 1999 : SATA Air Açores Flight 530M crashes into Pico da Esperança on São J
 <br/><br/>
 En 1998 : Thai Airways Flight 261 crashes near Surat Thani Airport, killing 101. The pilot flying the Airbus A310-200 is thought to have suffered spatial disorientation.
 <br/><br/>
-En 1997 : The Kyoto Protocol opens for signature.
+En 1997 : The Kyoto Protocol, an agreement committing countries to reduce greenhouse gas emissions, opens for signature.
 <br/><br/>
 En 1994 : First Chechen War: Russian president Boris Yeltsin orders Russian troops into Chechnya.
 <br/><br/>
@@ -50,7 +50,7 @@ En 1988 : A Soviet Air Force Il-76 aircraft crashes while participating in the A
 <br/><br/>
 En 1981 : El Mozote massacre: Armed forces in El Salvador kill an estimated 900 civilians in an anti-guerrilla campaign during the Salvadoran Civil War.
 <br/><br/>
-En 1980 : The Comprehensive Environmental Response, Compensation, and Liability Act (Superfund) is enacted by the U.S. Congress.
+En 1980 : The Comprehensive Environmental Response, Compensation, and Liability Act (also known as Superfund) is enacted by the U.S. Congress.
 <br/><br/>
 En 1978 : The Lufthansa heist is committed by a group led by Lucchese family associate Jimmy Burke. It was the largest cash robbery ever committed on American soil, at that time.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1999 : SATA Air Açores Flight 530M crashes into Pico da Esperança on São J
 <br/><br/>
 En 1998 : Thai Airways Flight 261 crashes near Surat Thani Airport, killing 101. The pilot flying the Airbus A310-200 is thought to have suffered spatial disorientation.
 <br/><br/>
-En 1997 : The Kyoto Protocol opens for signature.
+En 1997 : The Kyoto Protocol, an agreement committing countries to reduce greenhouse gas emissions, opens for signature.
 <br/><br/>
 En 1994 : First Chechen War: Russian president Boris Yeltsin orders Russian troops into Chechnya.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1988 : A Soviet Air Force Il-76 aircraft crashes while participating in the A
 <br/><br/>
 En 1981 : El Mozote massacre: Armed forces in El Salvador kill an estimated 900 civilians in an anti-guerrilla campaign during the Salvadoran Civil War.
 <br/><br/>
-En 1980 : The Comprehensive Environmental Response, Compensation, and Liability Act (Superfund) is enacted by the U.S. Congress.
+En 1980 : The Comprehensive Environmental Response, Compensation, and Liability Act (also known as Superfund) is enacted by the U.S. Congress.
 <br/><br/>
 En 1978 : The Lufthansa heist is committed by a group led by Lucchese family associate Jimmy Burke. It was the largest cash robbery ever committed on American soil, at that time.
 <br/><br/>
