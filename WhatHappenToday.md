@@ -96,7 +96,7 @@ En 1907 : The New Zealand Parliament Buildings are almost completely destroyed b
 <br/><br/>
 En 1905 : A workers' uprising occurs in Kyiv, Ukraine (then part of the Russian Empire), and establishes the Shuliavka Republic.
 <br/><br/>
-En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to Saint John's, Newfoundland.
+En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to St. John's, Newfoundland.
 <br/><br/>
 En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by general Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
 <br/><br/>
@@ -220,7 +220,7 @@ En 1907 : The New Zealand Parliament Buildings are almost completely destroyed b
 <br/><br/>
 En 1905 : A workers' uprising occurs in Kyiv, Ukraine (then part of the Russian Empire), and establishes the Shuliavka Republic.
 <br/><br/>
-En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to Saint John's, Newfoundland.
+En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to St. John's, Newfoundland.
 <br/><br/>
 En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by general Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
 <br/><br/>
