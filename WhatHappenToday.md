@@ -98,7 +98,7 @@ En 1905 : A workers' uprising occurs in Kyiv, Ukraine (then part of the Russian 
 <br/><br/>
 En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to Saint John's, Newfoundland.
 <br/><br/>
-En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by general Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
+En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by General Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
 <br/><br/>
 En 1868 : Paraguayan War: Brazilian troops defeat the Paraguayan Army at the Battle of Avay.
 <br/><br/>
@@ -222,7 +222,7 @@ En 1905 : A workers' uprising occurs in Kyiv, Ukraine (then part of the Russian 
 <br/><br/>
 En 1901 : Guglielmo Marconi transmits the first transatlantic radio signal from Poldhu, Cornwall, England to Saint John's, Newfoundland.
 <br/><br/>
-En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by general Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
+En 1899 : Second Boer War: In the Battle of Magersfontein the Boers commanded by General Piet Cronjé inflict a defeat on the forces of the British Empire commanded by Lord Methuen trying to relieve the Siege of Kimberley.
 <br/><br/>
 En 1868 : Paraguayan War: Brazilian troops defeat the Paraguayan Army at the Battle of Avay.
 <br/><br/>
