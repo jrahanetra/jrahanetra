@@ -12,7 +12,7 @@ En 2003 : Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is
 <br/><br/>
 En 2002 : European Union enlargement: The EU announces that Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia will become members on May 1, 2004.
 <br/><br/>
-En 2001 : 2001 Indian Parliament attack: Sansad Bhavan, the building housing the Indian Parliament, is attacked by 5 Jaish-e-Mohammed terrorists. Twelve people are killed, including the terrorists.
+En 2001 : Indian Parliament attack: Sansad Bhavan, the building housing the Indian Parliament, is attacked by five Jaish-e-Mohammed terrorists. Twelve people are killed, including the terrorists.
 <br/><br/>
 En 1995 : Banat Air Flight 166 crashes in Sommacampagna near Verona Villafranca Airport in Verona, Italy, killing 49.
 <br/><br/>
@@ -88,7 +88,7 @@ En 2003 : Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is
 <br/><br/>
 En 2002 : European Union enlargement: The EU announces that Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia will become members on May 1, 2004.
 <br/><br/>
-En 2001 : 2001 Indian Parliament attack: Sansad Bhavan, the building housing the Indian Parliament, is attacked by 5 Jaish-e-Mohammed terrorists. Twelve people are killed, including the terrorists.
+En 2001 : Indian Parliament attack: Sansad Bhavan, the building housing the Indian Parliament, is attacked by five Jaish-e-Mohammed terrorists. Twelve people are killed, including the terrorists.
 <br/><br/>
 En 1995 : Banat Air Flight 166 crashes in Sommacampagna near Verona Villafranca Airport in Verona, Italy, killing 49.
 <br/><br/>
