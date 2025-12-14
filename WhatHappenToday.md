@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 14/12 ?(Hover on the year)</h1>
 
+En 2025 : At least 12 people are killed in a mass shooting during a Hanukkah celebration at Bondi Beach in the deadliest terror incident in Australia.
+<br/><br/>
 En 2020 : A total solar eclipse is visible from parts of the South Pacific Ocean, southern South America, and the South Atlantic Ocean.
 <br/><br/>
 En 2017 : The Walt Disney Company announces that it would acquire 21st Century Fox, including the 20th Century Fox movie studio, for $52.4 billion.
@@ -111,6 +113,8 @@ En 872 : Pope John VIII is elected following the death of Hadrian II.
 En 835 : Sweet Dew Incident: Emperor Wenzong of the Tang dynasty conspires to kill the powerful eunuchs of the Tang court, but the plot is foiled.
 <br/><br/>
 En 557 : Constantinople is severely damaged by an earthquake, which cracks the dome of Hagia Sophia.
+<br/><br/>
+En 2025 : At least 12 people are killed in a mass shooting during a Hanukkah celebration at Bondi Beach in the deadliest terror incident in Australia.
 <br/><br/>
 En 2020 : A total solar eclipse is visible from parts of the South Pacific Ocean, southern South America, and the South Atlantic Ocean.
 <br/><br/>
