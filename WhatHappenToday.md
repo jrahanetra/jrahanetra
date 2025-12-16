@@ -14,7 +14,7 @@ En 2013 : A bus falls from an elevated highway in the Philippines capital Manila
 <br/><br/>
 En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
 <br/><br/>
-En 1992 : 1992 deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
+En 1992 : Deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
 <br/><br/>
 En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
 <br/><br/>
@@ -100,7 +100,7 @@ En 2013 : A bus falls from an elevated highway in the Philippines capital Manila
 <br/><br/>
 En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
 <br/><br/>
-En 1992 : 1992 deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
+En 1992 : Deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
 <br/><br/>
 En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
 <br/><br/>
