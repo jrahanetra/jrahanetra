@@ -12,13 +12,13 @@ En 2014 : Tehrik-i-Taliban Pakistan militants attack an Army Public School in Pe
 <br/><br/>
 En 2013 : A bus falls from an elevated highway in the Philippines capital Manila killing at least 18 people with 20 injured.
 <br/><br/>
-En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
+En 2011 : The Zhanaozen massacre occurs when violent protests by oil workers take place in Zhanaozen, Kazakhstan, resulting in security forces killing at least 14 and injuring 100 more.
 <br/><br/>
 En 1992 : Deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
 <br/><br/>
 En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
 <br/><br/>
-En 1986 : Jeltoqsan: Riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
+En 1986 : The Jeltoqsan riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
 <br/><br/>
 En 1973 : Aeroflot Flight 2022 crashes in the Soviet Union's (now Russia) Volokolamsky District, killing all 51 aboard, including four Lithuanian doctors.
 <br/><br/>
@@ -72,7 +72,7 @@ En 1773 : American Revolution: Boston Tea Party: Members of the Sons of Liberty 
 <br/><br/>
 En 1761 : Seven Years' War: After a four-month siege, the Russians under Pyotr Rumyantsev take the Prussian fortress of Kołobrzeg.
 <br/><br/>
-En 1707 : Most Recent Eruption of Mount Fuji.
+En 1707 : The most recent Eruption of Mount Fuji.
 <br/><br/>
 En 1689 : Convention Parliament: The Declaration of Right is embodied in the Bill of Rights.
 <br/><br/>
@@ -98,13 +98,13 @@ En 2014 : Tehrik-i-Taliban Pakistan militants attack an Army Public School in Pe
 <br/><br/>
 En 2013 : A bus falls from an elevated highway in the Philippines capital Manila killing at least 18 people with 20 injured.
 <br/><br/>
-En 2011 : Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
+En 2011 : The Zhanaozen massacre occurs when violent protests by oil workers take place in Zhanaozen, Kazakhstan, resulting in security forces killing at least 14 and injuring 100 more.
 <br/><br/>
 En 1992 : Deportation of Hamas members: Israeli authorities began deporting hundreds of Palestinians suspected to be members of Hamas across the Lebanese border.
 <br/><br/>
 En 1989 : Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
 <br/><br/>
-En 1986 : Jeltoqsan: Riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
+En 1986 : The Jeltoqsan riots erupt in Alma-Ata, Kazakh SSR, in response to Soviet leader Mikhail Gorbachev's dismissal of ethnic Kazakh Dinmukhamed Kunaev, the First Secretary of the Communist Party of Kazakhstan, and his replacement with Gennady Kolbin, an ethnic Russian from the Russian SFSR.
 <br/><br/>
 En 1973 : Aeroflot Flight 2022 crashes in the Soviet Union's (now Russia) Volokolamsky District, killing all 51 aboard, including four Lithuanian doctors.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1773 : American Revolution: Boston Tea Party: Members of the Sons of Liberty 
 <br/><br/>
 En 1761 : Seven Years' War: After a four-month siege, the Russians under Pyotr Rumyantsev take the Prussian fortress of Kołobrzeg.
 <br/><br/>
-En 1707 : Most Recent Eruption of Mount Fuji.
+En 1707 : The most recent Eruption of Mount Fuji.
 <br/><br/>
 En 1689 : Convention Parliament: The Declaration of Right is embodied in the Bill of Rights.
 <br/><br/>
