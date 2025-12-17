@@ -132,7 +132,7 @@ En 920 : Romanos I Lekapenos is crowned co-emperor of the underage Constantine V
 <br/><br/>
 En 546 : Siege of Rome: The Ostrogoths under king Totila plunder the city, by bribing the Eastern Roman garrison.
 <br/><br/>
-En -497 : The first Saturnalia festival was celebrated in ancient Rome.
+En -497 : The first Saturnalia festival is celebrated in ancient Rome.
 <br/><br/>
 En 2014 : The United States and Cuba re-establish diplomatic relations after severing them in 1961.
 <br/><br/>
@@ -260,5 +260,5 @@ En 920 : Romanos I Lekapenos is crowned co-emperor of the underage Constantine V
 <br/><br/>
 En 546 : Siege of Rome: The Ostrogoths under king Totila plunder the city, by bribing the Eastern Roman garrison.
 <br/><br/>
-En -497 : The first Saturnalia festival was celebrated in ancient Rome.
+En -497 : The first Saturnalia festival is celebrated in ancient Rome.
 <br/><br/>
