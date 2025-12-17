@@ -72,7 +72,7 @@ En 1939 : World War II: Battle of the River Plate: The Admiral Graf Spee is scut
 <br/><br/>
 En 1938 : Otto Hahn discovers the nuclear fission of the heavy element uranium, the scientific and technological basis of nuclear energy.
 <br/><br/>
-En 1935 : First flight of the Douglas DC-3.
+En 1935 : Douglas DC-3: The twin-engine airliner makes its maiden flight from Santa Monica.
 <br/><br/>
 En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears win 23–21.
 <br/><br/>
@@ -200,7 +200,7 @@ En 1939 : World War II: Battle of the River Plate: The Admiral Graf Spee is scut
 <br/><br/>
 En 1938 : Otto Hahn discovers the nuclear fission of the heavy element uranium, the scientific and technological basis of nuclear energy.
 <br/><br/>
-En 1935 : First flight of the Douglas DC-3.
+En 1935 : Douglas DC-3: The twin-engine airliner makes its maiden flight from Santa Monica.
 <br/><br/>
 En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears win 23–21.
 <br/><br/>
