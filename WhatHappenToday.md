@@ -62,7 +62,7 @@ En 1948 : The Finnish Security Police is established to remove communist leaders
 <br/><br/>
 En 1947 : First flight of the Boeing B-47 Stratojet strategic bomber.
 <br/><br/>
-En 1945 : Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan.
+En 1945 : Kurdistan flag day, the flag of Kurdistan is raised for the first time in Mahabad in eastern Kurdistan.
 <br/><br/>
 En 1944 : World War II: Battle of the Bulge: Malmedy massacre: American 285th Field Artillery Observation Battalion POWs are shot by Waffen-SS Kampfgruppe Joachim Peiper.
 <br/><br/>
@@ -72,9 +72,9 @@ En 1939 : World War II: Battle of the River Plate: The Admiral Graf Spee is scut
 <br/><br/>
 En 1938 : Otto Hahn discovers the nuclear fission of the heavy element uranium, the scientific and technological basis of nuclear energy.
 <br/><br/>
-En 1935 : First flight of the Douglas DC-3.
+En 1935 : Douglas DC-3: The twin-engine airliner makes its maiden flight from Santa Monica. In military service as the C-47 Skytrain, it is also used during the Berlin Airlift, alongside the larger Douglas C-54 Skymaster, which carries the main burden of the operation and becomes most closely associated with the nickname “Rosinenbomber”.
 <br/><br/>
-En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears won 23–21.
+En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears win 23–21.
 <br/><br/>
 En 1928 : Indian revolutionaries Bhagat Singh, Sukhdev Thapar and Shivaram Rajguru assassinate British police officer James Saunders in Lahore, Punjab, to avenge the death of Lala Lajpat Rai at the hands of the police. The three were executed in 1931.
 <br/><br/>
@@ -190,7 +190,7 @@ En 1948 : The Finnish Security Police is established to remove communist leaders
 <br/><br/>
 En 1947 : First flight of the Boeing B-47 Stratojet strategic bomber.
 <br/><br/>
-En 1945 : Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan.
+En 1945 : Kurdistan flag day, the flag of Kurdistan is raised for the first time in Mahabad in eastern Kurdistan.
 <br/><br/>
 En 1944 : World War II: Battle of the Bulge: Malmedy massacre: American 285th Field Artillery Observation Battalion POWs are shot by Waffen-SS Kampfgruppe Joachim Peiper.
 <br/><br/>
@@ -200,9 +200,9 @@ En 1939 : World War II: Battle of the River Plate: The Admiral Graf Spee is scut
 <br/><br/>
 En 1938 : Otto Hahn discovers the nuclear fission of the heavy element uranium, the scientific and technological basis of nuclear energy.
 <br/><br/>
-En 1935 : First flight of the Douglas DC-3.
+En 1935 : Douglas DC-3: The twin-engine airliner makes its maiden flight from Santa Monica. In military service as the C-47 Skytrain, it is also used during the Berlin Airlift, alongside the larger Douglas C-54 Skymaster, which carries the main burden of the operation and becomes most closely associated with the nickname “Rosinenbomber”.
 <br/><br/>
-En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears won 23–21.
+En 1933 : The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears win 23–21.
 <br/><br/>
 En 1928 : Indian revolutionaries Bhagat Singh, Sukhdev Thapar and Shivaram Rajguru assassinate British police officer James Saunders in Lahore, Punjab, to avenge the death of Lala Lajpat Rai at the hands of the police. The three were executed in 1931.
 <br/><br/>
