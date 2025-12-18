@@ -40,6 +40,8 @@ En 1972 : Vietnam War: President Richard Nixon announces that the United States 
 <br/><br/>
 En 1966 : Saturn's moon Epimetheus is discovered by astronomer Richard Walker.
 <br/><br/>
+En 1962 : Premiere performance of Symphony No. 13 in B-flat minor by Dmitri Shostakovich at the Large Hall of the Moscow Conservatory in Moscow, Russia.
+<br/><br/>
 En 1958 : Project SCORE, the world's first communications satellite, is launched.
 <br/><br/>
 En 1957 : A violent F5 tornado wipes out the entire community of Sunfield, Illinois.
@@ -121,6 +123,8 @@ En 1973 : Soviet Soyuz Programme: Soyuz 13, crewed by cosmonauts Valentin Lebede
 En 1972 : Vietnam War: President Richard Nixon announces that the United States will engage North Vietnam in Operation Linebacker II, a series of Christmas bombings, after peace talks collapsed with North Vietnam on the 13th.
 <br/><br/>
 En 1966 : Saturn's moon Epimetheus is discovered by astronomer Richard Walker.
+<br/><br/>
+En 1962 : Premiere performance of Symphony No. 13 in B-flat minor by Dmitri Shostakovich at the Large Hall of the Moscow Conservatory in Moscow, Russia.
 <br/><br/>
 En 1958 : Project SCORE, the world's first communications satellite, is launched.
 <br/><br/>
