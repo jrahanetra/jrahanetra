@@ -58,7 +58,7 @@ En 1916 : World War I: The Battle of Verdun ends when the second French offensiv
 <br/><br/>
 En 1898 : Gaston de Chasseloup-Laubat sets the first officially recognized land speed record of 63.159 km/h (39.245 mph) in a Jeantaud electric car.
 <br/><br/>
-En 1892 : Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.
+En 1892 : The Nutcracker by Pyotr Ilyich Tchaikovsky premiers in Saint Petersburg, Russia.
 <br/><br/>
 En 1878 : The Al-Thani family become the rulers of the state of Qatar.
 <br/><br/>
@@ -70,7 +70,7 @@ En 1854 : The Legislative Assembly of the Province of Canada abolishes the seign
 <br/><br/>
 En 1833 : The national anthem of the Russian Empire, "God Save the Tsar!", is first performed.
 <br/><br/>
-En 1793 : Surrender of the frigate Lutine by French Royalists to Lord Samuel Hood; renamed HMS Lutine, she later becomes a famous treasure wreck.
+En 1793 : The frigate Lutine, manned by French Royalists, surrenders to Lord Samuel Hood.  Renamed HMS Lutine, she later becomes a famous treasure wreck.
 <br/><br/>
 En 1787 : New Jersey becomes the third state to ratify the U.S. Constitution.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1916 : World War I: The Battle of Verdun ends when the second French offensiv
 <br/><br/>
 En 1898 : Gaston de Chasseloup-Laubat sets the first officially recognized land speed record of 63.159 km/h (39.245 mph) in a Jeantaud electric car.
 <br/><br/>
-En 1892 : Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.
+En 1892 : The Nutcracker by Pyotr Ilyich Tchaikovsky premiers in Saint Petersburg, Russia.
 <br/><br/>
 En 1878 : The Al-Thani family become the rulers of the state of Qatar.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1854 : The Legislative Assembly of the Province of Canada abolishes the seign
 <br/><br/>
 En 1833 : The national anthem of the Russian Empire, "God Save the Tsar!", is first performed.
 <br/><br/>
-En 1793 : Surrender of the frigate Lutine by French Royalists to Lord Samuel Hood; renamed HMS Lutine, she later becomes a famous treasure wreck.
+En 1793 : The frigate Lutine, manned by French Royalists, surrenders to Lord Samuel Hood.  Renamed HMS Lutine, she later becomes a famous treasure wreck.
 <br/><br/>
 En 1787 : New Jersey becomes the third state to ratify the U.S. Constitution.
 <br/><br/>
