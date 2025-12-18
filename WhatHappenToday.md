@@ -70,8 +70,6 @@ En 1854 : The Legislative Assembly of the Province of Canada abolishes the seign
 <br/><br/>
 En 1833 : The national anthem of the Russian Empire, "God Save the Tsar!", is first performed.
 <br/><br/>
-En 1793 : The frigate Lutine, manned by French Royalists, surrenders to Lord Samuel Hood.  Renamed HMS Lutine, she later becomes a famous treasure wreck.
-<br/><br/>
 En 1787 : New Jersey becomes the third state to ratify the U.S. Constitution.
 <br/><br/>
 En 1777 : The United States celebrates its first Thanksgiving, marking the recent victory by the American rebels over British General John Burgoyne at Saratoga in October.
@@ -149,8 +147,6 @@ En 1865 : US Secretary of State William Seward proclaims the adoption of the Thi
 En 1854 : The Legislative Assembly of the Province of Canada abolishes the seigneurial system.
 <br/><br/>
 En 1833 : The national anthem of the Russian Empire, "God Save the Tsar!", is first performed.
-<br/><br/>
-En 1793 : The frigate Lutine, manned by French Royalists, surrenders to Lord Samuel Hood.  Renamed HMS Lutine, she later becomes a famous treasure wreck.
 <br/><br/>
 En 1787 : New Jersey becomes the third state to ratify the U.S. Constitution.
 <br/><br/>
