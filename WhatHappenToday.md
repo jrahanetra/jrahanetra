@@ -10,8 +10,6 @@ En 2022 : Argentina win the FIFA World Cup final, defeating title holders France
 <br/><br/>
 En 2019 : The United States House of Representatives impeaches Donald Trump for the first time.
 <br/><br/>
-En 2018 : List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
-<br/><br/>
 En 2017 : Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
 <br/><br/>
 En 2015 : Kellingley Colliery, the last deep coal mine in Great Britain, closes.
@@ -91,8 +89,6 @@ En 1118 : The city of Zaragoza is conquered by king Alfonso I of Aragon from the
 En 2022 : Argentina win the FIFA World Cup final, defeating title holders France 4–2 on penalties following a 3–3 draw after extra time.
 <br/><br/>
 En 2019 : The United States House of Representatives impeaches Donald Trump for the first time.
-<br/><br/>
-En 2018 : List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
 <br/><br/>
 En 2017 : Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
 <br/><br/>
