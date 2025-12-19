@@ -38,8 +38,6 @@ En 1983 : The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen 
 <br/><br/>
 En 1981 : Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
 <br/><br/>
-En 1978 : Indira Gandhi is arrested on corruption charges in India, by the Morarji Desai government.
-<br/><br/>
 En 1977 : The Ms  5.8 Bob–Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
 <br/><br/>
 En 1974 : Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the Twenty-fifth Amendment to the United States Constitution.
@@ -141,8 +139,6 @@ En 1984 : The Sino-British Joint Declaration, stating that China would resume th
 En 1983 : The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
 <br/><br/>
 En 1981 : Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
-<br/><br/>
-En 1978 : Indira Gandhi is arrested on corruption charges in India, by the Morarji Desai government.
 <br/><br/>
 En 1977 : The Ms  5.8 Bob–Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
 <br/><br/>
