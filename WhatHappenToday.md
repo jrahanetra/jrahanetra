@@ -20,8 +20,6 @@ En 2005 : A passenger train from Sucha Beskidzka to Żywiec in Poland loses its 
 <br/><br/>
 En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
 <br/><br/>
-En 2000 : The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
-<br/><br/>
 En 1999 : Space Shuttle Discovery is launched on STS-103, the third Hubble Space Telescope servicing mission.
 <br/><br/>
 En 1998 : President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
@@ -125,8 +123,6 @@ En 2005 : Chalk's Ocean Airways Flight 101 crashes into the Government Cut chann
 En 2005 : A passenger train from Sucha Beskidzka to Żywiec in Poland loses its brakes while on a steep downhill part of the route. It is stopped in a controlled collision in Świnna by a train travelling in opposite direction. 2 drivers and 6 passengers are injured.
 <br/><br/>
 En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
-<br/><br/>
-En 2000 : The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
 <br/><br/>
 En 1999 : Space Shuttle Discovery is launched on STS-103, the third Hubble Space Telescope servicing mission.
 <br/><br/>
