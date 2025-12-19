@@ -64,8 +64,6 @@ En 1941 : World War II: Adolf Hitler appoints himself as head of the Oberkommand
 <br/><br/>
 En 1941 : World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
 <br/><br/>
-En 1941 : Twenty-eight men die when German submarine U-574, is struck by HMS Stork (L81), commanded by Captain Frederic John Walker of Royal Navy, off Punta Delgada, as also by depth charges.
-<br/><br/>
 En 1940 : Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
 <br/><br/>
 En 1932 : BBC World Service begins broadcasting as the BBC Empire Service.
@@ -173,8 +171,6 @@ En 1945 : John Amery, British Fascist, is executed at the age of 33 by the Briti
 En 1941 : World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
 <br/><br/>
 En 1941 : World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
-<br/><br/>
-En 1941 : Twenty-eight men die when German submarine U-574, is struck by HMS Stork (L81), commanded by Captain Frederic John Walker of Royal Navy, off Punta Delgada, as also by depth charges.
 <br/><br/>
 En 1940 : Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
 <br/><br/>
