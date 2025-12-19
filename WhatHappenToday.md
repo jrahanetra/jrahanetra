@@ -18,8 +18,6 @@ En 2005 : Chalk's Ocean Airways Flight 101 crashes into the Government Cut chann
 <br/><br/>
 En 2005 : A passenger train from Sucha Beskidzka to Żywiec in Poland loses its brakes while on a steep downhill part of the route. It is stopped in a controlled collision in Świnna by a train travelling in opposite direction. 2 drivers and 6 passengers are injured.
 <br/><br/>
-En 2001 : A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
-<br/><br/>
 En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
 <br/><br/>
 En 2000 : The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
@@ -125,8 +123,6 @@ En 2012 : Park Geun-hye is elected the first female president of South Korea.
 En 2005 : Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
 <br/><br/>
 En 2005 : A passenger train from Sucha Beskidzka to Żywiec in Poland loses its brakes while on a steep downhill part of the route. It is stopped in a controlled collision in Świnna by a train travelling in opposite direction. 2 drivers and 6 passengers are injured.
-<br/><br/>
-En 2001 : A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
 <br/><br/>
 En 2001 : Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
 <br/><br/>
