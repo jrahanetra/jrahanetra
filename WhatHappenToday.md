@@ -90,7 +90,7 @@ En 1237 : The city of Ryazan is sacked by the Mongol army of Batu Khan.
 <br/><br/>
 En 1140 : After a siege of several weeks, the city of Weinsberg and its castle surrender to Conrad III of Germany.
 <br/><br/>
-En 1124 : Pope Honorius II is consecrated, having been elected after the controversial dethroning of Pope Celestine II.
+En 1124 : Pope Honorius II is consecrated, having been elected after the controversial dethroning of Pope-Elect  Celestine II.
 <br/><br/>
 En 69 : The Roman Senate declares Vespasian emperor of Rome, the last in the Year of the Four Emperors.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1237 : The city of Ryazan is sacked by the Mongol army of Batu Khan.
 <br/><br/>
 En 1140 : After a siege of several weeks, the city of Weinsberg and its castle surrender to Conrad III of Germany.
 <br/><br/>
-En 1124 : Pope Honorius II is consecrated, having been elected after the controversial dethroning of Pope Celestine II.
+En 1124 : Pope Honorius II is consecrated, having been elected after the controversial dethroning of Pope-Elect  Celestine II.
 <br/><br/>
 En 69 : The Roman Senate declares Vespasian emperor of Rome, the last in the Year of the Four Emperors.
 <br/><br/>
