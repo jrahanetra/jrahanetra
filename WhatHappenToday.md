@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 21/12 ?(Hover on the year)</h1>
 
-En 2023 : Fourteen people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father before the shooting.
+En 2023 : Fourteen people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father and two other people before the shooting.
 <br/><br/>
 En 2020 : A great conjunction of Jupiter and Saturn occurs, with the two planets separated in the sky by 0.1 degrees. This is the closest conjunction between the two planets since 1623.
 <br/><br/>
@@ -94,7 +94,7 @@ En 1124 : Pope Honorius II is consecrated, having been elected after the controv
 <br/><br/>
 En 69 : The Roman Senate declares Vespasian emperor of Rome, the last in the Year of the Four Emperors.
 <br/><br/>
-En 2023 : Fourteen people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father before the shooting.
+En 2023 : Fourteen people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father and two other people before the shooting.
 <br/><br/>
 En 2020 : A great conjunction of Jupiter and Saturn occurs, with the two planets separated in the sky by 0.1 degrees. This is the closest conjunction between the two planets since 1623.
 <br/><br/>
