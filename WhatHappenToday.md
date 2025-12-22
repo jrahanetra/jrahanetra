@@ -52,8 +52,6 @@ En 1975 : U.S. President Gerald Ford creates the Strategic Petroleum Reserve in 
 <br/><br/>
 En 1974 : Grande Comore, Anjouan and Mohéli vote to become the independent nation of Comoros. Mayotte remains under French administration.
 <br/><br/>
-En 1974 : The house of former British Prime Minister Edward Heath is attacked by members of the Provisional IRA.
-<br/><br/>
 En 1973 : A Royal Air Maroc Sud Aviation Caravelle crashes near Tangier-Boukhalef Airport in Tangier, Morocco, killing 106.
 <br/><br/>
 En 1971 : The international aid organization Doctors Without Borders is founded by Bernard Kouchner and a group of journalists in Paris, France.
@@ -70,7 +68,7 @@ En 1948 : Sjafruddin Prawiranegara established the Emergency Government of the R
 <br/><br/>
 En 1945 : U.S. President Harry S. Truman issues an executive order giving World War II refugees precedence in visa applications under U.S. immigration quotas.
 <br/><br/>
-En 1944 : World War II: Battle of the Bulge: German troops demand the surrender of United States troops at Bastogne, Belgium, prompting the famous one word reply by General Anthony McAuliffe: "Nuts!"
+En 1944 : World War II: Battle of the Bulge: German troops demand the surrender of United States troops at Bastogne, Belgium, prompting the famous one word reply by Brigadier General Anthony McAuliffe: "Nuts!"
 <br/><br/>
 En 1944 : World War II: The People's Army of Vietnam is formed to resist Japanese occupation of Indochina, now Vietnam.
 <br/><br/>
@@ -174,8 +172,6 @@ En 1975 : U.S. President Gerald Ford creates the Strategic Petroleum Reserve in 
 <br/><br/>
 En 1974 : Grande Comore, Anjouan and Mohéli vote to become the independent nation of Comoros. Mayotte remains under French administration.
 <br/><br/>
-En 1974 : The house of former British Prime Minister Edward Heath is attacked by members of the Provisional IRA.
-<br/><br/>
 En 1973 : A Royal Air Maroc Sud Aviation Caravelle crashes near Tangier-Boukhalef Airport in Tangier, Morocco, killing 106.
 <br/><br/>
 En 1971 : The international aid organization Doctors Without Borders is founded by Bernard Kouchner and a group of journalists in Paris, France.
@@ -192,7 +188,7 @@ En 1948 : Sjafruddin Prawiranegara established the Emergency Government of the R
 <br/><br/>
 En 1945 : U.S. President Harry S. Truman issues an executive order giving World War II refugees precedence in visa applications under U.S. immigration quotas.
 <br/><br/>
-En 1944 : World War II: Battle of the Bulge: German troops demand the surrender of United States troops at Bastogne, Belgium, prompting the famous one word reply by General Anthony McAuliffe: "Nuts!"
+En 1944 : World War II: Battle of the Bulge: German troops demand the surrender of United States troops at Bastogne, Belgium, prompting the famous one word reply by Brigadier General Anthony McAuliffe: "Nuts!"
 <br/><br/>
 En 1944 : World War II: The People's Army of Vietnam is formed to resist Japanese occupation of Indochina, now Vietnam.
 <br/><br/>
