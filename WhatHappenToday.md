@@ -46,7 +46,7 @@ En 1987 : In Zimbabwe, the political parties ZANU and ZAPU reach an agreement th
 <br/><br/>
 En 1984 : "Subway vigilante" Bernhard Goetz shoots four would-be muggers on a 2 express train in Manhattan section of New York, United States.
 <br/><br/>
-En 1978 : The pivotal Third Plenum of the 11th National Congress of the Chinese Communist Party is held in Beijing, with Deng Xiaoping reversing Mao-era policies to pursue a program for Chinese economic reform.
+En 1978 : The pivotal Third Plenum of the 11th National Congress of the Chinese Communist Party is held in Beijing, with Deng Xiaoping reversing Mao-era policies to pursue a program for the reform and opening up.
 <br/><br/>
 En 1975 : U.S. President Gerald Ford creates the Strategic Petroleum Reserve in response to the 1970s energy crisis.
 <br/><br/>
@@ -102,7 +102,7 @@ En 1864 : American Civil War: Savannah, Georgia, falls to the Union's Army of th
 <br/><br/>
 En 1851 : India's first freight train is operated in Roorkee, to transport material for the construction of the Ganges Canal.
 <br/><br/>
-En 1851 : The Library of Congress in Washington, D.C., burns.
+En 1825 : The Library of Congress in Washington, D.C., burns.
 <br/><br/>
 En 1808 : Ludwig van Beethoven conducts and performs in concert at the Theater an der Wien, Vienna, with the premiere of his Fifth Symphony, Sixth Symphony, Fourth Piano Concerto and Choral Fantasy.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1987 : In Zimbabwe, the political parties ZANU and ZAPU reach an agreement th
 <br/><br/>
 En 1984 : "Subway vigilante" Bernhard Goetz shoots four would-be muggers on a 2 express train in Manhattan section of New York, United States.
 <br/><br/>
-En 1978 : The pivotal Third Plenum of the 11th National Congress of the Chinese Communist Party is held in Beijing, with Deng Xiaoping reversing Mao-era policies to pursue a program for Chinese economic reform.
+En 1978 : The pivotal Third Plenum of the 11th National Congress of the Chinese Communist Party is held in Beijing, with Deng Xiaoping reversing Mao-era policies to pursue a program for the reform and opening up.
 <br/><br/>
 En 1975 : U.S. President Gerald Ford creates the Strategic Petroleum Reserve in response to the 1970s energy crisis.
 <br/><br/>
@@ -224,7 +224,7 @@ En 1864 : American Civil War: Savannah, Georgia, falls to the Union's Army of th
 <br/><br/>
 En 1851 : India's first freight train is operated in Roorkee, to transport material for the construction of the Ganges Canal.
 <br/><br/>
-En 1851 : The Library of Congress in Washington, D.C., burns.
+En 1825 : The Library of Congress in Washington, D.C., burns.
 <br/><br/>
 En 1808 : Ludwig van Beethoven conducts and performs in concert at the Theater an der Wien, Vienna, with the premiere of his Fifth Symphony, Sixth Symphony, Fourth Piano Concerto and Choral Fantasy.
 <br/><br/>
