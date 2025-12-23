@@ -48,7 +48,7 @@ En 1955 : The first film adaptation of Väinö Linna's novel The Unknown Soldier
 <br/><br/>
 En 1954 : First successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.
 <br/><br/>
-En 1950 : General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
+En 1950 : Korean War:  General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
 <br/><br/>
 En 1948 : Seven Japanese military and political leaders convicted of war crimes by the International Military Tribunal for the Far East are executed by Allied occupation authorities at Sugamo Prison in Tokyo, Japan.
 <br/><br/>
@@ -60,7 +60,7 @@ En 1936 : Colombia becomes a signatory to the Buenos Aires copyright treaty.
 <br/><br/>
 En 1936 : Spanish Civil War: The Spanish Republic legalizes the Regional Defence Council of Aragon.
 <br/><br/>
-En 1919 : Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom.
+En 1919 : Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom, allowing women to serve as lawyers, civil servants, and in other professions, as well as to serve on juries.
 <br/><br/>
 En 1916 : World War I: Battle of Magdhaba: Allied forces defeat Turkish forces in the Sinai Peninsula.
 <br/><br/>
@@ -142,7 +142,7 @@ En 1955 : The first film adaptation of Väinö Linna's novel The Unknown Soldier
 <br/><br/>
 En 1954 : First successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.
 <br/><br/>
-En 1950 : General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
+En 1950 : Korean War:  General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
 <br/><br/>
 En 1948 : Seven Japanese military and political leaders convicted of war crimes by the International Military Tribunal for the Far East are executed by Allied occupation authorities at Sugamo Prison in Tokyo, Japan.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1936 : Colombia becomes a signatory to the Buenos Aires copyright treaty.
 <br/><br/>
 En 1936 : Spanish Civil War: The Spanish Republic legalizes the Regional Defence Council of Aragon.
 <br/><br/>
-En 1919 : Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom.
+En 1919 : Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom, allowing women to serve as lawyers, civil servants, and in other professions, as well as to serve on juries.
 <br/><br/>
 En 1916 : World War I: Battle of Magdhaba: Allied forces defeat Turkish forces in the Sinai Peninsula.
 <br/><br/>
