@@ -76,6 +76,8 @@ En 1893 : The opera Hansel and Gretel by Engelbert Humperdinck is first performe
 <br/><br/>
 En 1876 : First day of the Constantinople Conference which resulted in agreement for political reforms in the Balkans.
 <br/><br/>
+En 1823 : The poem "Account of a Visit from St. Nicholas," also known as "'Twas the Night Before Christmas," is published anonymously in the Troy Sentinel.
+<br/><br/>
 En 1815 : The novel Emma by Jane Austen is first published.
 <br/><br/>
 En 1793 : The Battle of Savenay: A decisive defeat of the royalist counter-revolutionaries in War in the Vendée during the French Revolution.
@@ -167,6 +169,8 @@ En 1905 : The Tampere conference, where Vladimir Lenin and Joseph Stalin meet fo
 En 1893 : The opera Hansel and Gretel by Engelbert Humperdinck is first performed.
 <br/><br/>
 En 1876 : First day of the Constantinople Conference which resulted in agreement for political reforms in the Balkans.
+<br/><br/>
+En 1823 : The poem "Account of a Visit from St. Nicholas," also known as "'Twas the Night Before Christmas," is published anonymously in the Troy Sentinel.
 <br/><br/>
 En 1815 : The novel Emma by Jane Austen is first published.
 <br/><br/>
