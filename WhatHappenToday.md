@@ -10,6 +10,8 @@ En 2021 : Three people are killed when a 14-year-old opens fire on civilians at 
 <br/><br/>
 En 2015 : A violent EF-4 tornado hits Garland, Texas, killing nine and injuring almost 500 others.
 <br/><br/>
+En 2013 : An Irkut-Avia Antonov An-12 crashes on approach to Irkutsk Northwest Airport, killing all nine people on board.
+<br/><br/>
 En 2012 : China opens the world's longest high-speed rail route, which links Beijing and Guangzhou.
 <br/><br/>
 En 2006 : Two earthquakes in Hengchun, Taiwan measuring 7.0 and 6.9 on the moment magnitude scale kill two and disrupt telecommunications across Asia.
@@ -26,6 +28,8 @@ En 1998 : Iraq announces its intention to fire upon U.S. and British warplanes t
 <br/><br/>
 En 1994 : Four Armed Islamic Group hijackers seize control of Air France Flight 8969. When the plane lands at Marseille, a French Gendarmerie assault team boards the aircraft and kills the hijackers.
 <br/><br/>
+En 1993 : Kuban Airlines Flight 5719 crashes during a go-around at Gyumri Shirak International Airport, killing 35 of the 36 people on board.
+<br/><br/>
 En 1991 : The Supreme Soviet of the Soviet Union meets and formally dissolves the Soviet Union, ending the Cold War.
 <br/><br/>
 En 1989 : United Express Flight 2415 crashes on approach to the Tri-Cities Airport in Pasco, Washington, killing all six people on board.
@@ -39,6 +43,8 @@ En 1975 : Tu-144, the world's first commercial supersonic aircraft, surpassing M
 En 1972 : Vietnam War: As part of Operation Linebacker II, 120 American B-52 Stratofortress bombers attacked Hanoi, including 78 launched from Andersen Air Force Base in Guam, the largest single combat launch in Strategic Air Command history.
 <br/><br/>
 En 1968 : The Communist Party of the Philippines is established by Jose Maria Sison, breaking away from the Partido Komunista ng Pilipinas-1930.
+<br/><br/>
+En 1968 : Pan Am Flight 799 crashes during takeoff from Elmendorf Air Force Base, killing three.
 <br/><br/>
 En 1966 : The first Kwanzaa is celebrated by Maulana Karenga, the chair of Black Studies at California State University, Long Beach.
 <br/><br/>
@@ -106,6 +112,8 @@ En 2021 : Three people are killed when a 14-year-old opens fire on civilians at 
 <br/><br/>
 En 2015 : A violent EF-4 tornado hits Garland, Texas, killing nine and injuring almost 500 others.
 <br/><br/>
+En 2013 : An Irkut-Avia Antonov An-12 crashes on approach to Irkutsk Northwest Airport, killing all nine people on board.
+<br/><br/>
 En 2012 : China opens the world's longest high-speed rail route, which links Beijing and Guangzhou.
 <br/><br/>
 En 2006 : Two earthquakes in Hengchun, Taiwan measuring 7.0 and 6.9 on the moment magnitude scale kill two and disrupt telecommunications across Asia.
@@ -122,6 +130,8 @@ En 1998 : Iraq announces its intention to fire upon U.S. and British warplanes t
 <br/><br/>
 En 1994 : Four Armed Islamic Group hijackers seize control of Air France Flight 8969. When the plane lands at Marseille, a French Gendarmerie assault team boards the aircraft and kills the hijackers.
 <br/><br/>
+En 1993 : Kuban Airlines Flight 5719 crashes during a go-around at Gyumri Shirak International Airport, killing 35 of the 36 people on board.
+<br/><br/>
 En 1991 : The Supreme Soviet of the Soviet Union meets and formally dissolves the Soviet Union, ending the Cold War.
 <br/><br/>
 En 1989 : United Express Flight 2415 crashes on approach to the Tri-Cities Airport in Pasco, Washington, killing all six people on board.
@@ -135,6 +145,8 @@ En 1975 : Tu-144, the world's first commercial supersonic aircraft, surpassing M
 En 1972 : Vietnam War: As part of Operation Linebacker II, 120 American B-52 Stratofortress bombers attacked Hanoi, including 78 launched from Andersen Air Force Base in Guam, the largest single combat launch in Strategic Air Command history.
 <br/><br/>
 En 1968 : The Communist Party of the Philippines is established by Jose Maria Sison, breaking away from the Partido Komunista ng Pilipinas-1930.
+<br/><br/>
+En 1968 : Pan Am Flight 799 crashes during takeoff from Elmendorf Air Force Base, killing three.
 <br/><br/>
 En 1966 : The first Kwanzaa is celebrated by Maulana Karenga, the chair of Black Studies at California State University, Long Beach.
 <br/><br/>
