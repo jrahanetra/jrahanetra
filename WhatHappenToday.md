@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 26/12 ?(Hover on the year)</h1>
 
+En 2025 : Israel recognises Somaliland as an independent state, becoming the first country to do so.
+<br/><br/>
 En 2021 : Three people are killed when a 14-year-old opens fire on civilians at a Texaco convenience store in Garland, Texas.
 <br/><br/>
 En 2015 : A violent EF-4 tornado hits Garland, Texas, killing nine and injuring almost 500 others.
@@ -107,6 +109,8 @@ En 1481 : Battle of Westbroek: An army of 4,000 to 5,000 soldiers raised by Davi
 En 887 : Berengar I is elected as king of Italy by the lords of Lombardy. He is crowned with the Iron Crown of Lombardy at Pavia.
 <br/><br/>
 En 795 : Election of Pope Leo III.
+<br/><br/>
+En 2025 : Israel recognises Somaliland as an independent state, becoming the first country to do so.
 <br/><br/>
 En 2021 : Three people are killed when a 14-year-old opens fire on civilians at a Texaco convenience store in Garland, Texas.
 <br/><br/>
