@@ -52,7 +52,7 @@ En 1895 : The Lumière brothers perform for their first paying audience at the G
 <br/><br/>
 En 1895 : Wilhelm Röntgen publishes a paper detailing his discovery of a new type of radiation, which later will be known as x-rays.
 <br/><br/>
-En 1885 : Indian National Congress, a political party of India, is founded in Bombay Presidency, British India.
+En 1885 : The Indian National Congress is founded in Bombay Presidency, British India.
 <br/><br/>
 En 1879 : Tay Bridge disaster: The central part of the Tay Rail Bridge in Dundee, Scotland, United Kingdom collapses as a train passes over it, killing 75.
 <br/><br/>
@@ -130,7 +130,7 @@ En 1895 : The Lumière brothers perform for their first paying audience at the G
 <br/><br/>
 En 1895 : Wilhelm Röntgen publishes a paper detailing his discovery of a new type of radiation, which later will be known as x-rays.
 <br/><br/>
-En 1885 : Indian National Congress, a political party of India, is founded in Bombay Presidency, British India.
+En 1885 : The Indian National Congress is founded in Bombay Presidency, British India.
 <br/><br/>
 En 1879 : Tay Bridge disaster: The central part of the Tay Rail Bridge in Dundee, Scotland, United Kingdom collapses as a train passes over it, killing 75.
 <br/><br/>
