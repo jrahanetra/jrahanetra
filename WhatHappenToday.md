@@ -38,7 +38,7 @@ En 1975 : A bomb explodes at LaGuardia Airport in New York City, killing 11 peop
 <br/><br/>
 En 1972 : Eastern Air Lines Flight 401 (a Lockheed L-1011 TriStar) crashes in the Florida Everglades on approach to Miami International Airport, Florida, killing 101 of the 176 people on board.
 <br/><br/>
-En 1940 : In the Second Great Fire of London, the Luftwaffe fire-bombs London, England, killing almost 200 civilians during World War II.
+En 1940 : World War II:  in the Second Great Fire of London, the Luftwaffe fire-bombs London, England, killing almost 200 civilians.
 <br/><br/>
 En 1937 : The Irish Free State is replaced by a new state called Ireland with the adoption of a new constitution.
 <br/><br/>
@@ -106,7 +106,7 @@ En 1975 : A bomb explodes at LaGuardia Airport in New York City, killing 11 peop
 <br/><br/>
 En 1972 : Eastern Air Lines Flight 401 (a Lockheed L-1011 TriStar) crashes in the Florida Everglades on approach to Miami International Airport, Florida, killing 101 of the 176 people on board.
 <br/><br/>
-En 1940 : In the Second Great Fire of London, the Luftwaffe fire-bombs London, England, killing almost 200 civilians during World War II.
+En 1940 : World War II:  in the Second Great Fire of London, the Luftwaffe fire-bombs London, England, killing almost 200 civilians.
 <br/><br/>
 En 1937 : The Irish Free State is replaced by a new state called Ireland with the adoption of a new constitution.
 <br/><br/>
