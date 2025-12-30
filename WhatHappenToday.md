@@ -70,7 +70,7 @@ En 1905 : Former Idaho Governor Frank Steunenberg is assassinated at the front g
 <br/><br/>
 En 1903 : A fire at the Iroquois Theater in Chicago, Illinois kills at least 605.
 <br/><br/>
-En 1902 : The Discovery Expedition under Robert Falcon Scott attained a Farthest South at 82°17′S in Antarctica.
+En 1902 : The Discovery Expedition under Robert Falcon Scott attains a Farthest South at 82°17′S in Antarctica.
 <br/><br/>
 En 1897 : The British Colony of Natal annexes Zululand.
 <br/><br/>
@@ -166,7 +166,7 @@ En 1905 : Former Idaho Governor Frank Steunenberg is assassinated at the front g
 <br/><br/>
 En 1903 : A fire at the Iroquois Theater in Chicago, Illinois kills at least 605.
 <br/><br/>
-En 1902 : The Discovery Expedition under Robert Falcon Scott attained a Farthest South at 82°17′S in Antarctica.
+En 1902 : The Discovery Expedition under Robert Falcon Scott attains a Farthest South at 82°17′S in Antarctica.
 <br/><br/>
 En 1897 : The British Colony of Natal annexes Zululand.
 <br/><br/>
