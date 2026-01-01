@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 1/1 ?(Hover on the year)</h1>
 
-En 2025 : 14 people are killed and 57 others injured during a vehicle-ramming and shooting attack in New Orleans, Louisiana.
+En 2025 : Fourteen people are killed and 57 others injured during a vehicle-ramming and shooting attack in New Orleans, Louisiana.
 <br/><br/>
 En 2024 : A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 500 people and injuring over 1,000 others. A majority of direct deaths were due to collapsed homes.
 <br/><br/>
@@ -244,7 +244,7 @@ En -45 : The Julian calendar takes effect as the civil calendar of the Roman Rep
 <br/><br/>
 En -153 : For the first time, Roman consuls begin their year in office on January 1.
 <br/><br/>
-En 2025 : 14 people are killed and 57 others injured during a vehicle-ramming and shooting attack in New Orleans, Louisiana.
+En 2025 : Fourteen people are killed and 57 others injured during a vehicle-ramming and shooting attack in New Orleans, Louisiana.
 <br/><br/>
 En 2024 : A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 500 people and injuring over 1,000 others. A majority of direct deaths were due to collapsed homes.
 <br/><br/>
