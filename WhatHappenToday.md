@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 3/1 ?(Hover on the year)</h1>
 
+En 2026 : The United States conducts airstrikes across northern Venezuela, including the capital Caracas and captured Venezuelan president Nicolas Maduro and first lady Cilia Flores.
+<br/><br/>
 En 2024 : At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani four years earlier.
 <br/><br/>
 En 2023 : Singapore's Jurong Bird Park permanently closes.
@@ -111,6 +113,8 @@ En 1521 : Pope Leo X excommunicates Martin Luther in the papal bull Decet Romanu
 En 250 : Emperor Decius orders everyone in the Roman Empire (except Jews) to make sacrifices to the Roman gods.
 <br/><br/>
 En 69 : The Roman legions on the Rhine refuse to declare their allegiance to Galba, instead proclaiming their legate, Aulus Vitellius, as emperor.
+<br/><br/>
+En 2026 : The United States conducts airstrikes across northern Venezuela, including the capital Caracas and captured Venezuelan president Nicolas Maduro and first lady Cilia Flores.
 <br/><br/>
 En 2024 : At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani four years earlier.
 <br/><br/>
