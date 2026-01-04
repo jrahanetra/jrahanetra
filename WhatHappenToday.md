@@ -42,7 +42,7 @@ En 1975 : This date overflowed the 12-bit field that had been used in TOPS-10. T
 <br/><br/>
 En 1972 : Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.
 <br/><br/>
-En 1967 : The Doors released their eponyous debut album.
+En 1967 : The Doors released their eponymous debut album.
 <br/><br/>
 En 1965 : Aeroflot Flight 101/X-20 crashes on approach to Alma-Ata Airport, killing 64 people.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1975 : This date overflowed the 12-bit field that had been used in TOPS-10. T
 <br/><br/>
 En 1972 : Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.
 <br/><br/>
-En 1967 : The Doors released their eponyous debut album.
+En 1967 : The Doors released their eponymous debut album.
 <br/><br/>
 En 1965 : Aeroflot Flight 101/X-20 crashes on approach to Alma-Ata Airport, killing 64 people.
 <br/><br/>
