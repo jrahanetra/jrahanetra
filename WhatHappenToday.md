@@ -8,11 +8,15 @@
 
 En 2024 : Alaska Airlines Flight 1282 makes an emergency landing at Portland International Airport after a door plug blows off the Boeing 737 MAX 9 operating the flight. There are no fatalities, but the accident prompts the 737 MAX to be grounded and renews scrutiny on Boeing's manufacturing and design issues.
 <br/><br/>
+En 2023 : The 2023 Sinaloa unrest begins.
+<br/><br/>
 En 2022 : Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
 <br/><br/>
 En 2014 : A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
 <br/><br/>
 En 2005 : The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
+<br/><br/>
+En 2003 : A suicide bombing at the Tel Aviv central bus station kills 23 people and injures over 100 more.
 <br/><br/>
 En 1993 : The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
 <br/><br/>
@@ -30,6 +34,8 @@ En 1972 : US President Richard Nixon announces the Space Shuttle program.
 <br/><br/>
 En 1970 : The 7.1 Mw  Tonghai earthquake shakes Tonghai County, Yunnan province, China, with a maximum Mercalli intensity of X (Extreme). Between 10,000 and 15,000 people are known to have been killed and about another 26,000 are injured.
 <br/><br/>
+En 1970 : A Spantax Convair CV-990 Coronado crashes during takeoff from Stockholm Arlanda Airport, killing five people.
+<br/><br/>
 En 1969 : The Venera 5 space probe is launched at 06:28:08 UTC from Baikonur.
 <br/><br/>
 En 1969 : Ariana Afghan Airlines Flight 701 crashes in Fernhill, West Sussex, UK, while on approach to Gatwick Airport, killing 50 people.
@@ -43,6 +49,8 @@ En 1957 : In a speech given to the United States Congress, United States Preside
 En 1953 : The play Waiting for Godot by Samuel Beckett receives its première in Paris.
 <br/><br/>
 En 1949 : In his State of the Union address, United States President Harry S. Truman unveils his Fair Deal program.
+<br/><br/>
+En 1948 : The Semiramis Hotel bombing kills at least 23 people.
 <br/><br/>
 En 1945 : The Soviet Union recognizes the new pro-Soviet Provisional Government of the Republic of Poland.
 <br/><br/>
@@ -82,11 +90,15 @@ En 1477 : Battle of Nancy: Charles the Bold is defeated and killed in a conflict
 <br/><br/>
 En 2024 : Alaska Airlines Flight 1282 makes an emergency landing at Portland International Airport after a door plug blows off the Boeing 737 MAX 9 operating the flight. There are no fatalities, but the accident prompts the 737 MAX to be grounded and renews scrutiny on Boeing's manufacturing and design issues.
 <br/><br/>
+En 2023 : The 2023 Sinaloa unrest begins.
+<br/><br/>
 En 2022 : Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
 <br/><br/>
 En 2014 : A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
 <br/><br/>
 En 2005 : The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
+<br/><br/>
+En 2003 : A suicide bombing at the Tel Aviv central bus station kills 23 people and injures over 100 more.
 <br/><br/>
 En 1993 : The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
 <br/><br/>
@@ -104,6 +116,8 @@ En 1972 : US President Richard Nixon announces the Space Shuttle program.
 <br/><br/>
 En 1970 : The 7.1 Mw  Tonghai earthquake shakes Tonghai County, Yunnan province, China, with a maximum Mercalli intensity of X (Extreme). Between 10,000 and 15,000 people are known to have been killed and about another 26,000 are injured.
 <br/><br/>
+En 1970 : A Spantax Convair CV-990 Coronado crashes during takeoff from Stockholm Arlanda Airport, killing five people.
+<br/><br/>
 En 1969 : The Venera 5 space probe is launched at 06:28:08 UTC from Baikonur.
 <br/><br/>
 En 1969 : Ariana Afghan Airlines Flight 701 crashes in Fernhill, West Sussex, UK, while on approach to Gatwick Airport, killing 50 people.
@@ -117,6 +131,8 @@ En 1957 : In a speech given to the United States Congress, United States Preside
 En 1953 : The play Waiting for Godot by Samuel Beckett receives its première in Paris.
 <br/><br/>
 En 1949 : In his State of the Union address, United States President Harry S. Truman unveils his Fair Deal program.
+<br/><br/>
+En 1948 : The Semiramis Hotel bombing kills at least 23 people.
 <br/><br/>
 En 1945 : The Soviet Union recognizes the new pro-Soviet Provisional Government of the Republic of Poland.
 <br/><br/>
