@@ -8,7 +8,7 @@
 
 En 2025 : Justin Trudeau announces his resignation as leader of the Liberal Party of Canada and Prime Minister of Canada after nine years in office.
 <br/><br/>
-En 2021 : Americans storm the United States Capitol Building to disrupt certification of the 2020 presidential election, resulting in four deaths and evacuation of the U.S. Congress.
+En 2021 : Supporters of U.S. president Donald Trump storm the United States Capitol Building to disrupt certification of the 2020 presidential election, resulting in four deaths and evacuation of the U.S. Congress.
 <br/><br/>
 En 2019 : Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
 <br/><br/>
@@ -102,7 +102,7 @@ En 1066 : Following the death of Edward the Confessor on the previous day, the W
 <br/><br/>
 En 2025 : Justin Trudeau announces his resignation as leader of the Liberal Party of Canada and Prime Minister of Canada after nine years in office.
 <br/><br/>
-En 2021 : Americans storm the United States Capitol Building to disrupt certification of the 2020 presidential election, resulting in four deaths and evacuation of the U.S. Congress.
+En 2021 : Supporters of U.S. president Donald Trump storm the United States Capitol Building to disrupt certification of the 2020 presidential election, resulting in four deaths and evacuation of the U.S. Congress.
 <br/><br/>
 En 2019 : Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
 <br/><br/>
