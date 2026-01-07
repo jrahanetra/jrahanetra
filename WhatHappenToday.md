@@ -64,7 +64,7 @@ En 1928 : A disastrous flood of the River Thames kills 14 people and causes exte
 <br/><br/>
 En 1927 : The first transatlantic commercial telephone service is established from New York City to London.
 <br/><br/>
-En 1922 : Dáil Éireann ratifies the Anglo-Irish Treaty by a 64–57 vote.[citation needed]
+En 1922 : Dáil Éireann ratifies the Anglo-Irish Treaty by a 64–57 vote.
 <br/><br/>
 En 1920 : The New York State Assembly refuses to seat five duly elected Socialist assemblymen.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1928 : A disastrous flood of the River Thames kills 14 people and causes exte
 <br/><br/>
 En 1927 : The first transatlantic commercial telephone service is established from New York City to London.
 <br/><br/>
-En 1922 : Dáil Éireann ratifies the Anglo-Irish Treaty by a 64–57 vote.[citation needed]
+En 1922 : Dáil Éireann ratifies the Anglo-Irish Treaty by a 64–57 vote.
 <br/><br/>
 En 1920 : The New York State Assembly refuses to seat five duly elected Socialist assemblymen.
 <br/><br/>
