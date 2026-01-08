@@ -60,7 +60,7 @@ En 1959 : Charles de Gaulle is proclaimed as the first President of the French F
 <br/><br/>
 En 1956 : Operation Auca: Five U.S. missionaries are killed by the Waorani of Ecuador shortly after making first contact.
 <br/><br/>
-En 1946 : Andrei Zhdanov, Chairman of the Finnish Allied Commission, submitted to the Finnish War Criminal Court an interrogation report by General Erich Buschenhagen, a German prisoner of war, on the contacts between Finnish and German military personnel before the Continuation War and a copy of Hitler's Barbarossa plan.
+En 1946 : Andrei Zhdanov, Chairman of the Finnish Allied Commission, submits to the Finnish War Criminal Court an interrogation report by General Erich Buschenhagen, a German prisoner of war, on the contacts between Finnish and German military personnel before the Continuation War and a copy of Hitler's Barbarossa plan.
 <br/><br/>
 En 1945 : World War II: Philippine Commonwealth troops under the Philippine Commonwealth Army units enter the province of Ilocos Sur in Northern Luzon and attack invading Japanese Imperial forces.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1959 : Charles de Gaulle is proclaimed as the first President of the French F
 <br/><br/>
 En 1956 : Operation Auca: Five U.S. missionaries are killed by the Waorani of Ecuador shortly after making first contact.
 <br/><br/>
-En 1946 : Andrei Zhdanov, Chairman of the Finnish Allied Commission, submitted to the Finnish War Criminal Court an interrogation report by General Erich Buschenhagen, a German prisoner of war, on the contacts between Finnish and German military personnel before the Continuation War and a copy of Hitler's Barbarossa plan.
+En 1946 : Andrei Zhdanov, Chairman of the Finnish Allied Commission, submits to the Finnish War Criminal Court an interrogation report by General Erich Buschenhagen, a German prisoner of war, on the contacts between Finnish and German military personnel before the Continuation War and a copy of Hitler's Barbarossa plan.
 <br/><br/>
 En 1945 : World War II: Philippine Commonwealth troops under the Philippine Commonwealth Army units enter the province of Ilocos Sur in Northern Luzon and attack invading Japanese Imperial forces.
 <br/><br/>
