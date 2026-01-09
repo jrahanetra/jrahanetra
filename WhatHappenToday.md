@@ -100,7 +100,7 @@ En 1792 : Treaty of Jassy between Russian and Ottoman Empire is signed, ending t
 <br/><br/>
 En 1788 : Connecticut becomes the fifth state to ratify the United States Constitution.
 <br/><br/>
-En 1787 : The nationally known image of the Black Nazarene in the Philippines was transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
+En 1787 : The nationally known image of the Black Nazarene in the Philippines is transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
 <br/><br/>
 En 1760 : Ahmad Shah Durrani defeats the Marathas in the Battle of Barari Ghat.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1792 : Treaty of Jassy between Russian and Ottoman Empire is signed, ending t
 <br/><br/>
 En 1788 : Connecticut becomes the fifth state to ratify the United States Constitution.
 <br/><br/>
-En 1787 : The nationally known image of the Black Nazarene in the Philippines was transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
+En 1787 : The nationally known image of the Black Nazarene in the Philippines is transferred from what is now Rizal Park to its present shrine in the minor basilica of Quiapo Church. This is annually commemorated through its Traslación (solemn transfer) in the streets of Manila and is attended by millions of devotees.
 <br/><br/>
 En 1760 : Ahmad Shah Durrani defeats the Marathas in the Battle of Barari Ghat.
 <br/><br/>
