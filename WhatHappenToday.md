@@ -26,7 +26,7 @@ En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to co
 <br/><br/>
 En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
 <br/><br/>
-En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
+En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments.
 <br/><br/>
 En 1980 : The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
 <br/><br/>
@@ -106,7 +106,7 @@ En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to co
 <br/><br/>
 En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
 <br/><br/>
-En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
+En 1981 : Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments.
 <br/><br/>
 En 1980 : The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
 <br/><br/>
