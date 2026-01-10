@@ -22,7 +22,7 @@ En 2000 : Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Swit
 <br/><br/>
 En 1990 : Time Warner is formed by the merger of Time Inc. and Warner Communications.
 <br/><br/>
-En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
+En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba.
 <br/><br/>
 En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
 <br/><br/>
@@ -102,7 +102,7 @@ En 2000 : Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Swit
 <br/><br/>
 En 1990 : Time Warner is formed by the merger of Time Inc. and Warner Communications.
 <br/><br/>
-En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
+En 1985 : Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba.
 <br/><br/>
 En 1984 : Holy See–United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
 <br/><br/>
