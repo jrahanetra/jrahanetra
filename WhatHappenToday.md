@@ -24,6 +24,8 @@ En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially open
 <br/><br/>
 En 1983 : United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
 <br/><br/>
+En 1977 : The first episode of Finnish children's TV show Pikku Kakkonen ("Little Number Two") is aired on Yle TV2.
+<br/><br/>
 En 1973 : Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
 <br/><br/>
 En 1972 : East Pakistan renames itself Bangladesh.
@@ -119,6 +121,8 @@ En 1994 : The Irish Government announces the end of a 15-year broadcasting ban o
 En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
 <br/><br/>
 En 1983 : United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
+<br/><br/>
+En 1977 : The first episode of Finnish children's TV show Pikku Kakkonen ("Little Number Two") is aired on Yle TV2.
 <br/><br/>
 En 1973 : Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
 <br/><br/>
