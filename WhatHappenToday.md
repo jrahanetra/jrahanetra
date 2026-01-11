@@ -72,7 +72,7 @@ En 1908 : Grand Canyon National Monument is created.
 <br/><br/>
 En 1879 : The Anglo-Zulu War begins.
 <br/><br/>
-En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter captures Fort Hindman and secures control over the Arkansas River for the Union.
+En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter capture Fort Hindman and secure control over the Arkansas River for the Union.
 <br/><br/>
 En 1863 : American Civil War: CSS Alabama encounters and sinks the USS Hatteras off Galveston Lighthouse in Texas.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1908 : Grand Canyon National Monument is created.
 <br/><br/>
 En 1879 : The Anglo-Zulu War begins.
 <br/><br/>
-En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter captures Fort Hindman and secures control over the Arkansas River for the Union.
+En 1863 : American Civil War: The three-day Battle of Arkansas Post concludes as General John McClernand and Admiral David Dixon Porter capture Fort Hindman and secure control over the Arkansas River for the Union.
 <br/><br/>
 En 1863 : American Civil War: CSS Alabama encounters and sinks the USS Hatteras off Galveston Lighthouse in Texas.
 <br/><br/>
