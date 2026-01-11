@@ -20,6 +20,8 @@ En 1995 : 51 people are killed in a plane crash in María La Baja, Colombia.
 <br/><br/>
 En 1994 : The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
 <br/><br/>
+En 1993 : The first episode of WWE Raw debuts on USA Network.
+<br/><br/>
 En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
 <br/><br/>
 En 1983 : United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
@@ -117,6 +119,8 @@ En 1996 : Space Shuttle program: STS-72 launches from the Kennedy Space Center m
 En 1995 : 51 people are killed in a plane crash in María La Baja, Colombia.
 <br/><br/>
 En 1994 : The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
+<br/><br/>
+En 1993 : The first episode of WWE Raw debuts on USA Network.
 <br/><br/>
 En 1986 : The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
 <br/><br/>
