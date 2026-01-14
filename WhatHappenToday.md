@@ -12,13 +12,9 @@ En 2019 : A Saha Airlines Boeing 707 crashes at Fath Air Base near Karaj in Albo
 <br/><br/>
 En 2016 : Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
 <br/><br/>
-En 2011 : President Zine El Abidine Ben Ali of Tunisia seeks refuge in Saudi Arabia after a series of demonstrations against his regime, considered to be the birth of the Arab Spring.
-<br/><br/>
 En 2010 : Yemen declares an open war against the terrorist group al-Qaeda.
 <br/><br/>
-En 2004 : The national flag of the Republic of Georgia, the so-called "five cross flag", is restored to official use after a hiatus of some 500 years.
-<br/><br/>
-En 1993 : Sinking of the MS Jan Heweliusz: In Poland's worst peacetime maritime disaster, ferry MS Jan Heweliusz sinks off the coast of Rügen, drowning 55 passengers and crew; nine crew-members are saved.
+En 1993 : Sinking of the MS Jan Heweliusz: In Poland's worst peacetime maritime disaster, ferry MS Jan Heweliusz sinks off the coast of Rügen, drowning 55 passengers.
 <br/><br/>
 En 1973 : Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
 <br/><br/>
@@ -74,13 +70,9 @@ En 2019 : A Saha Airlines Boeing 707 crashes at Fath Air Base near Karaj in Albo
 <br/><br/>
 En 2016 : Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
 <br/><br/>
-En 2011 : President Zine El Abidine Ben Ali of Tunisia seeks refuge in Saudi Arabia after a series of demonstrations against his regime, considered to be the birth of the Arab Spring.
-<br/><br/>
 En 2010 : Yemen declares an open war against the terrorist group al-Qaeda.
 <br/><br/>
-En 2004 : The national flag of the Republic of Georgia, the so-called "five cross flag", is restored to official use after a hiatus of some 500 years.
-<br/><br/>
-En 1993 : Sinking of the MS Jan Heweliusz: In Poland's worst peacetime maritime disaster, ferry MS Jan Heweliusz sinks off the coast of Rügen, drowning 55 passengers and crew; nine crew-members are saved.
+En 1993 : Sinking of the MS Jan Heweliusz: In Poland's worst peacetime maritime disaster, ferry MS Jan Heweliusz sinks off the coast of Rügen, drowning 55 passengers.
 <br/><br/>
 En 1973 : Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
 <br/><br/>
