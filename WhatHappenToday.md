@@ -114,6 +114,8 @@ En 1559 : Elizabeth I is crowned Queen of England and Ireland in Westminster Abb
 <br/><br/>
 En 1541 : King Francis I of France gives Jean-François Roberval a commission to settle the province of New France (Canada) and provide for the spread of the "Holy Catholic faith".
 <br/><br/>
+En 1535 : King Henry VIII issues letters patent incorporating the title Supreme Head of the Church of England into his royal title.
+<br/><br/>
 En 69 : Otho seizes power in Rome, proclaiming himself Emperor of Rome, beginning a reign of only three months.
 <br/><br/>
 En 2023 : Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
@@ -223,6 +225,8 @@ En 1582 : Truce of Yam-Zapolsky: Russia cedes Livonia to the Polish–Lithuanian
 En 1559 : Elizabeth I is crowned Queen of England and Ireland in Westminster Abbey, London.
 <br/><br/>
 En 1541 : King Francis I of France gives Jean-François Roberval a commission to settle the province of New France (Canada) and provide for the spread of the "Holy Catholic faith".
+<br/><br/>
+En 1535 : King Henry VIII issues letters patent incorporating the title Supreme Head of the Church of England into his royal title.
 <br/><br/>
 En 69 : Otho seizes power in Rome, proclaiming himself Emperor of Rome, beginning a reign of only three months.
 <br/><br/>
