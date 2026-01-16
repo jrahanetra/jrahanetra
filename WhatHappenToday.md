@@ -80,7 +80,7 @@ En 1780 : American Revolutionary War: Battle of Cape St. Vincent.
 <br/><br/>
 En 1757 : Forces of the Maratha Empire are defeated by the Durrani Empire in the Battle of Narela.
 <br/><br/>
-En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of the Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
+En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
 <br/><br/>
 En 1707 : The Scottish Parliament ratifies the Act of Union, paving the way for the creation of Great Britain.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1780 : American Revolutionary War: Battle of Cape St. Vincent.
 <br/><br/>
 En 1757 : Forces of the Maratha Empire are defeated by the Durrani Empire in the Battle of Narela.
 <br/><br/>
-En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of the Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
+En 1716 : King Philip V of Spain promulgates the Nueva Planta decree of the Principality of Catalonia, abolishing the Catalan institutions and its legal system, being replaced by those of Castile, thus putting an end to Catalonia as separate state and becoming a province of the new French-style Kingdom of Spain.
 <br/><br/>
 En 1707 : The Scottish Parliament ratifies the Act of Union, paving the way for the creation of Great Britain.
 <br/><br/>
