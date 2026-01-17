@@ -40,6 +40,8 @@ En 1991 : Gulf War: Operation Desert Storm begins early in the morning as aircra
 <br/><br/>
 En 1991 : Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
 <br/><br/>
+En 1989 : Patrick Purdy opens fire at an elementary school in Stockton, California, killing five and wounding 31 others.
+<br/><br/>
 En 1981 : President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
 <br/><br/>
 En 1977 : Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah.
@@ -155,6 +157,8 @@ En 1992 : During a visit to South Korea, Japanese Prime Minister Kiichi Miyazawa
 En 1991 : Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation.
 <br/><br/>
 En 1991 : Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
+<br/><br/>
+En 1989 : Patrick Purdy opens fire at an elementary school in Stockton, California, killing five and wounding 31 others.
 <br/><br/>
 En 1981 : President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
 <br/><br/>
