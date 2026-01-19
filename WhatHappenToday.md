@@ -6,9 +6,9 @@
 <hr/>
 <h1> What happen this day 19/1 ?(Hover on the year)</h1>
 
-En 2025 : Bytedance and sister companies were banned from the United States for "security concerns".
+En 2025 : Bytedance and sister companies are banned from the United States for "security concerns".
 <br/><br/>
-En 2024 : The Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
+En 2024 : The Japan Aerospace Exploration Agency's probe lands on the moon, making Japan the 5th country to land a spacecraft on the moon.
 <br/><br/>
 En 2014 : A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
 <br/><br/>
@@ -116,9 +116,9 @@ En 649 : Conquest of Kucha: The forces of Kucha surrender after a forty-day sieg
 <br/><br/>
 En 379 : Emperor Gratian elevates Flavius Theodosius at Sirmium to Augustus, and gives him authority over all the eastern provinces of the Roman Empire.
 <br/><br/>
-En 2025 : Bytedance and sister companies were banned from the United States for "security concerns".
+En 2025 : Bytedance and sister companies are banned from the United States for "security concerns".
 <br/><br/>
-En 2024 : The Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
+En 2024 : The Japan Aerospace Exploration Agency's probe lands on the moon, making Japan the 5th country to land a spacecraft on the moon.
 <br/><br/>
 En 2014 : A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
 <br/><br/>
