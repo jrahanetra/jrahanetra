@@ -64,8 +64,6 @@ En 1948 : The Flag of Quebec is adopted and flown for the first time over the Na
 <br/><br/>
 En 1945 : The Trade Union Council of Transcarpathian Ukraine is founded in Mukachevo.
 <br/><br/>
-En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
-<br/><br/>
 En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto is established.
 <br/><br/>
 En 1941 : Sparked by the murder of a German officer in Bucharest, Romania, the day before, members of the Iron Guard engage in a rebellion and pogrom killing 125 Jews.
@@ -163,8 +161,6 @@ En 1950 : American lawyer and government official Alger Hiss is convicted of per
 En 1948 : The Flag of Quebec is adopted and flown for the first time over the National Assembly of Quebec. The day is marked annually as Québec Flag Day.
 <br/><br/>
 En 1945 : The Trade Union Council of Transcarpathian Ukraine is founded in Mukachevo.
-<br/><br/>
-En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
 <br/><br/>
 En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto is established.
 <br/><br/>
