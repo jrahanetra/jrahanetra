@@ -14,7 +14,7 @@ En 2017 : Over 400 cities across America and 160+ countries worldwide participat
 <br/><br/>
 En 2014 : Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
 <br/><br/>
-En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
+En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people die from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
 <br/><br/>
 En 2009 : Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
 <br/><br/>
@@ -30,7 +30,7 @@ En 1999 : War on drugs: In one of the largest drug busts in American history, th
 <br/><br/>
 En 1997 : The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
 <br/><br/>
-En 1986 : Conservative protestors attacked a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.
+En 1986 : Conservative protestors attack a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.
 <br/><br/>
 En 1985 : Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
 <br/><br/>
@@ -48,7 +48,7 @@ En 1968 : A B-52 bomber crashes near Thule Air Base, contaminating the area afte
 <br/><br/>
 En 1963 : The Chicago North Shore and Milwaukee Railroad ends operation.
 <br/><br/>
-En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
+En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia, with Miss Sam, a female rhesus monkey, on board.
 <br/><br/>
 En 1960 : Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
 <br/><br/>
@@ -66,9 +66,9 @@ En 1945 : The Trade Union Council of Transcarpathian Ukraine is founded in Mukac
 <br/><br/>
 En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
 <br/><br/>
-En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
+En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto is established.
 <br/><br/>
-En 1941 : Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.
+En 1941 : Sparked by the murder of a German officer in Bucharest, Romania, the day before, members of the Iron Guard engage in a rebellion and pogrom killing 125 Jews.
 <br/><br/>
 En 1932 : Finland and the Soviet Union sign a non-aggression treaty.
 <br/><br/>
@@ -114,7 +114,7 @@ En 2017 : Over 400 cities across America and 160+ countries worldwide participat
 <br/><br/>
 En 2014 : Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
 <br/><br/>
-En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
+En 2011 : Anti-government demonstrations take place in Tirana, Albania. Four people die from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
 <br/><br/>
 En 2009 : Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
 <br/><br/>
@@ -130,7 +130,7 @@ En 1999 : War on drugs: In one of the largest drug busts in American history, th
 <br/><br/>
 En 1997 : The U.S. House of Representatives votes 395–28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
 <br/><br/>
-En 1986 : Conservative protestors attacked a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.
+En 1986 : Conservative protestors attack a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.
 <br/><br/>
 En 1985 : Galaxy Airlines Flight 203 crashes near Reno–Tahoe International Airport in Reno, Nevada, killing 70 people.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1968 : A B-52 bomber crashes near Thule Air Base, contaminating the area afte
 <br/><br/>
 En 1963 : The Chicago North Shore and Milwaukee Railroad ends operation.
 <br/><br/>
-En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
+En 1960 : Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia, with Miss Sam, a female rhesus monkey, on board.
 <br/><br/>
 En 1960 : Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
 <br/><br/>
@@ -166,9 +166,9 @@ En 1945 : The Trade Union Council of Transcarpathian Ukraine is founded in Mukac
 <br/><br/>
 En 1943 : As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
 <br/><br/>
-En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
+En 1942 : The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto is established.
 <br/><br/>
-En 1941 : Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.
+En 1941 : Sparked by the murder of a German officer in Bucharest, Romania, the day before, members of the Iron Guard engage in a rebellion and pogrom killing 125 Jews.
 <br/><br/>
 En 1932 : Finland and the Soviet Union sign a non-aggression treaty.
 <br/><br/>
