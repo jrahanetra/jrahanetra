@@ -24,6 +24,8 @@ En 1992 : Space Shuttle program: The space shuttle Discovery launches on STS-42 
 <br/><br/>
 En 1987 : Philippine security forces open fire on a crowd of 10,000–15,000 demonstrators at Malacañang Palace, Manila, killing 13.
 <br/><br/>
+En 1987 : 70th Treasurer of Pennsylvania R. Budd Dwyer commits suicide at a filmed press conference following his conviction on bribery charges.
+<br/><br/>
 En 1973 : The Supreme Court of the United States delivers its decisions in Roe v. Wade and Doe v. Bolton, legalizing elective abortion in all fifty states.  This decision is subsequently overturned in Dobbs v. Jackson Women's Health Organization in 2022.
 <br/><br/>
 En 1973 : The crew of Apollo 17 addresses a joint session of Congress after the completion of the final Apollo Moon landing mission.
@@ -115,6 +117,8 @@ En 1995 : Israeli–Palestinian conflict: Beit Lid suicide bombing: In central I
 En 1992 : Space Shuttle program: The space shuttle Discovery launches on STS-42 carrying Dr. Roberta Bondar, who becomes the first Canadian woman and the first neurologist in space.
 <br/><br/>
 En 1987 : Philippine security forces open fire on a crowd of 10,000–15,000 demonstrators at Malacañang Palace, Manila, killing 13.
+<br/><br/>
+En 1987 : 70th Treasurer of Pennsylvania R. Budd Dwyer commits suicide at a filmed press conference following his conviction on bribery charges.
 <br/><br/>
 En 1973 : The Supreme Court of the United States delivers its decisions in Roe v. Wade and Doe v. Bolton, legalizing elective abortion in all fifty states.  This decision is subsequently overturned in Dobbs v. Jackson Women's Health Organization in 2022.
 <br/><br/>
