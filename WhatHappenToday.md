@@ -84,7 +84,7 @@ En 1849 : Elizabeth Blackwell is awarded her M.D. by the Geneva Medical College 
 <br/><br/>
 En 1846 : Slavery in Tunisia is abolished.
 <br/><br/>
-En 1795 : After crossing the frozen Zuiderzee, the French cavalry captured 14 Dutch ships and 850 guns, in a rare occurrence of surrender of naval vessels to land forces.
+En 1795 : After crossing the frozen Zuiderzee, the French cavalry capture 14 Dutch ships and 850 guns, in a rare occurrence of surrender of naval vessels to land forces.
 <br/><br/>
 En 1793 : Second Partition of Poland.
 <br/><br/>
@@ -196,7 +196,7 @@ En 1849 : Elizabeth Blackwell is awarded her M.D. by the Geneva Medical College 
 <br/><br/>
 En 1846 : Slavery in Tunisia is abolished.
 <br/><br/>
-En 1795 : After crossing the frozen Zuiderzee, the French cavalry captured 14 Dutch ships and 850 guns, in a rare occurrence of surrender of naval vessels to land forces.
+En 1795 : After crossing the frozen Zuiderzee, the French cavalry capture 14 Dutch ships and 850 guns, in a rare occurrence of surrender of naval vessels to land forces.
 <br/><br/>
 En 1793 : Second Partition of Poland.
 <br/><br/>
