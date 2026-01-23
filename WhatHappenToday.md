@@ -50,7 +50,7 @@ En 1957 : American inventor Walter Frederick Morrison sells the rights to his fl
 <br/><br/>
 En 1950 : The Knesset resolves that Jerusalem is the capital of Israel.
 <br/><br/>
-En 1945 : World War II: German admiral Karl Dönitz launches Operation Hannibal.
+En 1945 : World War II: German admiral Karl Dönitz launches Operation Hannibal., the evacuation of areas along the eastern Baltic coast.
 <br/><br/>
 En 1943 : World War II: Troops of the British Eighth Army capture Tripoli in Libya from the German–Italian Panzer Army.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1957 : American inventor Walter Frederick Morrison sells the rights to his fl
 <br/><br/>
 En 1950 : The Knesset resolves that Jerusalem is the capital of Israel.
 <br/><br/>
-En 1945 : World War II: German admiral Karl Dönitz launches Operation Hannibal.
+En 1945 : World War II: German admiral Karl Dönitz launches Operation Hannibal., the evacuation of areas along the eastern Baltic coast.
 <br/><br/>
 En 1943 : World War II: Troops of the British Eighth Army capture Tripoli in Libya from the German–Italian Panzer Army.
 <br/><br/>
