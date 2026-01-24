@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 24/1 ?(Hover on the year)</h1>
 
+En 2024 : An Ilyushin Il-76 crashes in Russia's Korochansky District, killing all 74 people on board.
+<br/><br/>
 En 2018 : Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
 <br/><br/>
 En 2011 : At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
@@ -17,6 +19,8 @@ En 2003 : The United States Department of Homeland Security officially begins op
 En 1990 : Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
 <br/><br/>
 En 1989 : Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison.
+<br/><br/>
+En 1988 : An Aeroflot Yakovlev Yak-40 crashes at Nizhnevartovsk Airport, killing 27 people.
 <br/><br/>
 En 1987 : About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States.
 <br/><br/>
@@ -88,6 +92,8 @@ En 914 : Start of the First Fatimid invasion of Egypt.
 <br/><br/>
 En 41 : Claudius is proclaimed Roman emperor by the Praetorian Guard after they assassinate the previous emperor, his nephew Caligula.
 <br/><br/>
+En 2024 : An Ilyushin Il-76 crashes in Russia's Korochansky District, killing all 74 people on board.
+<br/><br/>
 En 2018 : Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
 <br/><br/>
 En 2011 : At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
@@ -99,6 +105,8 @@ En 2003 : The United States Department of Homeland Security officially begins op
 En 1990 : Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
 <br/><br/>
 En 1989 : Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison.
+<br/><br/>
+En 1988 : An Aeroflot Yakovlev Yak-40 crashes at Nizhnevartovsk Airport, killing 27 people.
 <br/><br/>
 En 1987 : About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States.
 <br/><br/>
