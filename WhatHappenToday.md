@@ -62,7 +62,7 @@ En 1928 : Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. au
 <br/><br/>
 En 1927 : Ibn Saud takes the title of King of Nejd.
 <br/><br/>
-En 1924 : Six days after his death Lenin's body is carried into a specially erected mausoleum.
+En 1924 : Six days after his death, Vladimir Lenin's body is carried into a specially erected mausoleum.
 <br/><br/>
 En 1918 : Beginning of the Finnish Civil War.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1928 : Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. au
 <br/><br/>
 En 1927 : Ibn Saud takes the title of King of Nejd.
 <br/><br/>
-En 1924 : Six days after his death Lenin's body is carried into a specially erected mausoleum.
+En 1924 : Six days after his death, Vladimir Lenin's body is carried into a specially erected mausoleum.
 <br/><br/>
 En 1918 : Beginning of the Finnish Civil War.
 <br/><br/>
