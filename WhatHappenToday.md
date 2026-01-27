@@ -10,6 +10,8 @@ En 2023 : Protests and public outrage spark across the U.S. after the release of
 <br/><br/>
 En 2023 : A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
 <br/><br/>
+En 2023 : An attack on the Azerbaijani embassy in Pasdaran, Tehran, kills one person and injures three others.
+<br/><br/>
 En 2017 : A naming ceremony for the chemical element tennessine takes place in the United States.
 <br/><br/>
 En 2014 : Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic.
@@ -107,6 +109,8 @@ En 98 : Trajan succeeds his adoptive father Nerva as Roman emperor.
 En 2023 : Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.
 <br/><br/>
 En 2023 : A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
+<br/><br/>
+En 2023 : An attack on the Azerbaijani embassy in Pasdaran, Tehran, kills one person and injures three others.
 <br/><br/>
 En 2017 : A naming ceremony for the chemical element tennessine takes place in the United States.
 <br/><br/>
