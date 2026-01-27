@@ -52,7 +52,7 @@ En 1951 : Nuclear testing at the Nevada Test Site begins with Operation Ranger.
 <br/><br/>
 En 1945 : World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau.
 <br/><br/>
-En 1944 : World War II: The 900-day Siege of Leningrad is lifted.
+En 1944 : World War II: The 872-day Siege of Leningrad is lifted.
 <br/><br/>
 En 1943 : World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany.
 <br/><br/>
@@ -152,7 +152,7 @@ En 1951 : Nuclear testing at the Nevada Test Site begins with Operation Ranger.
 <br/><br/>
 En 1945 : World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau.
 <br/><br/>
-En 1944 : World War II: The 900-day Siege of Leningrad is lifted.
+En 1944 : World War II: The 872-day Siege of Leningrad is lifted.
 <br/><br/>
 En 1943 : World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany.
 <br/><br/>
