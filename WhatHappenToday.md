@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 28/1 ?(Hover on the year)</h1>
 
+En 2026 : A Learjet 45 crashes on approach to Baramati Airport in Maharashtra, killing all six occupants including the Deputy Chief Minister of Maharashtra, Ajit Pawar.
+<br/><br/>
 En 2023 : Protests begin after police beat and kill Tyre Nichols.
 <br/><br/>
 En 2021 : A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
@@ -111,6 +113,8 @@ En 1069 : Robert de Comines, appointed Earl of Northumbria by William the Conque
 En 814 : The death of Charlemagne, the first Holy Roman Emperor, brings about the accession of his son Louis the Pious as ruler of the Frankish Empire.
 <br/><br/>
 En 98 : On the death of Nerva, Trajan is declared Roman emperor in Cologne, the seat of his government in lower Germany.
+<br/><br/>
+En 2026 : A Learjet 45 crashes on approach to Baramati Airport in Maharashtra, killing all six occupants including the Deputy Chief Minister of Maharashtra, Ajit Pawar.
 <br/><br/>
 En 2023 : Protests begin after police beat and kill Tyre Nichols.
 <br/><br/>
