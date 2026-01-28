@@ -8,7 +8,7 @@
 
 En 2026 : A Learjet 45 crashes on approach to Baramati Airport in Maharashtra, killing all six occupants including the Deputy Chief Minister of Maharashtra, Ajit Pawar.
 <br/><br/>
-En 2023 : Protests begin after police beat and kill Tyre Nichols.
+En 2023 : Protests begin in the United States after police beat and kill Tyre Nichols.
 <br/><br/>
 En 2021 : A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
 <br/><br/>
@@ -116,7 +116,7 @@ En 98 : On the death of Nerva, Trajan is declared Roman emperor in Cologne, the 
 <br/><br/>
 En 2026 : A Learjet 45 crashes on approach to Baramati Airport in Maharashtra, killing all six occupants including the Deputy Chief Minister of Maharashtra, Ajit Pawar.
 <br/><br/>
-En 2023 : Protests begin after police beat and kill Tyre Nichols.
+En 2023 : Protests begin in the United States after police beat and kill Tyre Nichols.
 <br/><br/>
 En 2021 : A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
 <br/><br/>
