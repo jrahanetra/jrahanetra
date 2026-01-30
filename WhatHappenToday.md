@@ -86,7 +86,7 @@ En 1847 : Yerba Buena, California is renamed San Francisco, California.
 <br/><br/>
 En 1835 : In the first assassination attempt against a President of the United States, Richard Lawrence attempts to shoot president Andrew Jackson, but fails and is subdued by a crowd, including several congressmen as well as Jackson himself.
 <br/><br/>
-En 1826 : The Menai Suspension Bridge, considered the world's first modern suspension bridge, connecting the Isle of Anglesey to the north West coast of Wales, is opened.
+En 1826 : The Menai Suspension Bridge, considered the world's first modern suspension bridge, connecting the Isle of Anglesey to the northwest coast of Wales, is opened.
 <br/><br/>
 En 1820 : Edward Bransfield sights the Trinity Peninsula and claims the discovery of Antarctica.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1847 : Yerba Buena, California is renamed San Francisco, California.
 <br/><br/>
 En 1835 : In the first assassination attempt against a President of the United States, Richard Lawrence attempts to shoot president Andrew Jackson, but fails and is subdued by a crowd, including several congressmen as well as Jackson himself.
 <br/><br/>
-En 1826 : The Menai Suspension Bridge, considered the world's first modern suspension bridge, connecting the Isle of Anglesey to the north West coast of Wales, is opened.
+En 1826 : The Menai Suspension Bridge, considered the world's first modern suspension bridge, connecting the Isle of Anglesey to the northwest coast of Wales, is opened.
 <br/><br/>
 En 1820 : Edward Bransfield sights the Trinity Peninsula and claims the discovery of Antarctica.
 <br/><br/>
