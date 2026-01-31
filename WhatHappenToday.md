@@ -8,7 +8,7 @@
 
 En 2025 : Med Jets Flight 056 crashes near Roosevelt Mall in Philadelphia, Pennsylvania, killing 8 people and injuring 23.
 <br/><br/>
-En 2023 : The last Boeing 747, the first wide-body airliner, is delivered to Atlas Air and operated for ApexLogistics. The aircraft was registered as N863GT and named "Empower"
+En 2023 : The last Boeing 747, the first wide-body airliner, is delivered to Atlas Air and operated for ApexLogistics. The aircraft was registered as N863GT and named "Empower".
 <br/><br/>
 En 2022 : Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
 <br/><br/>
@@ -18,7 +18,7 @@ En 2019 : Abdullah of Pahang is sworn in as the 16th Yang di-Pertuan Agong of Ma
 <br/><br/>
 En 2009 : At least 113 people are killed in Kenya and over 200 injured following an oil spillage ignition in Molo, days after a massive fire at a Nakumatt supermarket in Nairobi killed at least 25 people.
 <br/><br/>
-En 2007 : Emergency officials in Boston mistakenly identified battery-powered LED placards depicting characters from Aqua Teen Hunger Force as Improvised explosive devices (IEDs), causing a panic.
+En 2007 : Emergency officials in Boston mistakenly identify battery-powered LED placards depicting characters from Aqua Teen Hunger Force as Improvised explosive devices (IEDs), causing a panic.
 <br/><br/>
 En 2003 : The Waterfall rail accident occurs near Waterfall, New South Wales, Australia.
 <br/><br/>
@@ -122,7 +122,7 @@ En 314 : Pope Sylvester I is consecrated, as successor to the late Pope Miltiade
 <br/><br/>
 En 2025 : Med Jets Flight 056 crashes near Roosevelt Mall in Philadelphia, Pennsylvania, killing 8 people and injuring 23.
 <br/><br/>
-En 2023 : The last Boeing 747, the first wide-body airliner, is delivered to Atlas Air and operated for ApexLogistics. The aircraft was registered as N863GT and named "Empower"
+En 2023 : The last Boeing 747, the first wide-body airliner, is delivered to Atlas Air and operated for ApexLogistics. The aircraft was registered as N863GT and named "Empower".
 <br/><br/>
 En 2022 : Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
 <br/><br/>
@@ -132,7 +132,7 @@ En 2019 : Abdullah of Pahang is sworn in as the 16th Yang di-Pertuan Agong of Ma
 <br/><br/>
 En 2009 : At least 113 people are killed in Kenya and over 200 injured following an oil spillage ignition in Molo, days after a massive fire at a Nakumatt supermarket in Nairobi killed at least 25 people.
 <br/><br/>
-En 2007 : Emergency officials in Boston mistakenly identified battery-powered LED placards depicting characters from Aqua Teen Hunger Force as Improvised explosive devices (IEDs), causing a panic.
+En 2007 : Emergency officials in Boston mistakenly identify battery-powered LED placards depicting characters from Aqua Teen Hunger Force as Improvised explosive devices (IEDs), causing a panic.
 <br/><br/>
 En 2003 : The Waterfall rail accident occurs near Waterfall, New South Wales, Australia.
 <br/><br/>
