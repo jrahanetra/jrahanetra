@@ -76,7 +76,7 @@ En 1928 : Leon Trotsky is exiled to Alma-Ata.
 <br/><br/>
 En 1919 : The Battle of George Square takes place in Glasgow, Scotland, during a campaign for shorter working hours.
 <br/><br/>
-En 1918 : A series of accidental collisions on a misty Scottish night leads to the loss of two Royal Navy submarines with over a hundred lives, and damage to another five British warships.
+En 1918 : A series of accidental collisions due to poor visibility leads to the loss of two Royal Navy submarines with over a hundred lives, and damage to another five British warships.
 <br/><br/>
 En 1918 : Finnish Civil War: The Suinula massacre, which changes the nature of the war in a more hostile direction, takes place in Kangasala.
 <br/><br/>
@@ -190,7 +190,7 @@ En 1928 : Leon Trotsky is exiled to Alma-Ata.
 <br/><br/>
 En 1919 : The Battle of George Square takes place in Glasgow, Scotland, during a campaign for shorter working hours.
 <br/><br/>
-En 1918 : A series of accidental collisions on a misty Scottish night leads to the loss of two Royal Navy submarines with over a hundred lives, and damage to another five British warships.
+En 1918 : A series of accidental collisions due to poor visibility leads to the loss of two Royal Navy submarines with over a hundred lives, and damage to another five British warships.
 <br/><br/>
 En 1918 : Finnish Civil War: The Suinula massacre, which changes the nature of the war in a more hostile direction, takes place in Kangasala.
 <br/><br/>
