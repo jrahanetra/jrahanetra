@@ -38,6 +38,8 @@ En 1991 : A runway collision between USAir Flight 1493 and SkyWest Flight 5569 a
 <br/><br/>
 En 1991 : A magnitude 6.8 earthquake strikes the Hindu Kush region, killing at least 848 people in Afghanistan, Pakistan and present-day Tajikistan.
 <br/><br/>
+En 1982 : The Intel 80286 is released, which introduced protected mode memory. The IBM PC/AT and its clones used this CPU.
+<br/><br/>
 En 1981 : The Underarm bowling incident of 1981 occurred when Trevor Chappell bowls underarm on the final delivery of a game between Australia and New Zealand at the Melbourne Cricket Ground (MCG).
 <br/><br/>
 En 1979 : Iranian Ayatollah Ruhollah Khomeini returns to Tehran after nearly 15 years of exile.
@@ -141,6 +143,8 @@ En 1992 : The Chief Judicial Magistrate of Bhopal court declares Warren Anderson
 En 1991 : A runway collision between USAir Flight 1493 and SkyWest Flight 5569 at Los Angeles International Airport results in the deaths of 34 people, and injuries to 30 others.
 <br/><br/>
 En 1991 : A magnitude 6.8 earthquake strikes the Hindu Kush region, killing at least 848 people in Afghanistan, Pakistan and present-day Tajikistan.
+<br/><br/>
+En 1982 : The Intel 80286 is released, which introduced protected mode memory. The IBM PC/AT and its clones used this CPU.
 <br/><br/>
 En 1981 : The Underarm bowling incident of 1981 occurred when Trevor Chappell bowls underarm on the final delivery of a game between Australia and New Zealand at the Melbourne Cricket Ground (MCG).
 <br/><br/>
