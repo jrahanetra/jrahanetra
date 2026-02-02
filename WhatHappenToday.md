@@ -62,8 +62,6 @@ En 1909 : The Paris Film Congress opens, an attempt by European producers to for
 <br/><br/>
 En 1901 : Funeral of Queen Victoria.
 <br/><br/>
-En 1900 : Boston, Detroit, Milwaukee, Baltimore, Chicago and St. Louis, agree to form baseball's American League.
-<br/><br/>
 En 1899 : The Australian Premiers' Conference held in Melbourne decides to locate Australia's capital city, Canberra, between Sydney and Melbourne.
 <br/><br/>
 En 1887 : In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.
@@ -90,7 +88,7 @@ En 1709 : Alexander Selkirk is rescued after being shipwrecked on a desert islan
 <br/><br/>
 En 1653 : New Amsterdam (later renamed The City of New York) is incorporated.
 <br/><br/>
-En 1645 : Scotland in the Wars of the Three Kingdoms: Battle of Inverlochy.
+En 1645 : Wars of the Three Kingdoms: In Scotland, the Battle of Inverlochy results in a Royalist/Irish victory.
 <br/><br/>
 En 1536 : Spaniard Pedro de Mendoza founds Buenos Aires, Argentina.
 <br/><br/>
@@ -170,8 +168,6 @@ En 1909 : The Paris Film Congress opens, an attempt by European producers to for
 <br/><br/>
 En 1901 : Funeral of Queen Victoria.
 <br/><br/>
-En 1900 : Boston, Detroit, Milwaukee, Baltimore, Chicago and St. Louis, agree to form baseball's American League.
-<br/><br/>
 En 1899 : The Australian Premiers' Conference held in Melbourne decides to locate Australia's capital city, Canberra, between Sydney and Melbourne.
 <br/><br/>
 En 1887 : In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.
@@ -198,7 +194,7 @@ En 1709 : Alexander Selkirk is rescued after being shipwrecked on a desert islan
 <br/><br/>
 En 1653 : New Amsterdam (later renamed The City of New York) is incorporated.
 <br/><br/>
-En 1645 : Scotland in the Wars of the Three Kingdoms: Battle of Inverlochy.
+En 1645 : Wars of the Three Kingdoms: In Scotland, the Battle of Inverlochy results in a Royalist/Irish victory.
 <br/><br/>
 En 1536 : Spaniard Pedro de Mendoza founds Buenos Aires, Argentina.
 <br/><br/>
