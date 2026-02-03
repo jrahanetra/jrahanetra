@@ -6,13 +6,13 @@
 <hr/>
 <h1> What happen this day 3/2 ?(Hover on the year)</h1>
 
-En 2023 : 2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
+En 2023 : Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
 <br/><br/>
-En 2014 : A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded.
+En 2014 : A school shooting in Moscow, Russia leaves two people dead and one wounded.
 <br/><br/>
 En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
 <br/><br/>
-En 2005 : 105 people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
 <br/><br/>
 En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
 <br/><br/>
@@ -110,13 +110,13 @@ En 1112 : Ramon Berenguer III, Count of Barcelona, and Douce I, Countess of Prov
 <br/><br/>
 En 1047 : Drogo of Hauteville is elected as count of the Apulian Normans during the Norman conquest of Southern Italy.
 <br/><br/>
-En 2023 : 2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
+En 2023 : Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
 <br/><br/>
-En 2014 : A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded.
+En 2014 : A school shooting in Moscow, Russia leaves two people dead and one wounded.
 <br/><br/>
 En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
 <br/><br/>
-En 2005 : 105 people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
 <br/><br/>
 En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
 <br/><br/>
