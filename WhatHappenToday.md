@@ -12,7 +12,7 @@ En 2014 : A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded
 <br/><br/>
 En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
 <br/><br/>
-En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+En 2005 : 105 people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
 <br/><br/>
 En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1966 : The Soviet Union's Luna 9 becomes the first spacecraft to make a soft 
 <br/><br/>
 En 1961 : The United States Air Force begins Operation Looking Glass, and over the next 30 years, a "Doomsday Plane" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post.
 <br/><br/>
-En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government was likely to support decolonisation.
+En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government is likely to support decolonisation.
 <br/><br/>
 En 1959 : Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. "The Big Bopper" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died.
 <br/><br/>
@@ -44,7 +44,7 @@ En 1959 : Sixty-five people are killed when American Airlines Flight 320 crashes
 <br/><br/>
 En 1958 : Founding of the Benelux Economic Union, creating a testing ground for a later European Economic Community.
 <br/><br/>
-En 1953 : The Batepá massacre occurred in São Tomé when the colonial administration and Portuguese landowners unleashed a wave of violence against the native creoles known as forros.
+En 1953 : The Batepá massacre occurs in São Tomé when the colonial administration and Portuguese landowners unleash a wave of violence against the native creoles known as forros.
 <br/><br/>
 En 1945 : World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000.
 <br/><br/>
@@ -116,7 +116,7 @@ En 2014 : A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded
 <br/><br/>
 En 2007 : A Baghdad market bombing kills at least 135 people and injures a further 339.
 <br/><br/>
-En 2005 : One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+En 2005 : 105 people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
 <br/><br/>
 En 1998 : Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1966 : The Soviet Union's Luna 9 becomes the first spacecraft to make a soft 
 <br/><br/>
 En 1961 : The United States Air Force begins Operation Looking Glass, and over the next 30 years, a "Doomsday Plane" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post.
 <br/><br/>
-En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government was likely to support decolonisation.
+En 1960 : British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government is likely to support decolonisation.
 <br/><br/>
 En 1959 : Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. "The Big Bopper" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1959 : Sixty-five people are killed when American Airlines Flight 320 crashes
 <br/><br/>
 En 1958 : Founding of the Benelux Economic Union, creating a testing ground for a later European Economic Community.
 <br/><br/>
-En 1953 : The Batepá massacre occurred in São Tomé when the colonial administration and Portuguese landowners unleashed a wave of violence against the native creoles known as forros.
+En 1953 : The Batepá massacre occurs in São Tomé when the colonial administration and Portuguese landowners unleash a wave of violence against the native creoles known as forros.
 <br/><br/>
 En 1945 : World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000.
 <br/><br/>
