@@ -20,7 +20,7 @@ En 2003 : The Federal Republic of Yugoslavia adopts a new constitution, becoming
 <br/><br/>
 En 2000 : The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.
 <br/><br/>
-En 1999 : Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
+En 1999 : Unarmed West African immigrant Amadou Diallo is shot 19 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
 <br/><br/>
 En 1998 : The 5.9 Mw  Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.
 <br/><br/>
@@ -110,7 +110,7 @@ En 2003 : The Federal Republic of Yugoslavia adopts a new constitution, becoming
 <br/><br/>
 En 2000 : The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.
 <br/><br/>
-En 1999 : Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
+En 1999 : Unarmed West African immigrant Amadou Diallo is shot 19 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
 <br/><br/>
 En 1998 : The 5.9 Mw  Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.
 <br/><br/>
