@@ -72,7 +72,7 @@ En 1913 : Claudio Monteverdi's last opera L'incoronazione di Poppea was performe
 <br/><br/>
 En 1907 : Belgian chemist Leo Baekeland announces the creation of Bakelite, the world's first synthetic plastic.
 <br/><br/>
-En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties.
+En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, initially with four basic specialties.
 <br/><br/>
 En 1901 : J. P. Morgan incorporates U.S. Steel in the state of New Jersey, although the company would not start doing business until February 25 and the assets of Andrew Carnegie's Carnegie Steel Company, Elbert H. Gary's Federal Steel Company, and William Henry Moore's National Steel Company were not acquired until April 1.
 <br/><br/>
@@ -96,7 +96,7 @@ En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protesta
 <br/><br/>
 En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the Catholic Church.
 <br/><br/>
-En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
+En 756 : An Lushan proclaims himself Emperor of China, founding the short-lived state of Yan.
 <br/><br/>
 En 62 : An earthquake with an estimated intensity between IX or X on the Mercalli scale occurs in Pompeii, Italy.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1913 : Claudio Monteverdi's last opera L'incoronazione di Poppea was performe
 <br/><br/>
 En 1907 : Belgian chemist Leo Baekeland announces the creation of Bakelite, the world's first synthetic plastic.
 <br/><br/>
-En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, started with four basic specialties.
+En 1905 : In Mexico, the General Hospital of Mexico is inaugurated, initially with four basic specialties.
 <br/><br/>
 En 1901 : J. P. Morgan incorporates U.S. Steel in the state of New Jersey, although the company would not start doing business until February 25 and the assets of Andrew Carnegie's Carnegie Steel Company, Elbert H. Gary's Federal Steel Company, and William Henry Moore's National Steel Company were not acquired until April 1.
 <br/><br/>
@@ -192,7 +192,7 @@ En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protesta
 <br/><br/>
 En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the Catholic Church.
 <br/><br/>
-En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
+En 756 : An Lushan proclaims himself Emperor of China, founding the short-lived state of Yan.
 <br/><br/>
 En 62 : An earthquake with an estimated intensity between IX or X on the Mercalli scale occurs in Pompeii, Italy.
 <br/><br/>
