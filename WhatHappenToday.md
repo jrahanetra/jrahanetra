@@ -52,8 +52,6 @@ En 1945 : World War II: General Douglas MacArthur returns to Manila.
 <br/><br/>
 En 1941 : World War II: Allied forces begin the Battle of Keren to capture Keren, Eritrea.
 <br/><br/>
-En 1939 : Generalísimo Francisco Franco becomes the 68th "Caudillo de España", or Leader of Spain.
-<br/><br/>
 En 1933 : Mutiny on Royal Netherlands Navy warship HNLMS De Zeven Provinciën off the coast of Sumatra, Dutch East Indies.
 <br/><br/>
 En 1924 : The Royal Greenwich Observatory begins broadcasting the hourly time signals known as the Greenwich Time Signal.
@@ -149,8 +147,6 @@ En 1958 : A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force of
 En 1945 : World War II: General Douglas MacArthur returns to Manila.
 <br/><br/>
 En 1941 : World War II: Allied forces begin the Battle of Keren to capture Keren, Eritrea.
-<br/><br/>
-En 1939 : Generalísimo Francisco Franco becomes the 68th "Caudillo de España", or Leader of Spain.
 <br/><br/>
 En 1933 : Mutiny on Royal Netherlands Navy warship HNLMS De Zeven Provinciën off the coast of Sumatra, Dutch East Indies.
 <br/><br/>
