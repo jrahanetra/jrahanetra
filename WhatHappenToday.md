@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 5/2 ?(Hover on the year)</h1>
 
-En 2026 : The Supreme Court allowed a new voting map to be used in California in the United States that favor democrats.
-<br/><br/>
 En 2021 : Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
 <br/><br/>
 En 2020 : United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
@@ -103,8 +101,6 @@ En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and foun
 En 62 : Earthquake in Pompeii, Italy.
 <br/><br/>
 En -2 : Caesar Augustus is granted the title pater patriae by the Roman Senate.
-<br/><br/>
-En 2026 : The Supreme Court allowed a new voting map to be used in California in the United States that favor democrats.
 <br/><br/>
 En 2021 : Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
 <br/><br/>
