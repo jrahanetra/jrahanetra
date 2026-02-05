@@ -98,7 +98,7 @@ En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the
 <br/><br/>
 En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
 <br/><br/>
-En 62 : Earthquake in Pompeii, Italy.
+En 62 : An earthquake with an estimated intensity between IX or X on the Mercalli scale occurs in Pompeii, Italy.
 <br/><br/>
 En -2 : Caesar Augustus is granted the title pater patriae by the Roman Senate.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the
 <br/><br/>
 En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
 <br/><br/>
-En 62 : Earthquake in Pompeii, Italy.
+En 62 : An earthquake with an estimated intensity between IX or X on the Mercalli scale occurs in Pompeii, Italy.
 <br/><br/>
 En -2 : Caesar Augustus is granted the title pater patriae by the Roman Senate.
 <br/><br/>
