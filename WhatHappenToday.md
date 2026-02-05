@@ -96,6 +96,8 @@ En 1597 : A group of early Japanese Christians are killed by the new government 
 <br/><br/>
 En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protestant forces in the French Wars of Religion.
 <br/><br/>
+En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the Catholic Church.
+<br/><br/>
 En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
 <br/><br/>
 En 62 : Earthquake in Pompeii, Italy.
@@ -191,6 +193,8 @@ En 1783 : In Calabria, a sequence of strong earthquakes begins.
 En 1597 : A group of early Japanese Christians are killed by the new government of Japan for being seen as a threat to Japanese society.
 <br/><br/>
 En 1576 : Henry of Navarre abjures Catholicism at Tours and rejoins the Protestant forces in the French Wars of Religion.
+<br/><br/>
+En 1265 : Pope Clement IV is elected as the 183rd Bishop of Rome and head of the Catholic Church.
 <br/><br/>
 En 756 : Chinese New Year; An Lushan proclaims himself Emperor of China and founds the short-lived state of Yan.
 <br/><br/>
