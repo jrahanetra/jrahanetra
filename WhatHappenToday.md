@@ -88,7 +88,7 @@ En 1778 : American Revolutionary War: In Paris the Treaty of Alliance and the Tr
 <br/><br/>
 En 1778 : New York became the third state to ratify the Articles of Confederation.
 <br/><br/>
-En 1694 : The warrior queen Dandara, leader of the runaway slaves in Quilombo dos Palmares, Brazil, is captured and commits suicide rather than be returned to a life of slavery.
+En 1694 : Dandara, leader of the runaway slaves in Quilombo dos Palmares, Brazil, is captured and commits suicide rather than be returned to a life of slavery.
 <br/><br/>
 En 1685 : James II of England and VII of Scotland is proclaimed King upon the death of his brother Charles II.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1778 : American Revolutionary War: In Paris the Treaty of Alliance and the Tr
 <br/><br/>
 En 1778 : New York became the third state to ratify the Articles of Confederation.
 <br/><br/>
-En 1694 : The warrior queen Dandara, leader of the runaway slaves in Quilombo dos Palmares, Brazil, is captured and commits suicide rather than be returned to a life of slavery.
+En 1694 : Dandara, leader of the runaway slaves in Quilombo dos Palmares, Brazil, is captured and commits suicide rather than be returned to a life of slavery.
 <br/><br/>
 En 1685 : James II of England and VII of Scotland is proclaimed King upon the death of his brother Charles II.
 <br/><br/>
