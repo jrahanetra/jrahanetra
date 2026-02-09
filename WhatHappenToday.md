@@ -84,13 +84,13 @@ En 1900 : The Davis Cup competition is established.
 <br/><br/>
 En 1895 : William G. Morgan creates a game called Mintonette, which soon comes to be referred to as volleyball.
 <br/><br/>
-En 1893 : Verdi's last opera, Falstaff premieres at La Scala, Milan.
+En 1893 : Verdi's last opera, Falstaff, premieres at La Scala, Milan.
 <br/><br/>
 En 1889 : US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency.
 <br/><br/>
 En 1870 : US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau.
 <br/><br/>
-En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama
+En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama.
 <br/><br/>
 En 1849 : The new Roman Republic is declared.
 <br/><br/>
@@ -194,13 +194,13 @@ En 1900 : The Davis Cup competition is established.
 <br/><br/>
 En 1895 : William G. Morgan creates a game called Mintonette, which soon comes to be referred to as volleyball.
 <br/><br/>
-En 1893 : Verdi's last opera, Falstaff premieres at La Scala, Milan.
+En 1893 : Verdi's last opera, Falstaff, premieres at La Scala, Milan.
 <br/><br/>
 En 1889 : US president Grover Cleveland signs a bill elevating the United States Department of Agriculture to a Cabinet-level agency.
 <br/><br/>
 En 1870 : US president Ulysses S. Grant signs a joint resolution of Congress establishing the U.S. Weather Bureau.
 <br/><br/>
-En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama
+En 1861 : American Civil War: Jefferson Davis is elected the Provisional President of the Confederate States of America by the Provisional Confederate Congress at Montgomery, Alabama.
 <br/><br/>
 En 1849 : The new Roman Republic is declared.
 <br/><br/>
