@@ -114,7 +114,7 @@ En 1098 : A First Crusade army led by Bohemond of Taranto wins a major battle ag
 <br/><br/>
 En 1003 : Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland.
 <br/><br/>
-En 474 : Zeno is crowned as co-emperor of the Eastern Roman Empire
+En 474 : Zeno is crowned as co-emperor of the Eastern Roman Empire.
 <br/><br/>
 En 2025 : The Baltic states synchronize their electric power transmission infrastructure with the Continental Europe Synchronous Area (CESA), in objective to disconnect from the Russo-Belarussian agreement to use the IPS/UPS system.
 <br/><br/>
@@ -224,5 +224,5 @@ En 1098 : A First Crusade army led by Bohemond of Taranto wins a major battle ag
 <br/><br/>
 En 1003 : Boleslaus III is restored to authority with armed support from Bolesław I the Brave of Poland.
 <br/><br/>
-En 474 : Zeno is crowned as co-emperor of the Eastern Roman Empire
+En 474 : Zeno is crowned as co-emperor of the Eastern Roman Empire.
 <br/><br/>
