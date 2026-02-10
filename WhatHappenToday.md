@@ -6,8 +6,6 @@
 <hr/>
 <h1> What happen this day 10/2 ?(Hover on the year)</h1>
 
-En 2023 : Hogwarts Legacy, one of the best-selling video games of all time, is first released.
-<br/><br/>
 En 2021 : The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
 <br/><br/>
 En 2021 : Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
@@ -87,8 +85,6 @@ En 1355 : The St Scholastica Day riot breaks out in Oxford, England, leaving 63 
 En 1306 : In front of the high altar of Greyfriars Church in Dumfries, Robert the Bruce murders John Comyn, sparking the revolution in the Wars of Scottish Independence.
 <br/><br/>
 En 1258 : The Siege of Baghdad ends with the surrender of the last Abbasid caliph to Hulegu Khan, a prince of the Mongol Empire.
-<br/><br/>
-En 2023 : Hogwarts Legacy, one of the best-selling video games of all time, is first released.
 <br/><br/>
 En 2021 : The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
 <br/><br/>
