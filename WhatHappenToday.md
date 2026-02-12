@@ -10,7 +10,7 @@ En 2019 : The country known as the Republic of Macedonia renames itself the Repu
 <br/><br/>
 En 2016 : Pope Francis and Patriarch Kirill sign an Ecumenical Declaration in the first such meeting between leaders of the Catholic and Russian Orthodox Churches since their split in 1054.
 <br/><br/>
-En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all on board and one on the ground.
+En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and 1 on the ground.
 <br/><br/>
 En 2004 : The city of San Francisco begins issuing marriage licenses to same-sex couples in response to a directive from Mayor Gavin Newsom.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1983 : One hundred women protest in Lahore, Pakistan against military dictato
 <br/><br/>
 En 1974 : Aleksandr Solzhenitsyn, winner of the Nobel Prize in Literature in 1970, is exiled from the Soviet Union.
 <br/><br/>
-En 1968 : Phong Nhị and Phong Nhất massacre.
+En 1968 : Vietnam War:  The Phong Nhị and Phong Nhất massacre occurs, allegedly by South Korean troops.
 <br/><br/>
 En 1966 : Rabbi Morris Adler is fatally shot by a disgruntled congregant at Congregation Shaarey Zedek in Southfield, Michigan, United States.
 <br/><br/>
@@ -70,7 +70,7 @@ En 1909 : The National Association for the Advancement of Colored People (NAACP)
 <br/><br/>
 En 1909 : New Zealand's worst maritime disaster of the 20th century happens when the SS Penguin, an inter-island ferry, sinks and explodes at the entrance to Wellington Harbour.
 <br/><br/>
-En 1894 : Café Terminus bombing by Émile Henry during the Ère des attentats (1892-1894). Influential event for the birth of modern terrorism.
+En 1894 : Café Terminus bombing by Émile Henry during the Ère des attentats (1892-1894). This is considered one of the first acts of modern terrorism.
 <br/><br/>
 En 1889 : Antonín Dvořák's Jakobín is premiered at the National Theater in Prague.
 <br/><br/>
@@ -108,7 +108,7 @@ En 2019 : The country known as the Republic of Macedonia renames itself the Repu
 <br/><br/>
 En 2016 : Pope Francis and Patriarch Kirill sign an Ecumenical Declaration in the first such meeting between leaders of the Catholic and Russian Orthodox Churches since their split in 1054.
 <br/><br/>
-En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all on board and one on the ground.
+En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and 1 on the ground.
 <br/><br/>
 En 2004 : The city of San Francisco begins issuing marriage licenses to same-sex couples in response to a directive from Mayor Gavin Newsom.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1983 : One hundred women protest in Lahore, Pakistan against military dictato
 <br/><br/>
 En 1974 : Aleksandr Solzhenitsyn, winner of the Nobel Prize in Literature in 1970, is exiled from the Soviet Union.
 <br/><br/>
-En 1968 : Phong Nhị and Phong Nhất massacre.
+En 1968 : Vietnam War:  The Phong Nhị and Phong Nhất massacre occurs, allegedly by South Korean troops.
 <br/><br/>
 En 1966 : Rabbi Morris Adler is fatally shot by a disgruntled congregant at Congregation Shaarey Zedek in Southfield, Michigan, United States.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1909 : The National Association for the Advancement of Colored People (NAACP)
 <br/><br/>
 En 1909 : New Zealand's worst maritime disaster of the 20th century happens when the SS Penguin, an inter-island ferry, sinks and explodes at the entrance to Wellington Harbour.
 <br/><br/>
-En 1894 : Café Terminus bombing by Émile Henry during the Ère des attentats (1892-1894). Influential event for the birth of modern terrorism.
+En 1894 : Café Terminus bombing by Émile Henry during the Ère des attentats (1892-1894). This is considered one of the first acts of modern terrorism.
 <br/><br/>
 En 1889 : Antonín Dvořák's Jakobín is premiered at the National Theater in Prague.
 <br/><br/>
