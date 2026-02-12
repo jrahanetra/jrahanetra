@@ -10,7 +10,7 @@ En 2019 : The country known as the Republic of Macedonia renames itself the Repu
 <br/><br/>
 En 2016 : Pope Francis and Patriarch Kirill sign an Ecumenical Declaration in the first such meeting between leaders of the Catholic and Russian Orthodox Churches since their split in 1054.
 <br/><br/>
-En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and 1 on the ground.
+En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and one on the ground.
 <br/><br/>
 En 2004 : The city of San Francisco begins issuing marriage licenses to same-sex couples in response to a directive from Mayor Gavin Newsom.
 <br/><br/>
@@ -108,7 +108,7 @@ En 2019 : The country known as the Republic of Macedonia renames itself the Repu
 <br/><br/>
 En 2016 : Pope Francis and Patriarch Kirill sign an Ecumenical Declaration in the first such meeting between leaders of the Catholic and Russian Orthodox Churches since their split in 1054.
 <br/><br/>
-En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and 1 on the ground.
+En 2009 : Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all 49 on board and one on the ground.
 <br/><br/>
 En 2004 : The city of San Francisco begins issuing marriage licenses to same-sex couples in response to a directive from Mayor Gavin Newsom.
 <br/><br/>
