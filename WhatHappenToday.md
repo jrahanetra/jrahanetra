@@ -20,7 +20,7 @@ En 2010 : A bomb explodes in the city of Pune, Maharashtra, India, killing 17 an
 <br/><br/>
 En 2008 : Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations.
 <br/><br/>
-En 2007 : Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Kuomintang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
+En 2007 : Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Guomindang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
 <br/><br/>
 En 2004 : The Harvard–Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star "Lucy" after The Beatles' song "Lucy in the Sky with Diamonds".
 <br/><br/>
@@ -122,7 +122,7 @@ En 2010 : A bomb explodes in the city of Pune, Maharashtra, India, killing 17 an
 <br/><br/>
 En 2008 : Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations.
 <br/><br/>
-En 2007 : Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Kuomintang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
+En 2007 : Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Guomindang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
 <br/><br/>
 En 2004 : The Harvard–Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star "Lucy" after The Beatles' song "Lucy in the Sky with Diamonds".
 <br/><br/>
