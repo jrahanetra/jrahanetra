@@ -22,8 +22,6 @@ En 2001 : The first draft of the complete human genome is published in Nature.
 <br/><br/>
 En 1996 : At the Xichang Satellite Launch Center in China, a Long March 3B rocket carrying Intelsat 708 veers off course and crashes into a rural village after liftoff, killing somewhere between six and 100 people.
 <br/><br/>
-En 1996 : The Embassy of the United States, Athens, is attacked by an antitank rocket, launched by the Revolutionary Organization 17 November.
-<br/><br/>
 En 1996 : Then-Prime Minister of Canada Jean Chrétien applies a chokehold to protester Bill Clennett, an incident later named the Shawinigan Handshake.
 <br/><br/>
 En 1992 : Serial killer Jeffrey Dahmer is sentenced in Milwaukee to 15 terms of life in prison.
@@ -127,8 +125,6 @@ En 2003 : The last Ariane 4 rocket is launched from the Guiana Space Centre, car
 En 2001 : The first draft of the complete human genome is published in Nature.
 <br/><br/>
 En 1996 : At the Xichang Satellite Launch Center in China, a Long March 3B rocket carrying Intelsat 708 veers off course and crashes into a rural village after liftoff, killing somewhere between six and 100 people.
-<br/><br/>
-En 1996 : The Embassy of the United States, Athens, is attacked by an antitank rocket, launched by the Revolutionary Organization 17 November.
 <br/><br/>
 En 1996 : Then-Prime Minister of Canada Jean Chrétien applies a chokehold to protester Bill Clennett, an incident later named the Shawinigan Handshake.
 <br/><br/>
