@@ -80,7 +80,7 @@ En 1859 : Cochinchina Campaign: The French Navy captures the Citadel of Saigon, 
 <br/><br/>
 En 1854 : The United Kingdom recognizes the independence of the Orange Free State.
 <br/><br/>
-En 1838 : Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
+En 1838 : In the Weenen massacre, hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
 <br/><br/>
 En 1819 : The United States House of Representatives passes the Missouri Compromise for the first time.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1859 : Cochinchina Campaign: The French Navy captures the Citadel of Saigon, 
 <br/><br/>
 En 1854 : The United Kingdom recognizes the independence of the Orange Free State.
 <br/><br/>
-En 1838 : Weenen massacre: Hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
+En 1838 : In the Weenen massacre, hundreds of Voortrekkers along the Blaukraans River, Natal are killed by Zulus.
 <br/><br/>
 En 1819 : The United States House of Representatives passes the Missouri Compromise for the first time.
 <br/><br/>
