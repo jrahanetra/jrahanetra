@@ -10,7 +10,7 @@ En 2021 : Perseverance, a Mars rover designed to explore Jezero crater on Mars, 
 <br/><br/>
 En 2018 : Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran, Resulting in 66 Deaths
 <br/><br/>
-En 2014 : At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
+En 2014 : Revolution of Dignity: At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
 <br/><br/>
 En 2013 : Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium.
 <br/><br/>
@@ -114,7 +114,7 @@ En 2021 : Perseverance, a Mars rover designed to explore Jezero crater on Mars, 
 <br/><br/>
 En 2018 : Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran, Resulting in 66 Deaths
 <br/><br/>
-En 2014 : At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
+En 2014 : Revolution of Dignity: At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
 <br/><br/>
 En 2013 : Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium.
 <br/><br/>
