@@ -20,6 +20,8 @@ En 2005 : Spain becomes the first country to vote in a referendum on ratificatio
 <br/><br/>
 En 2003 : During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
 <br/><br/>
+En 2002 : A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people.
+<br/><br/>
 En 1998 : American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
 <br/><br/>
 En 1991 : In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
@@ -125,6 +127,8 @@ En 2009 : Two Tamil Tigers aircraft packed with C4 explosives en route to the na
 En 2005 : Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.
 <br/><br/>
 En 2003 : During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
+<br/><br/>
+En 2002 : A cooking gas cylinder explodes on board an Egyptian National Railways train in El Ayyat, causing a fire and killing over 370 people.
 <br/><br/>
 En 1998 : American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
 <br/><br/>
