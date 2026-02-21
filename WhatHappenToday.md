@@ -58,7 +58,7 @@ En 1916 : World War I: In France, the Battle of Verdun begins.
 <br/><br/>
 En 1913 : Ioannina is incorporated into the Greek state after the Balkan Wars.
 <br/><br/>
-En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
+En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fights an Irishman, Peter Maher, in an American promoted event which technically takes place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
 <br/><br/>
 En 1885 : The newly completed Washington Monument is dedicated.
 <br/><br/>
@@ -80,7 +80,7 @@ En 1808 : Without a previous declaration of war, Russian troops cross the border
 <br/><br/>
 En 1804 : The first self-propelling steam locomotive makes its outing at the Pen-y-Darren Ironworks in Wales.
 <br/><br/>
-En 1797 : A force of 1,400 French soldiers invaded Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
+En 1797 : A force of 1,400 French soldiers invade Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
 <br/><br/>
 En 1613 : Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1916 : World War I: In France, the Battle of Verdun begins.
 <br/><br/>
 En 1913 : Ioannina is incorporated into the Greek state after the Balkan Wars.
 <br/><br/>
-En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
+En 1896 : An Englishman raised in Australia, Bob Fitzsimmons, fights an Irishman, Peter Maher, in an American promoted event which technically takes place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
 <br/><br/>
 En 1885 : The newly completed Washington Monument is dedicated.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1808 : Without a previous declaration of war, Russian troops cross the border
 <br/><br/>
 En 1804 : The first self-propelling steam locomotive makes its outing at the Pen-y-Darren Ironworks in Wales.
 <br/><br/>
-En 1797 : A force of 1,400 French soldiers invaded Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
+En 1797 : A force of 1,400 French soldiers invade Britain at Fishguard in support of the Society of United Irishmen. They were defeated by 500 British reservists.
 <br/><br/>
 En 1613 : Mikhail I is unanimously elected Tsar by a national assembly, beginning the Romanov dynasty of Imperial Russia.
 <br/><br/>
