@@ -132,7 +132,7 @@ En 1455 : Traditionally the date of publication of the Gutenberg Bible, the firs
 <br/><br/>
 En 705 : Empress Wu Zetian abdicates the throne, restoring the Tang dynasty.
 <br/><br/>
-En 628 : Khosrow II, last Sasanian shah of Iran, is overthrown.
+En 628 : Khosrow II, Shahanshah of the Sasanian Empire, is overthrown.
 <br/><br/>
 En 532 : Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia.
 <br/><br/>
@@ -264,7 +264,7 @@ En 1455 : Traditionally the date of publication of the Gutenberg Bible, the firs
 <br/><br/>
 En 705 : Empress Wu Zetian abdicates the throne, restoring the Tang dynasty.
 <br/><br/>
-En 628 : Khosrow II, last Sasanian shah of Iran, is overthrown.
+En 628 : Khosrow II, Shahanshah of the Sasanian Empire, is overthrown.
 <br/><br/>
 En 532 : Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople – the Hagia Sophia.
 <br/><br/>
