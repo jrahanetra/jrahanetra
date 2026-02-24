@@ -14,6 +14,8 @@ En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, 
 <br/><br/>
 En 2015 : A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
 <br/><br/>
+En 2011 : Space Shuttle Discovery launches on its final mission, STS-133.
+<br/><br/>
 En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
 <br/><br/>
 En 2007 : Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
@@ -133,6 +135,8 @@ En 2020 : Mahathir Mohamad resigns as Prime Minister of Malaysia following an at
 En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
 <br/><br/>
 En 2015 : A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
+<br/><br/>
+En 2011 : Space Shuttle Discovery launches on its final mission, STS-133.
 <br/><br/>
 En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
 <br/><br/>
