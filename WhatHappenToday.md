@@ -10,17 +10,17 @@ En 2022 : Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as ind
 <br/><br/>
 En 2020 : Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
 <br/><br/>
-En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
+En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashes, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
 <br/><br/>
 En 2015 : A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
 <br/><br/>
 En 2011 : Space Shuttle Discovery launches on its final mission, STS-133.
 <br/><br/>
-En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
+En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He would remain as head of the Communist Party for another three years.
 <br/><br/>
 En 2007 : Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
 <br/><br/>
-En 2006 : Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in attempt to subdue a possible military coup.
+En 2006 : Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in an attempt to subdue a possible military coup.
 <br/><br/>
 En 2004 : The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1984 : Tyrone Mitchell perpetrates the 49th Street Elementary School shooting
 <br/><br/>
 En 1983 : A special commission of the United States Congress condemns the Japanese American internment during World War II.
 <br/><br/>
-En 1981 : The 6.7 Ms Gulf of Corinth earthquake affected Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people were killed, 400 were injured, and damage totaled $812 million.
+En 1981 : The 6.7 Ms Gulf of Corinth earthquake affects Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people are killed, 400 are injured, and damage totals $812 million.
 <br/><br/>
 En 1978 : The Yuba County Five disappear in California. Four of their bodies are found four months later.
 <br/><br/>
@@ -60,11 +60,11 @@ En 1943 : World War II: First large-scale protest march resulting in clashes wit
 <br/><br/>
 En 1942 : Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.
 <br/><br/>
-En 1942 : The Battle of Los Angeles: A false alarm led to an anti-aircraft barrage that lasted into the early hours of February 25.
+En 1942 : The Battle of Los Angeles: A false alarm leads to an anti-aircraft barrage that lasts into the early hours of February 25.
 <br/><br/>
 En 1920 : Nancy Astor becomes the first woman to speak in the House of Commons of the United Kingdom following her election as a Member of Parliament (MP) three months earlier.
 <br/><br/>
-En 1920 : The Nazi Party (NSDAP) was founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
+En 1920 : The Nazi Party (NSDAP) is founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
 <br/><br/>
 En 1918 : Estonian Declaration of Independence.
 <br/><br/>
@@ -132,17 +132,17 @@ En 2022 : Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as ind
 <br/><br/>
 En 2020 : Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
 <br/><br/>
-En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
+En 2016 : Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashes, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
 <br/><br/>
 En 2015 : A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
 <br/><br/>
 En 2011 : Space Shuttle Discovery launches on its final mission, STS-133.
 <br/><br/>
-En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
+En 2008 : Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He would remain as head of the Communist Party for another three years.
 <br/><br/>
 En 2007 : Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
 <br/><br/>
-En 2006 : Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in attempt to subdue a possible military coup.
+En 2006 : Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in an attempt to subdue a possible military coup.
 <br/><br/>
 En 2004 : The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1984 : Tyrone Mitchell perpetrates the 49th Street Elementary School shooting
 <br/><br/>
 En 1983 : A special commission of the United States Congress condemns the Japanese American internment during World War II.
 <br/><br/>
-En 1981 : The 6.7 Ms Gulf of Corinth earthquake affected Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people were killed, 400 were injured, and damage totaled $812 million.
+En 1981 : The 6.7 Ms Gulf of Corinth earthquake affects Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people are killed, 400 are injured, and damage totals $812 million.
 <br/><br/>
 En 1978 : The Yuba County Five disappear in California. Four of their bodies are found four months later.
 <br/><br/>
@@ -182,11 +182,11 @@ En 1943 : World War II: First large-scale protest march resulting in clashes wit
 <br/><br/>
 En 1942 : Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.
 <br/><br/>
-En 1942 : The Battle of Los Angeles: A false alarm led to an anti-aircraft barrage that lasted into the early hours of February 25.
+En 1942 : The Battle of Los Angeles: A false alarm leads to an anti-aircraft barrage that lasts into the early hours of February 25.
 <br/><br/>
 En 1920 : Nancy Astor becomes the first woman to speak in the House of Commons of the United Kingdom following her election as a Member of Parliament (MP) three months earlier.
 <br/><br/>
-En 1920 : The Nazi Party (NSDAP) was founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
+En 1920 : The Nazi Party (NSDAP) is founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
 <br/><br/>
 En 1918 : Estonian Declaration of Independence.
 <br/><br/>
