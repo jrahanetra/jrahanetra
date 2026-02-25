@@ -12,11 +12,11 @@ En 2015 : At least 310 people are killed in avalanches in northeastern Afghanist
 <br/><br/>
 En 2009 : Soldiers of the Bangladesh Rifles mutiny at their headquarters in Pilkhana, Dhaka, Bangladesh, resulting in 74 deaths, including 57 army officials.
 <br/><br/>
-En 2009 : Turkish Airlines Flight 1951 crashed during landing at the Amsterdam Schiphol Airport, Netherlands, primarily due to a faulty radio altimeter, resulting in the death of nine passengers and crew including all three pilots.
+En 2009 : Turkish Airlines Flight 1951 crashes during landing at the Amsterdam Schiphol Airport, Netherlands, primarily due to a faulty radio altimeter, resulting in the death of nine passengers and crew including all three pilots.
 <br/><br/>
 En 1999 : Alitalia Flight 1553 crashes at Genoa Cristoforo Colombo Airport in Genoa, Italy, killing four.
 <br/><br/>
-En 1994 : American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he was disarmed and beaten to death by survivors.
+En 1994 : American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he is disarmed and beaten to death by survivors.
 <br/><br/>
 En 1991 : Disbandment of the Warsaw Pact at a meeting of its members in Budapest.
 <br/><br/>
@@ -58,7 +58,7 @@ En 1843 : Lord George Paulet occupies the Kingdom of Hawaii in the name of Great
 <br/><br/>
 En 1836 : Samuel Colt is granted a United States patent for his revolver firearm.
 <br/><br/>
-En 1705 : George Frideric Handel's opera Nero premiered in Hamburg.
+En 1705 : George Frideric Handel's opera Nero premieres in Hamburg.
 <br/><br/>
 En 628 : Khosrow II, the last great Shah of the Sasanian Empire (Iran), is overthrown by his son Kavadh II.
 <br/><br/>
@@ -70,11 +70,11 @@ En 2015 : At least 310 people are killed in avalanches in northeastern Afghanist
 <br/><br/>
 En 2009 : Soldiers of the Bangladesh Rifles mutiny at their headquarters in Pilkhana, Dhaka, Bangladesh, resulting in 74 deaths, including 57 army officials.
 <br/><br/>
-En 2009 : Turkish Airlines Flight 1951 crashed during landing at the Amsterdam Schiphol Airport, Netherlands, primarily due to a faulty radio altimeter, resulting in the death of nine passengers and crew including all three pilots.
+En 2009 : Turkish Airlines Flight 1951 crashes during landing at the Amsterdam Schiphol Airport, Netherlands, primarily due to a faulty radio altimeter, resulting in the death of nine passengers and crew including all three pilots.
 <br/><br/>
 En 1999 : Alitalia Flight 1553 crashes at Genoa Cristoforo Colombo Airport in Genoa, Italy, killing four.
 <br/><br/>
-En 1994 : American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he was disarmed and beaten to death by survivors.
+En 1994 : American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he is disarmed and beaten to death by survivors.
 <br/><br/>
 En 1991 : Disbandment of the Warsaw Pact at a meeting of its members in Budapest.
 <br/><br/>
@@ -116,7 +116,7 @@ En 1843 : Lord George Paulet occupies the Kingdom of Hawaii in the name of Great
 <br/><br/>
 En 1836 : Samuel Colt is granted a United States patent for his revolver firearm.
 <br/><br/>
-En 1705 : George Frideric Handel's opera Nero premiered in Hamburg.
+En 1705 : George Frideric Handel's opera Nero premieres in Hamburg.
 <br/><br/>
 En 628 : Khosrow II, the last great Shah of the Sasanian Empire (Iran), is overthrown by his son Kavadh II.
 <br/><br/>
