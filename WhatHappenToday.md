@@ -8,7 +8,7 @@
 
 En 2021 : A total of 279 female students aged between 10 and 17 are kidnapped by bandits in the Zamfara kidnapping in Zamfara State, Nigeria.
 <br/><br/>
-En 2019 : Indian Air Force fighter-jets targeted Jaish-e-Mohammed terrorist training camps in Balakot, Pakistan.
+En 2019 : Indian Air Force fighter-jets target Jaish-e-Mohammed terrorist training camps in Balakot, Pakistan.
 <br/><br/>
 En 2013 : A hot air balloon crashes near Luxor, Egypt, killing 19 people.
 <br/><br/>
@@ -84,7 +84,7 @@ En -747 : According to Ptolemy, the epoch (origin) of the Nabonassar Era began a
 <br/><br/>
 En 2021 : A total of 279 female students aged between 10 and 17 are kidnapped by bandits in the Zamfara kidnapping in Zamfara State, Nigeria.
 <br/><br/>
-En 2019 : Indian Air Force fighter-jets targeted Jaish-e-Mohammed terrorist training camps in Balakot, Pakistan.
+En 2019 : Indian Air Force fighter-jets target Jaish-e-Mohammed terrorist training camps in Balakot, Pakistan.
 <br/><br/>
 En 2013 : A hot air balloon crashes near Luxor, Egypt, killing 19 people.
 <br/><br/>
