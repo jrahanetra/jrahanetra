@@ -70,7 +70,7 @@ En 1616 : Galileo Galilei is formally banned by the Roman Catholic Church from t
 <br/><br/>
 En 1606 : The Janszoon voyage of 1605–06 becomes the first European expedition to set foot on Australia, although it is mistaken as a part of New Guinea.
 <br/><br/>
-En 1365 : The Ava Kingdom and the royal city of Ava (Inwa) founded by King Thado Minbya.
+En 1365 : The Ava Kingdom and the royal city of Ava (Inwa) were founded by King Thado Minbya.
 <br/><br/>
 En 1266 : Battle of Benevento: An army led by Charles, Count of Anjou, defeats a combined German and Sicilian force led by Manfred, King of Sicily. Manfred is killed in the battle and Pope Clement IV invests Charles as king of Sicily and Naples.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1616 : Galileo Galilei is formally banned by the Roman Catholic Church from t
 <br/><br/>
 En 1606 : The Janszoon voyage of 1605–06 becomes the first European expedition to set foot on Australia, although it is mistaken as a part of New Guinea.
 <br/><br/>
-En 1365 : The Ava Kingdom and the royal city of Ava (Inwa) founded by King Thado Minbya.
+En 1365 : The Ava Kingdom and the royal city of Ava (Inwa) were founded by King Thado Minbya.
 <br/><br/>
 En 1266 : Battle of Benevento: An army led by Charles, Count of Anjou, defeats a combined German and Sicilian force led by Manfred, King of Sicily. Manfred is killed in the battle and Pope Clement IV invests Charles as king of Sicily and Naples.
 <br/><br/>
