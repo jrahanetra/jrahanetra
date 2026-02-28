@@ -10,7 +10,7 @@ En 2024 : Prime Minister Modi of India inaugurates the 2nd Space Port of India -
 <br/><br/>
 En 2023 : Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.
 <br/><br/>
-En 2013 : Pope Benedict XVI resigns as the pope of the Catholic Church, becoming the first pope to do so since Pope Gregory XII in 1415.
+En 2013 : Pope Benedict XVI resigns as the pope of the Catholic Church, becoming the first pope to do so voluntarily since Pope Gregory XII in 1415.
 <br/><br/>
 En 2002 : During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre.
 <br/><br/>
@@ -68,7 +68,7 @@ En 2024 : Prime Minister Modi of India inaugurates the 2nd Space Port of India -
 <br/><br/>
 En 2023 : Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.
 <br/><br/>
-En 2013 : Pope Benedict XVI resigns as the pope of the Catholic Church, becoming the first pope to do so since Pope Gregory XII in 1415.
+En 2013 : Pope Benedict XVI resigns as the pope of the Catholic Church, becoming the first pope to do so voluntarily since Pope Gregory XII in 1415.
 <br/><br/>
 En 2002 : During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre.
 <br/><br/>
