@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 28/2 ?(Hover on the year)</h1>
 
+En 2026 : The United States and Israel launch attacks across Iran. Retaliatory strikes are launched by Iran against US military bases in the Gulf, with explosions reported in Bahrain, Kuwait, Qatar and the UAE.
+<br/><br/>
 En 2024 : Prime Minister Modi of India inaugurates the 2nd Space Port of India - Kulasekarapattinam Spaceport.
 <br/><br/>
 En 2023 : Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.
@@ -63,6 +65,8 @@ En 1525 : Aztec king Cuauhtémoc is executed on the order of conquistador Herná
 En 870 : The Fourth Council of Constantinople closes.
 <br/><br/>
 En -202 : Liu Bang is enthroned as the Emperor of China, beginning four centuries of rule by the Han dynasty.
+<br/><br/>
+En 2026 : The United States and Israel launch attacks across Iran. Retaliatory strikes are launched by Iran against US military bases in the Gulf, with explosions reported in Bahrain, Kuwait, Qatar and the UAE.
 <br/><br/>
 En 2024 : Prime Minister Modi of India inaugurates the 2nd Space Port of India - Kulasekarapattinam Spaceport.
 <br/><br/>
