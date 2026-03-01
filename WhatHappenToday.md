@@ -130,6 +130,8 @@ En 1562 : Sixty-three Huguenots are massacred in Wassy, France, marking the star
 <br/><br/>
 En 1476 : Forces of the Catholic Monarchs engage the combined Portuguese-Castilian armies of Afonso V and Prince John at the Battle of Toro.
 <br/><br/>
+En 1290 : University of Coimbra, in Portugal, is officially chartered by King Denis.
+<br/><br/>
 En 834 : Emperor Louis the Pious is restored as sole ruler of the Frankish Empire.
 <br/><br/>
 En 350 : Vetranio proclaims himself Caesar after being encouraged to do so by Constantina, sister of Constantius II.
@@ -261,6 +263,8 @@ En 1628 : Writs issued in February by Charles I of England mandate that every co
 En 1562 : Sixty-three Huguenots are massacred in Wassy, France, marking the start of the French Wars of Religion.
 <br/><br/>
 En 1476 : Forces of the Catholic Monarchs engage the combined Portuguese-Castilian armies of Afonso V and Prince John at the Battle of Toro.
+<br/><br/>
+En 1290 : University of Coimbra, in Portugal, is officially chartered by King Denis.
 <br/><br/>
 En 834 : Emperor Louis the Pious is restored as sole ruler of the Frankish Empire.
 <br/><br/>
