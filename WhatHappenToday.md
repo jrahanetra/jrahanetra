@@ -42,7 +42,7 @@ En 1986 : Aeroflot Flight F-77 crashes near Bugulma Airport, killing all 38 peop
 <br/><br/>
 En 1983 : Compact discs and players are released for the first time in the United States and other markets. They had previously been available only in Japan.
 <br/><br/>
-En 1978 : Czech Vladimír Remek becomes the first non-Russian or non-American to go into space, when he is launched aboard Soyuz 28.
+En 1978 : Czech Vladimír Remek becomes the first non-Soviet or non-American to go into space, when he is launched aboard Soyuz 28.
 <br/><br/>
 En 1978 : The late iconic actor Charlie Chaplin's coffin is stolen from his grave in Switzerland.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1986 : Aeroflot Flight F-77 crashes near Bugulma Airport, killing all 38 peop
 <br/><br/>
 En 1983 : Compact discs and players are released for the first time in the United States and other markets. They had previously been available only in Japan.
 <br/><br/>
-En 1978 : Czech Vladimír Remek becomes the first non-Russian or non-American to go into space, when he is launched aboard Soyuz 28.
+En 1978 : Czech Vladimír Remek becomes the first non-Soviet or non-American to go into space, when he is launched aboard Soyuz 28.
 <br/><br/>
 En 1978 : The late iconic actor Charlie Chaplin's coffin is stolen from his grave in Switzerland.
 <br/><br/>
