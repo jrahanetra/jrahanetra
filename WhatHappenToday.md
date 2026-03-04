@@ -146,7 +146,7 @@ En 1351 : Ramathibodi becomes King of Siam.
 <br/><br/>
 En 1238 : The Battle of the Sit River begins two centuries of Mongol horde domination of Rus.
 <br/><br/>
-En 1171 : Alexios II Komnenos is crowned Bzyantine co-emperor to his father Manuel I Komnenos.
+En 1171 : Alexios II Komnenos is crowned Byzantine co-emperor to his father Manuel I Komnenos.
 <br/><br/>
 En 1152 : Frederick I Barbarossa is elected King of Germany.
 <br/><br/>
@@ -300,7 +300,7 @@ En 1351 : Ramathibodi becomes King of Siam.
 <br/><br/>
 En 1238 : The Battle of the Sit River begins two centuries of Mongol horde domination of Rus.
 <br/><br/>
-En 1171 : Alexios II Komnenos is crowned Bzyantine co-emperor to his father Manuel I Komnenos.
+En 1171 : Alexios II Komnenos is crowned Byzantine co-emperor to his father Manuel I Komnenos.
 <br/><br/>
 En 1152 : Frederick I Barbarossa is elected King of Germany.
 <br/><br/>
