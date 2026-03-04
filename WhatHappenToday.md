@@ -24,7 +24,7 @@ En 1998 : Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme C
 <br/><br/>
 En 1996 : A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days.
 <br/><br/>
-En 1994 : Space Shuttle program: the Space Shuttle Columbia is launched on STS-62.
+En 1994 : Space Shuttle program: The Space Shuttle Columbia is launched on STS-62.
 <br/><br/>
 En 1990 : American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
 <br/><br/>
@@ -78,11 +78,11 @@ En 1913 : First Balkan War: The Greek army engages the Turks at Bizani, resultin
 <br/><br/>
 En 1913 : The United States Department of Labor is formed.
 <br/><br/>
-En 1909 : U.S. President William Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.
+En 1909 : U.S. President William Howard Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.
 <br/><br/>
 En 1908 : The Collinwood school fire, Collinwood near Cleveland, Ohio, kills 174 people.
 <br/><br/>
-En 1901 : William McKinley inaugurated president for second time; Theodore Roosevelt is vice president.
+En 1901 : William McKinley is inaugurated President of the United States for the second time; Theodore Roosevelt is vice president.
 <br/><br/>
 En 1899 : Cyclone Mahina sweeps in north of Cooktown, Queensland, with a 12 metres (39 ft) wave that reaches up to 5 kilometres (3.1 mi) inland, killing over 300.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1998 : Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme C
 <br/><br/>
 En 1996 : A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days.
 <br/><br/>
-En 1994 : Space Shuttle program: the Space Shuttle Columbia is launched on STS-62.
+En 1994 : Space Shuttle program: The Space Shuttle Columbia is launched on STS-62.
 <br/><br/>
 En 1990 : American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
 <br/><br/>
@@ -232,11 +232,11 @@ En 1913 : First Balkan War: The Greek army engages the Turks at Bizani, resultin
 <br/><br/>
 En 1913 : The United States Department of Labor is formed.
 <br/><br/>
-En 1909 : U.S. President William Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.
+En 1909 : U.S. President William Howard Taft uses what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.
 <br/><br/>
 En 1908 : The Collinwood school fire, Collinwood near Cleveland, Ohio, kills 174 people.
 <br/><br/>
-En 1901 : William McKinley inaugurated president for second time; Theodore Roosevelt is vice president.
+En 1901 : William McKinley is inaugurated President of the United States for the second time; Theodore Roosevelt is vice president.
 <br/><br/>
 En 1899 : Cyclone Mahina sweeps in north of Cooktown, Queensland, with a 12 metres (39 ft) wave that reaches up to 5 kilometres (3.1 mi) inland, killing over 300.
 <br/><br/>
