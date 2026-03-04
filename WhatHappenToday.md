@@ -54,7 +54,7 @@ En 1957 : The S&P 500 stock market index is introduced, replacing the S&P 90.
 <br/><br/>
 En 1955 : An order to protect the endangered Saimaa ringed seal (Pusa hispida saimensis) is legalized.
 <br/><br/>
-En 1946 : Field Marshal C. G. E. Mannerheim, the 6th president of Finland, resigns from his position for health reasons.
+En 1946 : The sixth President of Finland, Gustaf Mannerheim, submits his resignation for health reasons.
 <br/><br/>
 En 1944 : World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin.
 <br/><br/>
@@ -208,7 +208,7 @@ En 1957 : The S&P 500 stock market index is introduced, replacing the S&P 90.
 <br/><br/>
 En 1955 : An order to protect the endangered Saimaa ringed seal (Pusa hispida saimensis) is legalized.
 <br/><br/>
-En 1946 : Field Marshal C. G. E. Mannerheim, the 6th president of Finland, resigns from his position for health reasons.
+En 1946 : The sixth President of Finland, Gustaf Mannerheim, submits his resignation for health reasons.
 <br/><br/>
 En 1944 : World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin.
 <br/><br/>
