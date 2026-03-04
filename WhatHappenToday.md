@@ -122,7 +122,7 @@ En 1789 : In New York City, the first Congress of the United States meets, putti
 <br/><br/>
 En 1776 : American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston.
 <br/><br/>
-En 1769 : Wolfgang Amadeus Mozart departs Italy after the last of his three tours there.
+En 1773 : Wolfgang Amadeus Mozart departs Italy after the last of his three tours there.
 <br/><br/>
 En 1686 : After being unofficially established as a settlement in 1678, the Dominican mission of Ilagan is founded in the Philippines.
 <br/><br/>
@@ -276,7 +276,7 @@ En 1789 : In New York City, the first Congress of the United States meets, putti
 <br/><br/>
 En 1776 : American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston.
 <br/><br/>
-En 1769 : Wolfgang Amadeus Mozart departs Italy after the last of his three tours there.
+En 1773 : Wolfgang Amadeus Mozart departs Italy after the last of his three tours there.
 <br/><br/>
 En 1686 : After being unofficially established as a settlement in 1678, the Dominican mission of Ilagan is founded in the Philippines.
 <br/><br/>
