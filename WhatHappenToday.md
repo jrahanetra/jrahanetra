@@ -92,7 +92,7 @@ En 1860 : Parma, Tuscany, Modena and Romagna vote in referendums to join the Kin
 <br/><br/>
 En 1850 : The Britannia Bridge across the Menai Strait between the island of Anglesey and the mainland of Wales is opened.
 <br/><br/>
-En 1836 : Samuel Colt established his first factory to produce recently patented production-model revolver, the .34-caliber "Paterson".
+En 1836 : Samuel Colt establishes his first factory to produce the recently patented production-model revolver, the .34-caliber "Paterson".
 <br/><br/>
 En 1825 : Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
 <br/><br/>
@@ -200,7 +200,7 @@ En 1860 : Parma, Tuscany, Modena and Romagna vote in referendums to join the Kin
 <br/><br/>
 En 1850 : The Britannia Bridge across the Menai Strait between the island of Anglesey and the mainland of Wales is opened.
 <br/><br/>
-En 1836 : Samuel Colt established his first factory to produce recently patented production-model revolver, the .34-caliber "Paterson".
+En 1836 : Samuel Colt establishes his first factory to produce the recently patented production-model revolver, the .34-caliber "Paterson".
 <br/><br/>
 En 1825 : Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
 <br/><br/>
