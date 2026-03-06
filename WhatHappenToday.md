@@ -28,8 +28,6 @@ En 1975 : Algiers Accord: Iran and Iraq announce a settlement of their border di
 <br/><br/>
 En 1970 : An explosion at the Weather Underground safe house in Greenwich Village kills three.
 <br/><br/>
-En 1968 : Three rebels are executed by Rhodesia, the first executions since UDI, prompting international condemnation.
-<br/><br/>
 En 1967 : Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.
 <br/><br/>
 En 1965 : Premier Tom Playford of South Australia loses power after 27 years in office.
@@ -103,8 +101,6 @@ En 1975 : The Zapruder film of the assassination of John F. Kennedy is shown in 
 En 1975 : Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
 <br/><br/>
 En 1970 : An explosion at the Weather Underground safe house in Greenwich Village kills three.
-<br/><br/>
-En 1968 : Three rebels are executed by Rhodesia, the first executions since UDI, prompting international condemnation.
 <br/><br/>
 En 1967 : Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.
 <br/><br/>
