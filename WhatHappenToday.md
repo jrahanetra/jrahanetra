@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 8/3 ?(Hover on the year)</h1>
 
+En 2026 : India wins their record 3rd Men's T20 Cricket World Cup title by defeating New Zealand.
+<br/><br/>
 En 2021 : International Women's Day marches in Mexico become violent with 62 police officers and 19 civilians injured in Mexico City alone.
 <br/><br/>
 En 2021 : Twenty-eight political institutions in Myanmar establish the National Unity Consultative Council, a historic alliance of ethnic armed organizations and democratically elected leaders, in response to the 2021 Myanmar coup d'état.
@@ -95,6 +97,8 @@ En 1262 : Battle of Hausbergen between bourgeois militias and the army of the bi
 En 1126 : Following the death of his mother, queen Urraca of León, Alfonso VII is proclaimed king of León.
 <br/><br/>
 En 1010 : Ferdowsi completes his epic poem Shahnameh.
+<br/><br/>
+En 2026 : India wins their record 3rd Men's T20 Cricket World Cup title by defeating New Zealand.
 <br/><br/>
 En 2021 : International Women's Day marches in Mexico become violent with 62 police officers and 19 civilians injured in Mexico City alone.
 <br/><br/>
