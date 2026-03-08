@@ -72,7 +72,7 @@ En 1868 : Sakai incident: Japanese samurai kill 11 French sailors in the port of
 <br/><br/>
 En 1844 : King Oscar I ascends to the thrones of Sweden and Norway.
 <br/><br/>
-En 1844 : The Althing, the parliament of Iceland, was reopened after 45 years of closure.
+En 1844 : The Althing, the parliament of Iceland, is reopened after 45 years of closure.
 <br/><br/>
 En 1801 : War of the Second Coalition: At the Battle of Abukir, a British force under Sir Ralph Abercromby lands in Egypt with the aim of ending the French campaign in Egypt and Syria.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1868 : Sakai incident: Japanese samurai kill 11 French sailors in the port of
 <br/><br/>
 En 1844 : King Oscar I ascends to the thrones of Sweden and Norway.
 <br/><br/>
-En 1844 : The Althing, the parliament of Iceland, was reopened after 45 years of closure.
+En 1844 : The Althing, the parliament of Iceland, is reopened after 45 years of closure.
 <br/><br/>
 En 1801 : War of the Second Coalition: At the Battle of Abukir, a British force under Sir Ralph Abercromby lands in Egypt with the aim of ending the French campaign in Egypt and Syria.
 <br/><br/>
