@@ -60,7 +60,7 @@ En 1916 : Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in a
 <br/><br/>
 En 1908 : Inter Milan is founded on Football Club Internazionale, following a schism from A.C. Milan.
 <br/><br/>
-En 1883 : Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
+En 1883 : Demonstration of 9 March 1883:  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
 <br/><br/>
 En 1862 : American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1916 : Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in a
 <br/><br/>
 En 1908 : Inter Milan is founded on Football Club Internazionale, following a schism from A.C. Milan.
 <br/><br/>
-En 1883 : Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
+En 1883 : Demonstration of 9 March 1883:  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
 <br/><br/>
 En 1862 : American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships.
 <br/><br/>
