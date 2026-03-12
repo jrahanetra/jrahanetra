@@ -14,7 +14,7 @@ En 2018 : US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airpo
 <br/><br/>
 En 2014 : A gas explosion in the New York City neighborhood of East Harlem kills eight and injures 70 others.
 <br/><br/>
-En 2011 : A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.releases
+En 2011 : A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.
 <br/><br/>
 En 2009 : Financier Bernie Madoff pleads guilty to one of the largest frauds in Wall Street's history.
 <br/><br/>
@@ -94,7 +94,7 @@ En 2018 : US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airpo
 <br/><br/>
 En 2014 : A gas explosion in the New York City neighborhood of East Harlem kills eight and injures 70 others.
 <br/><br/>
-En 2011 : A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.releases
+En 2011 : A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.
 <br/><br/>
 En 2009 : Financier Bernie Madoff pleads guilty to one of the largest frauds in Wall Street's history.
 <br/><br/>
