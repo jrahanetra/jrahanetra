@@ -16,7 +16,7 @@ En 2016 : The Ankara bombing kills at least 37 people.
 <br/><br/>
 En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
 <br/><br/>
-En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems, killing all 7 on board.
+En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems to hospital, killing all 7 on board.
 <br/><br/>
 En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
 <br/><br/>
@@ -108,7 +108,7 @@ En 2016 : The Ankara bombing kills at least 37 people.
 <br/><br/>
 En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
 <br/><br/>
-En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems, killing all 7 on board.
+En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems to hospital, killing all 7 on board.
 <br/><br/>
 En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
 <br/><br/>
