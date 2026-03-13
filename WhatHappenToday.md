@@ -16,6 +16,8 @@ En 2016 : The Ankara bombing kills at least 37 people.
 <br/><br/>
 En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
 <br/><br/>
+En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems, killing all 7 on board.
+<br/><br/>
 En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
 <br/><br/>
 En 2012 : The Sierre coach crash kills 28 people, including 22 children.
@@ -105,6 +107,8 @@ En 2020 : Katerina Sakellaropoulou is sworn in as the first female President of 
 En 2016 : The Ankara bombing kills at least 37 people.
 <br/><br/>
 En 2016 : Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
+<br/><br/>
+En 2015 : Serbian Army Mi-17 helicopter crashes near Belgrade airport while transporting a 5-day-old baby with respiratory problems, killing all 7 on board.
 <br/><br/>
 En 2013 : The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
 <br/><br/>
