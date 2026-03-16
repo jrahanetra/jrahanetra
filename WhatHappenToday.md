@@ -22,7 +22,7 @@ En 2016 : Two suicide bombers detonate their explosives at a mosque during morni
 <br/><br/>
 En 2014 : Crimea votes in a controversial referendum to secede from Ukraine to join Russia.
 <br/><br/>
-En 2012 : Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
+En 2012 : Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
 <br/><br/>
 En 2010 : The Kasubi Tombs, Uganda's only cultural World Heritage Site, are destroyed in a fire.
 <br/><br/>
@@ -66,7 +66,7 @@ En 1962 : Flying Tiger Line Flight 739 disappears in the western Pacific Ocean w
 <br/><br/>
 En 1945 : World War II: The Battle of Iwo Jima ends, but small pockets of Japanese resistance persist.
 <br/><br/>
-En 1945 : Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
+En 1945 : World War II:  Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
 <br/><br/>
 En 1941 : Operation Appearance takes place to re-establish British Somaliland.
 <br/><br/>
@@ -128,7 +128,7 @@ En 2016 : Two suicide bombers detonate their explosives at a mosque during morni
 <br/><br/>
 En 2014 : Crimea votes in a controversial referendum to secede from Ukraine to join Russia.
 <br/><br/>
-En 2012 : Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
+En 2012 : Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
 <br/><br/>
 En 2010 : The Kasubi Tombs, Uganda's only cultural World Heritage Site, are destroyed in a fire.
 <br/><br/>
@@ -172,7 +172,7 @@ En 1962 : Flying Tiger Line Flight 739 disappears in the western Pacific Ocean w
 <br/><br/>
 En 1945 : World War II: The Battle of Iwo Jima ends, but small pockets of Japanese resistance persist.
 <br/><br/>
-En 1945 : Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
+En 1945 : World War II:  Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
 <br/><br/>
 En 1941 : Operation Appearance takes place to re-establish British Somaliland.
 <br/><br/>
