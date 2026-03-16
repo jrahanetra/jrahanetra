@@ -40,7 +40,7 @@ En 1988 : Iran–Contra affair: Lieutenant Colonel Oliver North and Vice Admiral
 <br/><br/>
 En 1988 : Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people.
 <br/><br/>
-En 1988 : The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.
+En 1988 : The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA, are killed, and more than 60 others are wounded.
 <br/><br/>
 En 1985 : Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991.
 <br/><br/>
@@ -68,7 +68,7 @@ En 1945 : World War II: The Battle of Iwo Jima ends, but small pockets of Japane
 <br/><br/>
 En 1945 : Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
 <br/><br/>
-En 1941 : Operation Appearance takes place to re-establish British Somaliland
+En 1941 : Operation Appearance takes place to re-establish British Somaliland.
 <br/><br/>
 En 1939 : From Prague Castle, Hitler proclaims Bohemia and Moravia a German protectorate.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1936 : Warmer-than-normal temperatures rapidly melt snow and ice on the upper
 <br/><br/>
 En 1935 : Adolf Hitler orders Germany to rearm itself in violation of the Treaty of Versailles. Conscription is reintroduced to form the Wehrmacht.
 <br/><br/>
-En 1926 : History of Rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.
+En 1926 : History of rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.
 <br/><br/>
 En 1925 : An earthquake (measuring around 7.0 magnitude) occurs in Dali, China, killing an estimated 5,000 people.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1988 : Iran–Contra affair: Lieutenant Colonel Oliver North and Vice Admiral
 <br/><br/>
 En 1988 : Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people.
 <br/><br/>
-En 1988 : The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.
+En 1988 : The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA, are killed, and more than 60 others are wounded.
 <br/><br/>
 En 1985 : Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1945 : World War II: The Battle of Iwo Jima ends, but small pockets of Japane
 <br/><br/>
 En 1945 : Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
 <br/><br/>
-En 1941 : Operation Appearance takes place to re-establish British Somaliland
+En 1941 : Operation Appearance takes place to re-establish British Somaliland.
 <br/><br/>
 En 1939 : From Prague Castle, Hitler proclaims Bohemia and Moravia a German protectorate.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1936 : Warmer-than-normal temperatures rapidly melt snow and ice on the upper
 <br/><br/>
 En 1935 : Adolf Hitler orders Germany to rearm itself in violation of the Treaty of Versailles. Conscription is reintroduced to form the Wehrmacht.
 <br/><br/>
-En 1926 : History of Rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.
+En 1926 : History of rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.
 <br/><br/>
 En 1925 : An earthquake (measuring around 7.0 magnitude) occurs in Dali, China, killing an estimated 5,000 people.
 <br/><br/>
