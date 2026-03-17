@@ -70,7 +70,7 @@ En 1824 : The Anglo-Dutch Treaty is signed in London, dividing the Malay archipe
 <br/><br/>
 En 1805 : The Italian Republic, with Napoleon as president, becomes the Kingdom of Italy, with Napoleon as King of Italy.
 <br/><br/>
-En 1776 : American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.
+En 1776 : American Revolutionary War: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.
 <br/><br/>
 En 1400 : Turko-Mongol emperor Timur sacks Damascus.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1824 : The Anglo-Dutch Treaty is signed in London, dividing the Malay archipe
 <br/><br/>
 En 1805 : The Italian Republic, with Napoleon as president, becomes the Kingdom of Italy, with Napoleon as King of Italy.
 <br/><br/>
-En 1776 : American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.
+En 1776 : American Revolutionary War: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.
 <br/><br/>
 En 1400 : Turko-Mongol emperor Timur sacks Damascus.
 <br/><br/>
