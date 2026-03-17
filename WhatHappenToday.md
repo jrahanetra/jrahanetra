@@ -50,7 +50,7 @@ En 1950 : Researchers at the University of California, Berkeley announce the cre
 <br/><br/>
 En 1948 : Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.
 <br/><br/>
-En 1945 : The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
+En 1945 : World War II:  The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
 <br/><br/>
 En 1942 : Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland.
 <br/><br/>
@@ -126,7 +126,7 @@ En 1950 : Researchers at the University of California, Berkeley announce the cre
 <br/><br/>
 En 1948 : Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.
 <br/><br/>
-En 1945 : The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
+En 1945 : World War II:  The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
 <br/><br/>
 En 1942 : Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland.
 <br/><br/>
