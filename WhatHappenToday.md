@@ -48,7 +48,7 @@ En 1953 : An earthquake hits western Turkey, killing at least 1,070 people.
 <br/><br/>
 En 1948 : Soviet consultants leave Yugoslavia in the first sign of the Tito–Stalin split.
 <br/><br/>
-En 1945 : 40th Infantry Division, spearheaded by the 185th US Infantry Regiment, lands unopposed in Tigbauan, forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
+En 1945 : World War II:  40th Infantry Division, spearheaded by the 185th US Infantry Regiment, lands unopposed in Tigbauan, forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
 <br/><br/>
 En 1944 : Mount Vesuvius in Italy erupts, killing 26 people, causing thousands to flee their homes, and destroying dozens of Allied bombers.
 <br/><br/>
@@ -81,8 +81,6 @@ En 1902 : Macario Sakay issues Presidential Order No. 1 of his Tagalog Republic.
 En 1901 : The Kumasi Mutiny of 1901 begins.
 <br/><br/>
 En 1899 : Phoebe, a satellite of Saturn, becomes the first to be discovered with photographs, taken in August 1898, by William Henry Pickering.
-<br/><br/>
-En 1874 : The Hawaiian Kingdom signs a treaty with the United States granting exclusive trade rights.
 <br/><br/>
 En 1871 : Declaration of the Paris Commune; President of the French Republic, Adolphe Thiers, orders the evacuation of Paris.
 <br/><br/>
@@ -166,7 +164,7 @@ En 1953 : An earthquake hits western Turkey, killing at least 1,070 people.
 <br/><br/>
 En 1948 : Soviet consultants leave Yugoslavia in the first sign of the Tito–Stalin split.
 <br/><br/>
-En 1945 : 40th Infantry Division, spearheaded by the 185th US Infantry Regiment, lands unopposed in Tigbauan, forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
+En 1945 : World War II:  40th Infantry Division, spearheaded by the 185th US Infantry Regiment, lands unopposed in Tigbauan, forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
 <br/><br/>
 En 1944 : Mount Vesuvius in Italy erupts, killing 26 people, causing thousands to flee their homes, and destroying dozens of Allied bombers.
 <br/><br/>
@@ -199,8 +197,6 @@ En 1902 : Macario Sakay issues Presidential Order No. 1 of his Tagalog Republic.
 En 1901 : The Kumasi Mutiny of 1901 begins.
 <br/><br/>
 En 1899 : Phoebe, a satellite of Saturn, becomes the first to be discovered with photographs, taken in August 1898, by William Henry Pickering.
-<br/><br/>
-En 1874 : The Hawaiian Kingdom signs a treaty with the United States granting exclusive trade rights.
 <br/><br/>
 En 1871 : Declaration of the Paris Commune; President of the French Republic, Adolphe Thiers, orders the evacuation of Paris.
 <br/><br/>
