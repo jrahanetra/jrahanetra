@@ -120,7 +120,7 @@ En 1229 : Frederick II, Holy Roman Emperor, declares himself King of Jerusalem i
 <br/><br/>
 En 1068 : An earthquake in the Levant and the Arabian Peninsula leaves up to 20,000 dead.
 <br/><br/>
-En 417 : Pope Zosimus is elected following the death of pope Innocent I.
+En 417 : Pope Zosimus is elected following the death of Pope Innocent I.
 <br/><br/>
 En 37 : Roman Senate annuls Tiberius' will and proclaims Gaius Julius Caesar Augustus Germanicus (aka Caligula = Little Boots) emperor.
 <br/><br/>
@@ -238,7 +238,7 @@ En 1229 : Frederick II, Holy Roman Emperor, declares himself King of Jerusalem i
 <br/><br/>
 En 1068 : An earthquake in the Levant and the Arabian Peninsula leaves up to 20,000 dead.
 <br/><br/>
-En 417 : Pope Zosimus is elected following the death of pope Innocent I.
+En 417 : Pope Zosimus is elected following the death of Pope Innocent I.
 <br/><br/>
 En 37 : Roman Senate annuls Tiberius' will and proclaims Gaius Julius Caesar Augustus Germanicus (aka Caligula = Little Boots) emperor.
 <br/><br/>
