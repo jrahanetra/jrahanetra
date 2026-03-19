@@ -60,8 +60,6 @@ En 1943 : Frank Nitti, the Chicago Outfit Boss after Al Capone, commits suicide 
 <br/><br/>
 En 1932 : The Sydney Harbour Bridge is opened.
 <br/><br/>
-En 1931 : Governor Fred B. Balzar signs a bill legalizing gambling in Nevada.
-<br/><br/>
 En 1921 : Irish War of Independence: One of the biggest engagements of the war takes place at Crossbarry, County Cork. About 100 Irish Republican Army (IRA) volunteers escape an attempt by over 1,300 British forces to encircle them.
 <br/><br/>
 En 1920 : The United States Senate rejects the Treaty of Versailles for the second time (the first time was on November 19, 1919).
@@ -151,8 +149,6 @@ En 1944 : World War II: The German army occupies Hungary.
 En 1943 : Frank Nitti, the Chicago Outfit Boss after Al Capone, commits suicide at the Chicago Central Railyard.
 <br/><br/>
 En 1932 : The Sydney Harbour Bridge is opened.
-<br/><br/>
-En 1931 : Governor Fred B. Balzar signs a bill legalizing gambling in Nevada.
 <br/><br/>
 En 1921 : Irish War of Independence: One of the biggest engagements of the war takes place at Crossbarry, County Cork. About 100 Irish Republican Army (IRA) volunteers escape an attempt by over 1,300 British forces to encircle them.
 <br/><br/>
