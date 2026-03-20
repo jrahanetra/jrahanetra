@@ -42,13 +42,13 @@ En 1985 : Libby Riddles becomes the first woman to win the 1,135-mile Iditarod T
 <br/><br/>
 En 1972 : The Troubles: The first car bombing by the Provisional IRA in Belfast kills seven people and injures 148 others in Northern Ireland.
 <br/><br/>
-En 1969 : A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people.
+En 1969 : A United Arab Airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan International Airport, killing 100 people.
 <br/><br/>
 En 1964 : The precursor of the European Space Agency, ESRO (European Space Research Organisation) is established per an agreement signed on June 14, 1962.
 <br/><br/>
 En 1956 : Tunisia gains independence from France.
 <br/><br/>
-En 1952 : The US Senate ratifies the Security Treaty Between the United States and Japan.
+En 1952 : The US Senate ratifies the Security Treaty between the United States and Japan.
 <br/><br/>
 En 1951 : Fujiyoshida, a city located in Yamanashi Prefecture, Japan, in the center of the Japanese main island of Honshū is founded.
 <br/><br/>
@@ -138,13 +138,13 @@ En 1985 : Libby Riddles becomes the first woman to win the 1,135-mile Iditarod T
 <br/><br/>
 En 1972 : The Troubles: The first car bombing by the Provisional IRA in Belfast kills seven people and injures 148 others in Northern Ireland.
 <br/><br/>
-En 1969 : A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people.
+En 1969 : A United Arab Airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan International Airport, killing 100 people.
 <br/><br/>
 En 1964 : The precursor of the European Space Agency, ESRO (European Space Research Organisation) is established per an agreement signed on June 14, 1962.
 <br/><br/>
 En 1956 : Tunisia gains independence from France.
 <br/><br/>
-En 1952 : The US Senate ratifies the Security Treaty Between the United States and Japan.
+En 1952 : The US Senate ratifies the Security Treaty between the United States and Japan.
 <br/><br/>
 En 1951 : Fujiyoshida, a city located in Yamanashi Prefecture, Japan, in the center of the Japanese main island of Honshū is founded.
 <br/><br/>
