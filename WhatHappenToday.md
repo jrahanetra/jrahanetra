@@ -100,7 +100,7 @@ En 1788 : A fire in New Orleans leaves most of the town in ruins.
 <br/><br/>
 En 1556 : On the day of his execution in Oxford, former archbishop of Canterbury Thomas Cranmer deviates from the scripted sermon by renouncing the recantations he has made and adds, "And as for the pope, I refuse him, as Christ's enemy, and Antichrist with all his false doctrine."
 <br/><br/>
-En 1349 : Erfurt massacre: Outbreak of an antisemitic pogrom in Erfurt, Germany, during which hundreds to thousands of Jews were killed by Christians after being accused of causing the Black Death.
+En 1349 : Erfurt massacre: Outbreak of an antisemitic pogrom in Erfurt, Germany, during which between 100 and up to 3000 Jews were killed by Christians after being accused of causing the Black Death.
 <br/><br/>
 En 1180 : Emperor Antoku accedes to the throne of Japan.
 <br/><br/>
@@ -206,7 +206,7 @@ En 1788 : A fire in New Orleans leaves most of the town in ruins.
 <br/><br/>
 En 1556 : On the day of his execution in Oxford, former archbishop of Canterbury Thomas Cranmer deviates from the scripted sermon by renouncing the recantations he has made and adds, "And as for the pope, I refuse him, as Christ's enemy, and Antichrist with all his false doctrine."
 <br/><br/>
-En 1349 : Erfurt massacre: Outbreak of an antisemitic pogrom in Erfurt, Germany, during which hundreds to thousands of Jews were killed by Christians after being accused of causing the Black Death.
+En 1349 : Erfurt massacre: Outbreak of an antisemitic pogrom in Erfurt, Germany, during which between 100 and up to 3000 Jews were killed by Christians after being accused of causing the Black Death.
 <br/><br/>
 En 1180 : Emperor Antoku accedes to the throne of Japan.
 <br/><br/>
