@@ -24,7 +24,7 @@ En 1975 : Faisal of Saudi Arabia is shot and killed by his nephew.
 <br/><br/>
 En 1971 : The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
 <br/><br/>
-En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
+En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their four-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
 <br/><br/>
 En 1959 : Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($58,072 in 2025).
 <br/><br/>
@@ -76,7 +76,7 @@ En 1807 : The Swansea and Mumbles Railway, then known as the Oystermouth Railway
 <br/><br/>
 En 1802 : The Treaty of Amiens is signed as a "Definitive Treaty of Peace" between France and the United Kingdom.
 <br/><br/>
-En 1776 : American Revolutionary War – American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there.
+En 1776 : American Revolutionary War: American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there.
 <br/><br/>
 En 1770 : Daskalogiannis leads the people of Sfakia in the first Greek uprising against the Ottoman rule
 <br/><br/>
@@ -132,7 +132,7 @@ En 1975 : Faisal of Saudi Arabia is shot and killed by his nephew.
 <br/><br/>
 En 1971 : The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
 <br/><br/>
-En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
+En 1965 : Civil rights activists led by Martin Luther King Jr. successfully complete their four-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
 <br/><br/>
 En 1959 : Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($58,072 in 2025).
 <br/><br/>
@@ -184,7 +184,7 @@ En 1807 : The Swansea and Mumbles Railway, then known as the Oystermouth Railway
 <br/><br/>
 En 1802 : The Treaty of Amiens is signed as a "Definitive Treaty of Peace" between France and the United Kingdom.
 <br/><br/>
-En 1776 : American Revolutionary War – American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there.
+En 1776 : American Revolutionary War: American Patriots conduct a Raid on Tybee Island, primarily seeking to capture runaway slaves who sought refuge with British forces stationed there.
 <br/><br/>
 En 1770 : Daskalogiannis leads the people of Sfakia in the first Greek uprising against the Ottoman rule
 <br/><br/>
