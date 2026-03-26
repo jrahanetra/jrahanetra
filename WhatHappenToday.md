@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 26/3 ?(Hover on the year)</h1>
 
-En 2024 : The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing 6 people.
+En 2024 : The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing six people.
 <br/><br/>
 En 2017 : Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
 <br/><br/>
@@ -112,7 +112,7 @@ En 624 : First Eid al-Fitr celebration.
 <br/><br/>
 En 590 : Emperor Maurice proclaims his son Theodosius as co-emperor of the Byzantine Empire.
 <br/><br/>
-En 2024 : The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing 6 people.
+En 2024 : The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing six people.
 <br/><br/>
 En 2017 : Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
 <br/><br/>
