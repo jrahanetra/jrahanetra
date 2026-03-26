@@ -48,7 +48,7 @@ En 1954 : Nuclear weapons testing: The Romeo shot of Operation Castle is detonat
 <br/><br/>
 En 1945 : World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces.
 <br/><br/>
-En 1942 : World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
+En 1942 : The Holocaust: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
 <br/><br/>
 En 1939 : Spanish Civil War: Nationalists begin their final offensive of the war.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1954 : Nuclear weapons testing: The Romeo shot of Operation Castle is detonat
 <br/><br/>
 En 1945 : World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces.
 <br/><br/>
-En 1942 : World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
+En 1942 : The Holocaust: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
 <br/><br/>
 En 1939 : Spanish Civil War: Nationalists begin their final offensive of the war.
 <br/><br/>
