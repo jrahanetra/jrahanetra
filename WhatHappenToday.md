@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 28/3 ?(Hover on the year)</h1>
 
-En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 100 people.
+En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 5400 people.
 <br/><br/>
 En 2006 : At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
 <br/><br/>
@@ -92,7 +92,7 @@ En 193 : After assassinating the Roman Emperor Pertinax, his Praetorian Guards a
 <br/><br/>
 En 37 : Roman emperor Caligula accepts the titles of the Principate, bestowed on him by the Senate.
 <br/><br/>
-En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 100 people.
+En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 5400 people.
 <br/><br/>
 En 2006 : At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
 <br/><br/>
