@@ -8,6 +8,8 @@
 
 En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 5400 people.
 <br/><br/>
+En 2020 : The region of Uusimaa (with the capital city Helsinki) is temporarily isolated from the rest of Finland due to increased COVID-19 infections.
+<br/><br/>
 En 2006 : At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
 <br/><br/>
 En 2005 : An earthquake shakes northern Sumatra with a magnitude of 8.6 and killing over 1000 people.
@@ -93,6 +95,8 @@ En 193 : After assassinating the Roman Emperor Pertinax, his Praetorian Guards a
 En 37 : Roman emperor Caligula accepts the titles of the Principate, bestowed on him by the Senate.
 <br/><br/>
 En 2025 : An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 5400 people.
+<br/><br/>
+En 2020 : The region of Uusimaa (with the capital city Helsinki) is temporarily isolated from the rest of Finland due to increased COVID-19 infections.
 <br/><br/>
 En 2006 : At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
 <br/><br/>
