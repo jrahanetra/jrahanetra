@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 29/3 ?(Hover on the year)</h1>
 
-En 2021 : The ship Ever Given was dislodged from the Suez Canal.
+En 2021 : The ship Ever Given is dislodged from the Suez Canal.
 <br/><br/>
 En 2017 : Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
 <br/><br/>
@@ -32,7 +32,7 @@ En 1999 : A magnitude 6.8 earthquake in India strikes the Chamoli district in Ut
 <br/><br/>
 En 1990 : The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
 <br/><br/>
-En 1984 : The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis.
+En 1984 : The Baltimore Colts load their possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer their operations to Indianapolis.
 <br/><br/>
 En 1982 : The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982.
 <br/><br/>
@@ -40,7 +40,7 @@ En 1979 : Quebecair Flight 255 crashes after takeoff from Québec City Jean Lesa
 <br/><br/>
 En 1974 : NASA's Mariner 10 becomes the first space probe to fly by Mercury.
 <br/><br/>
-En 1974 : Terracotta Army was discovered in Shaanxi province, China.
+En 1974 : The Terracotta Army is discovered in Shaanxi province, China.
 <br/><br/>
 En 1973 : Vietnam War: The last United States combat soldiers leave South Vietnam.
 <br/><br/>
@@ -48,7 +48,7 @@ En 1973 : Operation Barrel Roll, a covert American bombing campaign in Laos to s
 <br/><br/>
 En 1971 : My Lai massacre: Lieutenant William Calley is convicted of premeditated murder and sentenced to life in prison.
 <br/><br/>
-En 1968 : The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance.
+En 1968 : The funeral of Yuri Gagarin, the first man in space, begins in Moscow, with thousands of people in attendance.
 <br/><br/>
 En 1962 : Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 11+1⁄2 day constitutional crisis.
 <br/><br/>
@@ -104,7 +104,7 @@ En 1430 : The Ottoman Empire under Murad II captures Thessalonica from the Repub
 <br/><br/>
 En 1139 : Pope Innocent II issues the bull Omne datum optimum in which he endorses the Knights Templar and approves the Templar Rule.
 <br/><br/>
-En 2021 : The ship Ever Given was dislodged from the Suez Canal.
+En 2021 : The ship Ever Given is dislodged from the Suez Canal.
 <br/><br/>
 En 2017 : Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
 <br/><br/>
@@ -130,7 +130,7 @@ En 1999 : A magnitude 6.8 earthquake in India strikes the Chamoli district in Ut
 <br/><br/>
 En 1990 : The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
 <br/><br/>
-En 1984 : The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis.
+En 1984 : The Baltimore Colts load their possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer their operations to Indianapolis.
 <br/><br/>
 En 1982 : The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1979 : Quebecair Flight 255 crashes after takeoff from Québec City Jean Lesa
 <br/><br/>
 En 1974 : NASA's Mariner 10 becomes the first space probe to fly by Mercury.
 <br/><br/>
-En 1974 : Terracotta Army was discovered in Shaanxi province, China.
+En 1974 : The Terracotta Army is discovered in Shaanxi province, China.
 <br/><br/>
 En 1973 : Vietnam War: The last United States combat soldiers leave South Vietnam.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1973 : Operation Barrel Roll, a covert American bombing campaign in Laos to s
 <br/><br/>
 En 1971 : My Lai massacre: Lieutenant William Calley is convicted of premeditated murder and sentenced to life in prison.
 <br/><br/>
-En 1968 : The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance.
+En 1968 : The funeral of Yuri Gagarin, the first man in space, begins in Moscow, with thousands of people in attendance.
 <br/><br/>
 En 1962 : Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 11+1⁄2 day constitutional crisis.
 <br/><br/>
