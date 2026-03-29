@@ -10,8 +10,6 @@ En 2021 : The ship Ever Given was dislodged from the Suez Canal.
 <br/><br/>
 En 2017 : Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
 <br/><br/>
-En 2016 : A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
-<br/><br/>
 En 2015 : Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
 <br/><br/>
 En 2014 : The first same-sex marriages in England and Wales are performed.
@@ -109,8 +107,6 @@ En 1139 : Pope Innocent II issues the bull Omne datum optimum in which he endors
 En 2021 : The ship Ever Given was dislodged from the Suez Canal.
 <br/><br/>
 En 2017 : Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
-<br/><br/>
-En 2016 : A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
 <br/><br/>
 En 2015 : Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
 <br/><br/>
