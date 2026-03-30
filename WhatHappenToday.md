@@ -48,7 +48,7 @@ En 1945 : World War II: Soviet forces invade Austria and capture Vienna. Polish 
 <br/><br/>
 En 1944 : World War II: Allied bombers conduct their most severe bombing run on Sofia, Bulgaria.
 <br/><br/>
-En 1944 : Out of 795 Lancasters, Halifaxes and Mosquitos sent to attack Nuremberg, 95 bombers do not return, making it the largest RAF Bomber Command loss of the war.
+En 1944 : World War II:  In a raid on Nuremberg, RAF Bomber Command suffers its greatest loss of the war, losing 95 bombers from a force of 795.
 <br/><br/>
 En 1940 : Second Sino-Japanese War: Japan declares Nanking capital of a new Chinese puppet government, nominally controlled by Wang Jingwei.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1945 : World War II: Soviet forces invade Austria and capture Vienna. Polish 
 <br/><br/>
 En 1944 : World War II: Allied bombers conduct their most severe bombing run on Sofia, Bulgaria.
 <br/><br/>
-En 1944 : Out of 795 Lancasters, Halifaxes and Mosquitos sent to attack Nuremberg, 95 bombers do not return, making it the largest RAF Bomber Command loss of the war.
+En 1944 : World War II:  In a raid on Nuremberg, RAF Bomber Command suffers its greatest loss of the war, losing 95 bombers from a force of 795.
 <br/><br/>
 En 1940 : Second Sino-Japanese War: Japan declares Nanking capital of a new Chinese puppet government, nominally controlled by Wang Jingwei.
 <br/><br/>
