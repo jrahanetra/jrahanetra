@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 1/4 ?(Hover on the year)</h1>
 
+En 2026 : The Artemis II lunar flyby mission launches, marking the first crewed deep-space mission since Apollo 17 in 1972.
+<br/><br/>
 En 2016 : The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
 <br/><br/>
 En 2011 : After protests against the burning of the Quran turn violent, a mob attacks a United Nations compound in Mazar-i-Sharif, Afghanistan, resulting in the deaths of fourteen people, including seven UN workers.
@@ -119,6 +121,8 @@ En 1081 : Alexios I Komnenos overthrows the Byzantine emperor Nikephoros III Bot
 En 527 : Byzantine Emperor Justin I names his nephew Justinian I as co-ruler and successor to the throne.
 <br/><br/>
 En 285 : Roman emperor Diocletian names Maximian his co-emperor ("Augustus").
+<br/><br/>
+En 2026 : The Artemis II lunar flyby mission launches, marking the first crewed deep-space mission since Apollo 17 in 1972.
 <br/><br/>
 En 2016 : The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
 <br/><br/>
