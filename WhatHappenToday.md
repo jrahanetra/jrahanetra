@@ -64,7 +64,7 @@ En 1964 : The Soviet Union launches Zond 1.
 <br/><br/>
 En 1956 : As the World Turns and The Edge of Night premiere on CBS. The two soaps become the first daytime dramas to debut in the 30-minute format.
 <br/><br/>
-En 1954 : A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner "Tragedy by the Sea".
+En 1954 : A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner Tragedy by the Sea.
 <br/><br/>
 En 1930 : After the mysterious death of Empress Zewditu, Haile Selassie is proclaimed emperor of Ethiopia.
 <br/><br/>
@@ -160,7 +160,7 @@ En 1964 : The Soviet Union launches Zond 1.
 <br/><br/>
 En 1956 : As the World Turns and The Edge of Night premiere on CBS. The two soaps become the first daytime dramas to debut in the 30-minute format.
 <br/><br/>
-En 1954 : A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner "Tragedy by the Sea".
+En 1954 : A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner Tragedy by the Sea.
 <br/><br/>
 En 1930 : After the mysterious death of Empress Zewditu, Haile Selassie is proclaimed emperor of Ethiopia.
 <br/><br/>
