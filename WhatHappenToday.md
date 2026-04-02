@@ -100,7 +100,7 @@ En 1513 : Having spotted land on March 27, Spanish explorer Juan Ponce de León 
 <br/><br/>
 En 1285 : Election of Pope Honorius IV following the death of Pope Martin IV.
 <br/><br/>
-En 1107 : Seljuq sultan Muhammad I Tapar begins with the siege of Shahdiz, a fortress of the Nizari Ismailis.
+En 1107 : Seljuq sultan Muhammad I Tapar begins the siege of Shahdiz, a fortress of the Nizari Ismailis.
 <br/><br/>
 En 2025 : Liberation Day tariffs: U.S. President Donald Trump announces sweeping worldwide tariffs.
 <br/><br/>
@@ -196,5 +196,5 @@ En 1513 : Having spotted land on March 27, Spanish explorer Juan Ponce de León 
 <br/><br/>
 En 1285 : Election of Pope Honorius IV following the death of Pope Martin IV.
 <br/><br/>
-En 1107 : Seljuq sultan Muhammad I Tapar begins with the siege of Shahdiz, a fortress of the Nizari Ismailis.
+En 1107 : Seljuq sultan Muhammad I Tapar begins the siege of Shahdiz, a fortress of the Nizari Ismailis.
 <br/><br/>
