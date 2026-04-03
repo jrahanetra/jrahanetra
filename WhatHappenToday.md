@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 3/4 ?(Hover on the year)</h1>
 
+En 2026 : Min Aung Hlaing is elected as 11th President of Myanmar.
+<br/><br/>
 En 2018 : YouTube headquarters shooting: A 38-year-old gunwoman opens fire at YouTube Headquarters in San Bruno, California, injuring three people before committing suicide.
 <br/><br/>
 En 2017 : A bomb explodes in the St Petersburg metro system, killing 14 and injuring several more people.
@@ -105,6 +107,8 @@ En 1043 : Edward the Confessor is crowned King of England.
 En 956 : Polyeuctus of Constantinople is elected as patriarch of Constantinople.
 <br/><br/>
 En 686 : Maya king Yuknoom Yich'aak K'ahk' assumes the crown of Calakmul.
+<br/><br/>
+En 2026 : Min Aung Hlaing is elected as 11th President of Myanmar.
 <br/><br/>
 En 2018 : YouTube headquarters shooting: A 38-year-old gunwoman opens fire at YouTube Headquarters in San Bruno, California, injuring three people before committing suicide.
 <br/><br/>
