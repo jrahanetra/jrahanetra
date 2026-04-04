@@ -16,7 +16,7 @@ En 2020 : China holds a national day of mourning for martyrs who died in the fig
 <br/><br/>
 En 2017 : Syria conducts an air strike on Khan Shaykhun using chemical weapons, killing 89 civilians.
 <br/><br/>
-En 2013 : 74 people are killed in a building collapse in Thane, India.
+En 2013 : Seventy-four people are killed in a building collapse in Thane, India.
 <br/><br/>
 En 2011 : Georgian Airways Flight 834 crashes at N'djili Airport in Kinshasa, killing 32.
 <br/><br/>
@@ -148,7 +148,7 @@ En 2020 : China holds a national day of mourning for martyrs who died in the fig
 <br/><br/>
 En 2017 : Syria conducts an air strike on Khan Shaykhun using chemical weapons, killing 89 civilians.
 <br/><br/>
-En 2013 : 74 people are killed in a building collapse in Thane, India.
+En 2013 : Seventy-four people are killed in a building collapse in Thane, India.
 <br/><br/>
 En 2011 : Georgian Airways Flight 834 crashes at N'djili Airport in Kinshasa, killing 32.
 <br/><br/>
