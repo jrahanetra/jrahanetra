@@ -8,7 +8,7 @@
 
 En 2025 : The impeachment of President Yoon Suk Yeol of South Korea in response to his declaration of martial law is unanimously upheld by the country's Constitutional Court, ending his presidency.
 <br/><br/>
-En 2024 : The Battle of Chasiv Yar begins.
+En 2024 : Russo-Ukrainian war: The Battle of Chasiv Yar begins.
 <br/><br/>
 En 2023 : Finland becomes a member of NATO after Turkey accepts its membership request.
 <br/><br/>
@@ -140,7 +140,7 @@ En -503 : Roman consul Agrippa Menenius Lanatus celebrates a triumph for a milit
 <br/><br/>
 En 2025 : The impeachment of President Yoon Suk Yeol of South Korea in response to his declaration of martial law is unanimously upheld by the country's Constitutional Court, ending his presidency.
 <br/><br/>
-En 2024 : The Battle of Chasiv Yar begins.
+En 2024 : Russo-Ukrainian war: The Battle of Chasiv Yar begins.
 <br/><br/>
 En 2023 : Finland becomes a member of NATO after Turkey accepts its membership request.
 <br/><br/>
