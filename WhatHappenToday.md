@@ -16,7 +16,7 @@ En 2010 : Space Shuttle Discovery is launched on STS-131 to resupply the Interna
 <br/><br/>
 En 2009 : North Korea launches its controversial Kwangmyŏngsŏng-2 satellite. The satellite passed over mainland Japan, which prompted an immediate reaction from the United Nations Security Council, as well as participating states of Six-party talks.
 <br/><br/>
-En 2007 : The cruise ship MS Sea Diamond strikes a volcanic reef near Nea Kameni and sinks the next day.  Two passengers were never recovered and are presumed dead.
+En 2007 : The cruise ship MS Sea Diamond strikes a volcanic reef near Nea Kameni and sinks the next day. Two passengers were never recovered and are presumed dead.
 <br/><br/>
 En 1999 : Two Libyans suspected of bringing down Pan Am Flight 103 in 1988 are handed over for eventual trial in the Netherlands.
 <br/><br/>
@@ -26,11 +26,11 @@ En 1992 : Alberto Fujimori, president of Peru, dissolves the Peruvian congress b
 <br/><br/>
 En 1992 : Peace protesters Suada Dilberovic and Olga Sučić are killed on the Vrbanja Bridge in Sarajevo, becoming the first casualties of the Bosnian War.
 <br/><br/>
-En 1991 : An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter.
+En 1991 : An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard, including Sen. John Tower and astronaut Sonny Carter.
 <br/><br/>
-En 1991 : The Space shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.
+En 1991 : The Space Shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.
 <br/><br/>
-En 1983 : The People's Armed Police is officially founded
+En 1983 : The People's Armed Police is officially founded.
 <br/><br/>
 En 1977 : The US Supreme Court rules that congressional legislation that diminished the size of the Sioux people's reservation thereby destroyed the tribe's jurisdictional authority over the area in Rosebud Sioux Tribe v. Kneip.
 <br/><br/>
@@ -42,9 +42,9 @@ En 1971 : In Sri Lanka, Janatha Vimukthi Peramuna launches a revolt against the 
 <br/><br/>
 En 1966 : During the Buddhist Uprising, South Vietnamese Prime Minister Nguyễn Cao Kỳ personally attempts to lead the capture of the restive city of Đà Nẵng before backing down.
 <br/><br/>
-En 1965 : My Fair Lady won Best Picture at the 37th Academy Awards.
+En 1965 : My Fair Lady wins Best Picture at the 37th Academy Awards.
 <br/><br/>
-En 1958 : Ripple Rock, an underwater threat to navigation in the Seymour Narrows in Canada is destroyed in one of the largest non-nuclear controlled explosions of the time.
+En 1958 : Ripple Rock, an underwater threat to navigation in the Seymour Narrows in Canada, is destroyed in one of the largest non-nuclear controlled explosions of the time.
 <br/><br/>
 En 1956 : Cuban Revolution: Fidel Castro declares himself at war with Cuban President Fulgencio Batista.
 <br/><br/>
@@ -116,7 +116,7 @@ En 2010 : Space Shuttle Discovery is launched on STS-131 to resupply the Interna
 <br/><br/>
 En 2009 : North Korea launches its controversial Kwangmyŏngsŏng-2 satellite. The satellite passed over mainland Japan, which prompted an immediate reaction from the United Nations Security Council, as well as participating states of Six-party talks.
 <br/><br/>
-En 2007 : The cruise ship MS Sea Diamond strikes a volcanic reef near Nea Kameni and sinks the next day.  Two passengers were never recovered and are presumed dead.
+En 2007 : The cruise ship MS Sea Diamond strikes a volcanic reef near Nea Kameni and sinks the next day. Two passengers were never recovered and are presumed dead.
 <br/><br/>
 En 1999 : Two Libyans suspected of bringing down Pan Am Flight 103 in 1988 are handed over for eventual trial in the Netherlands.
 <br/><br/>
@@ -126,11 +126,11 @@ En 1992 : Alberto Fujimori, president of Peru, dissolves the Peruvian congress b
 <br/><br/>
 En 1992 : Peace protesters Suada Dilberovic and Olga Sučić are killed on the Vrbanja Bridge in Sarajevo, becoming the first casualties of the Bosnian War.
 <br/><br/>
-En 1991 : An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter.
+En 1991 : An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard, including Sen. John Tower and astronaut Sonny Carter.
 <br/><br/>
-En 1991 : The Space shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.
+En 1991 : The Space Shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.
 <br/><br/>
-En 1983 : The People's Armed Police is officially founded
+En 1983 : The People's Armed Police is officially founded.
 <br/><br/>
 En 1977 : The US Supreme Court rules that congressional legislation that diminished the size of the Sioux people's reservation thereby destroyed the tribe's jurisdictional authority over the area in Rosebud Sioux Tribe v. Kneip.
 <br/><br/>
@@ -142,9 +142,9 @@ En 1971 : In Sri Lanka, Janatha Vimukthi Peramuna launches a revolt against the 
 <br/><br/>
 En 1966 : During the Buddhist Uprising, South Vietnamese Prime Minister Nguyễn Cao Kỳ personally attempts to lead the capture of the restive city of Đà Nẵng before backing down.
 <br/><br/>
-En 1965 : My Fair Lady won Best Picture at the 37th Academy Awards.
+En 1965 : My Fair Lady wins Best Picture at the 37th Academy Awards.
 <br/><br/>
-En 1958 : Ripple Rock, an underwater threat to navigation in the Seymour Narrows in Canada is destroyed in one of the largest non-nuclear controlled explosions of the time.
+En 1958 : Ripple Rock, an underwater threat to navigation in the Seymour Narrows in Canada, is destroyed in one of the largest non-nuclear controlled explosions of the time.
 <br/><br/>
 En 1956 : Cuban Revolution: Fidel Castro declares himself at war with Cuban President Fulgencio Batista.
 <br/><br/>
