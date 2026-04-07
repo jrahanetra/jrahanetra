@@ -100,13 +100,11 @@ En 1940 : Booker T. Washington becomes the first African American to be depicted
 <br/><br/>
 En 1939 : Benito Mussolini declares an Italian protectorate over Albania and forces King Zog I into exile.
 <br/><br/>
-En 1939 : Benito Mussolini invades Albania.
+En 1939 : Italy invades Albania.
 <br/><br/>
 En 1933 : Prohibition in the United States is repealed for beer of no more than 3.2% alcohol by weight, eight months before the ratification of the Twenty-first Amendment to the United States Constitution. (Now  celebrated as National Beer Day in the United States.)
 <br/><br/>
 En 1933 : Nazi Germany issues the Law for the Restoration of the Professional Civil Service banning Jews and political dissidents from civil service posts.
-<br/><br/>
-En 1927 : AT&T engineer Herbert Ives transmits the first long-distance public television broadcast (from Washington, D.C., to New York City, displaying the image of Commerce Secretary Herbert Hoover).
 <br/><br/>
 En 1926 : Violet Gibson attempts to assassinate Italian Prime Minister Benito Mussolini.
 <br/><br/>
@@ -248,13 +246,11 @@ En 1940 : Booker T. Washington becomes the first African American to be depicted
 <br/><br/>
 En 1939 : Benito Mussolini declares an Italian protectorate over Albania and forces King Zog I into exile.
 <br/><br/>
-En 1939 : Benito Mussolini invades Albania.
+En 1939 : Italy invades Albania.
 <br/><br/>
 En 1933 : Prohibition in the United States is repealed for beer of no more than 3.2% alcohol by weight, eight months before the ratification of the Twenty-first Amendment to the United States Constitution. (Now  celebrated as National Beer Day in the United States.)
 <br/><br/>
 En 1933 : Nazi Germany issues the Law for the Restoration of the Professional Civil Service banning Jews and political dissidents from civil service posts.
-<br/><br/>
-En 1927 : AT&T engineer Herbert Ives transmits the first long-distance public television broadcast (from Washington, D.C., to New York City, displaying the image of Commerce Secretary Herbert Hoover).
 <br/><br/>
 En 1926 : Violet Gibson attempts to assassinate Italian Prime Minister Benito Mussolini.
 <br/><br/>
