@@ -14,7 +14,7 @@ En 2020 : COVID-19 pandemic: China ends its lockdown in Wuhan.
 <br/><br/>
 En 2020 : COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
 <br/><br/>
-En 2018 : Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
+En 2018 : Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, before being released by the Brazilian Supreme Court.
 <br/><br/>
 En 2018 : Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
 <br/><br/>
@@ -34,7 +34,7 @@ En 2005 : First release of Git distributed version control system.
 <br/><br/>
 En 2003 : Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
 <br/><br/>
-En 2003 : Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haiti Independence Debt.
+En 2003 : Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haitian independence debt.
 <br/><br/>
 En 2001 : NASA launches the 2001 Mars Odyssey orbiter.
 <br/><br/>
@@ -162,7 +162,7 @@ En 2020 : COVID-19 pandemic: China ends its lockdown in Wuhan.
 <br/><br/>
 En 2020 : COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
 <br/><br/>
-En 2018 : Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
+En 2018 : Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, before being released by the Brazilian Supreme Court.
 <br/><br/>
 En 2018 : Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
 <br/><br/>
@@ -182,7 +182,7 @@ En 2005 : First release of Git distributed version control system.
 <br/><br/>
 En 2003 : Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
 <br/><br/>
-En 2003 : Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haiti Independence Debt.
+En 2003 : Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haitian independence debt.
 <br/><br/>
 En 2001 : NASA launches the 2001 Mars Odyssey orbiter.
 <br/><br/>
