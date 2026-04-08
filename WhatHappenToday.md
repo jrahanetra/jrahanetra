@@ -60,7 +60,7 @@ En 1730 : Shearith Israel, the first synagogue in continental North America, is 
 <br/><br/>
 En 1605 : The city of Oulu, Finland, is founded by Charles IX of Sweden.
 <br/><br/>
-En 1271 : In Syria, sultan Baibars conquers the Krak des Chevaliers.
+En 1271 : Fall of Krak des Chevaliers: In Syria, sultan Baibars conquers the Krak des Chevaliers.
 <br/><br/>
 En 1250 : Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur.
 <br/><br/>
@@ -128,7 +128,7 @@ En 1730 : Shearith Israel, the first synagogue in continental North America, is 
 <br/><br/>
 En 1605 : The city of Oulu, Finland, is founded by Charles IX of Sweden.
 <br/><br/>
-En 1271 : In Syria, sultan Baibars conquers the Krak des Chevaliers.
+En 1271 : Fall of Krak des Chevaliers: In Syria, sultan Baibars conquers the Krak des Chevaliers.
 <br/><br/>
 En 1250 : Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur.
 <br/><br/>
