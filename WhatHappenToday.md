@@ -14,8 +14,6 @@ En 2020 : Soyuz MS-16 is launched from the Baikonur Cosmodrome, carrying the Exp
 <br/><br/>
 En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
 <br/><br/>
-En 2017 : After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
-<br/><br/>
 En 2014 : A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania.
 <br/><br/>
 En 2013 : A 6.1–magnitude earthquake strikes Iran killing 32 people and injuring over 850 people.
@@ -137,8 +135,6 @@ En 2021 : Soyuz MS-18 is launched from the Baikonur Cosmodrome, carrying three m
 En 2020 : Soyuz MS-16 is launched from the Baikonur Cosmodrome, carrying the Expedition 62/63 crew to the International Space Station.
 <br/><br/>
 En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
-<br/><br/>
-En 2017 : After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
 <br/><br/>
 En 2014 : A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania.
 <br/><br/>
