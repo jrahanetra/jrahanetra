@@ -8,6 +8,10 @@
 
 En 2021 : Burmese military and security forces commit the Bago massacre, during which at least 82 civilians are killed.
 <br/><br/>
+En 2021 : Soyuz MS-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 64 crew to the International Space Station.
+<br/><br/>
+En 2020 : Soyuz MS-16 is launched from the Baikonur Cosmodrome, carrying the Expedition 62/63 crew to the International Space Station.
+<br/><br/>
 En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
 <br/><br/>
 En 2017 : After refusing to give up his seat on an overbooked United Express flight, Dr. David Dao Duy Anh is forcibly dragged off the flight by aviation security officers, leading to major criticism of United Airlines.
@@ -127,6 +131,10 @@ En 475 : Byzantine Emperor Basiliscus issues a circular letter (Enkyklikon) to t
 En 193 : The distinguished soldier Septimius Severus is proclaimed emperor by the army in Illyricum.
 <br/><br/>
 En 2021 : Burmese military and security forces commit the Bago massacre, during which at least 82 civilians are killed.
+<br/><br/>
+En 2021 : Soyuz MS-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 64 crew to the International Space Station.
+<br/><br/>
+En 2020 : Soyuz MS-16 is launched from the Baikonur Cosmodrome, carrying the Expedition 62/63 crew to the International Space Station.
 <br/><br/>
 En 2017 : The Palm Sunday church bombings at Coptic churches in Tanta and Alexandria, Egypt, take place.
 <br/><br/>
