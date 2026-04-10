@@ -52,9 +52,9 @@ En 1919 : The Third Regional Congress of Peasants, Workers and Insurgents is hel
 <br/><br/>
 En 1912 : RMS Titanic sets sail from Southampton, UK, on her maiden and only voyage.
 <br/><br/>
-En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. 600 British troops are killed and wounded and 800 taken prisoner.
+En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. Six hundred British troops are killed and wounded and 800 taken prisoner.
 <br/><br/>
-En 1896 : 1896 Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
+En 1896 : Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
 <br/><br/>
 En 1887 : On Easter Sunday, Pope Leo XIII authorizes the establishment of the Catholic University of America.
 <br/><br/>
@@ -84,7 +84,7 @@ En 1814 : Allied forces under the Duke of Wellington attack Toulouse held by Mar
 <br/><br/>
 En 1809 : Napoleonic Wars: The War of the Fifth Coalition begins when forces of the Austrian Empire invade Bavaria.
 <br/><br/>
-En 1796 : War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign of 1796-1797, the decisive campaign under Napoleon Bonaparte that will end the war a year later.
+En 1796 : War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign, the decisive campaign under Napoleon Bonaparte that will end the war a year later.
 <br/><br/>
 En 1741 : War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz.
 <br/><br/>
@@ -156,9 +156,9 @@ En 1919 : The Third Regional Congress of Peasants, Workers and Insurgents is hel
 <br/><br/>
 En 1912 : RMS Titanic sets sail from Southampton, UK, on her maiden and only voyage.
 <br/><br/>
-En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. 600 British troops are killed and wounded and 800 taken prisoner.
+En 1900 : British suffer a sharp defeat by the Boers south of Brandfort. Six hundred British troops are killed and wounded and 800 taken prisoner.
 <br/><br/>
-En 1896 : 1896 Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
+En 1896 : Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
 <br/><br/>
 En 1887 : On Easter Sunday, Pope Leo XIII authorizes the establishment of the Catholic University of America.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1814 : Allied forces under the Duke of Wellington attack Toulouse held by Mar
 <br/><br/>
 En 1809 : Napoleonic Wars: The War of the Fifth Coalition begins when forces of the Austrian Empire invade Bavaria.
 <br/><br/>
-En 1796 : War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign of 1796-1797, the decisive campaign under Napoleon Bonaparte that will end the war a year later.
+En 1796 : War of the First Coalition: A surprise Austrian attack at the Battle of Voltri marks the beginning of the Italian Campaign, the decisive campaign under Napoleon Bonaparte that will end the war a year later.
 <br/><br/>
 En 1741 : War of the Austrian Succession: Prussia gains control of Silesia at the Battle of Mollwitz.
 <br/><br/>
