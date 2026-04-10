@@ -6,9 +6,9 @@
 <hr/>
 <h1> What happen this day 10/4 ?(Hover on the year)</h1>
 
-En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
+En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky, that leaves five victims dead and eight wounded.
 <br/><br/>
-En 2016 : The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship.
+En 2016 : The Paravur temple accident, in which a devastating fire caused by the explosion of firecrackers stored for Vishu kills more than one hundred people out of the thousands gathered for the seventh day of Bhadrakali worship.
 <br/><br/>
 En 2016 : An earthquake of 6.6 magnitude strikes 39 km west-southwest of Ashkasham, impacting India, Afghanistan, Tajikistan, Srinagar and Pakistan.
 <br/><br/>
@@ -20,13 +20,13 @@ En 1998 : The Good Friday Agreement is signed in Northern Ireland.
 <br/><br/>
 En 1991 : Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
 <br/><br/>
-En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
+En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola, the first to be documented by satellites.
 <br/><br/>
 En 1988 : The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.
 <br/><br/>
-En 1981 : Imprisoned IRA hunger striker Bobby Sands was elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
+En 1981 : Imprisoned IRA hunger striker Bobby Sands is elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
 <br/><br/>
-En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people.
+En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas, killing 42 people.
 <br/><br/>
 En 1973 : Invicta International Airlines Flight 435 crashes in a snowstorm on approach to Basel, Switzerland, killing 108 people.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1972 : Vietnam War: For the first time since November 1967, American B-52 bom
 <br/><br/>
 En 1970 : Paul McCartney announces that he is leaving The Beatles for personal and professional reasons.
 <br/><br/>
-En 1968 : The TEV Wahine, a New Zealand ferry sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
+En 1968 : The TEV Wahine, a New Zealand ferry, sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
 <br/><br/>
 En 1963 : One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea.
 <br/><br/>
@@ -44,7 +44,7 @@ En 1944 : Rudolf Vrba and Alfréd Wetzler escape from Birkenau death camp.
 <br/><br/>
 En 1941 : World War II: The Axis powers establish the Independent State of Croatia.
 <br/><br/>
-En 1925 : The Russian city of Tsaritsyn was renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920.
+En 1925 : The Russian city of Tsaritsyn is renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920.
 <br/><br/>
 En 1919 : Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos.
 <br/><br/>
@@ -110,9 +110,9 @@ En 428 : Nestorius becomes the Patriarch of Constantinople.
 <br/><br/>
 En 238 : During the year of Six Emperors, forces of Gordian I and Gordian II are defeated by those of Maximinus Thrax in the battle of Carthage.
 <br/><br/>
-En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
+En 2023 : A mass shooting occurs at the Old National Bank in Louisville, Kentucky, that leaves five victims dead and eight wounded.
 <br/><br/>
-En 2016 : The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship.
+En 2016 : The Paravur temple accident, in which a devastating fire caused by the explosion of firecrackers stored for Vishu kills more than one hundred people out of the thousands gathered for the seventh day of Bhadrakali worship.
 <br/><br/>
 En 2016 : An earthquake of 6.6 magnitude strikes 39 km west-southwest of Ashkasham, impacting India, Afghanistan, Tajikistan, Srinagar and Pakistan.
 <br/><br/>
@@ -124,13 +124,13 @@ En 1998 : The Good Friday Agreement is signed in Northern Ireland.
 <br/><br/>
 En 1991 : Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
 <br/><br/>
-En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
+En 1991 : A rare tropical storm develops in the South Atlantic Ocean near Angola, the first to be documented by satellites.
 <br/><br/>
 En 1988 : The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.
 <br/><br/>
-En 1981 : Imprisoned IRA hunger striker Bobby Sands was elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
+En 1981 : Imprisoned IRA hunger striker Bobby Sands is elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
 <br/><br/>
-En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people.
+En 1979 : Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas, killing 42 people.
 <br/><br/>
 En 1973 : Invicta International Airlines Flight 435 crashes in a snowstorm on approach to Basel, Switzerland, killing 108 people.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1972 : Vietnam War: For the first time since November 1967, American B-52 bom
 <br/><br/>
 En 1970 : Paul McCartney announces that he is leaving The Beatles for personal and professional reasons.
 <br/><br/>
-En 1968 : The TEV Wahine, a New Zealand ferry sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
+En 1968 : The TEV Wahine, a New Zealand ferry, sinks in Wellington harbour due to a fierce storm – the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
 <br/><br/>
 En 1963 : One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1944 : Rudolf Vrba and Alfréd Wetzler escape from Birkenau death camp.
 <br/><br/>
 En 1941 : World War II: The Axis powers establish the Independent State of Croatia.
 <br/><br/>
-En 1925 : The Russian city of Tsaritsyn was renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920.
+En 1925 : The Russian city of Tsaritsyn is renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920.
 <br/><br/>
 En 1919 : Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos.
 <br/><br/>
