@@ -94,11 +94,11 @@ En 1776 : American Revolution: With the Halifax Resolves, the North Carolina Pro
 <br/><br/>
 En 1606 : The Union Flag is adopted as the flag of English and Scottish ships.
 <br/><br/>
+En 1588 : The Instruction of 12 April 1588 was enacted, which is widely regarded as the formal establishment of the Dutch Republic.
+<br/><br/>
 En 1204 : The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day.
 <br/><br/>
 En 1159 : Having received the submission of the prince of Antioch, Raynald of Châtillon, Byzantine Emperor Manuel I Komnenos enters triumphantly the city of Antioch.
-<br/><br/>
-En 1012 : Duke Oldřich of Bohemia deposes and blinds his brother Jaromír, who flees to Poland.[citation needed]
 <br/><br/>
 En 806 : Nikephoros I of Constantinople is consecrated as patriarch of Constantinople.
 <br/><br/>
@@ -196,11 +196,11 @@ En 1776 : American Revolution: With the Halifax Resolves, the North Carolina Pro
 <br/><br/>
 En 1606 : The Union Flag is adopted as the flag of English and Scottish ships.
 <br/><br/>
+En 1588 : The Instruction of 12 April 1588 was enacted, which is widely regarded as the formal establishment of the Dutch Republic.
+<br/><br/>
 En 1204 : The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day.
 <br/><br/>
 En 1159 : Having received the submission of the prince of Antioch, Raynald of Châtillon, Byzantine Emperor Manuel I Komnenos enters triumphantly the city of Antioch.
-<br/><br/>
-En 1012 : Duke Oldřich of Bohemia deposes and blinds his brother Jaromír, who flees to Poland.[citation needed]
 <br/><br/>
 En 806 : Nikephoros I of Constantinople is consecrated as patriarch of Constantinople.
 <br/><br/>
