@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 12/4 ?(Hover on the year)</h1>
 
-En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
+En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying more than 2,500 homes.
 <br/><br/>
 En 2013 : Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
 <br/><br/>
@@ -108,7 +108,7 @@ En 467 : Anthemius is elevated to Emperor of the Western Roman Empire.
 <br/><br/>
 En 240 : Shapur I becomes co-emperor of the Sasanian Empire with his father Ardashir I.
 <br/><br/>
-En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
+En 2014 : The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying more than 2,500 homes.
 <br/><br/>
 En 2013 : Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
 <br/><br/>
