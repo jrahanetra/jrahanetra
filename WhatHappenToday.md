@@ -50,7 +50,7 @@ En 1961 : Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human 
 <br/><br/>
 En 1955 : The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
 <br/><br/>
-En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
+En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman succeeds him.
 <br/><br/>
 En 1945 : World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 80 kilometres from Berlin.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1961 : Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human 
 <br/><br/>
 En 1955 : The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
 <br/><br/>
-En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
+En 1945 : U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman succeeds him.
 <br/><br/>
 En 1945 : World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 80 kilometres from Berlin.
 <br/><br/>
