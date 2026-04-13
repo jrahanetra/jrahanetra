@@ -30,7 +30,7 @@ En 1976 : The United States Treasury Department reintroduces the two-dollar bill
 <br/><br/>
 En 1976 : Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history.
 <br/><br/>
-En 1975 : An attack by the Phalangist paramilitary kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
+En 1975 : Beirut bus massacre: A confrontation between Phalangist paramilitaries and PLO militia marks the start of the 15-year Lebanese Civil War.
 <br/><br/>
 En 1972 : The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
 <br/><br/>
@@ -120,7 +120,7 @@ En 1976 : The United States Treasury Department reintroduces the two-dollar bill
 <br/><br/>
 En 1976 : Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history.
 <br/><br/>
-En 1975 : An attack by the Phalangist paramilitary kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
+En 1975 : Beirut bus massacre: A confrontation between Phalangist paramilitaries and PLO militia marks the start of the 15-year Lebanese Civil War.
 <br/><br/>
 En 1972 : The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
 <br/><br/>
