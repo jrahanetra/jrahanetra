@@ -14,7 +14,7 @@ En 2023 : The house of Jack Teixeira is raided in an investigation into leaked P
 <br/><br/>
 En 2014 : Three people are killed in a shooting in Overland Park, Kansas.
 <br/><br/>
-En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with the President Mahmoud Abbas.
+En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with President Mahmoud Abbas.
 <br/><br/>
 En 2013 : Lion Air Flight 904 crashes on approach to Ngurah Rai International Airport in Denpasar, Indonesia, injuring 40 people.
 <br/><br/>
@@ -24,7 +24,7 @@ En 2006 : The United Front for Democratic Change's attack on the Chadian capital
 <br/><br/>
 En 1997 : Tiger Woods becomes the youngest golfer to win the Masters Tournament.
 <br/><br/>
-En 1996 : Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
+En 1996 : Two women and four children are killed after an Israeli helicopter fires rockets at an ambulance in Mansouri, Lebanon.
 <br/><br/>
 En 1976 : The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
 <br/><br/>
@@ -58,7 +58,7 @@ En 1941 : A pact of neutrality between the USSR and Japan is signed.
 <br/><br/>
 En 1924 : A.E.K., a major Greek multi-sport club, is established in Athens by Greek refugees from Constantinople.
 <br/><br/>
-En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
+En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India. Approximately 1,500 are injured.
 <br/><br/>
 En 1909 : The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
 <br/><br/>
@@ -104,7 +104,7 @@ En 2023 : The house of Jack Teixeira is raided in an investigation into leaked P
 <br/><br/>
 En 2014 : Three people are killed in a shooting in Overland Park, Kansas.
 <br/><br/>
-En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with the President Mahmoud Abbas.
+En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with President Mahmoud Abbas.
 <br/><br/>
 En 2013 : Lion Air Flight 904 crashes on approach to Ngurah Rai International Airport in Denpasar, Indonesia, injuring 40 people.
 <br/><br/>
@@ -114,7 +114,7 @@ En 2006 : The United Front for Democratic Change's attack on the Chadian capital
 <br/><br/>
 En 1997 : Tiger Woods becomes the youngest golfer to win the Masters Tournament.
 <br/><br/>
-En 1996 : Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
+En 1996 : Two women and four children are killed after an Israeli helicopter fires rockets at an ambulance in Mansouri, Lebanon.
 <br/><br/>
 En 1976 : The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1941 : A pact of neutrality between the USSR and Japan is signed.
 <br/><br/>
 En 1924 : A.E.K., a major Greek multi-sport club, is established in Athens by Greek refugees from Constantinople.
 <br/><br/>
-En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
+En 1919 : Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379–1,000 unarmed demonstrators including men and women in Amritsar, India. Approximately 1,500 are injured.
 <br/><br/>
 En 1909 : The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
 <br/><br/>
