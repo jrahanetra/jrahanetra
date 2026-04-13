@@ -16,6 +16,8 @@ En 2014 : Three people are killed in a shooting in Overland Park, Kansas.
 <br/><br/>
 En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with the President Mahmoud Abbas.
 <br/><br/>
+En 2013 : Lion Air Flight 904 crashes on approach to Ngurah Rai International Airport in Denpasar, Indonesia, injuring 40 people.
+<br/><br/>
 En 2009 : A fire destroys a homeless hostel and kills at least 22 people in Kamień Pomorski, Poland.
 <br/><br/>
 En 2006 : The United Front for Democratic Change's attack on the Chadian capital of N'Djamena is repelled by the Chadian army
@@ -103,6 +105,8 @@ En 2023 : The house of Jack Teixeira is raided in an investigation into leaked P
 En 2014 : Three people are killed in a shooting in Overland Park, Kansas.
 <br/><br/>
 En 2013 : Salam Fayyad resigns as Prime Minister of the Palestinian National Authority following an ongoing dispute with the President Mahmoud Abbas.
+<br/><br/>
+En 2013 : Lion Air Flight 904 crashes on approach to Ngurah Rai International Airport in Denpasar, Indonesia, injuring 40 people.
 <br/><br/>
 En 2009 : A fire destroys a homeless hostel and kills at least 22 people in Kamień Pomorski, Poland.
 <br/><br/>
