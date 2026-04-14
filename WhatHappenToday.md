@@ -10,7 +10,7 @@ En 2024 : Flooding in the Persian Gulf starts, killing 19 in Oman.
 <br/><br/>
 En 2023 : The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
 <br/><br/>
-En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva was struck by two anti-ship missiles and sinks into the Black Sea.
+En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
 <br/><br/>
 En 2016 : The foreshock of a major earthquake occurs in Kumamoto, Japan.
 <br/><br/>
@@ -34,7 +34,7 @@ En 1999 : NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav o
 <br/><br/>
 En 1999 : A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
 <br/><br/>
-En 1997 : Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing is kidnapped on her way to school, preceding her murder.
+En 1997 : Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing, is kidnapped on her way to school, preceding her murder.
 <br/><br/>
 En 1994 : In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.
 <br/><br/>
@@ -46,7 +46,7 @@ En 1988 : In a United Nations ceremony in Geneva, Switzerland, the Soviet Union 
 <br/><br/>
 En 1986 : The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.
 <br/><br/>
-En 1981 : STS-1: The first operational Space Shuttle, Columbia completes its first test flight.
+En 1981 : STS-1: The first operational Space Shuttle, Columbia, completes its first test flight.
 <br/><br/>
 En 1979 : The Progressive Alliance of Liberia stages a protest, without a permit, against an increase in rice prices proposed by the government, with clashes between protestors and the police resulting in over 70 deaths and over 500 injuries.
 <br/><br/>
@@ -56,7 +56,7 @@ En 1967 : Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself
 <br/><br/>
 En 1958 : The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
 <br/><br/>
-En 1945 : Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
+En 1945 : World War II:  In what becomes known as the Razing of Friesoythe, the 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
 <br/><br/>
 En 1941 : World War II: German and Italian forces attack Tobruk, Libya.
 <br/><br/>
@@ -64,7 +64,7 @@ En 1940 : World War II: Royal Marines land in Namsos, Norway, preceding a larger
 <br/><br/>
 En 1935 : The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas.
 <br/><br/>
-En 1931 : The Second Spanish Republic is proclaimed and King Alfonso XIII goes to exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
+En 1931 : The Second Spanish Republic is proclaimed and King Alfonso XIII goes into exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
 <br/><br/>
 En 1929 : The inaugural Monaco Grand Prix takes place in the Principality of Monaco. William Grover-Williams wins driving a Bugatti Type 35.
 <br/><br/>
@@ -122,7 +122,7 @@ En 2024 : Flooding in the Persian Gulf starts, killing 19 in Oman.
 <br/><br/>
 En 2023 : The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
 <br/><br/>
-En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva was struck by two anti-ship missiles and sinks into the Black Sea.
+En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
 <br/><br/>
 En 2016 : The foreshock of a major earthquake occurs in Kumamoto, Japan.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1999 : NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav o
 <br/><br/>
 En 1999 : A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
 <br/><br/>
-En 1997 : Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing is kidnapped on her way to school, preceding her murder.
+En 1997 : Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing, is kidnapped on her way to school, preceding her murder.
 <br/><br/>
 En 1994 : In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1988 : In a United Nations ceremony in Geneva, Switzerland, the Soviet Union 
 <br/><br/>
 En 1986 : The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.
 <br/><br/>
-En 1981 : STS-1: The first operational Space Shuttle, Columbia completes its first test flight.
+En 1981 : STS-1: The first operational Space Shuttle, Columbia, completes its first test flight.
 <br/><br/>
 En 1979 : The Progressive Alliance of Liberia stages a protest, without a permit, against an increase in rice prices proposed by the government, with clashes between protestors and the police resulting in over 70 deaths and over 500 injuries.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1967 : Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself
 <br/><br/>
 En 1958 : The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
 <br/><br/>
-En 1945 : Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
+En 1945 : World War II:  In what becomes known as the Razing of Friesoythe, the 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
 <br/><br/>
 En 1941 : World War II: German and Italian forces attack Tobruk, Libya.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1940 : World War II: Royal Marines land in Namsos, Norway, preceding a larger
 <br/><br/>
 En 1935 : The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas.
 <br/><br/>
-En 1931 : The Second Spanish Republic is proclaimed and King Alfonso XIII goes to exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
+En 1931 : The Second Spanish Republic is proclaimed and King Alfonso XIII goes into exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
 <br/><br/>
 En 1929 : The inaugural Monaco Grand Prix takes place in the Principality of Monaco. William Grover-Williams wins driving a Bugatti Type 35.
 <br/><br/>
