@@ -10,7 +10,7 @@ En 2024 : Flooding in the Persian Gulf starts, killing 19 in Oman.
 <br/><br/>
 En 2023 : The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
 <br/><br/>
-En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
+En 2022 : Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
 <br/><br/>
 En 2016 : The foreshock of a major earthquake occurs in Kumamoto, Japan.
 <br/><br/>
@@ -122,7 +122,7 @@ En 2024 : Flooding in the Persian Gulf starts, killing 19 in Oman.
 <br/><br/>
 En 2023 : The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
 <br/><br/>
-En 2022 : 2022 Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
+En 2022 : Russian invasion of Ukraine: The Russian warship Moskva is struck by two anti-ship missiles and sinks into the Black Sea.
 <br/><br/>
 En 2016 : The foreshock of a major earthquake occurs in Kumamoto, Japan.
 <br/><br/>
