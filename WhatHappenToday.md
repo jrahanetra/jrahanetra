@@ -28,6 +28,8 @@ En 2003 : U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian gr
 <br/><br/>
 En 2002 : Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military.
 <br/><br/>
+En 2001 : Series of bombings at Ramna Park in Dhaka during the Bengali New Year celebrations leave 10 people dead and dozens other injured.
+<br/><br/>
 En 1999 : NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed.
 <br/><br/>
 En 1999 : A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
@@ -139,6 +141,8 @@ En 2003 : The Human Genome Project is completed with 99% of the human genome seq
 En 2003 : U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985.
 <br/><br/>
 En 2002 : Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military.
+<br/><br/>
+En 2001 : Series of bombings at Ramna Park in Dhaka during the Bengali New Year celebrations leave 10 people dead and dozens other injured.
 <br/><br/>
 En 1999 : NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed.
 <br/><br/>
