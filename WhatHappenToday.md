@@ -58,8 +58,6 @@ En 1958 : The Soviet satellite Sputnik 2 falls from orbit after a mission durati
 <br/><br/>
 En 1945 : Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
 <br/><br/>
-En 1944 : Bombay explosion: A massive explosion in Bombay harbor kills at least 800 and causes economic damage valued at 20 million pounds.
-<br/><br/>
 En 1941 : World War II: German and Italian forces attack Tobruk, Libya.
 <br/><br/>
 En 1940 : World War II: Royal Marines land in Namsos, Norway, preceding a larger force which will arrive two days later.
@@ -171,8 +169,6 @@ En 1967 : Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself
 En 1958 : The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
 <br/><br/>
 En 1945 : Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
-<br/><br/>
-En 1944 : Bombay explosion: A massive explosion in Bombay harbor kills at least 800 and causes economic damage valued at 20 million pounds.
 <br/><br/>
 En 1941 : World War II: German and Italian forces attack Tobruk, Libya.
 <br/><br/>
