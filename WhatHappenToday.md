@@ -40,9 +40,9 @@ En 1947 : Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's c
 <br/><br/>
 En 1945 : Bergen-Belsen concentration camp is liberated.
 <br/><br/>
-En 1942 : The George Cross is awarded "to the island fortress of Malta" by King George VI.
+En 1942 : World War II:  The George Cross is awarded "to the island fortress of Malta" by King George VI.
 <br/><br/>
-En 1941 : In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
+En 1941 : World War II:  In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
 <br/><br/>
 En 1936 : First day of the Arab revolt in Mandatory Palestine.
 <br/><br/>
@@ -124,9 +124,9 @@ En 1947 : Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's c
 <br/><br/>
 En 1945 : Bergen-Belsen concentration camp is liberated.
 <br/><br/>
-En 1942 : The George Cross is awarded "to the island fortress of Malta" by King George VI.
+En 1942 : World War II:  The George Cross is awarded "to the island fortress of Malta" by King George VI.
 <br/><br/>
-En 1941 : In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
+En 1941 : World War II:  In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
 <br/><br/>
 En 1936 : First day of the Arab revolt in Mandatory Palestine.
 <br/><br/>
