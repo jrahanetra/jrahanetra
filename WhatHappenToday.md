@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 15/4 ?(Hover on the year)</h1>
 
-En 2021 : A mass shooting occurs at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
+En 2021 : A mass shooting occurs at a FedEx Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
 <br/><br/>
 En 2019 : The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire.
 <br/><br/>
@@ -90,7 +90,7 @@ En 1071 : Bari, the last Byzantine possession in southern Italy, is surrendered 
 <br/><br/>
 En 769 : The Lateran Council ends by condemning the Council of Hieria and anathematizing its iconoclastic rulings.
 <br/><br/>
-En 2021 : A mass shooting occurs at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
+En 2021 : A mass shooting occurs at a FedEx Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
 <br/><br/>
 En 2019 : The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire.
 <br/><br/>
