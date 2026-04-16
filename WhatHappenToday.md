@@ -116,7 +116,7 @@ En 73 : Masada, a Jewish fortress, falls to the Romans after several months of s
 <br/><br/>
 En 69 : Defeated by Vitellius' troops at Bedriacum, Roman emperor Otho commits suicide.
 <br/><br/>
-En -1457 : Battle of Megiddo – the first battle to have been recorded in what is accepted as relatively reliable detail.
+En -1457 : Battle of Megiddo: The first battle to have been recorded in what is accepted as relatively reliable detail.
 <br/><br/>
 En 2024 : The historic Børsen in Copenhagen, Denmark, is severely damaged by a fire.
 <br/><br/>
@@ -228,5 +228,5 @@ En 73 : Masada, a Jewish fortress, falls to the Romans after several months of s
 <br/><br/>
 En 69 : Defeated by Vitellius' troops at Bedriacum, Roman emperor Otho commits suicide.
 <br/><br/>
-En -1457 : Battle of Megiddo – the first battle to have been recorded in what is accepted as relatively reliable detail.
+En -1457 : Battle of Megiddo: The first battle to have been recorded in what is accepted as relatively reliable detail.
 <br/><br/>
