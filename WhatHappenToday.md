@@ -44,15 +44,13 @@ En 1947 : Bernard Baruch first applies the term "Cold War" to describe the relat
 <br/><br/>
 En 1945 : World War II: The Red Army begins the final assault on German forces around Berlin, with nearly one million troops fighting in the Battle of the Seelow Heights.
 <br/><br/>
-En 1945 : The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
+En 1945 : World War II:  The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
 <br/><br/>
-En 1945 : More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
+En 1945 : World War II:  More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
 <br/><br/>
 En 1944 : World War II: Allied forces start bombing Belgrade, killing about 1,100 people. This bombing fell on the Orthodox Christian Easter.
 <br/><br/>
 En 1943 : Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD. He intentionally takes the drug three days later on April 19.
-<br/><br/>
-En 1942 : King George VI awards the George Cross to the people of Malta in appreciation of their heroism.
 <br/><br/>
 En 1941 : World War II: The Italian-German Tarigo convoy is attacked and destroyed by British ships.
 <br/><br/>
@@ -156,15 +154,13 @@ En 1947 : Bernard Baruch first applies the term "Cold War" to describe the relat
 <br/><br/>
 En 1945 : World War II: The Red Army begins the final assault on German forces around Berlin, with nearly one million troops fighting in the Battle of the Seelow Heights.
 <br/><br/>
-En 1945 : The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
+En 1945 : World War II:  The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
 <br/><br/>
-En 1945 : More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
+En 1945 : World War II:  More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
 <br/><br/>
 En 1944 : World War II: Allied forces start bombing Belgrade, killing about 1,100 people. This bombing fell on the Orthodox Christian Easter.
 <br/><br/>
 En 1943 : Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD. He intentionally takes the drug three days later on April 19.
-<br/><br/>
-En 1942 : King George VI awards the George Cross to the people of Malta in appreciation of their heroism.
 <br/><br/>
 En 1941 : World War II: The Italian-German Tarigo convoy is attacked and destroyed by British ships.
 <br/><br/>
