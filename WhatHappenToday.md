@@ -70,7 +70,7 @@ En 1917 : Russian Revolution: Vladimir Lenin returns to Petrograd, Russia, from 
 <br/><br/>
 En 1912 : Harriet Quimby becomes the first woman to fly an airplane across the English Channel.
 <br/><br/>
-En 1910 : The oldest existing indoor ice hockey arena still used for the sport in the 21st century, Boston Arena, opens for the first time.
+En 1910 : The oldest existing indoor ice hockey arena used for the sport in the 21st century, Boston Arena, opens for the first time.
 <br/><br/>
 En 1908 : Natural Bridges National Monument is established in Utah.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1917 : Russian Revolution: Vladimir Lenin returns to Petrograd, Russia, from 
 <br/><br/>
 En 1912 : Harriet Quimby becomes the first woman to fly an airplane across the English Channel.
 <br/><br/>
-En 1910 : The oldest existing indoor ice hockey arena still used for the sport in the 21st century, Boston Arena, opens for the first time.
+En 1910 : The oldest existing indoor ice hockey arena used for the sport in the 21st century, Boston Arena, opens for the first time.
 <br/><br/>
 En 1908 : Natural Bridges National Monument is established in Utah.
 <br/><br/>
