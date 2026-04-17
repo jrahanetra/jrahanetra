@@ -20,7 +20,7 @@ En 1998 : Space Shuttle Columbia is launched on STS-90, the final Spacelab missi
 <br/><br/>
 En 1992 : The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
 <br/><br/>
-En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
+En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly is declared over.
 <br/><br/>
 En 1982 : Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
 <br/><br/>
@@ -50,7 +50,7 @@ En 1945 : Historian Tran Trong Kim is appointed the Prime Minister of the Empire
 <br/><br/>
 En 1944 : Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
 <br/><br/>
-En 1942 : French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
+En 1942 : World War II:  French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
 <br/><br/>
 En 1941 : World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
 <br/><br/>
@@ -108,7 +108,7 @@ En 1998 : Space Shuttle Columbia is launched on STS-90, the final Spacelab missi
 <br/><br/>
 En 1992 : The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
 <br/><br/>
-En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
+En 1986 : An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly is declared over.
 <br/><br/>
 En 1982 : Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1945 : Historian Tran Trong Kim is appointed the Prime Minister of the Empire
 <br/><br/>
 En 1944 : Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
 <br/><br/>
-En 1942 : French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
+En 1942 : World War II:  French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
 <br/><br/>
 En 1941 : World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
 <br/><br/>
