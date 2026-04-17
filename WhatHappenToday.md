@@ -36,7 +36,7 @@ En 1969 : Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
 <br/><br/>
 En 1969 : Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
 <br/><br/>
-En 1964 : Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29 1/2 days, took off and landed at the Port Columbus International Airport in Ohio.
+En 1964 : Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29+1⁄2 days, took off and landed at the Port Columbus International Airport in Ohio.
 <br/><br/>
 En 1961 : Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
 <br/><br/>
@@ -124,7 +124,7 @@ En 1969 : Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
 <br/><br/>
 En 1969 : Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
 <br/><br/>
-En 1964 : Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29 1/2 days, took off and landed at the Port Columbus International Airport in Ohio.
+En 1964 : Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29+1⁄2 days, took off and landed at the Port Columbus International Airport in Ohio.
 <br/><br/>
 En 1961 : Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
 <br/><br/>
