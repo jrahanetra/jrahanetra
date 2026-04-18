@@ -70,7 +70,7 @@ En 1897 : The Greco-Turkish War is declared between Greece and the Ottoman Empir
 <br/><br/>
 En 1864 : Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
 <br/><br/>
-En 1857 : "The Spirits Book" by Allan Kardec is published, marking the birth of Spiritualism in France.
+En 1857 : The Spirits Book by Allan Kardec is published, marking the birth of Spiritualism in France.
 <br/><br/>
 En 1847 : American victory at the battle of Cerro Gordo opens the way for invasion of Mexico.
 <br/><br/>
@@ -160,7 +160,7 @@ En 1897 : The Greco-Turkish War is declared between Greece and the Ottoman Empir
 <br/><br/>
 En 1864 : Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
 <br/><br/>
-En 1857 : "The Spirits Book" by Allan Kardec is published, marking the birth of Spiritualism in France.
+En 1857 : The Spirits Book by Allan Kardec is published, marking the birth of Spiritualism in France.
 <br/><br/>
 En 1847 : American victory at the battle of Cerro Gordo opens the way for invasion of Mexico.
 <br/><br/>
