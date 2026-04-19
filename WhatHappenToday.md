@@ -30,11 +30,7 @@ En 1993 : The 51-day FBI siege of the Branch Davidian building in Waco, Texas, U
 <br/><br/>
 En 1989 : A gun turret explodes on the USS Iowa, killing 47 sailors.
 <br/><br/>
-En 1987 : The Simpsons first appear as a series of shorts on The Tracey Ullman Show, first starting with "Good Night".
-<br/><br/>
 En 1985 : Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later.
-<br/><br/>
-En 1984 : Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours.
 <br/><br/>
 En 1976 : A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured.
 <br/><br/>
@@ -55,8 +51,6 @@ En 1960 : Students in South Korea hold a nationwide pro-democracy protest agains
 En 1956 : Actress Grace Kelly marries Prince Rainier of Monaco.
 <br/><br/>
 En 1943 : World War II: In German-occupied Poland, the Warsaw Ghetto Uprising begins, after German troops enter the Warsaw Ghetto to round up the remaining Jews.
-<br/><br/>
-En 1943 : Albert Hofmann deliberately doses himself with LSD for the first time, three days after having discovered its effects on April 16, an event commonly known and celebrated as Bicycle Day.
 <br/><br/>
 En 1942 : World War II: In German-occupied Poland, the Majdan-Tatarski ghetto is established, situated between the Lublin Ghetto and a Majdanek subcamp.
 <br/><br/>
@@ -134,11 +128,7 @@ En 1993 : The 51-day FBI siege of the Branch Davidian building in Waco, Texas, U
 <br/><br/>
 En 1989 : A gun turret explodes on the USS Iowa, killing 47 sailors.
 <br/><br/>
-En 1987 : The Simpsons first appear as a series of shorts on The Tracey Ullman Show, first starting with "Good Night".
-<br/><br/>
 En 1985 : Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later.
-<br/><br/>
-En 1984 : Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours.
 <br/><br/>
 En 1976 : A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured.
 <br/><br/>
@@ -159,8 +149,6 @@ En 1960 : Students in South Korea hold a nationwide pro-democracy protest agains
 En 1956 : Actress Grace Kelly marries Prince Rainier of Monaco.
 <br/><br/>
 En 1943 : World War II: In German-occupied Poland, the Warsaw Ghetto Uprising begins, after German troops enter the Warsaw Ghetto to round up the remaining Jews.
-<br/><br/>
-En 1943 : Albert Hofmann deliberately doses himself with LSD for the first time, three days after having discovered its effects on April 16, an event commonly known and celebrated as Bicycle Day.
 <br/><br/>
 En 1942 : World War II: In German-occupied Poland, the Majdan-Tatarski ghetto is established, situated between the Lublin Ghetto and a Majdanek subcamp.
 <br/><br/>
