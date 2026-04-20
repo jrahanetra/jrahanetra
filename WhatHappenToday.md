@@ -52,7 +52,7 @@ En 1945 : Twenty Jewish children used in medical experiments at Neuengamme are k
 <br/><br/>
 En 1922 : The Soviet government creates the South Ossetian Autonomous Oblast within the Georgian SSR.
 <br/><br/>
-En 1918 : Manfred von Richthofen, a.k.a. The Red Baron, shoots down his 79th and 80th victims, his final victories before his death the following day.
+En 1918 : World War I:  Manfred von Richthofen, a.k.a. The Red Baron, shoots down his 79th and 80th victims, his final victories before his death the following day.
 <br/><br/>
 En 1914 : Nineteen men, women, and children participating in a strike are killed in the Ludlow Massacre during the Colorado Coalfield War.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1945 : Twenty Jewish children used in medical experiments at Neuengamme are k
 <br/><br/>
 En 1922 : The Soviet government creates the South Ossetian Autonomous Oblast within the Georgian SSR.
 <br/><br/>
-En 1918 : Manfred von Richthofen, a.k.a. The Red Baron, shoots down his 79th and 80th victims, his final victories before his death the following day.
+En 1918 : World War I:  Manfred von Richthofen, a.k.a. The Red Baron, shoots down his 79th and 80th victims, his final victories before his death the following day.
 <br/><br/>
 En 1914 : Nineteen men, women, and children participating in a strike are killed in the Ludlow Massacre during the Colorado Coalfield War.
 <br/><br/>
