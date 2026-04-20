@@ -96,6 +96,8 @@ En 1657 : Freedom of religion is granted to the Jews of New Amsterdam (later New
 <br/><br/>
 En 1653 : Oliver Cromwell dissolves England's Rump Parliament.
 <br/><br/>
+En 1535 : A complex halo display was observed over Stockholm, Sweden, inspiring the Vädersolstavlan ("The Sundog painting"), the earliest depiction of such an event, and the oldest colour depiction of the city.
+<br/><br/>
 En 1303 : The Sapienza University of Rome is instituted by a bull of Pope Boniface VIII.
 <br/><br/>
 En 1303 : The Bahri Mamluks defeat the Ilkhanate in the battle of Marj al-Saffar, marking the end of the Mongol incursions into Syria.
@@ -191,6 +193,8 @@ En 1657 : English Admiral Robert Blake destroys a Spanish silver fleet, under he
 En 1657 : Freedom of religion is granted to the Jews of New Amsterdam (later New York City).
 <br/><br/>
 En 1653 : Oliver Cromwell dissolves England's Rump Parliament.
+<br/><br/>
+En 1535 : A complex halo display was observed over Stockholm, Sweden, inspiring the Vädersolstavlan ("The Sundog painting"), the earliest depiction of such an event, and the oldest colour depiction of the city.
 <br/><br/>
 En 1303 : The Sapienza University of Rome is instituted by a bull of Pope Boniface VIII.
 <br/><br/>
