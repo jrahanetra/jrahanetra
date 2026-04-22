@@ -42,11 +42,11 @@ En 1945 : World War II: Prisoners at the Jasenovac concentration camp revolt. Fi
 <br/><br/>
 En 1945 : World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army.
 <br/><br/>
-En 1944 : The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
-<br/><br/>
-En 1944 : World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
+En 1944 : World War II:  The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
 <br/><br/>
 En 1944 : World War II: In Greenland, the Allied Sledge Patrol attack the German Bassgeiger weather station.
+<br/><br/>
+En 1944 : World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
 <br/><br/>
 En 1930 : The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding.
 <br/><br/>
@@ -112,11 +112,11 @@ En 1945 : World War II: Prisoners at the Jasenovac concentration camp revolt. Fi
 <br/><br/>
 En 1945 : World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army.
 <br/><br/>
-En 1944 : The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
-<br/><br/>
-En 1944 : World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
+En 1944 : World War II:  The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
 <br/><br/>
 En 1944 : World War II: In Greenland, the Allied Sledge Patrol attack the German Bassgeiger weather station.
+<br/><br/>
+En 1944 : World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
 <br/><br/>
 En 1930 : The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding.
 <br/><br/>
