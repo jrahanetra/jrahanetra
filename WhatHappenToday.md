@@ -38,7 +38,7 @@ En 1967 : Soviet space program: Soyuz 1 (Russian: Союз 1, Union 1), a crewed
 <br/><br/>
 En 1966 : Aeroflot Flight 2723 crashes into the Caspian Sea off the Absheron Peninsula, killing 33 people.
 <br/><br/>
-En 1961 : Algiers putsch by French generals.
+En 1961 : During the Algiers putsch by French generals, President Charles de Gaulle announces he has assumed emergency powers, and calls on troops and civilians to support him.
 <br/><br/>
 En 1951 : Cold War: American journalist William N. Oatis is arrested for espionage by the Communist government of Czechoslovakia.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1967 : Soviet space program: Soyuz 1 (Russian: Союз 1, Union 1), a crewed
 <br/><br/>
 En 1966 : Aeroflot Flight 2723 crashes into the Caspian Sea off the Absheron Peninsula, killing 33 people.
 <br/><br/>
-En 1961 : Algiers putsch by French generals.
+En 1961 : During the Algiers putsch by French generals, President Charles de Gaulle announces he has assumed emergency powers, and calls on troops and civilians to support him.
 <br/><br/>
 En 1951 : Cold War: American journalist William N. Oatis is arrested for espionage by the Communist government of Czechoslovakia.
 <br/><br/>
