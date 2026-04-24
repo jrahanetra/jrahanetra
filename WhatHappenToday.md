@@ -32,8 +32,6 @@ En 1990 : Gruinard Island, Scotland, is officially declared free of the anthrax 
 <br/><br/>
 En 1980 : Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.
 <br/><br/>
-En 1979 : Blair Peach, a New Zealand teacher, dies after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
-<br/><br/>
 En 1970 : China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.
 <br/><br/>
 En 1970 : The Gambia becomes a republic within the Commonwealth of Nations, with Dawda Jawara as its first President.
@@ -82,7 +80,7 @@ En 1885 : American sharpshooter Annie Oakley is hired by Nate Salsbury to be a p
 <br/><br/>
 En 1877 : Russo-Turkish War: The Russian Empire declares war on the Ottoman Empire.
 <br/><br/>
-En 1837 : The great fire in Surat city of India causes more than 500 deaths and destruction of more than 9,000 houses.
+En 1837 : The great fire in Surat, India causes more than 500 deaths and destruction of more than 9,000 houses.
 <br/><br/>
 En 1800 : The United States Library of Congress is established when President John Adams signs legislation to appropriate $5,000 to purchase "such books as may be necessary for the use of Congress".
 <br/><br/>
@@ -128,8 +126,6 @@ En 1990 : Gruinard Island, Scotland, is officially declared free of the anthrax 
 <br/><br/>
 En 1980 : Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.
 <br/><br/>
-En 1979 : Blair Peach, a New Zealand teacher, dies after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
-<br/><br/>
 En 1970 : China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.
 <br/><br/>
 En 1970 : The Gambia becomes a republic within the Commonwealth of Nations, with Dawda Jawara as its first President.
@@ -178,7 +174,7 @@ En 1885 : American sharpshooter Annie Oakley is hired by Nate Salsbury to be a p
 <br/><br/>
 En 1877 : Russo-Turkish War: The Russian Empire declares war on the Ottoman Empire.
 <br/><br/>
-En 1837 : The great fire in Surat city of India causes more than 500 deaths and destruction of more than 9,000 houses.
+En 1837 : The great fire in Surat, India causes more than 500 deaths and destruction of more than 9,000 houses.
 <br/><br/>
 En 1800 : The United States Library of Congress is established when President John Adams signs legislation to appropriate $5,000 to purchase "such books as may be necessary for the use of Congress".
 <br/><br/>
