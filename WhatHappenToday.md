@@ -68,7 +68,7 @@ En 1920 : At the San Remo conference, the principal Allied Powers of World War I
 <br/><br/>
 En 1916 : Anzac Day is commemorated for the first time on the first anniversary of the landing at ANZAC Cove.
 <br/><br/>
-En 1915 : World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops, begins with landings at Anzac Cove and Cape Helles.
+En 1915 : World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops begins with landings at Anzac Cove and Cape Helles.
 <br/><br/>
 En 1901 : New York becomes the first U.S. state to require automobile license plates.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1920 : At the San Remo conference, the principal Allied Powers of World War I
 <br/><br/>
 En 1916 : Anzac Day is commemorated for the first time on the first anniversary of the landing at ANZAC Cove.
 <br/><br/>
-En 1915 : World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops, begins with landings at Anzac Cove and Cape Helles.
+En 1915 : World War I: The Battle of Gallipoli begins: The invasion of the Turkish Gallipoli Peninsula by British, French, Indian, Newfoundland, Australian and New Zealand troops begins with landings at Anzac Cove and Cape Helles.
 <br/><br/>
 En 1901 : New York becomes the first U.S. state to require automobile license plates.
 <br/><br/>
