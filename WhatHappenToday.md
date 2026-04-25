@@ -20,7 +20,7 @@ En 2005 : Bulgaria and Romania sign the Treaty of Accession 2005 to join the Eur
 <br/><br/>
 En 2004 : The March for Women's Lives brings over one million protesters, mostly pro-choice, to Washington D.C. to protest the Partial-Birth Abortion Ban Act of 2003, and other restrictions on abortion.
 <br/><br/>
-En 2001 : President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan.
+En 2001 : President George W. Bush pledges U.S. military intervention in the event of a Chinese attack on Taiwan.
 <br/><br/>
 En 1990 : Violeta Chamorro takes office as the President of Nicaragua, the first woman to hold the position.
 <br/><br/>
@@ -124,7 +124,7 @@ En 2005 : Bulgaria and Romania sign the Treaty of Accession 2005 to join the Eur
 <br/><br/>
 En 2004 : The March for Women's Lives brings over one million protesters, mostly pro-choice, to Washington D.C. to protest the Partial-Birth Abortion Ban Act of 2003, and other restrictions on abortion.
 <br/><br/>
-En 2001 : President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan.
+En 2001 : President George W. Bush pledges U.S. military intervention in the event of a Chinese attack on Taiwan.
 <br/><br/>
 En 1990 : Violeta Chamorro takes office as the President of Nicaragua, the first woman to hold the position.
 <br/><br/>
