@@ -104,8 +104,6 @@ En 1607 : Eighty Years' War: The Dutch fleet destroys the anchored Spanish fleet
 <br/><br/>
 En 1464 : A Yorkist army under the Baron Montagu defeats a Lancastrian army under the Duke of Somerset in the battle of Hedgeley Moor during the Wars of the Roses.
 <br/><br/>
-En 1134 : The name Zagreb is mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
-<br/><br/>
 En 799 : After mistreatment and disfigurement by the citizens of Rome, Pope Leo III flees to the Frankish court of king Charlemagne at Paderborn for protection.
 <br/><br/>
 En 775 : The Battle of Bagrevand puts an end to an Armenian rebellion against the Abbasid Caliphate. Muslim control over the South Caucasus is solidified and its Islamization begins, while several major Armenian nakharar families lose power and their remnants flee to the Byzantine Empire.
@@ -209,8 +207,6 @@ En 1644 : Transition from Ming to Qing: The Chongzhen Emperor, the last Emperor 
 En 1607 : Eighty Years' War: The Dutch fleet destroys the anchored Spanish fleet at Gibraltar.
 <br/><br/>
 En 1464 : A Yorkist army under the Baron Montagu defeats a Lancastrian army under the Duke of Somerset in the battle of Hedgeley Moor during the Wars of the Roses.
-<br/><br/>
-En 1134 : The name Zagreb is mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
 <br/><br/>
 En 799 : After mistreatment and disfigurement by the citizens of Rome, Pope Leo III flees to the Frankish court of king Charlemagne at Paderborn for protection.
 <br/><br/>
