@@ -76,7 +76,7 @@ En 1898 : Spanish–American War: The United States Congress declares that a sta
 <br/><br/>
 En 1892 : Véry bombing during the Ère des attentats (1892–1894)
 <br/><br/>
-En 1882 : French and Vietnamese troops clashed in Tonkin, when Commandant Henri Rivière seized the citadel of Hanoi with a small force of marine infantry.
+En 1882 : French and Vietnamese troops clash in Tonkin, when Commandant Henri Rivière seizes the citadel of Hanoi with a small force of marine infantry.
 <br/><br/>
 En 1864 : American Civil War: In the Battle of Marks' Mills, a force of 8,000 Confederate soldiers attacks 1,800 Union soldiers and a large number of wagon teamsters, killing or wounding 1,500 Union combatants.
 <br/><br/>
@@ -90,7 +90,7 @@ En 1846 : Thornton Affair: Open conflict begins over the disputed border of Texa
 <br/><br/>
 En 1829 : Charles Fremantle arrives in HMS Challenger off the coast of modern-day Western Australia prior to declaring the Swan River Colony for the British Empire.
 <br/><br/>
-En 1808 : Dano-Swedish War of 1808–1809: The Battle of Trangen took place at Trangen in Flisa, Hedemarkens Amt, between Swedish and Norwegian troops.
+En 1808 : Dano-Swedish War of 1808–1809: The Battle of Trangen takes place at Trangen in Flisa, Hedemarkens Amt, between Swedish and Norwegian troops.
 <br/><br/>
 En 1792 : Highwayman Nicolas J. Pelletier becomes the first person executed by guillotine.
 <br/><br/>
@@ -104,7 +104,7 @@ En 1607 : Eighty Years' War: The Dutch fleet destroys the anchored Spanish fleet
 <br/><br/>
 En 1464 : A Yorkist army under the Baron Montagu defeats a Lancastrian army under the Duke of Somerset in the battle of Hedgeley Moor during the Wars of the Roses.
 <br/><br/>
-En 1134 : The name Zagreb was mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
+En 1134 : The name Zagreb is mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
 <br/><br/>
 En 799 : After mistreatment and disfigurement by the citizens of Rome, Pope Leo III flees to the Frankish court of king Charlemagne at Paderborn for protection.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1898 : Spanish–American War: The United States Congress declares that a sta
 <br/><br/>
 En 1892 : Véry bombing during the Ère des attentats (1892–1894)
 <br/><br/>
-En 1882 : French and Vietnamese troops clashed in Tonkin, when Commandant Henri Rivière seized the citadel of Hanoi with a small force of marine infantry.
+En 1882 : French and Vietnamese troops clash in Tonkin, when Commandant Henri Rivière seizes the citadel of Hanoi with a small force of marine infantry.
 <br/><br/>
 En 1864 : American Civil War: In the Battle of Marks' Mills, a force of 8,000 Confederate soldiers attacks 1,800 Union soldiers and a large number of wagon teamsters, killing or wounding 1,500 Union combatants.
 <br/><br/>
@@ -196,7 +196,7 @@ En 1846 : Thornton Affair: Open conflict begins over the disputed border of Texa
 <br/><br/>
 En 1829 : Charles Fremantle arrives in HMS Challenger off the coast of modern-day Western Australia prior to declaring the Swan River Colony for the British Empire.
 <br/><br/>
-En 1808 : Dano-Swedish War of 1808–1809: The Battle of Trangen took place at Trangen in Flisa, Hedemarkens Amt, between Swedish and Norwegian troops.
+En 1808 : Dano-Swedish War of 1808–1809: The Battle of Trangen takes place at Trangen in Flisa, Hedemarkens Amt, between Swedish and Norwegian troops.
 <br/><br/>
 En 1792 : Highwayman Nicolas J. Pelletier becomes the first person executed by guillotine.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1607 : Eighty Years' War: The Dutch fleet destroys the anchored Spanish fleet
 <br/><br/>
 En 1464 : A Yorkist army under the Baron Montagu defeats a Lancastrian army under the Duke of Somerset in the battle of Hedgeley Moor during the Wars of the Roses.
 <br/><br/>
-En 1134 : The name Zagreb was mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
+En 1134 : The name Zagreb is mentioned for the first time in the Felician Charter relating to the establishment of the Zagreb Bishopric around 1094.
 <br/><br/>
 En 799 : After mistreatment and disfigurement by the citizens of Rome, Pope Leo III flees to the Frankish court of king Charlemagne at Paderborn for protection.
 <br/><br/>
