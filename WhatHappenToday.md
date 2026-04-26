@@ -62,7 +62,7 @@ En 1945 : World War II: Filipino troops of the 66th Infantry Regiment, Philippin
 <br/><br/>
 En 1944 : Georgios Papandreou becomes head of the Greek government-in-exile based in Egypt.
 <br/><br/>
-En 1944 : Heinrich Kreipe is captured by Allied commandos in occupied Crete.
+En 1944 : World War II:  Heinrich Kreipe is captured by Allied commandos in occupied Crete.
 <br/><br/>
 En 1943 : The Easter Riots break out in Uppsala, Sweden.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1933 : The Gestapo, the official secret police force of Nazi Germany, is esta
 <br/><br/>
 En 1925 : Paul von Hindenburg defeats Wilhelm Marx in the second round of the German presidential election to become the first directly elected head of state of the Weimar Republic.
 <br/><br/>
-En 1923 : The Duke of York weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.
+En 1923 : The Duke of York (the future King George VI) weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.
 <br/><br/>
 En 1920 : Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1945 : World War II: Filipino troops of the 66th Infantry Regiment, Philippin
 <br/><br/>
 En 1944 : Georgios Papandreou becomes head of the Greek government-in-exile based in Egypt.
 <br/><br/>
-En 1944 : Heinrich Kreipe is captured by Allied commandos in occupied Crete.
+En 1944 : World War II:  Heinrich Kreipe is captured by Allied commandos in occupied Crete.
 <br/><br/>
 En 1943 : The Easter Riots break out in Uppsala, Sweden.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1933 : The Gestapo, the official secret police force of Nazi Germany, is esta
 <br/><br/>
 En 1925 : Paul von Hindenburg defeats Wilhelm Marx in the second round of the German presidential election to become the first directly elected head of state of the Weimar Republic.
 <br/><br/>
-En 1923 : The Duke of York weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.
+En 1923 : The Duke of York (the future King George VI) weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.
 <br/><br/>
 En 1920 : Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match.
 <br/><br/>
