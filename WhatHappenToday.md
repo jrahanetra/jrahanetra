@@ -60,7 +60,7 @@ En 1936 : The United Auto Workers (UAW) gains autonomy from the American Federat
 <br/><br/>
 En 1927 : Carabineros de Chile (Chilean national police force and gendarmerie) are created.
 <br/><br/>
-En 1911 : The Second Canton Uprising took place in Guangzhou, Qing China but was suppressed.
+En 1911 : The Second Canton Uprising takes place in Guangzhou, Qing China, but is suppressed.
 <br/><br/>
 En 1909 : Sultan of Ottoman Empire Abdul Hamid II is overthrown, and is succeeded by his brother, Mehmed V.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1936 : The United Auto Workers (UAW) gains autonomy from the American Federat
 <br/><br/>
 En 1927 : Carabineros de Chile (Chilean national police force and gendarmerie) are created.
 <br/><br/>
-En 1911 : The Second Canton Uprising took place in Guangzhou, Qing China but was suppressed.
+En 1911 : The Second Canton Uprising takes place in Guangzhou, Qing China, but is suppressed.
 <br/><br/>
 En 1909 : Sultan of Ottoman Empire Abdul Hamid II is overthrown, and is succeeded by his brother, Mehmed V.
 <br/><br/>
