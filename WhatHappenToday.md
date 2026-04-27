@@ -20,7 +20,7 @@ En 2006 : Construction begins on the Freedom Tower (later renamed One World Trad
 <br/><br/>
 En 2005 : Airbus A380 aircraft has its maiden test flight.
 <br/><br/>
-En 1994 : South African general election: The first democratic general election in South Africa, in which black citizens could vote. The Interim Constitution comes into force.
+En 1994 : South African general election: The first democratic general election in South Africa, in which black citizens could vote. The Interim Constitution comes into force.This marked the end of Apartheid.
 <br/><br/>
 En 1993 : Most of the Zambia national football team lose their lives in a plane crash off Libreville, Gabon en route to Dakar, Senegal to play a 1994 FIFA World Cup qualifying match against Senegal.
 <br/><br/>
@@ -44,7 +44,7 @@ En 1978 : Willow Island disaster: In the deadliest construction accident in Unit
 <br/><br/>
 En 1976 : Thirty-seven people are killed when American Airlines Flight 625 crashes at Cyril E. King Airport in Saint Thomas, U.S. Virgin Islands.
 <br/><br/>
-En 1974 : 109 people are killed in a plane crash near Pulkovo Airport.
+En 1974 : One hundred nine people are killed in a plane crash near Pulkovo Airport.
 <br/><br/>
 En 1967 : Expo 67 officially opens in Montreal, Quebec, Canada with a large opening ceremony broadcast around the world. It opens to the public the next day.
 <br/><br/>
@@ -110,7 +110,7 @@ En 2006 : Construction begins on the Freedom Tower (later renamed One World Trad
 <br/><br/>
 En 2005 : Airbus A380 aircraft has its maiden test flight.
 <br/><br/>
-En 1994 : South African general election: The first democratic general election in South Africa, in which black citizens could vote. The Interim Constitution comes into force.
+En 1994 : South African general election: The first democratic general election in South Africa, in which black citizens could vote. The Interim Constitution comes into force.This marked the end of Apartheid.
 <br/><br/>
 En 1993 : Most of the Zambia national football team lose their lives in a plane crash off Libreville, Gabon en route to Dakar, Senegal to play a 1994 FIFA World Cup qualifying match against Senegal.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1978 : Willow Island disaster: In the deadliest construction accident in Unit
 <br/><br/>
 En 1976 : Thirty-seven people are killed when American Airlines Flight 625 crashes at Cyril E. King Airport in Saint Thomas, U.S. Virgin Islands.
 <br/><br/>
-En 1974 : 109 people are killed in a plane crash near Pulkovo Airport.
+En 1974 : One hundred nine people are killed in a plane crash near Pulkovo Airport.
 <br/><br/>
 En 1967 : Expo 67 officially opens in Montreal, Quebec, Canada with a large opening ceremony broadcast around the world. It opens to the public the next day.
 <br/><br/>
