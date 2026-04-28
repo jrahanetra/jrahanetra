@@ -84,7 +84,7 @@ En 1794 : Sardinians, headed by Giovanni Maria Angioy, start a revolution agains
 <br/><br/>
 En 1792 : France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars.
 <br/><br/>
-En 1789 : Mutiny on the Bounty: Lieutenant William Bligh and 18 sailors are set adrift, and the rebel crew returns to Tahiti briefly before setting sail for Pitcairn Island.
+En 1789 : The Mutiny on the Bounty occurs, with  the ship's captain, Lieutenant William Bligh and 18 sailors, set adrift, and the rebel crew setting sail for Tahiti.  Eventually the majority of rebels sail for Pitcairn Island.
 <br/><br/>
 En 1788 : Maryland becomes the seventh state to ratify the United States Constitution.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1794 : Sardinians, headed by Giovanni Maria Angioy, start a revolution agains
 <br/><br/>
 En 1792 : France invades the Austrian Netherlands (present day Belgium and Luxembourg), beginning the French Revolutionary Wars.
 <br/><br/>
-En 1789 : Mutiny on the Bounty: Lieutenant William Bligh and 18 sailors are set adrift, and the rebel crew returns to Tahiti briefly before setting sail for Pitcairn Island.
+En 1789 : The Mutiny on the Bounty occurs, with  the ship's captain, Lieutenant William Bligh and 18 sailors, set adrift, and the rebel crew setting sail for Tahiti.  Eventually the majority of rebels sail for Pitcairn Island.
 <br/><br/>
 En 1788 : Maryland becomes the seventh state to ratify the United States Constitution.
 <br/><br/>
