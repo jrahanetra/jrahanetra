@@ -68,7 +68,7 @@ En 1920 : The Azerbaijan Soviet Socialist Republic is founded.
 <br/><br/>
 En 1910 : Frenchman Louis Paulhan wins the 1910 London to Manchester air race, the first long-distance aeroplane race in the United Kingdom.
 <br/><br/>
-En 1887 : A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of William I, German Emperor, defusing a possible war.
+En 1887 : A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of Wilhelm I, German Emperor, defusing a possible war.
 <br/><br/>
 En 1881 : Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1920 : The Azerbaijan Soviet Socialist Republic is founded.
 <br/><br/>
 En 1910 : Frenchman Louis Paulhan wins the 1910 London to Manchester air race, the first long-distance aeroplane race in the United Kingdom.
 <br/><br/>
-En 1887 : A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of William I, German Emperor, defusing a possible war.
+En 1887 : A week after being arrested by the Prussian Secret Police, French police inspector Guillaume Schnaebelé is released on order of Wilhelm I, German Emperor, defusing a possible war.
 <br/><br/>
 En 1881 : Billy the Kid escapes from the Lincoln County jail in Mesilla, New Mexico.
 <br/><br/>
