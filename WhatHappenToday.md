@@ -82,6 +82,8 @@ En 1770 : James Cook arrives in Australia at Botany Bay, which he names.
 <br/><br/>
 En 1760 : French forces commence the siege of Quebec which is held by the British.
 <br/><br/>
+En 1670 : Emilio Altieri is elected pope after a four-month conclave and takes the name Clement X.
+<br/><br/>
 En 1521 : Swedish War of Liberation: Swedish troops defeat a Danish force in the Battle of Västerås.
 <br/><br/>
 En 1492 : The Crown's decision to expel the Jews is announced in Zaragoza, Aragon, to the kingdom's procurators.
@@ -169,6 +171,8 @@ En 1781 : American Revolutionary War: British and French ships clash in the Batt
 En 1770 : James Cook arrives in Australia at Botany Bay, which he names.
 <br/><br/>
 En 1760 : French forces commence the siege of Quebec which is held by the British.
+<br/><br/>
+En 1670 : Emilio Altieri is elected pope after a four-month conclave and takes the name Clement X.
 <br/><br/>
 En 1521 : Swedish War of Liberation: Swedish troops defeat a Danish force in the Battle of Västerås.
 <br/><br/>
