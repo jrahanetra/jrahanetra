@@ -50,7 +50,7 @@ En 1946 : The International Military Tribunal for the Far East convenes and indi
 <br/><br/>
 En 1945 : World War II: The Surrender of Caserta is signed by the commander of German forces in Italy.
 <br/><br/>
-En 1945 : World War II: Airdrops of food begin over German-occupied regions of the Netherlands.
+En 1945 : World War II:  Allied airdrops of food begin over German-occupied regions of the Netherlands.
 <br/><br/>
 En 1945 : World War II: Adolf Hitler marries his longtime partner Eva Braun in a Berlin bunker and designates Admiral Karl Dönitz as his successor.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1946 : The International Military Tribunal for the Far East convenes and indi
 <br/><br/>
 En 1945 : World War II: The Surrender of Caserta is signed by the commander of German forces in Italy.
 <br/><br/>
-En 1945 : World War II: Airdrops of food begin over German-occupied regions of the Netherlands.
+En 1945 : World War II:  Allied airdrops of food begin over German-occupied regions of the Netherlands.
 <br/><br/>
 En 1945 : World War II: Adolf Hitler marries his longtime partner Eva Braun in a Berlin bunker and designates Admiral Karl Dönitz as his successor.
 <br/><br/>
