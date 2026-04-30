@@ -30,7 +30,7 @@ En 1994 : Formula One racing driver Roland Ratzenberger is killed in a crash dur
 <br/><br/>
 En 1993 : CERN announces World Wide Web protocols will be free.
 <br/><br/>
-En 1989 : The Monkseaton shootings occur in Tyne and Wear, England. One killed, 16 injured.
+En 1989 : The Monkseaton shootings occur in Tyne and Wear, England. One is killed and 16 are injured.
 <br/><br/>
 En 1982 : The Bijon Setu massacre occurs in Calcutta, India.
 <br/><br/>
@@ -136,7 +136,7 @@ En 1994 : Formula One racing driver Roland Ratzenberger is killed in a crash dur
 <br/><br/>
 En 1993 : CERN announces World Wide Web protocols will be free.
 <br/><br/>
-En 1989 : The Monkseaton shootings occur in Tyne and Wear, England. One killed, 16 injured.
+En 1989 : The Monkseaton shootings occur in Tyne and Wear, England. One is killed and 16 are injured.
 <br/><br/>
 En 1982 : The Bijon Setu massacre occurs in Calcutta, India.
 <br/><br/>
