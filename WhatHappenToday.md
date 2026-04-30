@@ -56,7 +56,9 @@ En 1948 : In Bogotá, Colombia, the Organization of American States is establish
 <br/><br/>
 En 1947 : In Nevada, Boulder Dam is renamed Hoover Dam.
 <br/><br/>
-En 1945 : World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.
+En 1945 : World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours.
+<br/><br/>
+En 1945 : World War II:  Soviet soldiers raise the first Soviet flag over the Reichstag.  The Victory Banner will be raised the next day.
 <br/><br/>
 En 1945 : World War II: Stalag Luft I prisoner-of-war camp near Barth, Germany is liberated by Soviet soldiers, freeing nearly 9,000 American and British airmen.
 <br/><br/>
@@ -162,7 +164,9 @@ En 1948 : In Bogotá, Colombia, the Organization of American States is establish
 <br/><br/>
 En 1947 : In Nevada, Boulder Dam is renamed Hoover Dam.
 <br/><br/>
-En 1945 : World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.
+En 1945 : World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours.
+<br/><br/>
+En 1945 : World War II:  Soviet soldiers raise the first Soviet flag over the Reichstag.  The Victory Banner will be raised the next day.
 <br/><br/>
 En 1945 : World War II: Stalag Luft I prisoner-of-war camp near Barth, Germany is liberated by Soviet soldiers, freeing nearly 9,000 American and British airmen.
 <br/><br/>
