@@ -108,7 +108,7 @@ En 1492 : Spain gives Christopher Columbus his commission of exploration. He is 
 <br/><br/>
 En 1315 : Enguerrand de Marigny is hanged at the instigation of Charles, Count of Valois.
 <br/><br/>
-En 1305 : Roger de Flor, leader of the mercenary Catalan Company, is murdered, leading to widespread pillaging of the mercenaries in Thrace.
+En 1305 : Roger de Flor, leader of the mercenary Catalan Company, is murdered, leading to widespread pillaging by the mercenaries in Thrace.
 <br/><br/>
 En 311 : The Diocletianic Persecution of Christians in the Roman Empire ends.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1492 : Spain gives Christopher Columbus his commission of exploration. He is 
 <br/><br/>
 En 1315 : Enguerrand de Marigny is hanged at the instigation of Charles, Count of Valois.
 <br/><br/>
-En 1305 : Roger de Flor, leader of the mercenary Catalan Company, is murdered, leading to widespread pillaging of the mercenaries in Thrace.
+En 1305 : Roger de Flor, leader of the mercenary Catalan Company, is murdered, leading to widespread pillaging by the mercenaries in Thrace.
 <br/><br/>
 En 311 : The Diocletianic Persecution of Christians in the Roman Empire ends.
 <br/><br/>
