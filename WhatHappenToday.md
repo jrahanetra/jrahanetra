@@ -34,7 +34,7 @@ En 1993 : Sri Lankan President Ranasinghe Premadasa is assassinated in Colombo i
 <br/><br/>
 En 1991 : Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
 <br/><br/>
-En 1982 : Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
+En 1982 : Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during the Falklands War.
 <br/><br/>
 En 1978 : Japan's Naomi Uemura, travelling by dog sled, becomes the first person to reach the North Pole alone.
 <br/><br/>
@@ -156,7 +156,7 @@ En 1993 : Sri Lankan President Ranasinghe Premadasa is assassinated in Colombo i
 <br/><br/>
 En 1991 : Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
 <br/><br/>
-En 1982 : Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
+En 1982 : Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during the Falklands War.
 <br/><br/>
 En 1978 : Japan's Naomi Uemura, travelling by dog sled, becomes the first person to reach the North Pole alone.
 <br/><br/>
