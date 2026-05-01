@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 1/5 ?(Hover on the year)</h1>
 
+En 2026 : The United Arab Emirates leaves OPEC after six decades of membership, becoming the first member of the organization to do so.
+<br/><br/>
 En 2024 : The 2024 Loblaw boycott, a Canadian boycott against retail corporation and grocer Loblaw Companies, begins.
 <br/><br/>
 En 2019 : Naxalite attack in Gadchiroli district of India: Sixteen army soldiers, including a driver, killed in an IED blast. Naxals targeted an anti-Naxal operations team.
@@ -127,6 +129,8 @@ En 880 : The Nea Ekklesia is inaugurated in Constantinople, setting the model fo
 En 418 : A synod in Carthage condemns Pelagianism.
 <br/><br/>
 En 305 : Diocletian and Maximian retire from the office of Roman emperor.
+<br/><br/>
+En 2026 : The United Arab Emirates leaves OPEC after six decades of membership, becoming the first member of the organization to do so.
 <br/><br/>
 En 2024 : The 2024 Loblaw boycott, a Canadian boycott against retail corporation and grocer Loblaw Companies, begins.
 <br/><br/>
