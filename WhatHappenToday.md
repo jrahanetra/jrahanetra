@@ -58,7 +58,7 @@ En 1948 : The U.S. Supreme Court rules in Shelley v. Kraemer that covenants proh
 <br/><br/>
 En 1947 : New post-war Japanese constitution goes into effect.
 <br/><br/>
-En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay, resulting in more than 7000 deaths.
+En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay, resulting in more than 7,000 deaths.
 <br/><br/>
 En 1942 : World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1948 : The U.S. Supreme Court rules in Shelley v. Kraemer that covenants proh
 <br/><br/>
 En 1947 : New post-war Japanese constitution goes into effect.
 <br/><br/>
-En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay, resulting in more than 7000 deaths.
+En 1945 : World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay, resulting in more than 7,000 deaths.
 <br/><br/>
 En 1942 : World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia.
 <br/><br/>
