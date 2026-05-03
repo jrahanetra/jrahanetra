@@ -88,7 +88,7 @@ En 1830 : The Canterbury and Whitstable Railway is opened; it is the first steam
 <br/><br/>
 En 1815 : Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war.
 <br/><br/>
-En 1811 : The Anglo-Portuguese army under Lord Wellington tries to halt a larger French army under Marshal Masséna marching to relieve Almeida in the battle of Fuentes de Onoro. After intense fighting, the French are repulsed.
+En 1811 : The Anglo-Portuguese army under Lord Wellington tries to halt a larger French army under Marshal Masséna marching to relieve Almeida in the Battle of Fuentes de Onoro. After intense fighting, the French are repulsed.
 <br/><br/>
 En 1808 : Finnish War: Sweden loses the fortress of Sveaborg to Russia.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1830 : The Canterbury and Whitstable Railway is opened; it is the first steam
 <br/><br/>
 En 1815 : Neapolitan War: Joachim Murat, King of Naples, is defeated by the Austrians at the Battle of Tolentino, the decisive engagement of the war.
 <br/><br/>
-En 1811 : The Anglo-Portuguese army under Lord Wellington tries to halt a larger French army under Marshal Masséna marching to relieve Almeida in the battle of Fuentes de Onoro. After intense fighting, the French are repulsed.
+En 1811 : The Anglo-Portuguese army under Lord Wellington tries to halt a larger French army under Marshal Masséna marching to relieve Almeida in the Battle of Fuentes de Onoro. After intense fighting, the French are repulsed.
 <br/><br/>
 En 1808 : Finnish War: Sweden loses the fortress of Sveaborg to Russia.
 <br/><br/>
