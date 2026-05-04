@@ -38,7 +38,7 @@ En 1978 : The South African Defence Force attacks a SWAPO base at Cassinga in so
 <br/><br/>
 En 1973 : The 108-story Sears Tower in Chicago is topped out at 1,451 feet (442 m) as the world's tallest building.
 <br/><br/>
-En 1972 : The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to "Greenpeace Foundation".
+En 1972 : The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to Greenpeace Foundation.
 <br/><br/>
 En 1970 : Vietnam War: Kent State shootings: The Ohio National Guard, sent to Kent State University after disturbances in the city of Kent the weekend before, opens fire killing four unarmed students and wounding nine others. The students were protesting the Cambodian Campaign of the United States and South Vietnam.
 <br/><br/>
@@ -68,7 +68,7 @@ En 1926 : The United Kingdom general strike begins.
 <br/><br/>
 En 1919 : May Fourth Movement: Student demonstrations take place in Tiananmen Square in Beijing, China, protesting the Treaty of Versailles, which transferred Chinese territory to Japan.
 <br/><br/>
-En 1912 : Italy occupies the Ottoman island of Rhodes.
+En 1912 : Italy begins the invasion and occupation of the Ottoman island of Rhodes.
 <br/><br/>
 En 1910 : The Royal Canadian Navy is created.
 <br/><br/>
@@ -140,7 +140,7 @@ En 1978 : The South African Defence Force attacks a SWAPO base at Cassinga in so
 <br/><br/>
 En 1973 : The 108-story Sears Tower in Chicago is topped out at 1,451 feet (442 m) as the world's tallest building.
 <br/><br/>
-En 1972 : The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to "Greenpeace Foundation".
+En 1972 : The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to Greenpeace Foundation.
 <br/><br/>
 En 1970 : Vietnam War: Kent State shootings: The Ohio National Guard, sent to Kent State University after disturbances in the city of Kent the weekend before, opens fire killing four unarmed students and wounding nine others. The students were protesting the Cambodian Campaign of the United States and South Vietnam.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1926 : The United Kingdom general strike begins.
 <br/><br/>
 En 1919 : May Fourth Movement: Student demonstrations take place in Tiananmen Square in Beijing, China, protesting the Treaty of Versailles, which transferred Chinese territory to Japan.
 <br/><br/>
-En 1912 : Italy occupies the Ottoman island of Rhodes.
+En 1912 : Italy begins the invasion and occupation of the Ottoman island of Rhodes.
 <br/><br/>
 En 1910 : The Royal Canadian Navy is created.
 <br/><br/>
