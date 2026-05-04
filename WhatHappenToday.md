@@ -96,7 +96,7 @@ En 1776 : Rhode Island becomes the first American colony to renounce allegiance 
 <br/><br/>
 En 1738 : The Imperial Theatrical School, the first ballet school in Russia, is founded.
 <br/><br/>
-En 1626 : Dutch explorer Peter Minuit arrives in New Netherland (present day Manhattan Island) aboard the See Meeuw.
+En 1626 : Having been appointed the director-general of New Netherland, Dutch explorer Peter Minuit arrives in present day Manhattan Island aboard the See Meeuw.
 <br/><br/>
 En 1493 : In the papal bull Inter caetera, Pope Alexander VI divides the New World between Spain and Portugal along the Line of Demarcation.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1776 : Rhode Island becomes the first American colony to renounce allegiance 
 <br/><br/>
 En 1738 : The Imperial Theatrical School, the first ballet school in Russia, is founded.
 <br/><br/>
-En 1626 : Dutch explorer Peter Minuit arrives in New Netherland (present day Manhattan Island) aboard the See Meeuw.
+En 1626 : Having been appointed the director-general of New Netherland, Dutch explorer Peter Minuit arrives in present day Manhattan Island aboard the See Meeuw.
 <br/><br/>
 En 1493 : In the papal bull Inter caetera, Pope Alexander VI divides the New World between Spain and Portugal along the Line of Demarcation.
 <br/><br/>
