@@ -52,11 +52,11 @@ En 1940 : World War II: Norwegian campaign: Norwegian squads in Hegra Fortress a
 <br/><br/>
 En 1936 : Italian troops occupy Addis Ababa, Ethiopia.
 <br/><br/>
-En 1930 : The 1930 Bago earthquake, the former of two major earthquakes in southern Burma kills as many as 7,000 in Yangon and Bago.
+En 1930 : The 1930 Bago earthquake, the first of two major earthquakes in southern Burma, kills as many as 7,000 in Yangon and Bago.
 <br/><br/>
 En 1920 : Authorities arrest Nicola Sacco and Bartolomeo Vanzetti for alleged robbery and murder.
 <br/><br/>
-En 1912 : The first issue of the Bolshevik newspaper Pravda was published.
+En 1912 : The first issue of the Bolshevik newspaper Pravda is published.
 <br/><br/>
 En 1905 : The trial in the Stratton Brothers case begins in London, England; it marks the first time that fingerprint evidence is used to gain a conviction for murder.
 <br/><br/>
@@ -66,13 +66,13 @@ En 1891 : The Music Hall in New York City (later known as Carnegie Hall) has its
 <br/><br/>
 En 1887 : The Peruvian Academy of Language is founded.
 <br/><br/>
-En 1886 : Workers marching for the Eight-hour day in Milwaukee, Wisconsin were shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre.
+En 1886 : Workers marching for the eight-hour day in Milwaukee, Wisconsin, are shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre.
 <br/><br/>
 En 1877 : American Indian Wars: Sitting Bull leads his band of Lakota into Canada to avoid harassment by the United States Army under Colonel Nelson Miles.
 <br/><br/>
 En 1866 : Memorial Day first celebrated in United States at Waterloo, New York.
 <br/><br/>
-En 1865 : American Civil War: The Confederate government was declared dissolved at Washington, Georgia.
+En 1865 : American Civil War: The Confederate government is declared dissolved at Washington, Georgia.
 <br/><br/>
 En 1864 : American Civil War: The Battle of the Wilderness begins in Spotsylvania County.
 <br/><br/>
@@ -154,11 +154,11 @@ En 1940 : World War II: Norwegian campaign: Norwegian squads in Hegra Fortress a
 <br/><br/>
 En 1936 : Italian troops occupy Addis Ababa, Ethiopia.
 <br/><br/>
-En 1930 : The 1930 Bago earthquake, the former of two major earthquakes in southern Burma kills as many as 7,000 in Yangon and Bago.
+En 1930 : The 1930 Bago earthquake, the first of two major earthquakes in southern Burma, kills as many as 7,000 in Yangon and Bago.
 <br/><br/>
 En 1920 : Authorities arrest Nicola Sacco and Bartolomeo Vanzetti for alleged robbery and murder.
 <br/><br/>
-En 1912 : The first issue of the Bolshevik newspaper Pravda was published.
+En 1912 : The first issue of the Bolshevik newspaper Pravda is published.
 <br/><br/>
 En 1905 : The trial in the Stratton Brothers case begins in London, England; it marks the first time that fingerprint evidence is used to gain a conviction for murder.
 <br/><br/>
@@ -168,13 +168,13 @@ En 1891 : The Music Hall in New York City (later known as Carnegie Hall) has its
 <br/><br/>
 En 1887 : The Peruvian Academy of Language is founded.
 <br/><br/>
-En 1886 : Workers marching for the Eight-hour day in Milwaukee, Wisconsin were shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre.
+En 1886 : Workers marching for the eight-hour day in Milwaukee, Wisconsin, are shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre.
 <br/><br/>
 En 1877 : American Indian Wars: Sitting Bull leads his band of Lakota into Canada to avoid harassment by the United States Army under Colonel Nelson Miles.
 <br/><br/>
 En 1866 : Memorial Day first celebrated in United States at Waterloo, New York.
 <br/><br/>
-En 1865 : American Civil War: The Confederate government was declared dissolved at Washington, Georgia.
+En 1865 : American Civil War: The Confederate government is declared dissolved at Washington, Georgia.
 <br/><br/>
 En 1864 : American Civil War: The Battle of the Wilderness begins in Spotsylvania County.
 <br/><br/>
