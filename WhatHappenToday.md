@@ -18,8 +18,6 @@ En 2004 : The final episode of the television sitcom Friends is aired.
 <br/><br/>
 En 2002 : Dutch politician Pim Fortuyn is assassinated following a radio interview at the Mediapark in Hilversum.
 <br/><br/>
-En 2002 : Founding of SpaceX.
-<br/><br/>
 En 2001 : During a trip to Syria, Pope John Paul II becomes the first pope to enter a mosque.
 <br/><br/>
 En 1999 : The first elections to the devolved Scottish Parliament and Welsh Assembly are held.
@@ -141,8 +139,6 @@ En 2010 : In just 36 minutes, the Dow Jones Industrial Average plunges nearly 1,
 En 2004 : The final episode of the television sitcom Friends is aired.
 <br/><br/>
 En 2002 : Dutch politician Pim Fortuyn is assassinated following a radio interview at the Mediapark in Hilversum.
-<br/><br/>
-En 2002 : Founding of SpaceX.
 <br/><br/>
 En 2001 : During a trip to Syria, Pope John Paul II becomes the first pope to enter a mosque.
 <br/><br/>
