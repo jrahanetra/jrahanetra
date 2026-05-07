@@ -76,8 +76,6 @@ En 1864 : American Civil War: The Army of the Potomac, under General Ulysses S. 
 <br/><br/>
 En 1864 : The world's oldest surviving clipper ship, the City of Adelaide is launched by William Pile, Hay and Co. in Sunderland, England, for transporting passengers and goods between Britain and Australia.
 <br/><br/>
-En 1846 : The Cambridge Chronicle, America's oldest surviving weekly newspaper, is published for the first time in Cambridge, Massachusetts.
-<br/><br/>
 En 1840 : The Great Natchez Tornado strikes Natchez, Mississippi killing 317 people. It is the second deadliest tornado in United States history.
 <br/><br/>
 En 1832 : Greece's independence is recognized by the Treaty of London.
@@ -187,8 +185,6 @@ En 1895 : In Saint Petersburg, Russian scientist Alexander Stepanovich Popov dem
 En 1864 : American Civil War: The Army of the Potomac, under General Ulysses S. Grant, breaks off from the Battle of the Wilderness and moves southwards.
 <br/><br/>
 En 1864 : The world's oldest surviving clipper ship, the City of Adelaide is launched by William Pile, Hay and Co. in Sunderland, England, for transporting passengers and goods between Britain and Australia.
-<br/><br/>
-En 1846 : The Cambridge Chronicle, America's oldest surviving weekly newspaper, is published for the first time in Cambridge, Massachusetts.
 <br/><br/>
 En 1840 : The Great Natchez Tornado strikes Natchez, Mississippi killing 317 people. It is the second deadliest tornado in United States history.
 <br/><br/>
