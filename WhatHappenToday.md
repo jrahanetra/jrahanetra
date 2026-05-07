@@ -8,7 +8,7 @@
 
 En 2025 : The Indian Army and the Indian Air Force conduct surgical strikes code-named Operation SINDOOR on terrorist hideouts in Pakistan in response to the Pahalgam Attack that killed 26 people.
 <br/><br/>
-En 2023 : 2023 Tanur boat disaster, At least 22 people are killed when a boat carrying tourists capsizes in Tanur, Malappuram, Kerala, India.
+En 2023 : Tanur boat disaster: At least 22 people are killed when a boat carrying tourists capsizes in Tanur, Malappuram, Kerala, India.
 <br/><br/>
 En 2004 : American businessman Nick Berg is beheaded by Islamist militants. The act is recorded on videotape and released on the Internet.
 <br/><br/>
@@ -118,7 +118,7 @@ En 351 : The Jewish revolt against Constantius Gallus breaks out after his arriv
 <br/><br/>
 En 2025 : The Indian Army and the Indian Air Force conduct surgical strikes code-named Operation SINDOOR on terrorist hideouts in Pakistan in response to the Pahalgam Attack that killed 26 people.
 <br/><br/>
-En 2023 : 2023 Tanur boat disaster, At least 22 people are killed when a boat carrying tourists capsizes in Tanur, Malappuram, Kerala, India.
+En 2023 : Tanur boat disaster: At least 22 people are killed when a boat carrying tourists capsizes in Tanur, Malappuram, Kerala, India.
 <br/><br/>
 En 2004 : American businessman Nick Berg is beheaded by Islamist militants. The act is recorded on videotape and released on the Internet.
 <br/><br/>
