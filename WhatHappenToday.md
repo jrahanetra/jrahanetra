@@ -46,7 +46,7 @@ En 1950 : The Tollund Man is discovered in a peat bog near Silkeborg, Denmark.
 <br/><br/>
 En 1946 : Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
 <br/><br/>
-En 1945 : World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.
+En 1945 : World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.  This is commemorated as Victory in Europe Day.
 <br/><br/>
 En 1945 : End of the Prague uprising, celebrated now as a national holiday in the Czech Republic.
 <br/><br/>
@@ -102,13 +102,11 @@ En 1541 : Hernando de Soto stops near present-day Walls, Mississippi, and sees t
 <br/><br/>
 En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murder Emperor Lê Tương Dực and flee, leaving the capital Thăng Long undefended.
 <br/><br/>
-En 1450 : Kentishmen revolt against King Henry VI.
-<br/><br/>
-En 1429 : Joan of Arc lifts the Siege of Orléans, turning the tide of the Hundred Years' War.
+En 1429 : The Hundred Years War:  Joan of Arc lifts the Siege of Orléans, turning the tide of the war
 <br/><br/>
 En 1373 : Julian of Norwich, a Christian mystic and anchoress, experiences the deathbed visions described in her Revelations of Divine Love.
 <br/><br/>
-En 1360 : Treaty of Brétigny drafted between King Edward III of England and King John II of France (the Good).
+En 1360 : The Hundred Years War:  the Treaty of Brétigny is drafted between King Edward III of England and King John II of France (the Good).
 <br/><br/>
 En 589 : Reccared I opens the Third Council of Toledo, marking the entry of Visigothic Spain into the Catholic Church.
 <br/><br/>
@@ -156,7 +154,7 @@ En 1950 : The Tollund Man is discovered in a peat bog near Silkeborg, Denmark.
 <br/><br/>
 En 1946 : Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
 <br/><br/>
-En 1945 : World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.
+En 1945 : World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.  This is commemorated as Victory in Europe Day.
 <br/><br/>
 En 1945 : End of the Prague uprising, celebrated now as a national holiday in the Czech Republic.
 <br/><br/>
@@ -212,13 +210,11 @@ En 1541 : Hernando de Soto stops near present-day Walls, Mississippi, and sees t
 <br/><br/>
 En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murder Emperor Lê Tương Dực and flee, leaving the capital Thăng Long undefended.
 <br/><br/>
-En 1450 : Kentishmen revolt against King Henry VI.
-<br/><br/>
-En 1429 : Joan of Arc lifts the Siege of Orléans, turning the tide of the Hundred Years' War.
+En 1429 : The Hundred Years War:  Joan of Arc lifts the Siege of Orléans, turning the tide of the war
 <br/><br/>
 En 1373 : Julian of Norwich, a Christian mystic and anchoress, experiences the deathbed visions described in her Revelations of Divine Love.
 <br/><br/>
-En 1360 : Treaty of Brétigny drafted between King Edward III of England and King John II of France (the Good).
+En 1360 : The Hundred Years War:  the Treaty of Brétigny is drafted between King Edward III of England and King John II of France (the Good).
 <br/><br/>
 En 589 : Reccared I opens the Third Council of Toledo, marking the entry of Visigothic Spain into the Catholic Church.
 <br/><br/>
