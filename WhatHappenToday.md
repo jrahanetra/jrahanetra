@@ -66,7 +66,7 @@ En 1933 : Mohandas Gandhi begins a 21-day fast of self-purification and launched
 <br/><br/>
 En 1927 : Attempting to make the first non-stop transatlantic flight from Paris to New York, French war heroes Charles Nungesser and François Coli disappear after taking off aboard The White Bird biplane.
 <br/><br/>
-En 1924 : The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania.
+En 1924 : The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania. It would come back to Germany in 1939.
 <br/><br/>
 En 1921 : The creation of the Communist Party of Romania.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1933 : Mohandas Gandhi begins a 21-day fast of self-purification and launched
 <br/><br/>
 En 1927 : Attempting to make the first non-stop transatlantic flight from Paris to New York, French war heroes Charles Nungesser and François Coli disappear after taking off aboard The White Bird biplane.
 <br/><br/>
-En 1924 : The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania.
+En 1924 : The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania. It would come back to Germany in 1939.
 <br/><br/>
 En 1921 : The creation of the Communist Party of Romania.
 <br/><br/>
