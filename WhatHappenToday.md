@@ -40,9 +40,9 @@ En 1967 : The Philippine province of Davao is split into three: Davao del Norte,
 <br/><br/>
 En 1963 : South Vietnamese soldiers under the Roman Catholic President Ngo Dinh Diem open fire on Buddhists defying a ban on the flying of the Buddhist flag on Vesak, killing nine and sparking the Buddhist crisis.
 <br/><br/>
-En 1957 : South Vietnamese President Ngo Dinh Diem began a state visit to the United States, his regime's main sponsor.
+En 1957 : South Vietnamese President Ngo Dinh Diem begins a state visit to the United States, his regime's main sponsor.
 <br/><br/>
-En 1950 : The Tollund Man was discovered in a peat bog near Silkeborg, Denmark.
+En 1950 : The Tollund Man is discovered in a peat bog near Silkeborg, Denmark.
 <br/><br/>
 En 1946 : Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1919 : Edward George Honey proposes the idea of a moment of silence to commem
 <br/><br/>
 En 1902 : In Martinique, Mount Pelée erupts, destroying the town of Saint-Pierre and killing over 30,000 people. Only a handful of residents survive the blast.
 <br/><br/>
-En 1899 : The Irish Literary Theatre in Dublin produced its first play.
+En 1899 : The Irish Literary Theatre in Dublin produces its first play.
 <br/><br/>
 En 1898 : The first games of the Italian football league system are played.
 <br/><br/>
@@ -100,7 +100,7 @@ En 1608 : A newly nationalized silver mine in Scotland at Hilderston, West Lothi
 <br/><br/>
 En 1541 : Hernando de Soto stops near present-day Walls, Mississippi, and sees the Mississippi River (then known by the Spanish as Río de Espíritu Santo, the name given to it by Alonso Álvarez de Pineda in 1519).
 <br/><br/>
-En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murdered Emperor Lê Tương Dực and fled, leaving the capital Thăng Long undefended.
+En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murder Emperor Lê Tương Dực and flee, leaving the capital Thăng Long undefended.
 <br/><br/>
 En 1450 : Kentishmen revolt against King Henry VI.
 <br/><br/>
@@ -150,9 +150,9 @@ En 1967 : The Philippine province of Davao is split into three: Davao del Norte,
 <br/><br/>
 En 1963 : South Vietnamese soldiers under the Roman Catholic President Ngo Dinh Diem open fire on Buddhists defying a ban on the flying of the Buddhist flag on Vesak, killing nine and sparking the Buddhist crisis.
 <br/><br/>
-En 1957 : South Vietnamese President Ngo Dinh Diem began a state visit to the United States, his regime's main sponsor.
+En 1957 : South Vietnamese President Ngo Dinh Diem begins a state visit to the United States, his regime's main sponsor.
 <br/><br/>
-En 1950 : The Tollund Man was discovered in a peat bog near Silkeborg, Denmark.
+En 1950 : The Tollund Man is discovered in a peat bog near Silkeborg, Denmark.
 <br/><br/>
 En 1946 : Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
 <br/><br/>
@@ -184,7 +184,7 @@ En 1919 : Edward George Honey proposes the idea of a moment of silence to commem
 <br/><br/>
 En 1902 : In Martinique, Mount Pelée erupts, destroying the town of Saint-Pierre and killing over 30,000 people. Only a handful of residents survive the blast.
 <br/><br/>
-En 1899 : The Irish Literary Theatre in Dublin produced its first play.
+En 1899 : The Irish Literary Theatre in Dublin produces its first play.
 <br/><br/>
 En 1898 : The first games of the Italian football league system are played.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1608 : A newly nationalized silver mine in Scotland at Hilderston, West Lothi
 <br/><br/>
 En 1541 : Hernando de Soto stops near present-day Walls, Mississippi, and sees the Mississippi River (then known by the Spanish as Río de Espíritu Santo, the name given to it by Alonso Álvarez de Pineda in 1519).
 <br/><br/>
-En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murdered Emperor Lê Tương Dực and fled, leaving the capital Thăng Long undefended.
+En 1516 : A group of imperial guards, led by Trịnh Duy Sản, murder Emperor Lê Tương Dực and flee, leaving the capital Thăng Long undefended.
 <br/><br/>
 En 1450 : Kentishmen revolt against King Henry VI.
 <br/><br/>
