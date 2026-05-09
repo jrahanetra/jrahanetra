@@ -8,7 +8,7 @@
 
 En 2023 : The May 9 riots following the arrest of Imran Khan in Pakistan.
 <br/><br/>
-En 2022 : Russo-Ukrainian War: United States President Joe Biden signs the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.
+En 2022 : Russo-Ukrainian war: United States President Joe Biden signs the 2022 Lend-Lease Act into law, a rebooted World War II-era policy attempting to expedite American equipment to Ukraine and other Eastern European countries.
 <br/><br/>
 En 2020 : The COVID-19 recession causes the U.S. unemployment rate to hit 14.9 percent, its worst rate since the Great Depression.
 <br/><br/>
@@ -102,7 +102,7 @@ En 328 : Athanasius is elected Patriarch of Alexandria.
 <br/><br/>
 En 2023 : The May 9 riots following the arrest of Imran Khan in Pakistan.
 <br/><br/>
-En 2022 : Russo-Ukrainian War: United States President Joe Biden signs the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.
+En 2022 : Russo-Ukrainian war: United States President Joe Biden signs the 2022 Lend-Lease Act into law, a rebooted World War II-era policy attempting to expedite American equipment to Ukraine and other Eastern European countries.
 <br/><br/>
 En 2020 : The COVID-19 recession causes the U.S. unemployment rate to hit 14.9 percent, its worst rate since the Great Depression.
 <br/><br/>
