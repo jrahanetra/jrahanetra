@@ -46,9 +46,9 @@ En 1948 : Czechoslovakia's Ninth-of-May Constitution comes into effect.
 <br/><br/>
 En 1946 : King Victor Emmanuel III of Italy abdicates and is succeeded by Umberto II.
 <br/><br/>
-En 1945 : World War II: the Channel Islands are liberated from Nazi occupation.
+En 1945 : World War II: The Channel Islands are liberated from Nazi occupation.
 <br/><br/>
-En 1942 : The Holocaust in Ukraine: The SS executes 588 Jewish residents of the Podolian town of Zinkiv (Khmelnytska oblast. The Zoludek Ghetto (in Belarus) is destroyed and all its inhabitants executed or deported.
+En 1942 : The Holocaust in Ukraine: The SS executes 588 Jewish residents of the Podolian town of Zinkiv (Khmelnytska oblast). The Zoludek Ghetto (in Belarus) is destroyed and all its inhabitants executed or deported.
 <br/><br/>
 En 1941 : World War II: The German submarine U-110 is captured by the Royal Navy. On board is the latest Enigma machine which Allied cryptographers later use to break coded German messages.
 <br/><br/>
@@ -56,7 +56,7 @@ En 1936 : Italy formally annexes Ethiopia after taking the capital Addis Ababa o
 <br/><br/>
 En 1927 : The Old Parliament House, Canberra, Australia, officially opens.
 <br/><br/>
-En 1926 : Admiral Richard E. Byrd and Floyd Bennett claim to have flown over the North Pole (later discovery of Byrd's diary appears to cast some doubt on the claim.)
+En 1926 : Admiral Richard E. Byrd and Floyd Bennett claim to have flown over the North Pole (later discovery of Byrd's diary appears to cast some doubt on the claim).
 <br/><br/>
 En 1920 : Polish–Soviet War: The Polish army under General Edward Rydz-Śmigły celebrates its capture of Kiev with a victory parade on Khreshchatyk.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1865 : American Civil War: President Andrew Johnson issues a proclamation end
 <br/><br/>
 En 1864 : Second Schleswig War: The Danish navy defeats the Austrian and Prussian fleets in the Battle of Heligoland.
 <br/><br/>
-En 1761 : Exhibition of 1761, the inaugural exhibition of the Society of Artists of Great Britain opens at Spring Gardens in London.
+En 1761 : Exhibition of 1761, the inaugural exhibition of the Society of Artists of Great Britain, opens at Spring Gardens in London.
 <br/><br/>
 En 1726 : Five men arrested during a raid on Mother Clap's molly house in London are executed at Tyburn.
 <br/><br/>
@@ -88,7 +88,7 @@ En 1645 : Scottish Royalist forces under Lord Montrose defeat Covenanter forces 
 <br/><br/>
 En 1540 : Hernando de Alarcón sets sail on an expedition to the Gulf of California.
 <br/><br/>
-En 1502 : Christopher Columbus sets of from Cádiz for his fourth voyage.
+En 1502 : Christopher Columbus sets off from Cádiz for his fourth voyage.
 <br/><br/>
 En 1450 : Timurid monarch 'Abd al-Latif is assassinated.
 <br/><br/>
@@ -140,9 +140,9 @@ En 1948 : Czechoslovakia's Ninth-of-May Constitution comes into effect.
 <br/><br/>
 En 1946 : King Victor Emmanuel III of Italy abdicates and is succeeded by Umberto II.
 <br/><br/>
-En 1945 : World War II: the Channel Islands are liberated from Nazi occupation.
+En 1945 : World War II: The Channel Islands are liberated from Nazi occupation.
 <br/><br/>
-En 1942 : The Holocaust in Ukraine: The SS executes 588 Jewish residents of the Podolian town of Zinkiv (Khmelnytska oblast. The Zoludek Ghetto (in Belarus) is destroyed and all its inhabitants executed or deported.
+En 1942 : The Holocaust in Ukraine: The SS executes 588 Jewish residents of the Podolian town of Zinkiv (Khmelnytska oblast). The Zoludek Ghetto (in Belarus) is destroyed and all its inhabitants executed or deported.
 <br/><br/>
 En 1941 : World War II: The German submarine U-110 is captured by the Royal Navy. On board is the latest Enigma machine which Allied cryptographers later use to break coded German messages.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1936 : Italy formally annexes Ethiopia after taking the capital Addis Ababa o
 <br/><br/>
 En 1927 : The Old Parliament House, Canberra, Australia, officially opens.
 <br/><br/>
-En 1926 : Admiral Richard E. Byrd and Floyd Bennett claim to have flown over the North Pole (later discovery of Byrd's diary appears to cast some doubt on the claim.)
+En 1926 : Admiral Richard E. Byrd and Floyd Bennett claim to have flown over the North Pole (later discovery of Byrd's diary appears to cast some doubt on the claim).
 <br/><br/>
 En 1920 : Polish–Soviet War: The Polish army under General Edward Rydz-Śmigły celebrates its capture of Kiev with a victory parade on Khreshchatyk.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1865 : American Civil War: President Andrew Johnson issues a proclamation end
 <br/><br/>
 En 1864 : Second Schleswig War: The Danish navy defeats the Austrian and Prussian fleets in the Battle of Heligoland.
 <br/><br/>
-En 1761 : Exhibition of 1761, the inaugural exhibition of the Society of Artists of Great Britain opens at Spring Gardens in London.
+En 1761 : Exhibition of 1761, the inaugural exhibition of the Society of Artists of Great Britain, opens at Spring Gardens in London.
 <br/><br/>
 En 1726 : Five men arrested during a raid on Mother Clap's molly house in London are executed at Tyburn.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1645 : Scottish Royalist forces under Lord Montrose defeat Covenanter forces 
 <br/><br/>
 En 1540 : Hernando de Alarcón sets sail on an expedition to the Gulf of California.
 <br/><br/>
-En 1502 : Christopher Columbus sets of from Cádiz for his fourth voyage.
+En 1502 : Christopher Columbus sets off from Cádiz for his fourth voyage.
 <br/><br/>
 En 1450 : Timurid monarch 'Abd al-Latif is assassinated.
 <br/><br/>
