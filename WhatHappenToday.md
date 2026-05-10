@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 10/5 ?(Hover on the year)</h1>
 
-En 2024 : Start of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+En 2024 : Start of the May 2024 solar storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
 En 2022 : Queen Elizabeth II misses the State Opening of Parliament for the first time in 59 years. It was the first time that a new session of Parliament was opened by the Prince of Wales and the Duke of Cambridge acting as Counsellors of State.
 <br/><br/>
@@ -116,7 +116,7 @@ En 946 : Alberic II of Spoleto arranges the election of pope Agapetus II followi
 <br/><br/>
 En -28 : A sunspot is observed by Han dynasty astronomers during the reign of Emperor Cheng of Han, one of the earliest dated sunspot observations in China.
 <br/><br/>
-En 2024 : Start of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+En 2024 : Start of the May 2024 solar storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
 En 2022 : Queen Elizabeth II misses the State Opening of Parliament for the first time in 59 years. It was the first time that a new session of Parliament was opened by the Prince of Wales and the Duke of Cambridge acting as Counsellors of State.
 <br/><br/>
