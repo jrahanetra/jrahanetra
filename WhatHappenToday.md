@@ -48,8 +48,6 @@ En 1973 : Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republi
 <br/><br/>
 En 1970 : The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
 <br/><br/>
-En 1960 : Adolf Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
-<br/><br/>
 En 1953 : In the deadliest of a series of tornadoes, an F5 tornado kills 114 in Waco, Texas.
 <br/><br/>
 En 1919 : Uruguay becomes a signatory to the Buenos Aires copyright treaty.
@@ -123,8 +121,6 @@ En 1973 : Citing government misconduct, Daniel Ellsberg's charges for his involv
 En 1973 : Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republic (now Kazakhstan), killing all 63 aboard.
 <br/><br/>
 En 1970 : The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
-<br/><br/>
-En 1960 : Adolf Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
 <br/><br/>
 En 1953 : In the deadliest of a series of tornadoes, an F5 tornado kills 114 in Waco, Texas.
 <br/><br/>
