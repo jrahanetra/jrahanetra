@@ -8,7 +8,7 @@
 
 En 2024 : Start/Middle of the May 2024 Solar Storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
-En 2024 : The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song "The Code", making them the contest's first non-binary winner.
+En 2024 : The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland win with their song "The Code", making them the contest's first non-binary winner.
 <br/><br/>
 En 2022 : The Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.
 <br/><br/>
@@ -48,7 +48,7 @@ En 1973 : Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republi
 <br/><br/>
 En 1970 : The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
 <br/><br/>
-En 1960 : Adolph Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
+En 1960 : Adolf Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
 <br/><br/>
 En 1953 : In the deadliest of a series of tornadoes, an F5 tornado kills 114 in Waco, Texas.
 <br/><br/>
@@ -84,7 +84,7 @@ En 330 : Constantine the Great dedicates the much-expanded and rebuilt city of B
 <br/><br/>
 En 2024 : Start/Middle of the May 2024 Solar Storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
-En 2024 : The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song "The Code", making them the contest's first non-binary winner.
+En 2024 : The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland win with their song "The Code", making them the contest's first non-binary winner.
 <br/><br/>
 En 2022 : The Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.
 <br/><br/>
@@ -124,7 +124,7 @@ En 1973 : Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republi
 <br/><br/>
 En 1970 : The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
 <br/><br/>
-En 1960 : Adolph Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
+En 1960 : Adolf Eichmann, a key figure in the organization of the Holocaust is captured by Israeli agents in Argentina.  He is later convicted and executed for his crimes.
 <br/><br/>
 En 1953 : In the deadliest of a series of tornadoes, an F5 tornado kills 114 in Waco, Texas.
 <br/><br/>
