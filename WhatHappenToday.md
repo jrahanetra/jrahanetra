@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 12/5 ?(Hover on the year)</h1>
 
-En 2024 : Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+En 2024 : Middle/end of the May 2024 solar storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
 En 2018 : Paris knife attack: A man is fatally shot by police in Paris after killing one and injuring several others.
 <br/><br/>
@@ -116,7 +116,7 @@ En 254 : Pope Stephen I succeeds Pope Lucius I, becoming the 23rd pope of the Ca
 <br/><br/>
 En 113 : Roman emperor Trajan dedicates a column celebrating and depicting his victory over the Dacians.
 <br/><br/>
-En 2024 : Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+En 2024 : Middle/end of the May 2024 solar storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.
 <br/><br/>
 En 2018 : Paris knife attack: A man is fatally shot by police in Paris after killing one and injuring several others.
 <br/><br/>
