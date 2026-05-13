@@ -16,7 +16,7 @@ En 2011 : Two bombs explode in the Charsadda District of Pakistan killing 98 peo
 <br/><br/>
 En 2006 : São Paulo violence: Rebellions occur in several prisons in Brazil.
 <br/><br/>
-En 2005 : Andijan uprising, Uzbekistan; Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
+En 2005 : Andijan uprising, Uzbekistan: Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
 <br/><br/>
 En 2000 : A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
 <br/><br/>
@@ -32,11 +32,11 @@ En 1995 : Alison Hargreaves, a 33-year-old British mother, becomes the first wom
 <br/><br/>
 En 1992 : Li Hongzhi gives the first public lecture on Falun Gong in Changchun, People's Republic of China.
 <br/><br/>
-En 1990 : The Dinamo–Red Star riot took place at Maksimir Stadium in Zagreb, Croatia between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
+En 1990 : The Dinamo–Red Star riot takes place at Maksimir Stadium in Zagreb, Croatia, between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
 <br/><br/>
 En 1989 : Large groups of students occupy Tiananmen Square and begin a hunger strike.
 <br/><br/>
-En 1985 : Police bombed MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
+En 1985 : Police bomb MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
 <br/><br/>
 En 1981 : Mehmet Ali Ağca attempts to assassinate Pope John Paul II in St. Peter's Square in Rome. The Pope is rushed to the Agostino Gemelli University Polyclinic to undergo emergency surgery and survives.
 <br/><br/>
@@ -46,7 +46,7 @@ En 1972 : A fire occurs in the Sennichi Department Store in Osaka, Japan. Blocke
 <br/><br/>
 En 1972 : The Troubles: A car bombing outside a crowded pub in Belfast sparks a two-day gun battle involving the Provisional IRA, Ulster Volunteer Force and British Army. Seven people are killed and over 66 injured.
 <br/><br/>
-En 1969 : In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupted in Kuala Lumpur, Malaysia.
+En 1969 : In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupts in Kuala Lumpur, Malaysia.
 <br/><br/>
 En 1967 : Dr. Zakir Husain becomes the third President of India. He is the first Muslim President of the Indian Union. He holds this position until August 24, 1969.
 <br/><br/>
@@ -80,7 +80,7 @@ En 1917 : Three children report the first apparition of Our Lady of Fátima in F
 <br/><br/>
 En 1912 : The Royal Flying Corps, the forerunner of the Royal Air Force, is established in the United Kingdom.
 <br/><br/>
-En 1909 : The first edition of the Giro d'Italia, a long-distance multiple-stage bicycle race, began in Milan; the Italian cyclist Luigi Ganna was the eventual winner.
+En 1909 : The first edition of the Giro d'Italia, a long-distance multiple-stage bicycle race, begins in Milan; the Italian cyclist Luigi Ganna was the eventual winner.
 <br/><br/>
 En 1888 : With the passage of the Lei Áurea ("Golden Law"), the Empire of Brazil abolishes slavery.
 <br/><br/>
@@ -114,7 +114,7 @@ En 1612 : Sword duel between Miyamoto Musashi and Sasaki Kojiro on the shores of
 <br/><br/>
 En 1568 : Mary, Queen of Scots, is defeated at the Battle of Langside, part of the civil war between Queen Mary and the supporters of her son, James VI.
 <br/><br/>
-En 1501 : Amerigo Vespucci, this time under Portuguese flag, set sail for western lands.
+En 1501 : Amerigo Vespucci, this time under Portuguese flag, sets sail for western lands.
 <br/><br/>
 En 1373 : Julian of Norwich has visions of Jesus while suffering from a life-threatening illness, visions which are later described and interpreted in her book Revelations of Divine Love.
 <br/><br/>
@@ -134,7 +134,7 @@ En 2011 : Two bombs explode in the Charsadda District of Pakistan killing 98 peo
 <br/><br/>
 En 2006 : São Paulo violence: Rebellions occur in several prisons in Brazil.
 <br/><br/>
-En 2005 : Andijan uprising, Uzbekistan; Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
+En 2005 : Andijan uprising, Uzbekistan: Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
 <br/><br/>
 En 2000 : A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
 <br/><br/>
@@ -150,11 +150,11 @@ En 1995 : Alison Hargreaves, a 33-year-old British mother, becomes the first wom
 <br/><br/>
 En 1992 : Li Hongzhi gives the first public lecture on Falun Gong in Changchun, People's Republic of China.
 <br/><br/>
-En 1990 : The Dinamo–Red Star riot took place at Maksimir Stadium in Zagreb, Croatia between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
+En 1990 : The Dinamo–Red Star riot takes place at Maksimir Stadium in Zagreb, Croatia, between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
 <br/><br/>
 En 1989 : Large groups of students occupy Tiananmen Square and begin a hunger strike.
 <br/><br/>
-En 1985 : Police bombed MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
+En 1985 : Police bomb MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
 <br/><br/>
 En 1981 : Mehmet Ali Ağca attempts to assassinate Pope John Paul II in St. Peter's Square in Rome. The Pope is rushed to the Agostino Gemelli University Polyclinic to undergo emergency surgery and survives.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1972 : A fire occurs in the Sennichi Department Store in Osaka, Japan. Blocke
 <br/><br/>
 En 1972 : The Troubles: A car bombing outside a crowded pub in Belfast sparks a two-day gun battle involving the Provisional IRA, Ulster Volunteer Force and British Army. Seven people are killed and over 66 injured.
 <br/><br/>
-En 1969 : In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupted in Kuala Lumpur, Malaysia.
+En 1969 : In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupts in Kuala Lumpur, Malaysia.
 <br/><br/>
 En 1967 : Dr. Zakir Husain becomes the third President of India. He is the first Muslim President of the Indian Union. He holds this position until August 24, 1969.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1917 : Three children report the first apparition of Our Lady of Fátima in F
 <br/><br/>
 En 1912 : The Royal Flying Corps, the forerunner of the Royal Air Force, is established in the United Kingdom.
 <br/><br/>
-En 1909 : The first edition of the Giro d'Italia, a long-distance multiple-stage bicycle race, began in Milan; the Italian cyclist Luigi Ganna was the eventual winner.
+En 1909 : The first edition of the Giro d'Italia, a long-distance multiple-stage bicycle race, begins in Milan; the Italian cyclist Luigi Ganna was the eventual winner.
 <br/><br/>
 En 1888 : With the passage of the Lei Áurea ("Golden Law"), the Empire of Brazil abolishes slavery.
 <br/><br/>
@@ -232,7 +232,7 @@ En 1612 : Sword duel between Miyamoto Musashi and Sasaki Kojiro on the shores of
 <br/><br/>
 En 1568 : Mary, Queen of Scots, is defeated at the Battle of Langside, part of the civil war between Queen Mary and the supporters of her son, James VI.
 <br/><br/>
-En 1501 : Amerigo Vespucci, this time under Portuguese flag, set sail for western lands.
+En 1501 : Amerigo Vespucci, this time under Portuguese flag, sets sail for western lands.
 <br/><br/>
 En 1373 : Julian of Norwich has visions of Jesus while suffering from a life-threatening illness, visions which are later described and interpreted in her book Revelations of Divine Love.
 <br/><br/>
