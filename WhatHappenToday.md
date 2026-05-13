@@ -104,7 +104,7 @@ En 1791 : The British under Charles Cornwallis defeat a Mysorean army under Tipu
 <br/><br/>
 En 1780 : The Cumberland Compact is signed by leaders of the settlers in the Cumberland River area of what would become the U.S. state of Tennessee, providing for democratic government and a formal system of justice.
 <br/><br/>
-En 1779 : War of the Bavarian Succession: Russian and French mediators at the Congress of Teschen negotiate an end to the war. In the agreement Austria receives the part of its territory that was taken from it (the Innviertel).
+En 1779 : War of the Bavarian Succession: Russian and French mediators at the Congress of Teschen negotiate an end to the war. In the agreement Austria acquires the Innviertel.
 <br/><br/>
 En 1654 : A Venetian fleet under Admiral Cort Adeler breaks through a line of galleys and defeats the Turkish navy.
 <br/><br/>
@@ -222,7 +222,7 @@ En 1791 : The British under Charles Cornwallis defeat a Mysorean army under Tipu
 <br/><br/>
 En 1780 : The Cumberland Compact is signed by leaders of the settlers in the Cumberland River area of what would become the U.S. state of Tennessee, providing for democratic government and a formal system of justice.
 <br/><br/>
-En 1779 : War of the Bavarian Succession: Russian and French mediators at the Congress of Teschen negotiate an end to the war. In the agreement Austria receives the part of its territory that was taken from it (the Innviertel).
+En 1779 : War of the Bavarian Succession: Russian and French mediators at the Congress of Teschen negotiate an end to the war. In the agreement Austria acquires the Innviertel.
 <br/><br/>
 En 1654 : A Venetian fleet under Admiral Cort Adeler breaks through a line of galleys and defeats the Turkish navy.
 <br/><br/>
