@@ -18,7 +18,7 @@ En 2008 : California becomes the second U.S. state after Massachusetts in 2004 t
 <br/><br/>
 En 2004 : Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
 <br/><br/>
-En 2001 : A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
+En 2001 : A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it is brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
 <br/><br/>
 En 1997 : The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
 <br/><br/>
@@ -32,23 +32,23 @@ En 1976 : Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernih
 <br/><br/>
 En 1974 : Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
 <br/><br/>
-En 1972 : The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
+En 1972 : The Ryukyu Islands, under U.S. military governance since their conquest in 1945, revert to Japanese control.
 <br/><br/>
-En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
+En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington as the first female United States Army generals.
 <br/><br/>
 En 1963 : Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
 <br/><br/>
 En 1957 : At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
 <br/><br/>
-En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab–Israeli War.
+En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel, thus starting the 1948 Arab–Israeli War.
 <br/><br/>
-En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
+En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe, is fought near Prevalje, Slovenia.
 <br/><br/>
 En 1943 : Joseph Stalin dissolves the Comintern (or Third International).
 <br/><br/>
 En 1942 : World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
 <br/><br/>
-En 1941 : First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
+En 1941 : First flight of the Gloster E.28/39, the first British and Allied jet aircraft.
 <br/><br/>
 En 1940 : USS Sailfish is recommissioned. It was originally the USS Squalus.
 <br/><br/>
@@ -56,11 +56,11 @@ En 1940 : World War II: The Battle of the Netherlands: After fierce fighting, th
 <br/><br/>
 En 1940 : Richard and Maurice McDonald open the first McDonald's restaurant.
 <br/><br/>
-En 1934 : A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
+En 1934 : A self coup by prime minister Kārlis Ulmanis succeeds in Latvia, suspending its constitution and dissolving its Saeima.
 <br/><br/>
-En 1933 : All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
+En 1933 : All military aviation organizations within or under the control of the RLM of Germany are officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
 <br/><br/>
-En 1932 : In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
+En 1932 : In an attempted coup d'état, the Prime Minister of Japan, Inukai Tsuyoshi, is assassinated.
 <br/><br/>
 En 1929 : A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
 <br/><br/>
@@ -68,7 +68,7 @@ En 1919 : The Winnipeg general strike begins. By 11:00, almost the whole working
 <br/><br/>
 En 1919 : Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
 <br/><br/>
-En 1918 : The Finnish Civil War ends when the Whites took over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
+En 1918 : The Finnish Civil War ends when the Whites take over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
 <br/><br/>
 En 1916 : A seventeen-year-old farmworker, Jesse Washington, is infamously lynched in Waco, Texas, USA, after being convicted of rape and murder.
 <br/><br/>
@@ -110,7 +110,7 @@ En 1536 : Anne Boleyn, Queen of England, stands trial in London on charges of tr
 <br/><br/>
 En 1532 : The English church submits to the king of England in passing a convocation in which it surrenders a number of rights, such as to make provincial ecclesiastic laws independently of the king.
 <br/><br/>
-En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer were defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
+En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer are defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
 <br/><br/>
 En 1252 : Pope Innocent IV issues the papal bull ad extirpanda, which authorizes, but also limits, the torture of heretics in the Medieval Inquisition.
 <br/><br/>
@@ -138,7 +138,7 @@ En 2008 : California becomes the second U.S. state after Massachusetts in 2004 t
 <br/><br/>
 En 2004 : Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
 <br/><br/>
-En 2001 : A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
+En 2001 : A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it is brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
 <br/><br/>
 En 1997 : The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
 <br/><br/>
@@ -152,23 +152,23 @@ En 1976 : Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernih
 <br/><br/>
 En 1974 : Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
 <br/><br/>
-En 1972 : The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
+En 1972 : The Ryukyu Islands, under U.S. military governance since their conquest in 1945, revert to Japanese control.
 <br/><br/>
-En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
+En 1970 : President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington as the first female United States Army generals.
 <br/><br/>
 En 1963 : Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
 <br/><br/>
 En 1957 : At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
 <br/><br/>
-En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab–Israeli War.
+En 1948 : Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel, thus starting the 1948 Arab–Israeli War.
 <br/><br/>
-En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
+En 1945 : World War II: The Battle of Poljana, the final skirmish in Europe, is fought near Prevalje, Slovenia.
 <br/><br/>
 En 1943 : Joseph Stalin dissolves the Comintern (or Third International).
 <br/><br/>
 En 1942 : World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
 <br/><br/>
-En 1941 : First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
+En 1941 : First flight of the Gloster E.28/39, the first British and Allied jet aircraft.
 <br/><br/>
 En 1940 : USS Sailfish is recommissioned. It was originally the USS Squalus.
 <br/><br/>
@@ -176,11 +176,11 @@ En 1940 : World War II: The Battle of the Netherlands: After fierce fighting, th
 <br/><br/>
 En 1940 : Richard and Maurice McDonald open the first McDonald's restaurant.
 <br/><br/>
-En 1934 : A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
+En 1934 : A self coup by prime minister Kārlis Ulmanis succeeds in Latvia, suspending its constitution and dissolving its Saeima.
 <br/><br/>
-En 1933 : All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
+En 1933 : All military aviation organizations within or under the control of the RLM of Germany are officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
 <br/><br/>
-En 1932 : In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
+En 1932 : In an attempted coup d'état, the Prime Minister of Japan, Inukai Tsuyoshi, is assassinated.
 <br/><br/>
 En 1929 : A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1919 : The Winnipeg general strike begins. By 11:00, almost the whole working
 <br/><br/>
 En 1919 : Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
 <br/><br/>
-En 1918 : The Finnish Civil War ends when the Whites took over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
+En 1918 : The Finnish Civil War ends when the Whites take over Fort Ino, a Russian coastal artillery base on the Karelian Isthmus, from Russian troops.
 <br/><br/>
 En 1916 : A seventeen-year-old farmworker, Jesse Washington, is infamously lynched in Waco, Texas, USA, after being convicted of rape and murder.
 <br/><br/>
@@ -230,7 +230,7 @@ En 1536 : Anne Boleyn, Queen of England, stands trial in London on charges of tr
 <br/><br/>
 En 1532 : The English church submits to the king of England in passing a convocation in which it surrenders a number of rights, such as to make provincial ecclesiastic laws independently of the king.
 <br/><br/>
-En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer were defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
+En 1525 : Insurgent peasants led by Anabaptist pastor Thomas Müntzer are defeated at the Battle of Frankenhausen, ending the German Peasants' War in the Holy Roman Empire.
 <br/><br/>
 En 1252 : Pope Innocent IV issues the papal bull ad extirpanda, which authorizes, but also limits, the torture of heretics in the Medieval Inquisition.
 <br/><br/>
