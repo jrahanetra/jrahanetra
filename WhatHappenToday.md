@@ -8,8 +8,6 @@
 
 En 2024 : Prime Minister of Slovakia Robert Fico is shot and critically injured while meeting with supporters at an event in Handlová.
 <br/><br/>
-En 2023 : The UN commemorates the Palestinian Nakba Day for the first time.
-<br/><br/>
 En 2013 : An upsurge in violence in Iraq leaves more than 389 people dead over three days.
 <br/><br/>
 En 2010 : Jessica Watson becomes the youngest person to sail, non-stop and unassisted around the world solo.
@@ -121,8 +119,6 @@ En 392 : Emperor Valentinian II is assassinated while advancing into Gaul agains
 En 221 : Liu Bei, Chinese warlord, proclaims himself emperor of Shu Han, the successor of the Han dynasty.
 <br/><br/>
 En 2024 : Prime Minister of Slovakia Robert Fico is shot and critically injured while meeting with supporters at an event in Handlová.
-<br/><br/>
-En 2023 : The UN commemorates the Palestinian Nakba Day for the first time.
 <br/><br/>
 En 2013 : An upsurge in violence in Iraq leaves more than 389 people dead over three days.
 <br/><br/>
