@@ -76,8 +76,6 @@ En 1911 : In Standard Oil Co. of New Jersey v. United States, the United States 
 <br/><br/>
 En 1911 : More than 300 Chinese immigrants are killed in the Torreón massacre when the forces of the Mexican Revolution led by Emilio Madero take the city of Torreón from the Federales.
 <br/><br/>
-En 1905 : The city of Las Vegas is founded in Nevada, United States.
-<br/><br/>
 En 1891 : Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching.
 <br/><br/>
 En 1864 : American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley.
@@ -90,15 +88,11 @@ En 1849 : The Sicilian revolution of 1848 is finally extinguished.
 <br/><br/>
 En 1836 : Francis Baily observes "Baily's beads" during an annular eclipse.
 <br/><br/>
-En 1817 : Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania).
-<br/><br/>
 En 1791 : French Revolution: Maximilien Robespierre proposes the Self-denying Ordinance.
 <br/><br/>
 En 1725 : Bach leads the first performance of his cantata Ich bin ein guter Hirt, BWV 85, about Jesus as the Good Shepherd.
 <br/><br/>
 En 1648 : The Peace of Münster is ratified, by which Spain acknowledges Dutch sovereignty.
-<br/><br/>
-En 1618 : Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made).
 <br/><br/>
 En 1602 : Cape Cod is sighted by English navigator Bartholomew Gosnold.
 <br/><br/>
@@ -196,8 +190,6 @@ En 1911 : In Standard Oil Co. of New Jersey v. United States, the United States 
 <br/><br/>
 En 1911 : More than 300 Chinese immigrants are killed in the Torreón massacre when the forces of the Mexican Revolution led by Emilio Madero take the city of Torreón from the Federales.
 <br/><br/>
-En 1905 : The city of Las Vegas is founded in Nevada, United States.
-<br/><br/>
 En 1891 : Pope Leo XIII defends workers' rights and property rights in the encyclical Rerum novarum, the beginning of modern Catholic social teaching.
 <br/><br/>
 En 1864 : American Civil War: Battle of New Market, Virginia: Students from the Virginia Military Institute fight alongside the Confederate army to force Union General Franz Sigel out of the Shenandoah Valley.
@@ -210,15 +202,11 @@ En 1849 : The Sicilian revolution of 1848 is finally extinguished.
 <br/><br/>
 En 1836 : Francis Baily observes "Baily's beads" during an annular eclipse.
 <br/><br/>
-En 1817 : Opening of the first private mental health hospital in the United States, the Asylum for the Relief of Persons Deprived of the Use of Their Reason (now Friends Hospital, Philadelphia, Pennsylvania).
-<br/><br/>
 En 1791 : French Revolution: Maximilien Robespierre proposes the Self-denying Ordinance.
 <br/><br/>
 En 1725 : Bach leads the first performance of his cantata Ich bin ein guter Hirt, BWV 85, about Jesus as the Good Shepherd.
 <br/><br/>
 En 1648 : The Peace of Münster is ratified, by which Spain acknowledges Dutch sovereignty.
-<br/><br/>
-En 1618 : Johannes Kepler confirms his previously rejected discovery of the third law of planetary motion (he first discovered it on March 8 but soon rejected the idea after some initial calculations were made).
 <br/><br/>
 En 1602 : Cape Cod is sighted by English navigator Bartholomew Gosnold.
 <br/><br/>
