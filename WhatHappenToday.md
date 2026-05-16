@@ -58,6 +58,8 @@ En 1919 : A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves 
 <br/><br/>
 En 1918 : The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
 <br/><br/>
+En 1918 : The victory military parade by the Finnish White Guard is held in Helsinki celebrating their decisive victory in the Finnish Civil War. The day also begin to be celebrated on the Defence Forces Flag Day before it is moved in 1942 to the June 4th.
+<br/><br/>
 En 1916 : The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
 <br/><br/>
 En 1891 : The International Electrotechnical Exhibition opens in Frankfurt, Germany, featuring the world's first long-distance transmission of high-power, three-phase electric current (the most common form today).
@@ -165,6 +167,8 @@ En 1920 : In Rome, Pope Benedict XV canonizes Joan of Arc.
 En 1919 : A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight.
 <br/><br/>
 En 1918 : The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
+<br/><br/>
+En 1918 : The victory military parade by the Finnish White Guard is held in Helsinki celebrating their decisive victory in the Finnish Civil War. The day also begin to be celebrated on the Defence Forces Flag Day before it is moved in 1942 to the June 4th.
 <br/><br/>
 En 1916 : The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
 <br/><br/>
