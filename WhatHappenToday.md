@@ -122,6 +122,8 @@ En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
 <br/><br/>
 En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
 <br/><br/>
+En 1012 : The comital family of Tusculum arranges the election of the count's son as Pope Benedict VIII following the death of Pope Sergius IV earlier that month.
+<br/><br/>
 En 884 : Election of Pope Hadrian III following the death of Pope Marinus I earlier that month.
 <br/><br/>
 En 352 : Election of Pope Liberius following the death of Pope Julius I in the previous month.
@@ -241,6 +243,8 @@ En 1527 : Pánfilo de Narváez departs Spain to explore Florida with 600 men –
 En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
 <br/><br/>
 En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
+<br/><br/>
+En 1012 : The comital family of Tusculum arranges the election of the count's son as Pope Benedict VIII following the death of Pope Sergius IV earlier that month.
 <br/><br/>
 En 884 : Election of Pope Hadrian III following the death of Pope Marinus I earlier that month.
 <br/><br/>
