@@ -40,7 +40,7 @@ En 1980 : General Chun Doo-hwan of South Korea seizes control of the government 
 <br/><br/>
 En 1980 : On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
 <br/><br/>
-En 1980 : Rioting breaks out in downtown Miami, following the acquittal of four white police officers in the killing of Arthur McDuffie, a Black insurance salesman.
+En 1980 : Rioting breaks out in downtown Miami, following the acquittal of four white police officers in the killing of Arthur McDuffie, a black insurance salesman.
 <br/><br/>
 En 1977 : Nolan Bushnell opens the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
 <br/><br/>
@@ -121,8 +121,6 @@ En 1527 : Pánfilo de Narváez departs Spain to explore Florida with 600 men –
 En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
 <br/><br/>
 En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
-<br/><br/>
-En 1012 : The comital family of Tusculum arranges the election of the count's son as Sergius IV following the death of Pope Marinus I earlier that month.
 <br/><br/>
 En 884 : Election of Pope Hadrian III following the death of Pope Marinus I earlier that month.
 <br/><br/>
@@ -162,7 +160,7 @@ En 1980 : General Chun Doo-hwan of South Korea seizes control of the government 
 <br/><br/>
 En 1980 : On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
 <br/><br/>
-En 1980 : Rioting breaks out in downtown Miami, following the acquittal of four white police officers in the killing of Arthur McDuffie, a Black insurance salesman.
+En 1980 : Rioting breaks out in downtown Miami, following the acquittal of four white police officers in the killing of Arthur McDuffie, a black insurance salesman.
 <br/><br/>
 En 1977 : Nolan Bushnell opens the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
 <br/><br/>
@@ -243,8 +241,6 @@ En 1527 : Pánfilo de Narváez departs Spain to explore Florida with 600 men –
 En 1521 : Edward Stafford, 3rd Duke of Buckingham, is executed for treason.
 <br/><br/>
 En 1395 : Battle of Rovine: The Wallachians defeat an invading Ottoman army.
-<br/><br/>
-En 1012 : The comital family of Tusculum arranges the election of the count's son as Sergius IV following the death of Pope Marinus I earlier that month.
 <br/><br/>
 En 884 : Election of Pope Hadrian III following the death of Pope Marinus I earlier that month.
 <br/><br/>
