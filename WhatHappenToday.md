@@ -12,7 +12,7 @@ En 2018 : A school shooting at Santa Fe High School in Texas kills ten people.
 <br/><br/>
 En 2018 : Cubana de Aviación Flight 972 crashes in Santiago de las Vegas after takeoff from José Martí International Airport in Havana, Cuba, killing 112 of the 113 people on board.
 <br/><br/>
-En 2015 : At least 78 people died in a landslide caused by heavy rains in the Colombian town of Salgar.
+En 2015 : At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.
 <br/><br/>
 En 2009 : The LTTE are defeated by the Sri Lankan government, ending almost 26 years of fighting between the two sides.
 <br/><br/>
@@ -134,7 +134,7 @@ En 2018 : A school shooting at Santa Fe High School in Texas kills ten people.
 <br/><br/>
 En 2018 : Cubana de Aviación Flight 972 crashes in Santiago de las Vegas after takeoff from José Martí International Airport in Havana, Cuba, killing 112 of the 113 people on board.
 <br/><br/>
-En 2015 : At least 78 people died in a landslide caused by heavy rains in the Colombian town of Salgar.
+En 2015 : At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.
 <br/><br/>
 En 2009 : The LTTE are defeated by the Sri Lankan government, ending almost 26 years of fighting between the two sides.
 <br/><br/>
