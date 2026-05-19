@@ -78,7 +78,7 @@ En 1900 : Second Boer War: British troops relieve Mafeking.
 <br/><br/>
 En 1883 : Buffalo Bill's first Buffalo Bill's Wild West opens in Omaha, Nebraska.
 <br/><br/>
-En 1848 : Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.
+En 1848 : Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo, thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.
 <br/><br/>
 En 1845 : Captain Sir John Franklin and his ill-fated Arctic expedition depart from Greenhithe, England.
 <br/><br/>
@@ -88,13 +88,13 @@ En 1802 : Napoleon Bonaparte founds the Legion of Honour.
 <br/><br/>
 En 1798 : Napoleon Bonaparte and his expedition force leave France to invade Egypt.
 <br/><br/>
-En 1780 : New England's Dark Day, an unusual darkening of the day sky, was observed over the New England states and parts of Canada.
+En 1780 : New England's Dark Day, an unusual darkening of the day sky, is observed over the New England states and parts of Canada.
 <br/><br/>
 En 1776 : American Revolutionary War: A Continental Army garrison surrenders in the Battle of The Cedars.
 <br/><br/>
 En 1749 : King George II of Great Britain grants the Ohio Company a charter of land around the forks of the Ohio River.
 <br/><br/>
-En 1743 : Jean-Pierre Christin developed the centigrade temperature scale.
+En 1743 : Jean-Pierre Christin develops the centigrade temperature scale.
 <br/><br/>
 En 1674 : John III Sobieski becomes king of Poland-Lithuania.
 <br/><br/>
@@ -120,7 +120,7 @@ En 934 : The Byzantine Empire reconquers Melitene under the leadership of John K
 <br/><br/>
 En 715 : Pope Gregory II is elected.
 <br/><br/>
-En 639 : Ashina Jiesheshuai and his tribesmen assaulted Emperor Taizong at Jiucheng Palace.
+En 639 : Ashina Jiesheshuai and his tribesmen assault Emperor Taizong at Jiucheng Palace.
 <br/><br/>
 En 2024 : A helicopter crash in Iran leaves 8 people dead, including the country's president Ebrahim Raisi & foreign minister Hossein Amir-Abdollahian.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1900 : Second Boer War: British troops relieve Mafeking.
 <br/><br/>
 En 1883 : Buffalo Bill's first Buffalo Bill's Wild West opens in Omaha, Nebraska.
 <br/><br/>
-En 1848 : Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.
+En 1848 : Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo, thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.
 <br/><br/>
 En 1845 : Captain Sir John Franklin and his ill-fated Arctic expedition depart from Greenhithe, England.
 <br/><br/>
@@ -204,13 +204,13 @@ En 1802 : Napoleon Bonaparte founds the Legion of Honour.
 <br/><br/>
 En 1798 : Napoleon Bonaparte and his expedition force leave France to invade Egypt.
 <br/><br/>
-En 1780 : New England's Dark Day, an unusual darkening of the day sky, was observed over the New England states and parts of Canada.
+En 1780 : New England's Dark Day, an unusual darkening of the day sky, is observed over the New England states and parts of Canada.
 <br/><br/>
 En 1776 : American Revolutionary War: A Continental Army garrison surrenders in the Battle of The Cedars.
 <br/><br/>
 En 1749 : King George II of Great Britain grants the Ohio Company a charter of land around the forks of the Ohio River.
 <br/><br/>
-En 1743 : Jean-Pierre Christin developed the centigrade temperature scale.
+En 1743 : Jean-Pierre Christin develops the centigrade temperature scale.
 <br/><br/>
 En 1674 : John III Sobieski becomes king of Poland-Lithuania.
 <br/><br/>
@@ -236,5 +236,5 @@ En 934 : The Byzantine Empire reconquers Melitene under the leadership of John K
 <br/><br/>
 En 715 : Pope Gregory II is elected.
 <br/><br/>
-En 639 : Ashina Jiesheshuai and his tribesmen assaulted Emperor Taizong at Jiucheng Palace.
+En 639 : Ashina Jiesheshuai and his tribesmen assault Emperor Taizong at Jiucheng Palace.
 <br/><br/>
