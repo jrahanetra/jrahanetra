@@ -50,8 +50,6 @@ En 1959 : The North Vietnamese Army establishes Group 559, whose responsibility 
 <br/><br/>
 En 1950 : A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city.
 <br/><br/>
-En 1950 : Egypt announces that the Suez Canal is closed to Israeli ships and commerce.
-<br/><br/>
 En 1945 : Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis.
 <br/><br/>
 En 1943 : Winston Churchill's second wartime address to the U.S. Congress
@@ -165,8 +163,6 @@ En 1961 : At Silchar Railway Station, Assam, 11 Bengalis die when police open fi
 En 1959 : The North Vietnamese Army establishes Group 559, whose responsibility is to determine how to maintain supply lines to South Vietnam; the resulting route is the Ho Chi Minh trail.
 <br/><br/>
 En 1950 : A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city.
-<br/><br/>
-En 1950 : Egypt announces that the Suez Canal is closed to Israeli ships and commerce.
 <br/><br/>
 En 1945 : Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis.
 <br/><br/>
