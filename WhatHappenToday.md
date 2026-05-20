@@ -10,7 +10,7 @@ En 2022 : Russo-Ukrainian war: Russia claims full control of the Ukrainian city 
 <br/><br/>
 En 2019 : The International System of Units (SI): The base units are redefined, making the international prototype of the kilogram obsolete.
 <br/><br/>
-En 2016 : The government of Singapore authorised the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite the international pleas for clemency, notably from Amnesty International and the United Nations.
+En 2016 : The government of Singapore authorises the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite international pleas for clemency, notably from Amnesty International and the United Nations.
 <br/><br/>
 En 2013 : An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others.
 <br/><br/>
@@ -54,7 +54,7 @@ En 1949 : In the United States, the Armed Forces Security Agency, the predecesso
 <br/><br/>
 En 1948 : Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.
 <br/><br/>
-En 1943 : The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928–3651 BC), was discovered near Luttra, Sweden.
+En 1943 : The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928–3651 BC), is discovered near Luttra, Sweden.
 <br/><br/>
 En 1941 : World War II: Battle of Crete: German paratroops invade Crete.
 <br/><br/>
@@ -138,7 +138,7 @@ En 2022 : Russo-Ukrainian war: Russia claims full control of the Ukrainian city 
 <br/><br/>
 En 2019 : The International System of Units (SI): The base units are redefined, making the international prototype of the kilogram obsolete.
 <br/><br/>
-En 2016 : The government of Singapore authorised the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite the international pleas for clemency, notably from Amnesty International and the United Nations.
+En 2016 : The government of Singapore authorises the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite international pleas for clemency, notably from Amnesty International and the United Nations.
 <br/><br/>
 En 2013 : An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1949 : In the United States, the Armed Forces Security Agency, the predecesso
 <br/><br/>
 En 1948 : Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.
 <br/><br/>
-En 1943 : The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928–3651 BC), was discovered near Luttra, Sweden.
+En 1943 : The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928–3651 BC), is discovered near Luttra, Sweden.
 <br/><br/>
 En 1941 : World War II: Battle of Crete: German paratroops invade Crete.
 <br/><br/>
