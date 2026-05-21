@@ -6,13 +6,13 @@
 <hr/>
 <h1> What happen this day 21/5 ?(Hover on the year)</h1>
 
-En 2024 : The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history.
+En 2024 : The Greenfield tornado kills five and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history.
 <br/><br/>
 En 2024 : A stabbing spree on the Green line of the Taichung MRT injures four people, including the perpetrator.
 <br/><br/>
-En 2017 : Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum.
+En 2017 : Ringling Bros. and Barnum & Bailey Circus perform their final show at Nassau Veterans Memorial Coliseum.
 <br/><br/>
-En 2014 : Random killings occurred on the Bannan Line of the Taipei MRT, killing four and injuring 24.
+En 2014 : Random killings occur on the Bannan Line of the Taipei MRT, killing four and injuring 24.
 <br/><br/>
 En 2012 : A bus accident near Himara, Albania kills 13 people and injures 21 others.
 <br/><br/>
@@ -38,11 +38,11 @@ En 1998 : President Suharto of Indonesia resigns following the killing of studen
 <br/><br/>
 En 1996 : The ferry MV Bukoba sinks in Tanzanian waters on Lake Victoria, killing nearly 1,000.
 <br/><br/>
-En 1996 : The seven Trappist monks of Tibhirine that were abducted on March 27 are killed under uncertain circumstances.
+En 1996 : The seven Trappist monks of Tibhirine who were abducted on March 27 are killed under uncertain circumstances.
 <br/><br/>
 En 1994 : The Democratic Republic of Yemen unsuccessfully attempts to secede from the Republic of Yemen; a war breaks out.
 <br/><br/>
-En 1992 : After 30 seasons Johnny Carson hosted his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
+En 1992 : After 30 seasons Johnny Carson hosts his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
 <br/><br/>
 En 1991 : Former Indian Prime Minister Rajiv Gandhi is assassinated by a female suicide bomber near Madras.
 <br/><br/>
@@ -156,13 +156,13 @@ En 878 : Syracuse, Sicily, is captured by the Muslim Aghlabids after a nine-mont
 <br/><br/>
 En 293 : Roman Emperors Diocletian and Maximian appoint Galerius as Caesar to Diocletian, beginning the period of four rulers known as the Tetrarchy.
 <br/><br/>
-En 2024 : The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history.
+En 2024 : The Greenfield tornado kills five and injures 35 across rural Iowa, United States. Wind speeds in excess of 480 kilometres per hour (300 mph) are estimated from measurements for the third time in history.
 <br/><br/>
 En 2024 : A stabbing spree on the Green line of the Taichung MRT injures four people, including the perpetrator.
 <br/><br/>
-En 2017 : Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum.
+En 2017 : Ringling Bros. and Barnum & Bailey Circus perform their final show at Nassau Veterans Memorial Coliseum.
 <br/><br/>
-En 2014 : Random killings occurred on the Bannan Line of the Taipei MRT, killing four and injuring 24.
+En 2014 : Random killings occur on the Bannan Line of the Taipei MRT, killing four and injuring 24.
 <br/><br/>
 En 2012 : A bus accident near Himara, Albania kills 13 people and injures 21 others.
 <br/><br/>
@@ -188,11 +188,11 @@ En 1998 : President Suharto of Indonesia resigns following the killing of studen
 <br/><br/>
 En 1996 : The ferry MV Bukoba sinks in Tanzanian waters on Lake Victoria, killing nearly 1,000.
 <br/><br/>
-En 1996 : The seven Trappist monks of Tibhirine that were abducted on March 27 are killed under uncertain circumstances.
+En 1996 : The seven Trappist monks of Tibhirine who were abducted on March 27 are killed under uncertain circumstances.
 <br/><br/>
 En 1994 : The Democratic Republic of Yemen unsuccessfully attempts to secede from the Republic of Yemen; a war breaks out.
 <br/><br/>
-En 1992 : After 30 seasons Johnny Carson hosted his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
+En 1992 : After 30 seasons Johnny Carson hosts his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
 <br/><br/>
 En 1991 : Former Indian Prime Minister Rajiv Gandhi is assassinated by a female suicide bomber near Madras.
 <br/><br/>
