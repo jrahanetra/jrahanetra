@@ -22,7 +22,7 @@ En 2014 : An explosion occurs in Ürümqi, capital of China's far-western Xinjia
 <br/><br/>
 En 2013 : Fusilier Lee Rigby is murdered by two Islamic extremists in Woolwich, Southeast London.
 <br/><br/>
-En 2012 : Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the second tallest man-made structure on Earth after Burj Khalifa (829.8 m).
+En 2012 : Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the third tallest man-made structure on Earth after Merdeka 118 (680.5 m) and Burj Khalifa (829.8 m).
 <br/><br/>
 En 2012 : SpaceX COTS Demo Flight 2 launches a Dragon capsule on a Falcon 9 rocket in the first commercial flight to the International Space Station.
 <br/><br/>
@@ -178,7 +178,7 @@ En 2014 : An explosion occurs in Ürümqi, capital of China's far-western Xinjia
 <br/><br/>
 En 2013 : Fusilier Lee Rigby is murdered by two Islamic extremists in Woolwich, Southeast London.
 <br/><br/>
-En 2012 : Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the second tallest man-made structure on Earth after Burj Khalifa (829.8 m).
+En 2012 : Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the third tallest man-made structure on Earth after Merdeka 118 (680.5 m) and Burj Khalifa (829.8 m).
 <br/><br/>
 En 2012 : SpaceX COTS Demo Flight 2 launches a Dragon capsule on a Falcon 9 rocket in the first commercial flight to the International Space Station.
 <br/><br/>
