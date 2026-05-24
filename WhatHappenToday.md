@@ -38,7 +38,7 @@ En 1991 : Israel conducts Operation Solomon, evacuating Ethiopian Jews to Israel
 <br/><br/>
 En 1988 : Section 28 of the United Kingdom's Local Government Act 1988, a controversial amendment stating that a local authority cannot intentionally promote homosexuality, is enacted.
 <br/><br/>
-En 1982 : Liberation of Khorramshahr: Iranians recapture of the port city of Khorramshahr from the Iraqis during the Iran–Iraq War.
+En 1982 : Liberation of Khorramshahr: Iranians recapture the port city of Khorramshahr from the Iraqis during the Iran–Iraq War.
 <br/><br/>
 En 1981 : Ecuadorian president Jaime Roldós Aguilera, his wife, and his presidential committee die in an aircraft accident while travelling from Quito to Zapotillo minutes after the president gave a famous speech regarding the 24 de mayo anniversary of the Battle of Pichincha.
 <br/><br/>
@@ -152,7 +152,7 @@ En 1991 : Israel conducts Operation Solomon, evacuating Ethiopian Jews to Israel
 <br/><br/>
 En 1988 : Section 28 of the United Kingdom's Local Government Act 1988, a controversial amendment stating that a local authority cannot intentionally promote homosexuality, is enacted.
 <br/><br/>
-En 1982 : Liberation of Khorramshahr: Iranians recapture of the port city of Khorramshahr from the Iraqis during the Iran–Iraq War.
+En 1982 : Liberation of Khorramshahr: Iranians recapture the port city of Khorramshahr from the Iraqis during the Iran–Iraq War.
 <br/><br/>
 En 1981 : Ecuadorian president Jaime Roldós Aguilera, his wife, and his presidential committee die in an aircraft accident while travelling from Quito to Zapotillo minutes after the president gave a famous speech regarding the 24 de mayo anniversary of the Battle of Pichincha.
 <br/><br/>
