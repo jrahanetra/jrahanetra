@@ -120,7 +120,7 @@ En 1521 : The Diet of Worms ends when Charles V, Holy Roman Emperor, issues the 
 <br/><br/>
 En 1420 : Henry the Navigator is appointed governor of the Order of Christ.
 <br/><br/>
-En 1085 : Alfonso VI of Castile takes Toledo, Spain, back from the Moors.
+En 1085 : Alfonso VI of Castile takes Toledo, Spain, back from the Moors after a siege.
 <br/><br/>
 En -240 : First recorded perihelion passage of Halley's Comet.
 <br/><br/>
@@ -240,7 +240,7 @@ En 1521 : The Diet of Worms ends when Charles V, Holy Roman Emperor, issues the 
 <br/><br/>
 En 1420 : Henry the Navigator is appointed governor of the Order of Christ.
 <br/><br/>
-En 1085 : Alfonso VI of Castile takes Toledo, Spain, back from the Moors.
+En 1085 : Alfonso VI of Castile takes Toledo, Spain, back from the Moors after a siege.
 <br/><br/>
 En -240 : First recorded perihelion passage of Halley's Comet.
 <br/><br/>
