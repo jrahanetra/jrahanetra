@@ -92,7 +92,7 @@ En 1868 : Impeachment of Andrew Johnson: President Andrew Johnson is acquitted b
 <br/><br/>
 En 1865 : Conclusion of the American Civil War: The Confederate General Edmund Kirby Smith, commander of the Trans-Mississippi division, is the last full general of the Confederate Army to surrender, at Galveston, Texas.
 <br/><br/>
-En 1864 : Montana is organized as a United States territory.
+En 1864 : President Abraham Lincoln signs legislation organizing the Montana Territory.
 <br/><br/>
 En 1822 : At least 113 people die in the Grue Church fire, the biggest fire disaster in Norway's history.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1868 : Impeachment of Andrew Johnson: President Andrew Johnson is acquitted b
 <br/><br/>
 En 1865 : Conclusion of the American Civil War: The Confederate General Edmund Kirby Smith, commander of the Trans-Mississippi division, is the last full general of the Confederate Army to surrender, at Galveston, Texas.
 <br/><br/>
-En 1864 : Montana is organized as a United States territory.
+En 1864 : President Abraham Lincoln signs legislation organizing the Montana Territory.
 <br/><br/>
 En 1822 : At least 113 people die in the Grue Church fire, the biggest fire disaster in Norway's history.
 <br/><br/>
