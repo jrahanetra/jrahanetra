@@ -34,7 +34,7 @@ En 1980 : The Gwangju Massacre: Airborne and army troops of South Korea retake t
 <br/><br/>
 En 1977 : A plane crash at José Martí International Airport in Havana, Cuba, kills 67.
 <br/><br/>
-En 1975 : Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33 – the highest ever death toll in a road accident in the United Kingdom.
+En 1975 : Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33, the highest ever death toll in a road accident in the United Kingdom.
 <br/><br/>
 En 1971 : The Dahlerau train disaster, the worst railway accident in West Germany, kills 46 people and injures 25 near Wuppertal.
 <br/><br/>
@@ -144,7 +144,7 @@ En 1980 : The Gwangju Massacre: Airborne and army troops of South Korea retake t
 <br/><br/>
 En 1977 : A plane crash at José Martí International Airport in Havana, Cuba, kills 67.
 <br/><br/>
-En 1975 : Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33 – the highest ever death toll in a road accident in the United Kingdom.
+En 1975 : Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33, the highest ever death toll in a road accident in the United Kingdom.
 <br/><br/>
 En 1971 : The Dahlerau train disaster, the worst railway accident in West Germany, kills 46 people and injures 25 near Wuppertal.
 <br/><br/>
