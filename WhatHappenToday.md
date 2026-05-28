@@ -98,7 +98,7 @@ En 1533 : The Archbishop of Canterbury, Thomas Cranmer, declares the marriage of
 <br/><br/>
 En 1347 : Marriage of Byzantine Emperor John V Palaiologos and Helena Kantakouzene.
 <br/><br/>
-En 1242 : Avignonet massacre: A group of Cathars, with the probable connivance of Count Raymond VII of Toulouse, murdered the inquisitor William Arnaud and eleven of his companions.
+En 1242 : Avignonet massacre: A group of Cathars, with the probable connivance of Count Raymond VII of Toulouse, murder the inquisitor William Arnaud and eleven of his companions.
 <br/><br/>
 En 934 : English king Æthelstan begins his invasion of Scotland.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1533 : The Archbishop of Canterbury, Thomas Cranmer, declares the marriage of
 <br/><br/>
 En 1347 : Marriage of Byzantine Emperor John V Palaiologos and Helena Kantakouzene.
 <br/><br/>
-En 1242 : Avignonet massacre: A group of Cathars, with the probable connivance of Count Raymond VII of Toulouse, murdered the inquisitor William Arnaud and eleven of his companions.
+En 1242 : Avignonet massacre: A group of Cathars, with the probable connivance of Count Raymond VII of Toulouse, murder the inquisitor William Arnaud and eleven of his companions.
 <br/><br/>
 En 934 : English king Æthelstan begins his invasion of Scotland.
 <br/><br/>
