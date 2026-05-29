@@ -42,7 +42,7 @@ En 1985 : Amputee Steve Fonyo completes cross-Canada marathon at Victoria, Briti
 <br/><br/>
 En 1982 : Pope John Paul II becomes the first pontiff to visit Canterbury Cathedral.
 <br/><br/>
-En 1982 : Falklands War: the British Army defeats the Argentine Army at the Battle of Goose Green.
+En 1982 : Falklands War: The British Army defeats the Argentine Army at the Battle of Goose Green.
 <br/><br/>
 En 1974 : SETA, a Finnish LGBT rights organisation, is founded in Helsinki.
 <br/><br/>
@@ -50,7 +50,7 @@ En 1973 : Tom Bradley is elected the first black mayor of Los Angeles, Californi
 <br/><br/>
 En 1964 : The Arab League meets in East Jerusalem to discuss the Palestinian question, leading to the formation of the Palestine Liberation Organization.
 <br/><br/>
-En 1964 : Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh had rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
+En 1964 : Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh has rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
 <br/><br/>
 En 1962 : Chinese police open fire on protesters in Yining, Xinjiang, killing at least five people and wounding a dozen others.
 <br/><br/>
@@ -70,13 +70,13 @@ En 1932 : World War I veterans begin to assemble in Washington, D.C., in the Bon
 <br/><br/>
 En 1931 : Michele Schirru, a citizen of the United States, is executed by a Royal Italian Army firing squad for intent to kill Benito Mussolini.
 <br/><br/>
-En 1920 : The Louth flood of 1920 was a severe flash flooding in the Lincolnshire market town of Louth, resulting in 23 fatalities in 20 minutes. It has been described as one of the most significant flood disasters in the United Kingdom during the 20th century.
+En 1920 : The Louth flood of 1920, a severe flash flood in the Lincolnshire market town of Louth, results in 23 fatalities in 20 minutes. It has been described as one of the most significant flood disasters in the United Kingdom during the 20th century.
 <br/><br/>
 En 1919 : Albert Einstein's theory of general relativity is tested (later confirmed) by Arthur Eddington and Andrew Claude de la Cherois Crommelin.
 <br/><br/>
 En 1918 : Armenia defeats the Ottoman Army in the Battle of Sardarabad.
 <br/><br/>
-En 1914 : The Ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
+En 1914 : The ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
 <br/><br/>
 En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a riot.
 <br/><br/>
@@ -96,9 +96,9 @@ En 1852 : Jenny Lind leaves New York after her two-year American tour.
 <br/><br/>
 En 1851 : Sojourner Truth delivers her famous Ain't I a Woman? speech at the Woman's Rights Convention in Akron, Ohio.
 <br/><br/>
-En 1825 : The Coronation of Charles X of France takes place in Reims Cathedral, the last ever coronation of a French monarch.
+En 1825 : The Coronation of Charles X of France takes place in Reims Cathedral, the last-ever coronation of a French monarch.
 <br/><br/>
-En 1807 : Mustafa IV became Sultan of the Ottoman Empire and Caliph of Islam.
+En 1807 : Mustafa IV becomes Sultan of the Ottoman Empire and Caliph of Islam.
 <br/><br/>
 En 1798 : United Irishmen Rebellion: Between 300 and 500 United Irishmen are executed as rebels by the British Army in County Kildare, Ireland.
 <br/><br/>
@@ -110,7 +110,7 @@ En 1733 : The right of settlers in New France to enslave natives is upheld at Qu
 <br/><br/>
 En 1660 : English Restoration: Charles II is restored to the thrones of England, Scotland and Ireland.
 <br/><br/>
-En 1658 : Battle of Samugarh: decisive battle in the struggle for the throne during the Mughal war of succession (1658–1659).
+En 1658 : Battle of Samugarh: Decisive battle in the struggle for the throne during the Mughal war of succession (1658–1659).
 <br/><br/>
 En 1555 : The Ottoman Empire and the Safavid Empire sign a peace treaty to end the Ottoman–Safavid War of 1532–1555.
 <br/><br/>
@@ -120,7 +120,7 @@ En 1416 : Battle of Gallipoli: The Venetians under Pietro Loredan defeat a much 
 <br/><br/>
 En 1328 : Philip VI is crowned King of France.
 <br/><br/>
-En 1233 : Mongol–Jin war: The Mongols entered Kaifeng after a successful siege and began looting in the fallen capital of the Jin dynasty.
+En 1233 : Mongol–Jin war: The Mongols enter Kaifeng after a successful siege and begin looting in the fallen capital of the Jin dynasty.
 <br/><br/>
 En 1176 : Battle of Legnano: The Lombard League defeats Emperor Frederick I.
 <br/><br/>
@@ -172,7 +172,7 @@ En 1985 : Amputee Steve Fonyo completes cross-Canada marathon at Victoria, Briti
 <br/><br/>
 En 1982 : Pope John Paul II becomes the first pontiff to visit Canterbury Cathedral.
 <br/><br/>
-En 1982 : Falklands War: the British Army defeats the Argentine Army at the Battle of Goose Green.
+En 1982 : Falklands War: The British Army defeats the Argentine Army at the Battle of Goose Green.
 <br/><br/>
 En 1974 : SETA, a Finnish LGBT rights organisation, is founded in Helsinki.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1973 : Tom Bradley is elected the first black mayor of Los Angeles, Californi
 <br/><br/>
 En 1964 : The Arab League meets in East Jerusalem to discuss the Palestinian question, leading to the formation of the Palestine Liberation Organization.
 <br/><br/>
-En 1964 : Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh had rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
+En 1964 : Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh has rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
 <br/><br/>
 En 1962 : Chinese police open fire on protesters in Yining, Xinjiang, killing at least five people and wounding a dozen others.
 <br/><br/>
@@ -200,13 +200,13 @@ En 1932 : World War I veterans begin to assemble in Washington, D.C., in the Bon
 <br/><br/>
 En 1931 : Michele Schirru, a citizen of the United States, is executed by a Royal Italian Army firing squad for intent to kill Benito Mussolini.
 <br/><br/>
-En 1920 : The Louth flood of 1920 was a severe flash flooding in the Lincolnshire market town of Louth, resulting in 23 fatalities in 20 minutes. It has been described as one of the most significant flood disasters in the United Kingdom during the 20th century.
+En 1920 : The Louth flood of 1920, a severe flash flood in the Lincolnshire market town of Louth, results in 23 fatalities in 20 minutes. It has been described as one of the most significant flood disasters in the United Kingdom during the 20th century.
 <br/><br/>
 En 1919 : Albert Einstein's theory of general relativity is tested (later confirmed) by Arthur Eddington and Andrew Claude de la Cherois Crommelin.
 <br/><br/>
 En 1918 : Armenia defeats the Ottoman Army in the Battle of Sardarabad.
 <br/><br/>
-En 1914 : The Ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
+En 1914 : The ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
 <br/><br/>
 En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a riot.
 <br/><br/>
@@ -226,9 +226,9 @@ En 1852 : Jenny Lind leaves New York after her two-year American tour.
 <br/><br/>
 En 1851 : Sojourner Truth delivers her famous Ain't I a Woman? speech at the Woman's Rights Convention in Akron, Ohio.
 <br/><br/>
-En 1825 : The Coronation of Charles X of France takes place in Reims Cathedral, the last ever coronation of a French monarch.
+En 1825 : The Coronation of Charles X of France takes place in Reims Cathedral, the last-ever coronation of a French monarch.
 <br/><br/>
-En 1807 : Mustafa IV became Sultan of the Ottoman Empire and Caliph of Islam.
+En 1807 : Mustafa IV becomes Sultan of the Ottoman Empire and Caliph of Islam.
 <br/><br/>
 En 1798 : United Irishmen Rebellion: Between 300 and 500 United Irishmen are executed as rebels by the British Army in County Kildare, Ireland.
 <br/><br/>
@@ -240,7 +240,7 @@ En 1733 : The right of settlers in New France to enslave natives is upheld at Qu
 <br/><br/>
 En 1660 : English Restoration: Charles II is restored to the thrones of England, Scotland and Ireland.
 <br/><br/>
-En 1658 : Battle of Samugarh: decisive battle in the struggle for the throne during the Mughal war of succession (1658–1659).
+En 1658 : Battle of Samugarh: Decisive battle in the struggle for the throne during the Mughal war of succession (1658–1659).
 <br/><br/>
 En 1555 : The Ottoman Empire and the Safavid Empire sign a peace treaty to end the Ottoman–Safavid War of 1532–1555.
 <br/><br/>
@@ -250,7 +250,7 @@ En 1416 : Battle of Gallipoli: The Venetians under Pietro Loredan defeat a much 
 <br/><br/>
 En 1328 : Philip VI is crowned King of France.
 <br/><br/>
-En 1233 : Mongol–Jin war: The Mongols entered Kaifeng after a successful siege and began looting in the fallen capital of the Jin dynasty.
+En 1233 : Mongol–Jin war: The Mongols enter Kaifeng after a successful siege and begin looting in the fallen capital of the Jin dynasty.
 <br/><br/>
 En 1176 : Battle of Legnano: The Lombard League defeats Emperor Frederick I.
 <br/><br/>
