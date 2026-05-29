@@ -78,7 +78,7 @@ En 1918 : Armenia defeats the Ottoman Army in the Battle of Sardarabad.
 <br/><br/>
 En 1914 : The ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
 <br/><br/>
-En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a riot.
+En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a near-riot.
 <br/><br/>
 En 1903 : In the May Coup, Alexander I, King of Serbia, and Queen Draga, are assassinated in Belgrade by the Black Hand (Crna Ruka) organization.
 <br/><br/>
@@ -208,7 +208,7 @@ En 1918 : Armenia defeats the Ottoman Army in the Battle of Sardarabad.
 <br/><br/>
 En 1914 : The ocean liner RMS Empress of Ireland sinks in the Gulf of Saint Lawrence with the loss of 1,012 lives.
 <br/><br/>
-En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a riot.
+En 1913 : Igor Stravinsky's ballet score The Rite of Spring receives its premiere performance in Paris, France, provoking a near-riot.
 <br/><br/>
 En 1903 : In the May Coup, Alexander I, King of Serbia, and Queen Draga, are assassinated in Belgrade by the Black Hand (Crna Ruka) organization.
 <br/><br/>
