@@ -8,7 +8,7 @@
 
 En 2024 : Donald Trump is convicted of falsifying business records in his New York trial, the first time a former President of the United States has been found guilty in a criminal case.
 <br/><br/>
-En 2020 : The Crew Dragon Demo-2 launches from the Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
+En 2020 : Crew Dragon Demo-2 launches from Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
 <br/><br/>
 En 2013 : Nigeria passes a law banning same-sex marriage.
 <br/><br/>
@@ -22,7 +22,7 @@ En 2003 : Depayin massacre: At least 70 people associated with the National Leag
 <br/><br/>
 En 1999 : 53 people are killed in a stampede at the Nyamiha metro station in Minsk, Belarus.
 <br/><br/>
-En 1998 : The 6.5 Mw  Afghanistan earthquake shook the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000–4,500.
+En 1998 : The 6.5 Mw  Afghanistan earthquake shakes the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000–4,500.
 <br/><br/>
 En 1998 : Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.
 <br/><br/>
@@ -34,7 +34,7 @@ En 1982 : Cold War: Spain joins NATO.
 <br/><br/>
 En 1979 : Downeast Airlines Flight 46 crashes on approach to Knox County Regional Airport in Rockland, Maine, killing 17.
 <br/><br/>
-En 1975 : European Space Agency is established.
+En 1975 : The European Space Agency is established.
 <br/><br/>
 En 1974 : The Airbus A300 passenger aircraft first enters service.
 <br/><br/>
@@ -44,7 +44,7 @@ En 1972 : In Ben Gurion Airport (at the time: Lod Airport), Israel, members of t
 <br/><br/>
 En 1971 : Mariner program: Mariner 9 is launched to map 70% of the surface, and to study temporal changes in the atmosphere and surface, of Mars.
 <br/><br/>
-En 1968 : Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of May 1968 events in France.
+En 1968 : Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of the May 1968 events in France.
 <br/><br/>
 En 1967 : The Nigerian Eastern Region declares independence as the Republic of Biafra, sparking a civil war.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1925 : May Thirtieth Movement: Shanghai Municipal Police Force shoot and kill
 <br/><br/>
 En 1922 : The Lincoln Memorial is dedicated in Washington, D.C.
 <br/><br/>
-En 1914 : The new, and then the largest, Cunard ocean liner RMS Aquitania, 45,647 tons, sets sails on her maiden voyage from Liverpool, England, to New York City.
+En 1914 : The new, and then the largest, Cunard ocean liner RMS Aquitania, 45,647 tons, sets sail on her maiden voyage from Liverpool, England, to New York City.
 <br/><br/>
 En 1913 : The Treaty of London is signed, ending the First Balkan War between the Balkan allies and the Ottoman Empire. The Ottomans cede all their European territories west of a straight line between Enos and Media and Albania becomes an independent nation.
 <br/><br/>
@@ -86,17 +86,17 @@ En 1883 : In New York City, 12 people are killed in a stampede on the recently o
 <br/><br/>
 En 1876 : Ottoman sultan Abdülaziz is deposed and succeeded by his nephew Murad V.
 <br/><br/>
-En 1876 : The secret decree of Ems Ukaz, issued by Russian Tsar Alexander II in the German city of Bad Ems, was aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.
+En 1876 : The secret decree of Ems Ukaz is issued by Russian Tsar Alexander II in the German city of Bad Ems, aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.
 <br/><br/>
 En 1868 : Decoration Day (the predecessor of the modern "Memorial Day") is observed in the United States for the first time after a proclamation by John A. Logan, head of the Grand Army of the Republic (a veterans group).
 <br/><br/>
-En 1866 : Bedrich Smetana's comic opera The Bartered Bride premiered in Prague.
+En 1866 : Bedrich Smetana's comic opera The Bartered Bride premieres in Prague.
 <br/><br/>
 En 1862 : American Civil War: The Siege of Corinth ends in a Union victory, with General Henry Halleck capturing the critical rail junction of Corinth, Mississippi from retreating Confederate forces under General P. G. T. Beauregard.
 <br/><br/>
-En 1854 : The Kansas–Nebraska Act becomes law establishing the U.S. territories of Kansas and Nebraska.
+En 1854 : The Kansas–Nebraska Act becomes law, establishing the U.S. territories of Kansas and Nebraska.
 <br/><br/>
-En 1845 : The Fatel Razack coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.
+En 1845 : The Fatel Razack, coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.
 <br/><br/>
 En 1842 : John Francis attempts to murder Queen Victoria as she drives down Constitution Hill in London with Prince Albert.
 <br/><br/>
@@ -110,7 +110,7 @@ En 1806 : Future U.S. President Andrew Jackson kills Charles Dickinson in a duel
 <br/><br/>
 En 1796 : War of the First Coalition: In the Battle of Borghetto, Napoleon Bonaparte manages to cross the Mincio River against the Austrian army. This crossing forces the Austrians to abandon Lombardy and retreat to the Tyrol, leaving the fortress of Mantua as the sole remaining Austrian stronghold in Northern Italy.
 <br/><br/>
-En 1723 : Johann Sebastian Bach assumed the office of Thomaskantor in Leipzig, presenting his first new cantata, Die Elenden sollen essen, BWV 75, in the St. Nicholas Church on the first Sunday after Trinity.
+En 1723 : Johann Sebastian Bach assumes the office of Thomaskantor in Leipzig, presenting his first new cantata, Die Elenden sollen essen, BWV 75, in the St. Nicholas Church on the first Sunday after Trinity.
 <br/><br/>
 En 1642 : From this date all honors granted by Charles I of England are retroactively annulled by Parliament.
 <br/><br/>
@@ -140,7 +140,7 @@ En 70 : Siege of Jerusalem: Titus and his Roman legions breach the Second Wall o
 <br/><br/>
 En 2024 : Donald Trump is convicted of falsifying business records in his New York trial, the first time a former President of the United States has been found guilty in a criminal case.
 <br/><br/>
-En 2020 : The Crew Dragon Demo-2 launches from the Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
+En 2020 : Crew Dragon Demo-2 launches from Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
 <br/><br/>
 En 2013 : Nigeria passes a law banning same-sex marriage.
 <br/><br/>
@@ -154,7 +154,7 @@ En 2003 : Depayin massacre: At least 70 people associated with the National Leag
 <br/><br/>
 En 1999 : 53 people are killed in a stampede at the Nyamiha metro station in Minsk, Belarus.
 <br/><br/>
-En 1998 : The 6.5 Mw  Afghanistan earthquake shook the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000–4,500.
+En 1998 : The 6.5 Mw  Afghanistan earthquake shakes the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000–4,500.
 <br/><br/>
 En 1998 : Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.
 <br/><br/>
@@ -166,7 +166,7 @@ En 1982 : Cold War: Spain joins NATO.
 <br/><br/>
 En 1979 : Downeast Airlines Flight 46 crashes on approach to Knox County Regional Airport in Rockland, Maine, killing 17.
 <br/><br/>
-En 1975 : European Space Agency is established.
+En 1975 : The European Space Agency is established.
 <br/><br/>
 En 1974 : The Airbus A300 passenger aircraft first enters service.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1972 : In Ben Gurion Airport (at the time: Lod Airport), Israel, members of t
 <br/><br/>
 En 1971 : Mariner program: Mariner 9 is launched to map 70% of the surface, and to study temporal changes in the atmosphere and surface, of Mars.
 <br/><br/>
-En 1968 : Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of May 1968 events in France.
+En 1968 : Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of the May 1968 events in France.
 <br/><br/>
 En 1967 : The Nigerian Eastern Region declares independence as the Republic of Biafra, sparking a civil war.
 <br/><br/>
@@ -206,7 +206,7 @@ En 1925 : May Thirtieth Movement: Shanghai Municipal Police Force shoot and kill
 <br/><br/>
 En 1922 : The Lincoln Memorial is dedicated in Washington, D.C.
 <br/><br/>
-En 1914 : The new, and then the largest, Cunard ocean liner RMS Aquitania, 45,647 tons, sets sails on her maiden voyage from Liverpool, England, to New York City.
+En 1914 : The new, and then the largest, Cunard ocean liner RMS Aquitania, 45,647 tons, sets sail on her maiden voyage from Liverpool, England, to New York City.
 <br/><br/>
 En 1913 : The Treaty of London is signed, ending the First Balkan War between the Balkan allies and the Ottoman Empire. The Ottomans cede all their European territories west of a straight line between Enos and Media and Albania becomes an independent nation.
 <br/><br/>
@@ -218,17 +218,17 @@ En 1883 : In New York City, 12 people are killed in a stampede on the recently o
 <br/><br/>
 En 1876 : Ottoman sultan Abdülaziz is deposed and succeeded by his nephew Murad V.
 <br/><br/>
-En 1876 : The secret decree of Ems Ukaz, issued by Russian Tsar Alexander II in the German city of Bad Ems, was aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.
+En 1876 : The secret decree of Ems Ukaz is issued by Russian Tsar Alexander II in the German city of Bad Ems, aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.
 <br/><br/>
 En 1868 : Decoration Day (the predecessor of the modern "Memorial Day") is observed in the United States for the first time after a proclamation by John A. Logan, head of the Grand Army of the Republic (a veterans group).
 <br/><br/>
-En 1866 : Bedrich Smetana's comic opera The Bartered Bride premiered in Prague.
+En 1866 : Bedrich Smetana's comic opera The Bartered Bride premieres in Prague.
 <br/><br/>
 En 1862 : American Civil War: The Siege of Corinth ends in a Union victory, with General Henry Halleck capturing the critical rail junction of Corinth, Mississippi from retreating Confederate forces under General P. G. T. Beauregard.
 <br/><br/>
-En 1854 : The Kansas–Nebraska Act becomes law establishing the U.S. territories of Kansas and Nebraska.
+En 1854 : The Kansas–Nebraska Act becomes law, establishing the U.S. territories of Kansas and Nebraska.
 <br/><br/>
-En 1845 : The Fatel Razack coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.
+En 1845 : The Fatel Razack, coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.
 <br/><br/>
 En 1842 : John Francis attempts to murder Queen Victoria as she drives down Constitution Hill in London with Prince Albert.
 <br/><br/>
@@ -242,7 +242,7 @@ En 1806 : Future U.S. President Andrew Jackson kills Charles Dickinson in a duel
 <br/><br/>
 En 1796 : War of the First Coalition: In the Battle of Borghetto, Napoleon Bonaparte manages to cross the Mincio River against the Austrian army. This crossing forces the Austrians to abandon Lombardy and retreat to the Tyrol, leaving the fortress of Mantua as the sole remaining Austrian stronghold in Northern Italy.
 <br/><br/>
-En 1723 : Johann Sebastian Bach assumed the office of Thomaskantor in Leipzig, presenting his first new cantata, Die Elenden sollen essen, BWV 75, in the St. Nicholas Church on the first Sunday after Trinity.
+En 1723 : Johann Sebastian Bach assumes the office of Thomaskantor in Leipzig, presenting his first new cantata, Die Elenden sollen essen, BWV 75, in the St. Nicholas Church on the first Sunday after Trinity.
 <br/><br/>
 En 1642 : From this date all honors granted by Charles I of England are retroactively annulled by Parliament.
 <br/><br/>
