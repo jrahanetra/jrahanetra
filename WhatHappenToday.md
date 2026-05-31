@@ -16,7 +16,7 @@ En 2013 : The asteroid 1998 QE2 and its moon make their closest approach to Eart
 <br/><br/>
 En 2013 : A record breaking 2.6 mile wide tornado strikes near El Reno, Oklahoma, United States, causing eight fatalities (including three storm chasers) and over 150 injuries.
 <br/><br/>
-En 2010 : Israeli Shayetet 13 commandos boarded the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
+En 2010 : Israeli Shayetet 13 commandos board the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
 <br/><br/>
 En 2008 : Usain Bolt breaks the world record in the 100m sprint, with a wind-legal (+1.7 m/s) 9.72 seconds.
 <br/><br/>
@@ -29,6 +29,8 @@ En 2003 : Air France retires its fleet of Concorde aircraft.
 En 1997 : The Confederation Bridge opens, linking Prince Edward Island with mainland New Brunswick.
 <br/><br/>
 En 1991 : Bicesse Accords in Angola lay out a transition to multi-party democracy under the supervision of the United Nations' UNAVEM II peacekeeping mission.
+<br/><br/>
+En 1986 : The Ariane 2 rocket is launched on its maiden flight, carrying Intelsat VA F-14, but the mission ends in failure.
 <br/><br/>
 En 1985 : United States–Canada tornado outbreak: Forty-one tornadoes hit Ohio, Pennsylvania, New York, and Ontario, leaving 76 dead.
 <br/><br/>
@@ -128,7 +130,7 @@ En 2013 : The asteroid 1998 QE2 and its moon make their closest approach to Eart
 <br/><br/>
 En 2013 : A record breaking 2.6 mile wide tornado strikes near El Reno, Oklahoma, United States, causing eight fatalities (including three storm chasers) and over 150 injuries.
 <br/><br/>
-En 2010 : Israeli Shayetet 13 commandos boarded the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
+En 2010 : Israeli Shayetet 13 commandos board the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
 <br/><br/>
 En 2008 : Usain Bolt breaks the world record in the 100m sprint, with a wind-legal (+1.7 m/s) 9.72 seconds.
 <br/><br/>
@@ -141,6 +143,8 @@ En 2003 : Air France retires its fleet of Concorde aircraft.
 En 1997 : The Confederation Bridge opens, linking Prince Edward Island with mainland New Brunswick.
 <br/><br/>
 En 1991 : Bicesse Accords in Angola lay out a transition to multi-party democracy under the supervision of the United Nations' UNAVEM II peacekeeping mission.
+<br/><br/>
+En 1986 : The Ariane 2 rocket is launched on its maiden flight, carrying Intelsat VA F-14, but the mission ends in failure.
 <br/><br/>
 En 1985 : United States–Canada tornado outbreak: Forty-one tornadoes hit Ohio, Pennsylvania, New York, and Ontario, leaving 76 dead.
 <br/><br/>
