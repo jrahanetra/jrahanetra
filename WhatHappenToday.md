@@ -134,9 +134,9 @@ En 1535 : Combined forces loyal to Charles V attack and expel the Ottomans from 
 <br/><br/>
 En 1533 : Anne Boleyn is crowned Queen of England.
 <br/><br/>
-En 1495 : A monk, John Cor, records the first known batch of Scotch whisky.
+En 1494 : A monk, John Cor, records the first known batch of Scotch whisky.
 <br/><br/>
-En 1412 : The Treaty of Lubowla between the kingdoms of Hungary and Poland is confirmed with one of the largest and magnificent royal meetings and feasts ever held in Buda. King Sigismund of Hungary host king Wladyslaw II Jagiello while several thousand nobles attend.
+En 1412 : The Treaty of Lubowla between the kingdoms of Hungary and Poland is confirmed with one of the largest and magnificent royal meetings and feasts ever held in Buda. King Sigismund of Hungary host king Władysław II Jagiełło while several thousand nobles attend.
 <br/><br/>
 En 1298 : Residents of Riga and the Grand Duchy of Lithuania defeat the Livonian Order in the Battle of Turaida.
 <br/><br/>
@@ -272,9 +272,9 @@ En 1535 : Combined forces loyal to Charles V attack and expel the Ottomans from 
 <br/><br/>
 En 1533 : Anne Boleyn is crowned Queen of England.
 <br/><br/>
-En 1495 : A monk, John Cor, records the first known batch of Scotch whisky.
+En 1494 : A monk, John Cor, records the first known batch of Scotch whisky.
 <br/><br/>
-En 1412 : The Treaty of Lubowla between the kingdoms of Hungary and Poland is confirmed with one of the largest and magnificent royal meetings and feasts ever held in Buda. King Sigismund of Hungary host king Wladyslaw II Jagiello while several thousand nobles attend.
+En 1412 : The Treaty of Lubowla between the kingdoms of Hungary and Poland is confirmed with one of the largest and magnificent royal meetings and feasts ever held in Buda. King Sigismund of Hungary host king Władysław II Jagiełło while several thousand nobles attend.
 <br/><br/>
 En 1298 : Residents of Riga and the Grand Duchy of Lithuania defeat the Livonian Order in the Battle of Turaida.
 <br/><br/>
