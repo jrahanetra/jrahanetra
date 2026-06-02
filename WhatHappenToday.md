@@ -8,11 +8,13 @@
 
 En 2023 : A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
 <br/><br/>
-En 2022 : Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
+En 2022 : Following a request from Ankara, the United Nations officially changes the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
 <br/><br/>
 En 2014 : Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
 <br/><br/>
 En 2012 : Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
+<br/><br/>
+En 2010 : Twelve people are killed and eleven others injured in a spree shooting in Cumbria, England, before the perpetrator takes his own life.
 <br/><br/>
 En 2003 : Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
 <br/><br/>
@@ -34,13 +36,13 @@ En 1966 : Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon,
 <br/><br/>
 En 1964 : The Palestine Liberation Organization (PLO) is formed.
 <br/><br/>
-En 1962 : During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
+En 1962 : During the FIFA World Cup, police intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
 <br/><br/>
 En 1958 : Aeronaves de México Flight 111 crashes on approach to Guadalajara International Airport, killing 45.
 <br/><br/>
 En 1955 : The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
 <br/><br/>
-En 1953 : The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
+En 1953 : The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation, and one of the first major international events, to be televised.
 <br/><br/>
 En 1946 : Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
 <br/><br/>
@@ -72,9 +74,9 @@ En 1774 : Intolerable Acts: The Quartering Act of 1774 is enacted, allowing a go
 <br/><br/>
 En 1763 : Pontiac's Rebellion: At what is now Mackinaw City, Michigan, Chippewas capture Fort Michilimackinac by diverting the garrison's attention with a game of lacrosse, then chasing a ball into the fort.
 <br/><br/>
-En 1692 : Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she was found guilty the same day and hanged on June 10.
+En 1692 : Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she is found guilty the same day and hanged on June 10.
 <br/><br/>
-En 1676 : Franco-Dutch War: France ensured the supremacy of its naval fleet for the remainder of the war with its victory in the Battle of Palermo.
+En 1676 : Franco-Dutch War: France ensures the supremacy of its naval fleet for the remainder of the war with its victory in the Battle of Palermo.
 <br/><br/>
 En 1615 : The first Récollet missionaries arrive at Quebec City, from Rouen, France.
 <br/><br/>
@@ -92,11 +94,13 @@ En 260 : Sima Zhao's regicide of Cao Mao: The figurehead Wei emperor Cao Mao per
 <br/><br/>
 En 2023 : A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
 <br/><br/>
-En 2022 : Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
+En 2022 : Following a request from Ankara, the United Nations officially changes the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
 <br/><br/>
 En 2014 : Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
 <br/><br/>
 En 2012 : Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
+<br/><br/>
+En 2010 : Twelve people are killed and eleven others injured in a spree shooting in Cumbria, England, before the perpetrator takes his own life.
 <br/><br/>
 En 2003 : Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
 <br/><br/>
@@ -118,13 +122,13 @@ En 1966 : Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon,
 <br/><br/>
 En 1964 : The Palestine Liberation Organization (PLO) is formed.
 <br/><br/>
-En 1962 : During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
+En 1962 : During the FIFA World Cup, police intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
 <br/><br/>
 En 1958 : Aeronaves de México Flight 111 crashes on approach to Guadalajara International Airport, killing 45.
 <br/><br/>
 En 1955 : The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
 <br/><br/>
-En 1953 : The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
+En 1953 : The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation, and one of the first major international events, to be televised.
 <br/><br/>
 En 1946 : Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
 <br/><br/>
@@ -156,9 +160,9 @@ En 1774 : Intolerable Acts: The Quartering Act of 1774 is enacted, allowing a go
 <br/><br/>
 En 1763 : Pontiac's Rebellion: At what is now Mackinaw City, Michigan, Chippewas capture Fort Michilimackinac by diverting the garrison's attention with a game of lacrosse, then chasing a ball into the fort.
 <br/><br/>
-En 1692 : Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she was found guilty the same day and hanged on June 10.
+En 1692 : Bridget Bishop is the first person to be tried for witchcraft in Salem, Massachusetts; she is found guilty the same day and hanged on June 10.
 <br/><br/>
-En 1676 : Franco-Dutch War: France ensured the supremacy of its naval fleet for the remainder of the war with its victory in the Battle of Palermo.
+En 1676 : Franco-Dutch War: France ensures the supremacy of its naval fleet for the remainder of the war with its victory in the Battle of Palermo.
 <br/><br/>
 En 1615 : The first Récollet missionaries arrive at Quebec City, from Rouen, France.
 <br/><br/>
