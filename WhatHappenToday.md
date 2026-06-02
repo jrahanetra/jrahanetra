@@ -30,7 +30,7 @@ En 1979 : Pope John Paul II starts his first official visit to his native Poland
 <br/><br/>
 En 1967 : Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
 <br/><br/>
-En 1967 : Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
+En 1967 : Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group 2 June Movement.
 <br/><br/>
 En 1966 : Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
 <br/><br/>
@@ -116,7 +116,7 @@ En 1979 : Pope John Paul II starts his first official visit to his native Poland
 <br/><br/>
 En 1967 : Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
 <br/><br/>
-En 1967 : Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
+En 1967 : Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group 2 June Movement.
 <br/><br/>
 En 1966 : Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
 <br/><br/>
