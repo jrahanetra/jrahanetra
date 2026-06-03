@@ -38,7 +38,7 @@ En 1979 : A blowout at the Ixtoc I oil well in the southern Gulf of Mexico cause
 <br/><br/>
 En 1973 : A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
 <br/><br/>
-En 1969 : Melbourne–Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
+En 1969 : Melbourne-Evans collision: Off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half, resulting in 74 deaths.
 <br/><br/>
 En 1965 : The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1979 : A blowout at the Ixtoc I oil well in the southern Gulf of Mexico cause
 <br/><br/>
 En 1973 : A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
 <br/><br/>
-En 1969 : Melbourne–Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
+En 1969 : Melbourne-Evans collision: Off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half, resulting in 74 deaths.
 <br/><br/>
 En 1965 : The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
 <br/><br/>
