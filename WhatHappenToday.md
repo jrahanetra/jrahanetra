@@ -58,7 +58,7 @@ En 1940 : World War II: During the Battle of France, the Luftwaffe bombs Paris.
 <br/><br/>
 En 1940 : Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
 <br/><br/>
-En 1937 : The Duke of Windsor marries Wallis Simpson.
+En 1937 : The Duke of Windsor (the former King Edward VIII of the United Kingdom) marries Wallis Simpson.
 <br/><br/>
 En 1935 : One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
 <br/><br/>
@@ -158,7 +158,7 @@ En 1940 : World War II: During the Battle of France, the Luftwaffe bombs Paris.
 <br/><br/>
 En 1940 : Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
 <br/><br/>
-En 1937 : The Duke of Windsor marries Wallis Simpson.
+En 1937 : The Duke of Windsor (the former King Edward VIII of the United Kingdom) marries Wallis Simpson.
 <br/><br/>
 En 1935 : One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
 <br/><br/>
