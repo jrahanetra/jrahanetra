@@ -56,7 +56,7 @@ En 1942 : World War II: The Battle of Midway begins. Japanese Admiral Chūichi N
 <br/><br/>
 En 1942 : World War II: Gustaf Mannerheim, the Commander-in-Chief of the Finnish Army, is granted the title of Marshal of Finland by the government on his 75th birthday. On the same day, Adolf Hitler arrives in Finland for a surprise visit to meet Mannerheim.
 <br/><br/>
-En 1940 : World War II: The Dunkirk evacuation ends: the British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
+En 1940 : World War II: The Dunkirk evacuation ends: The British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
 <br/><br/>
 En 1939 : The Holocaust: The MS St. Louis, a ship carrying 973 German Jewish refugees, is denied permission to land in Florida, in the United States, after already being turned away from Cuba. Forced to return to Europe, more than 200 of its passengers later die in Nazi concentration camps.
 <br/><br/>
@@ -112,7 +112,7 @@ En 1615 : Siege of Osaka: Forces under Tokugawa Ieyasu take Osaka Castle in Japa
 <br/><br/>
 En 1561 : The steeple of St Paul's, the medieval cathedral of London, is destroyed in a fire caused by lightning, and is never rebuilt.
 <br/><br/>
-En 1525 : 1525 Bayham Abbey riot; Villagers from Kent and Sussex, England riot and occupy Bayham Old Abbey for a week in protest against Cardinal Thomas Wolsey's order to suppress the monastery in order to fund two colleges founded by him.
+En 1525 : Bayham Abbey riot: Villagers from Kent and Sussex, England riot and occupy Bayham Old Abbey for a week in protest against Cardinal Thomas Wolsey's order to suppress the monastery in order to fund two colleges founded by him.
 <br/><br/>
 En 1411 : King Charles VI grants a monopoly for the ripening of Roquefort cheese to the people of Roquefort-sur-Soulzon, as they had been doing for centuries.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1942 : World War II: The Battle of Midway begins. Japanese Admiral Chūichi N
 <br/><br/>
 En 1942 : World War II: Gustaf Mannerheim, the Commander-in-Chief of the Finnish Army, is granted the title of Marshal of Finland by the government on his 75th birthday. On the same day, Adolf Hitler arrives in Finland for a surprise visit to meet Mannerheim.
 <br/><br/>
-En 1940 : World War II: The Dunkirk evacuation ends: the British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
+En 1940 : World War II: The Dunkirk evacuation ends: The British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
 <br/><br/>
 En 1939 : The Holocaust: The MS St. Louis, a ship carrying 973 German Jewish refugees, is denied permission to land in Florida, in the United States, after already being turned away from Cuba. Forced to return to Europe, more than 200 of its passengers later die in Nazi concentration camps.
 <br/><br/>
@@ -224,7 +224,7 @@ En 1615 : Siege of Osaka: Forces under Tokugawa Ieyasu take Osaka Castle in Japa
 <br/><br/>
 En 1561 : The steeple of St Paul's, the medieval cathedral of London, is destroyed in a fire caused by lightning, and is never rebuilt.
 <br/><br/>
-En 1525 : 1525 Bayham Abbey riot; Villagers from Kent and Sussex, England riot and occupy Bayham Old Abbey for a week in protest against Cardinal Thomas Wolsey's order to suppress the monastery in order to fund two colleges founded by him.
+En 1525 : Bayham Abbey riot: Villagers from Kent and Sussex, England riot and occupy Bayham Old Abbey for a week in protest against Cardinal Thomas Wolsey's order to suppress the monastery in order to fund two colleges founded by him.
 <br/><br/>
 En 1411 : King Charles VI grants a monopoly for the ripening of Roquefort cheese to the people of Roquefort-sur-Soulzon, as they had been doing for centuries.
 <br/><br/>
