@@ -18,8 +18,6 @@ En 2010 : Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, 
 <br/><br/>
 En 2005 : The Civic Forum of the Romanians of Covasna, Harghita and Mureș is founded.
 <br/><br/>
-En 1998 : Terry Nichols is sentenced to life in prison for his role in the Oklahoma City bombing.
-<br/><br/>
 En 1996 : The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.
 <br/><br/>
 En 1989 : In the 1989 Iranian supreme leader election, Ali Khamenei is elected as the new Supreme Leader of Iran after the death and funeral of Ruhollah Khomeini.
@@ -131,8 +129,6 @@ En 2020 : Death of Giovanni López: Protests over the death of Giovanni López R
 En 2010 : Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, which launches from Cape Canaveral Air Force Station Space Launch Complex 40.
 <br/><br/>
 En 2005 : The Civic Forum of the Romanians of Covasna, Harghita and Mureș is founded.
-<br/><br/>
-En 1998 : Terry Nichols is sentenced to life in prison for his role in the Oklahoma City bombing.
 <br/><br/>
 En 1996 : The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.
 <br/><br/>
