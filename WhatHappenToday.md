@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 4/6 ?(Hover on the year)</h1>
 
-En 2025 : Eleven people are killed and 56 people are injured during a crowd crush incident outside M.Chinnaswamy Stadium in Bengaluru, India for the celebration of Royal Challengers Bengaluru's Indian Premier League victory.
+En 2025 : Eleven people are killed and 56 people are injured during a crowd crush incident outside M. Chinnaswamy Stadium in Bengaluru, India for the celebration of Royal Challengers Bengaluru's Indian Premier League victory.
 <br/><br/>
 En 2023 : Protests begin in Poland against the PiS government.
 <br/><br/>
@@ -120,7 +120,7 @@ En 1411 : King Charles VI grants a monopoly for the ripening of Roquefort cheese
 <br/><br/>
 En 713 : The imperial official Artemius is chosen as Byzantine emperor the day after the blinding of previous emperor Philippicus. Artemisius chooses the name of Anastasius II and announces his adherence to Chalcedonian Christianity.
 <br/><br/>
-En 2025 : Eleven people are killed and 56 people are injured during a crowd crush incident outside M.Chinnaswamy Stadium in Bengaluru, India for the celebration of Royal Challengers Bengaluru's Indian Premier League victory.
+En 2025 : Eleven people are killed and 56 people are injured during a crowd crush incident outside M. Chinnaswamy Stadium in Bengaluru, India for the celebration of Royal Challengers Bengaluru's Indian Premier League victory.
 <br/><br/>
 En 2023 : Protests begin in Poland against the PiS government.
 <br/><br/>
