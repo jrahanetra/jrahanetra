@@ -32,6 +32,8 @@ En 2004 : Noël Mamère, Mayor of Bègles, celebrates marriage for two men for t
 <br/><br/>
 En 2003 : A severe heat wave across Pakistan and India reaches its peak, as temperatures exceed 50 °C (122 °F) in the region.
 <br/><br/>
+En 2003 : Metallica release St.Anger
+<br/><br/>
 En 2002 : Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.
 <br/><br/>
 En 2001 : Tropical Storm Allison makes landfall on the upper-Texas coastline as a strong tropical storm and dumps large amounts of rain over Houston. The storm causes $5.5 billion in damages, making Allison the second costliest tropical storm in U.S. history.
@@ -175,6 +177,8 @@ En 2006 : Serbia declares independence from the State Union of Serbia and Monten
 En 2004 : Noël Mamère, Mayor of Bègles, celebrates marriage for two men for the first time in France.
 <br/><br/>
 En 2003 : A severe heat wave across Pakistan and India reaches its peak, as temperatures exceed 50 °C (122 °F) in the region.
+<br/><br/>
+En 2003 : Metallica release St.Anger
 <br/><br/>
 En 2002 : Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.
 <br/><br/>
