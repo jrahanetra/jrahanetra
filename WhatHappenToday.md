@@ -110,7 +110,7 @@ En 1888 : The Rio de la Plata earthquake takes place.
 <br/><br/>
 En 1883 : The first regularly scheduled Orient Express departs Paris.
 <br/><br/>
-En 1879 : The Zungeni Mountain skirmish took place between British and Zulu forces during the second invasion of the Zulu Kingdom.
+En 1879 : The Zungeni Mountain skirmish takes place between British and Zulu forces during the second invasion of the Zulu Kingdom.
 <br/><br/>
 En 1873 : Sultan Barghash bin Said of Zanzibar closes the great slave market under the terms of a treaty with Great Britain.
 <br/><br/>
@@ -254,7 +254,7 @@ En 1888 : The Rio de la Plata earthquake takes place.
 <br/><br/>
 En 1883 : The first regularly scheduled Orient Express departs Paris.
 <br/><br/>
-En 1879 : The Zungeni Mountain skirmish took place between British and Zulu forces during the second invasion of the Zulu Kingdom.
+En 1879 : The Zungeni Mountain skirmish takes place between British and Zulu forces during the second invasion of the Zulu Kingdom.
 <br/><br/>
 En 1873 : Sultan Barghash bin Said of Zanzibar closes the great slave market under the terms of a treaty with Great Britain.
 <br/><br/>
