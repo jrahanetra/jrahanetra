@@ -38,7 +38,7 @@ En 1946 : The National Basketball Association was founded in New York City as th
 <br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
-En 1944 : World War II: Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
+En 1944 : World War II: Capture of the Caen canal and Orne river bridges by British paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
 <br/><br/>
 En 1942 : World War II: The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk.
 <br/><br/>
@@ -118,7 +118,7 @@ En 1946 : The National Basketball Association was founded in New York City as th
 <br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
-En 1944 : World War II: Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
+En 1944 : World War II: Capture of the Caen canal and Orne river bridges by British paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
 <br/><br/>
 En 1942 : World War II: The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk.
 <br/><br/>
