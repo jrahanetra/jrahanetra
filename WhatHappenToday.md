@@ -34,6 +34,8 @@ En 1971 : Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phanto
 <br/><br/>
 En 1966 : March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
 <br/><br/>
+En 1946 : The National Basketball Association was founded in New York City as the Basketball Association of America.
+<br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
 En 1944 : World War II: Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
@@ -44,7 +46,7 @@ En 1934 : New Deal: U.S. President Franklin D. Roosevelt signs the Securities Ex
 <br/><br/>
 En 1933 : The first drive-in theater opens in Camden, New Jersey.
 <br/><br/>
-En 1925 : The original Chrysler Corporation was founded by Walter Chrysler from the remains of the Maxwell Motor Company.
+En 1925 : The original Chrysler Corporation is founded by Walter Chrysler from the remains of the Maxwell Motor Company.
 <br/><br/>
 En 1918 : World War I: U.S. Marine Corps suffers its worst single day's casualties during the Battle of Belleau Wood while attempting to recapture the wood at Château-Thierry (the losses are exceeded at the Battle of Tarawa in November 1943).
 <br/><br/>
@@ -74,7 +76,7 @@ En 1762 : Seven Years' War: British forces begin the Siege of Havana and tempora
 <br/><br/>
 En 1674 : Shivaji is crowned as the first Chhatrapati of the Maratha Empire at Raigad Fort.
 <br/><br/>
-En 1654 : Swedish Queen Christina abdicated her throne in favour of her cousin Charles Gustav and converted to Catholicism.
+En 1654 : Swedish Queen Christina abdicates her throne in favour of her cousin Charles Gustav and converts to Catholicism.
 <br/><br/>
 En 1523 : Swedish regent Gustav Vasa is elected King of Sweden and, marking a symbolic end to the Kalmar Union, 6 June is designated the country's national day.
 <br/><br/>
@@ -112,6 +114,8 @@ En 1971 : Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phanto
 <br/><br/>
 En 1966 : March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
 <br/><br/>
+En 1946 : The National Basketball Association was founded in New York City as the Basketball Association of America.
+<br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
 En 1944 : World War II: Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
@@ -122,7 +126,7 @@ En 1934 : New Deal: U.S. President Franklin D. Roosevelt signs the Securities Ex
 <br/><br/>
 En 1933 : The first drive-in theater opens in Camden, New Jersey.
 <br/><br/>
-En 1925 : The original Chrysler Corporation was founded by Walter Chrysler from the remains of the Maxwell Motor Company.
+En 1925 : The original Chrysler Corporation is founded by Walter Chrysler from the remains of the Maxwell Motor Company.
 <br/><br/>
 En 1918 : World War I: U.S. Marine Corps suffers its worst single day's casualties during the Battle of Belleau Wood while attempting to recapture the wood at Château-Thierry (the losses are exceeded at the Battle of Tarawa in November 1943).
 <br/><br/>
@@ -152,7 +156,7 @@ En 1762 : Seven Years' War: British forces begin the Siege of Havana and tempora
 <br/><br/>
 En 1674 : Shivaji is crowned as the first Chhatrapati of the Maratha Empire at Raigad Fort.
 <br/><br/>
-En 1654 : Swedish Queen Christina abdicated her throne in favour of her cousin Charles Gustav and converted to Catholicism.
+En 1654 : Swedish Queen Christina abdicates her throne in favour of her cousin Charles Gustav and converts to Catholicism.
 <br/><br/>
 En 1523 : Swedish regent Gustav Vasa is elected King of Sweden and, marking a symbolic end to the Kalmar Union, 6 June is designated the country's national day.
 <br/><br/>
