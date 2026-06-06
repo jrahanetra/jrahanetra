@@ -34,8 +34,6 @@ En 1971 : Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phanto
 <br/><br/>
 En 1966 : March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
 <br/><br/>
-En 1946 : The National Basketball Association was founded in New York City as the Basketball Association of America.
-<br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
 En 1944 : World War II: Capture of the Caen canal and Orne river bridges by British paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
@@ -113,8 +111,6 @@ En 1971 : Soyuz 11 is launched. The mission ends in disaster when all three cosm
 En 1971 : Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phantom II of the United States Marine Corps over the San Gabriel Mountains, killing 50.
 <br/><br/>
 En 1966 : March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
-<br/><br/>
-En 1946 : The National Basketball Association was founded in New York City as the Basketball Association of America.
 <br/><br/>
 En 1944 : World War II: Commencement of Operation Overlord: The Allied invasion of Normandy begins with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
 <br/><br/>
