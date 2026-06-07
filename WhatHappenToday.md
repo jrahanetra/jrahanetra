@@ -92,7 +92,7 @@ En 1692 : Port Royal, Jamaica, is hit by a catastrophic earthquake; in just thre
 <br/><br/>
 En 1654 : Louis XIV is crowned King of France.
 <br/><br/>
-En 1640 : Corpus de Sang in Barcelona: Catalan reapers rioted against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.
+En 1640 : Corpus de Sang in Barcelona: Catalan reapers riot against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.
 <br/><br/>
 En 1628 : The Petition of Right, a major English constitutional document, is granted royal assent by Charles I and becomes law.
 <br/><br/>
@@ -196,7 +196,7 @@ En 1692 : Port Royal, Jamaica, is hit by a catastrophic earthquake; in just thre
 <br/><br/>
 En 1654 : Louis XIV is crowned King of France.
 <br/><br/>
-En 1640 : Corpus de Sang in Barcelona: Catalan reapers rioted against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.
+En 1640 : Corpus de Sang in Barcelona: Catalan reapers riot against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.
 <br/><br/>
 En 1628 : The Petition of Right, a major English constitutional document, is granted royal assent by Charles I and becomes law.
 <br/><br/>
