@@ -10,7 +10,7 @@ En 2023 : Former US President Donald Trump is indicted on federal charges of mis
 <br/><br/>
 En 2008 : 7 people are killed and 11 more are injured in a massacre in Akihabara.
 <br/><br/>
-En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
+En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years, resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
 <br/><br/>
 En 2007 : Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station.
 <br/><br/>
@@ -34,7 +34,7 @@ En 1982 : Bluff Cove Air Attacks during the Falklands War: Fifty-six British ser
 <br/><br/>
 En 1982 : VASP Flight 168 crashes in Pacatuba, Ceará, Brazil, killing 128 people.
 <br/><br/>
-En 1972 : Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured by Associated Press photographer Nick Ut moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
+En 1972 : Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured in a photograph moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
 <br/><br/>
 En 1968 : James Earl Ray, the man who assassinated Martin Luther King Jr. is arrested at London Heathrow Airport.
 <br/><br/>
@@ -110,7 +110,7 @@ En 2023 : Former US President Donald Trump is indicted on federal charges of mis
 <br/><br/>
 En 2008 : 7 people are killed and 11 more are injured in a massacre in Akihabara.
 <br/><br/>
-En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
+En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years, resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
 <br/><br/>
 En 2007 : Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1982 : Bluff Cove Air Attacks during the Falklands War: Fifty-six British ser
 <br/><br/>
 En 1982 : VASP Flight 168 crashes in Pacatuba, Ceará, Brazil, killing 128 people.
 <br/><br/>
-En 1972 : Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured by Associated Press photographer Nick Ut moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
+En 1972 : Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured in a photograph moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
 <br/><br/>
 En 1968 : James Earl Ray, the man who assassinated Martin Luther King Jr. is arrested at London Heathrow Airport.
 <br/><br/>
