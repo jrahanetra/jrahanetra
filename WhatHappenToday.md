@@ -8,7 +8,7 @@
 
 En 2023 : Former US President Donald Trump is indicted on federal charges of misusing classified information.
 <br/><br/>
-En 2008 : 7 people are killed and 11 more are injured in a massacre in Akihabara.
+En 2008 : Seven people are killed and 11 more are injured in a massacre in Akihabara.
 <br/><br/>
 En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years, resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
 <br/><br/>
@@ -108,7 +108,7 @@ En 218 : Battle of Antioch: With the support of the Syrian legions, Elagabalus d
 <br/><br/>
 En 2023 : Former US President Donald Trump is indicted on federal charges of misusing classified information.
 <br/><br/>
-En 2008 : 7 people are killed and 11 more are injured in a massacre in Akihabara.
+En 2008 : Seven people are killed and 11 more are injured in a massacre in Akihabara.
 <br/><br/>
 En 2007 : Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years, resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
 <br/><br/>
