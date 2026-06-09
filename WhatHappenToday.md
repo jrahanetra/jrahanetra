@@ -54,7 +54,7 @@ En 1928 : Charles Kingsford Smith completes the first trans-Pacific flight in a 
 <br/><br/>
 En 1923 : Bulgaria's military takes over the government in a coup.
 <br/><br/>
-En 1922 : Åland's Regional Assembly convened for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
+En 1922 : Åland's Regional Assembly convenes for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
 <br/><br/>
 En 1915 : William Jennings Bryan resigns as Woodrow Wilson's Secretary of State over a disagreement regarding the United States' handling of the sinking of the RMS Lusitania.
 <br/><br/>
@@ -142,7 +142,7 @@ En 1928 : Charles Kingsford Smith completes the first trans-Pacific flight in a 
 <br/><br/>
 En 1923 : Bulgaria's military takes over the government in a coup.
 <br/><br/>
-En 1922 : Åland's Regional Assembly convened for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
+En 1922 : Åland's Regional Assembly convenes for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
 <br/><br/>
 En 1915 : William Jennings Bryan resigns as Woodrow Wilson's Secretary of State over a disagreement regarding the United States' handling of the sinking of the RMS Lusitania.
 <br/><br/>
