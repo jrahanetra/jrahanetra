@@ -54,7 +54,7 @@ En 1957 : John Diefenbaker leads the Progressive Conservative Party of Canada to
 <br/><br/>
 En 1947 : Saab produces its first automobile.
 <br/><br/>
-En 1945 : Australian Imperial Forces land in Brunei Bay to liberate Brunei.
+En 1945 : World War II:  Australian Imperial Forces land in Brunei Bay to liberate Brunei.
 <br/><br/>
 En 1944 : World War II: Six hundred forty-three men, women and children are massacred at Oradour-sur-Glane, France.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1935 : Chaco War ends: A truce is called between Bolivia and Paraguay who had
 <br/><br/>
 En 1924 : Fascists kidnap and kill Italian Socialist leader Giacomo Matteotti in Rome.
 <br/><br/>
-En 1918 : The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
+En 1918 : World War I:  The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
 <br/><br/>
 En 1916 : The Arab Revolt against the Ottoman Empire is declared by Hussein bin Ali, Sharif of Mecca.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1957 : John Diefenbaker leads the Progressive Conservative Party of Canada to
 <br/><br/>
 En 1947 : Saab produces its first automobile.
 <br/><br/>
-En 1945 : Australian Imperial Forces land in Brunei Bay to liberate Brunei.
+En 1945 : World War II:  Australian Imperial Forces land in Brunei Bay to liberate Brunei.
 <br/><br/>
 En 1944 : World War II: Six hundred forty-three men, women and children are massacred at Oradour-sur-Glane, France.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1935 : Chaco War ends: A truce is called between Bolivia and Paraguay who had
 <br/><br/>
 En 1924 : Fascists kidnap and kill Italian Socialist leader Giacomo Matteotti in Rome.
 <br/><br/>
-En 1918 : The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
+En 1918 : World War I:  The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel.
 <br/><br/>
 En 1916 : The Arab Revolt against the Ottoman Empire is declared by Hussein bin Ali, Sharif of Mecca.
 <br/><br/>
