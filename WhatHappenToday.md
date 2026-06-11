@@ -32,8 +32,6 @@ En 1981 : A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
 <br/><br/>
 En 1978 : Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
 <br/><br/>
-En 1976 : The first meeting of the Fellowship of Engineering, later to be known as the Royal Academy of Engineering, when Prince Philip, Duke of Edinburgh gathers 126 of the UK's leading engineers at Buckingham Palace
-<br/><br/>
 En 1971 : The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
 <br/><br/>
 En 1970 : After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
@@ -169,8 +167,6 @@ En 1987 : Diane Abbott, Paul Boateng and Bernie Grant are elected as the first b
 En 1981 : A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
 <br/><br/>
 En 1978 : Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
-<br/><br/>
-En 1976 : The first meeting of the Fellowship of Engineering, later to be known as the Royal Academy of Engineering, when Prince Philip, Duke of Edinburgh gathers 126 of the UK's leading engineers at Buckingham Palace
 <br/><br/>
 En 1971 : The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
 <br/><br/>
