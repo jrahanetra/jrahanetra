@@ -10,7 +10,7 @@ En 2013 : Greece's public broadcaster ERT is shut down by then-prime minister An
 <br/><br/>
 En 2012 : Seventy-five people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
 <br/><br/>
-En 2010 : The first African FIFA World Cup kicks off in South Africa.
+En 2010 : The first FIFA World Cup held in African soil kicks off in South Africa.
 <br/><br/>
 En 2008 : Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
 <br/><br/>
@@ -146,7 +146,7 @@ En 2013 : Greece's public broadcaster ERT is shut down by then-prime minister An
 <br/><br/>
 En 2012 : Seventy-five people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
 <br/><br/>
-En 2010 : The first African FIFA World Cup kicks off in South Africa.
+En 2010 : The first FIFA World Cup held in African soil kicks off in South Africa.
 <br/><br/>
 En 2008 : Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
 <br/><br/>
