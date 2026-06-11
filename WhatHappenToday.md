@@ -10,7 +10,7 @@ En 2013 : Greece's public broadcaster ERT is shut down by then-prime minister An
 <br/><br/>
 En 2012 : Seventy-five people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
 <br/><br/>
-En 2010 : The first FIFA World Cup held in African soil kicks off in South Africa.
+En 2010 : The first FIFA World Cup held on African soil kicks off in South Africa.
 <br/><br/>
 En 2008 : Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
 <br/><br/>
@@ -32,13 +32,15 @@ En 1981 : A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
 <br/><br/>
 En 1978 : Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
 <br/><br/>
+En 1976 : The first meeting of the Fellowship of Engineering, later to be known as the Royal Academy of Engineering, when Prince Philip, Duke of Edinburgh gathers 126 of the UK's leading engineers at Buckingham Palace
+<br/><br/>
 En 1971 : The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
 <br/><br/>
 En 1970 : After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
 <br/><br/>
 En 1968 : Lloyd J. Old identifies the first cell surface antigens that could differentiate among different cell types.
 <br/><br/>
-En 1964 : World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers and seriously injuring several more with a home-made flamethrower and a lance.
+En 1964 : World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers, and seriously injuring several more, with a home-made flamethrower and a lance.
 <br/><br/>
 En 1963 : American Civil Rights Movement: Governor of Alabama George Wallace defiantly stands at the door of Foster Auditorium at the University of Alabama in an attempt to block two black students, Vivian Malone and James Hood, from attending that school. Later in the day, accompanied by federalized National Guard troops, they are able to register.
 <br/><br/>
@@ -140,13 +142,13 @@ En 786 : A Hasanid Alid uprising in Mecca is crushed by the Abbasids at the Batt
 <br/><br/>
 En 631 : Emperor Taizong of Tang sends envoys to the Xueyantuo bearing gold and silk in order to seek the release of Chinese prisoners captured during the transition from Sui to Tang.
 <br/><br/>
-En 173 : Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171). In a violent thunderstorm emperor Marcus Aurelius defeats and subdues them in the so-called "miracle of the rain".
+En 173 : Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171). In a violent thunderstorm, emperor Marcus Aurelius defeats and subdues them in the so-called "miracle of the rain".
 <br/><br/>
 En 2013 : Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
 <br/><br/>
 En 2012 : Seventy-five people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
 <br/><br/>
-En 2010 : The first FIFA World Cup held in African soil kicks off in South Africa.
+En 2010 : The first FIFA World Cup held on African soil kicks off in South Africa.
 <br/><br/>
 En 2008 : Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
 <br/><br/>
@@ -168,13 +170,15 @@ En 1981 : A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
 <br/><br/>
 En 1978 : Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
 <br/><br/>
+En 1976 : The first meeting of the Fellowship of Engineering, later to be known as the Royal Academy of Engineering, when Prince Philip, Duke of Edinburgh gathers 126 of the UK's leading engineers at Buckingham Palace
+<br/><br/>
 En 1971 : The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
 <br/><br/>
 En 1970 : After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
 <br/><br/>
 En 1968 : Lloyd J. Old identifies the first cell surface antigens that could differentiate among different cell types.
 <br/><br/>
-En 1964 : World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers and seriously injuring several more with a home-made flamethrower and a lance.
+En 1964 : World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers, and seriously injuring several more, with a home-made flamethrower and a lance.
 <br/><br/>
 En 1963 : American Civil Rights Movement: Governor of Alabama George Wallace defiantly stands at the door of Foster Auditorium at the University of Alabama in an attempt to block two black students, Vivian Malone and James Hood, from attending that school. Later in the day, accompanied by federalized National Guard troops, they are able to register.
 <br/><br/>
@@ -276,5 +280,5 @@ En 786 : A Hasanid Alid uprising in Mecca is crushed by the Abbasids at the Batt
 <br/><br/>
 En 631 : Emperor Taizong of Tang sends envoys to the Xueyantuo bearing gold and silk in order to seek the release of Chinese prisoners captured during the transition from Sui to Tang.
 <br/><br/>
-En 173 : Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171). In a violent thunderstorm emperor Marcus Aurelius defeats and subdues them in the so-called "miracle of the rain".
+En 173 : Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171). In a violent thunderstorm, emperor Marcus Aurelius defeats and subdues them in the so-called "miracle of the rain".
 <br/><br/>
