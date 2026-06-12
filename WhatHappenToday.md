@@ -12,7 +12,7 @@ En 2024 : A fire in a residential building in Mangaf, Kuwait City kills at least
 <br/><br/>
 En 2019 : Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
 <br/><br/>
-En 2018 : United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.
+En 2018 : United States President Donald Trump and Kim Jong-un of North Korea hold the first meeting between leaders of their two countries in Singapore.
 <br/><br/>
 En 2016 : Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police.
 <br/><br/>
@@ -128,7 +128,7 @@ En 2024 : A fire in a residential building in Mangaf, Kuwait City kills at least
 <br/><br/>
 En 2019 : Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
 <br/><br/>
-En 2018 : United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.
+En 2018 : United States President Donald Trump and Kim Jong-un of North Korea hold the first meeting between leaders of their two countries in Singapore.
 <br/><br/>
 En 2016 : Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police.
 <br/><br/>
