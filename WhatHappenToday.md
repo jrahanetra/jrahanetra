@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 12/6 ?(Hover on the year)</h1>
 
+En 2026 : Elon Musk becomes the first US$ Trillionaire in history
+<br/><br/>
 En 2025 : Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
 <br/><br/>
 En 2024 : A fire in a residential building in Mangaf, Kuwait City kills at least 50 people.
@@ -121,6 +123,8 @@ En 1206 : The Ghurid general Qutb ud-Din Aibak founds the Delhi Sultanate.
 En 1042 : Constantine IX Monomachos is crowned as Byzantine Emperor, one day after his marriage to Empress Zoe Porphyrogenita.
 <br/><br/>
 En 910 : Battle of Augsburg: The Hungarians defeat the East Frankish army under King Louis the Child, using the famous feigned retreat tactic of the nomadic warriors.
+<br/><br/>
+En 2026 : Elon Musk becomes the first US$ Trillionaire in history
 <br/><br/>
 En 2025 : Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
 <br/><br/>
