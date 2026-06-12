@@ -88,7 +88,7 @@ En 1821 : Badi VII, king of Sennar, surrenders his throne and realm to Isma'il P
 <br/><br/>
 En 1817 : The earliest form of bicycle, the dandy horse, is driven by Karl von Drais.
 <br/><br/>
-En 1813 : Capture of USRC Surveyor.
+En 1813 : War of 1812: Capture of USRC Surveyor.
 <br/><br/>
 En 1798 : Irish Rebellion of 1798: Battle of Ballynahinch.
 <br/><br/>
@@ -204,7 +204,7 @@ En 1821 : Badi VII, king of Sennar, surrenders his throne and realm to Isma'il P
 <br/><br/>
 En 1817 : The earliest form of bicycle, the dandy horse, is driven by Karl von Drais.
 <br/><br/>
-En 1813 : Capture of USRC Surveyor.
+En 1813 : War of 1812: Capture of USRC Surveyor.
 <br/><br/>
 En 1798 : Irish Rebellion of 1798: Battle of Ballynahinch.
 <br/><br/>
