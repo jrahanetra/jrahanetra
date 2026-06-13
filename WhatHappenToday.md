@@ -64,6 +64,8 @@ En 1967 : U.S. President Lyndon B. Johnson nominates Solicitor-General Thurgood 
 <br/><br/>
 En 1966 : The United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their Fifth Amendment rights before questioning them (colloquially known as "Mirandizing").
 <br/><br/>
+En 1956 : Spanish football club Real Madrid CF wins the inaugural European Cup, UEFA's premier club competition, by winning 4–3 against French club Stade de Reims in the final.
+<br/><br/>
 En 1952 : Catalina affair: A Swedish Douglas DC-3 is shot down by a Soviet MiG-15 fighter.
 <br/><br/>
 En 1944 : World War II: The Battle of Villers-Bocage:  German tank ace Michael Wittmann ambushes elements of the British 7th Armoured Division, destroying up to fourteen tanks, fifteen personnel carriers and two anti-tank guns in a Tiger I tank.
@@ -169,6 +171,8 @@ En 1971 : Vietnam War: The New York Times begins publication of the Pentagon Pap
 En 1967 : U.S. President Lyndon B. Johnson nominates Solicitor-General Thurgood Marshall to become the first black justice on the U.S. Supreme Court.
 <br/><br/>
 En 1966 : The United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their Fifth Amendment rights before questioning them (colloquially known as "Mirandizing").
+<br/><br/>
+En 1956 : Spanish football club Real Madrid CF wins the inaugural European Cup, UEFA's premier club competition, by winning 4–3 against French club Stade de Reims in the final.
 <br/><br/>
 En 1952 : Catalina affair: A Swedish Douglas DC-3 is shot down by a Soviet MiG-15 fighter.
 <br/><br/>
