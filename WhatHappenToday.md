@@ -16,8 +16,6 @@ En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province
 <br/><br/>
 En 2018 : Volkswagen is fined one billion euros over the emissions scandal.
 <br/><br/>
-En 2015 : A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
-<br/><br/>
 En 2012 : A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others.
 <br/><br/>
 En 2010 : A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
@@ -123,8 +121,6 @@ En 2023 : Three people are killed and another three injured in an early morning 
 En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China, kills at least 12 people and wounds over 138 others.
 <br/><br/>
 En 2018 : Volkswagen is fined one billion euros over the emissions scandal.
-<br/><br/>
-En 2015 : A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
 <br/><br/>
 En 2012 : A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others.
 <br/><br/>
