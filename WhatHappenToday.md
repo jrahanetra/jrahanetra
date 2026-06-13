@@ -12,7 +12,7 @@ En 2023 : At least 100 people are killed when a wedding boat capsizes on the Nig
 <br/><br/>
 En 2023 : Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
 <br/><br/>
-En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China kills at least 12 people and wounds over 138 others.
+En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China, kills at least 12 people and wounds over 138 others.
 <br/><br/>
 En 2018 : Volkswagen is fined one billion euros over the emissions scandal.
 <br/><br/>
@@ -32,11 +32,11 @@ En 2000 : President Kim Dae-jung of South Korea meets Kim Jong-il, leader of Nor
 <br/><br/>
 En 2000 : Italy pardons Mehmet Ali Ağca, the Turkish gunman who tried to kill Pope John Paul II in 1981.
 <br/><br/>
-En 1999 : BMW win 1999 24 Hours of Le Mans
+En 1999 : BMW win 1999 24 Hours of Le Mans.
 <br/><br/>
 En 1997 : A jury sentences Timothy McVeigh to death for his part in the 1995 Oklahoma City bombing.
 <br/><br/>
-En 1997 : The Uphaar Cinema Fire took place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injured 103 others.
+En 1997 : The Uphaar Cinema Fire takes place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injuring 103 others.
 <br/><br/>
 En 1996 : The Montana Freemen surrender after an 81-day standoff with FBI agents.
 <br/><br/>
@@ -118,7 +118,7 @@ En 2023 : At least 100 people are killed when a wedding boat capsizes on the Nig
 <br/><br/>
 En 2023 : Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
 <br/><br/>
-En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China kills at least 12 people and wounds over 138 others.
+En 2021 : A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China, kills at least 12 people and wounds over 138 others.
 <br/><br/>
 En 2018 : Volkswagen is fined one billion euros over the emissions scandal.
 <br/><br/>
@@ -138,11 +138,11 @@ En 2000 : President Kim Dae-jung of South Korea meets Kim Jong-il, leader of Nor
 <br/><br/>
 En 2000 : Italy pardons Mehmet Ali Ağca, the Turkish gunman who tried to kill Pope John Paul II in 1981.
 <br/><br/>
-En 1999 : BMW win 1999 24 Hours of Le Mans
+En 1999 : BMW win 1999 24 Hours of Le Mans.
 <br/><br/>
 En 1997 : A jury sentences Timothy McVeigh to death for his part in the 1995 Oklahoma City bombing.
 <br/><br/>
-En 1997 : The Uphaar Cinema Fire took place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injured 103 others.
+En 1997 : The Uphaar Cinema Fire takes place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injuring 103 others.
 <br/><br/>
 En 1996 : The Montana Freemen surrender after an 81-day standoff with FBI agents.
 <br/><br/>
