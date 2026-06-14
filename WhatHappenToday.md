@@ -54,6 +54,8 @@ En 1940 : The Soviet Union presents an ultimatum to Lithuania, resulting in Lith
 <br/><br/>
 En 1940 : Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
 <br/><br/>
+En 1940 : The Soviet Union downs a Finnish civilian aircraft.
+<br/><br/>
 En 1937 : Pennsylvania becomes the first (and only) state of the United States to celebrate Flag Day officially as a state holiday.
 <br/><br/>
 En 1937 : U.S. House of Representatives passes the Marihuana Tax Act.
@@ -171,6 +173,8 @@ En 1940 : World War II: The German occupation of Paris begins.
 En 1940 : The Soviet Union presents an ultimatum to Lithuania, resulting in Lithuanian loss of independence.
 <br/><br/>
 En 1940 : Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
+<br/><br/>
+En 1940 : The Soviet Union downs a Finnish civilian aircraft.
 <br/><br/>
 En 1937 : Pennsylvania becomes the first (and only) state of the United States to celebrate Flag Day officially as a state holiday.
 <br/><br/>
