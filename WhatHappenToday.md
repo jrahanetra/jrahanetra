@@ -62,7 +62,7 @@ En 1312 : At the Battle of Rozgony, King Charles I of Hungary wins a decisive vi
 <br/><br/>
 En 1310 : The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
 <br/><br/>
-En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeng on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
+En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeing on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
 <br/><br/>
 En 1246 : With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1312 : At the Battle of Rozgony, King Charles I of Hungary wins a decisive vi
 <br/><br/>
 En 1310 : The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
 <br/><br/>
-En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeng on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
+En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeing on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
 <br/><br/>
 En 1246 : With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
 <br/><br/>
