@@ -46,7 +46,7 @@ En 1826 : In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud
 <br/><br/>
 En 1804 : New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
 <br/><br/>
-En 1607 : Virginia Colonists finished building James's Fort, to defend against Spanish and Native American attacks.
+En 1607 : Virginia colonists finish building James's Fort, to defend against Spanish and Native American attacks.
 <br/><br/>
 En 1567 : Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
 <br/><br/>
@@ -118,7 +118,7 @@ En 1826 : In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud
 <br/><br/>
 En 1804 : New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
 <br/><br/>
-En 1607 : Virginia Colonists finished building James's Fort, to defend against Spanish and Native American attacks.
+En 1607 : Virginia colonists finish building James's Fort, to defend against Spanish and Native American attacks.
 <br/><br/>
 En 1567 : Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
 <br/><br/>
