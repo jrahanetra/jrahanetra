@@ -4,149 +4,221 @@
 <h3 align="center">A passionate FullStack and AI Developer from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 15/6 ?(Hover on the year)</h1>
+<h1> What happen this day 16/6 ?(Hover on the year)</h1>
 
-En 2013 : A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
+En 2019 : Upwards of 2,000,000 people participate in the 2019–20 Hong Kong protests, the largest in Hong Kong's history.
 <br/><br/>
-En 1996 : The Troubles: The Provisional Irish Republican Army (IRA) detonates a powerful truck bomb in the middle of Manchester, England, devastating the city centre and injuring 200 people.
+En 2016 : Shanghai Disneyland Park, the first Disney Park in mainland China, opens to the public.
 <br/><br/>
-En 1992 : The United States Supreme Court rules in United States v. Álvarez-Machaín that it is permissible for the United States to forcibly extradite suspects in foreign countries and bring them to the United States for trial, without approval from those other countries.
+En 2015 : American businessman Donald Trump announces his campaign to run for President of the United States in the upcoming election.
 <br/><br/>
-En 1991 : In the Philippines, Mount Pinatubo erupts in the second largest volcanic eruption of the 20th century, killing over 800 people.
+En 2013 : A multi-day cloudburst, centered on the North Indian state of Uttarakhand, causes devastating floods and landslides, becoming the country's worst natural disaster since the 2004 tsunami.
 <br/><br/>
-En 1988 : The Ariane 4 rocket is launched on its maiden flight.
+En 2012 : China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
 <br/><br/>
-En 1977 : After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.
+En 2012 : The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
 <br/><br/>
-En 1972 : Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
+En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
 <br/><br/>
-En 1944 : World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.
+En 2002 : Padre Pio is canonized by the Roman Catholic Church.
 <br/><br/>
-En 1944 : In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
+En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
 <br/><br/>
-En 1940 : World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.
+En 1997 : Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
 <br/><br/>
-En 1920 : Following the 1920 Schleswig plebiscites, Northern Schleswig is transferred from Germany to Denmark.
+En 1995 : The Astronomy Picture of the Day website is launched.
 <br/><br/>
-En 1919 : John Alcock and Arthur Brown complete the first nonstop transatlantic flight when they reach Clifden, County Galway, Ireland.
+En 1989 : Revolutions of 1989: Imre Nagy, the former Hungarian prime minister, is reburied in Budapest following the collapse of Communism in Hungary.
 <br/><br/>
-En 1904 : A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.
+En 1981 : US President Ronald Reagan awards the Congressional Gold Medal to Ken Taylor, Canada's former ambassador to Iran, for helping six Americans escape from Iran during the hostage crisis of 1979–81; he is the first foreign citizen bestowed the honor.
 <br/><br/>
-En 1896 : One of the deadliest tsunamis in Japan's history kills more than 22,000 people.
+En 1977 : Oracle Corporation is incorporated in Redwood Shores, California, as Software Development Laboratories (SDL), by Larry Ellison, Bob Miner and Ed Oates.
 <br/><br/>
-En 1864 : American Civil War: The Second Battle of Petersburg begins.
+En 1976 : Soweto uprising: A non-violent march by 15,000 students in Soweto, South Africa, turns into days of rioting when police open fire on the crowd.
 <br/><br/>
-En 1859 : Ambiguity in the Oregon Treaty leads to the "Northwestern Boundary Dispute" between American and British/Canadian settlers.
+En 1972 : The largest single-site hydroelectric power project in Canada is inaugurated at Churchill Falls Generating Station.
 <br/><br/>
-En 1846 : The Oregon Treaty extends the border between the United States and British North America, established by the Treaty of 1818, westward to the Pacific Ocean.
+En 1963 : Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
 <br/><br/>
-En 1834 : The looting of Safed commences.
+En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
 <br/><br/>
-En 1826 : In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud II is defeated and the Janissary corps is disbanded as a result.
+En 1961 : While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
 <br/><br/>
-En 1804 : New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
+En 1958 : Imre Nagy, Pál Maléter and other leaders of the 1956 Hungarian Uprising are executed.
 <br/><br/>
-En 1607 : Virginia colonists finish building James's Fort, to defend against Spanish and Native American attacks.
+En 1955 : In a futile effort to topple Argentine President Juan Perón, rogue aircraft pilots of the Argentine Navy drop several bombs upon an unarmed crowd demonstrating in favor of Perón in Buenos Aires, killing 364 and injuring at least 800. At the same time on the ground, some soldiers attempt to stage a coup but are suppressed by loyal forces.
 <br/><br/>
-En 1567 : Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
+En 1948 : Members of the Malayan Communist Party kill three British plantation managers in Sungai Siput; in response, British Malaya declares a state of emergency.
 <br/><br/>
-En 1520 : Pope Leo X threatens to excommunicate Martin Luther in Exsurge Domine.
+En 1940 : World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
 <br/><br/>
-En 1410 : In a decisive battle at Onon River, the Mongol forces of Oljei Temur were decimated by the Chinese armies of the Yongle Emperor.
+En 1940 : The Soviet Union occupies Lithuania, which will eventually become the Lithuanian Soviet Socialist Republic (SSR).
 <br/><br/>
-En 1410 : Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Byzantine capital, Constantinople.
+En 1933 : The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
 <br/><br/>
-En 1389 : The Ottomans under Sultan Murad I defeat a Serb army under Lazar of Serbia in the battle of Kosovo. Both leaders are killed in the battle.
+En 1930 : Sovnarkom establishes decree time in the USSR.
 <br/><br/>
-En 1312 : At the Battle of Rozgony, King Charles I of Hungary wins a decisive victory over the family of Palatine Amade Aba.
+En 1925 : Artek, the most famous Young Pioneer camp of the Soviet Union, is established.
 <br/><br/>
-En 1310 : The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
+En 1922 : General election in the Irish Free State: The pro-Treaty Sinn Féin party wins a large majority.
 <br/><br/>
-En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeing on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
+En 1911 : IBM founded as the Computing-Tabulating-Recording Company in Endicott, New York.
 <br/><br/>
-En 1246 : With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
+En 1904 : Eugen Schauman assassinates Nikolay Bobrikov, Governor-General of Finland.
 <br/><br/>
-En 1219 : Northern Crusades: Danish victory at the Battle of Lindanise (modern-day Tallinn) establishes the Danish Duchy of Estonia.
+En 1904 : Irish author James Joyce begins a relationship with Nora Barnacle and subsequently uses the date to set the actions for his novel Ulysses; this date is now traditionally called "Bloomsday".
 <br/><br/>
-En 1215 : King John of England puts his seal to Magna Carta.
+En 1903 : The Ford Motor Company is incorporated.
 <br/><br/>
-En 1184 : The naval Battle of Fimreite is won by the Birkebeiner pretender Sverre Sigurdsson. Sigurdsson takes the Norwegian throne and King Magnus V of Norway is killed.
+En 1903 : Roald Amundsen leaves Oslo, Norway, to commence the first east–west navigation of the Northwest Passage.
 <br/><br/>
-En 923 : Battle of Soissons: King Robert I of France is killed and King Charles the Simple is arrested by the supporters of Duke Rudolph of Burgundy.
+En 1897 : A treaty annexing the Republic of Hawaii to the United States is signed; the Republic would not be dissolved until a year later.
 <br/><br/>
-En 844 : Louis II is crowned as king of Italy at Rome by pope Sergius II.
+En 1884 : The first purpose-built roller coaster, LaMarcus Adna Thompson's "Switchback Railway", opens in New York's Coney Island amusement park.
 <br/><br/>
-En -763 : Assyrians record a solar eclipse that is later used to fix the chronology of Mesopotamian history.
+En 1883 : The Victoria Hall theatre panic in Sunderland, England, kills 183 children.
 <br/><br/>
-En 2013 : A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
+En 1871 : The Universities Tests Act 1871 allows students to enter the universities of Oxford, Cambridge and Durham without religious tests (except for those intending to study theology).
 <br/><br/>
-En 1996 : The Troubles: The Provisional Irish Republican Army (IRA) detonates a powerful truck bomb in the middle of Manchester, England, devastating the city centre and injuring 200 people.
+En 1858 : Abraham Lincoln delivers his House Divided speech in Springfield, Illinois.
 <br/><br/>
-En 1992 : The United States Supreme Court rules in United States v. Álvarez-Machaín that it is permissible for the United States to forcibly extradite suspects in foreign countries and bring them to the United States for trial, without approval from those other countries.
+En 1846 : The Papal conclave of 1846 elects Pope Pius IX, beginning the longest reign in the history of the papacy.
 <br/><br/>
-En 1991 : In the Philippines, Mount Pinatubo erupts in the second largest volcanic eruption of the 20th century, killing over 800 people.
+En 1836 : The formation of the London Working Men's Association gives rise to the Chartist Movement.
 <br/><br/>
-En 1988 : The Ariane 4 rocket is launched on its maiden flight.
+En 1824 : A meeting at Old Slaughter's coffee house in London leads to the formation of what is now the Royal Society for the Prevention of Cruelty to Animals (RSPCA).
 <br/><br/>
-En 1977 : After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.
+En 1819 : A major earthquake strikes the Kutch district of western India, killing over 1,543 people and raising a 6-metre-high (20 ft), 6-kilometre-wide (3.7 mi), ridge, extending for at least 80 kilometres (50 mi), that was known as the Allah Bund ("Dam of God").
 <br/><br/>
-En 1972 : Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
+En 1815 : Battle of Ligny and Battle of Quatre Bras, two days before the Battle of Waterloo.
 <br/><br/>
-En 1944 : World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.
+En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin, intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
 <br/><br/>
-En 1944 : In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
+En 1795 : French Revolutionary Wars: In what became known as Cornwallis's Retreat, a British Royal Navy squadron led by Vice Admiral William Cornwallis strongly resists a much larger French Navy force and withdraws largely intact, setting up the French Navy defeat at the Battle of Groix six days later.
 <br/><br/>
-En 1940 : World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.
+En 1779 : American Revolutionary War: Spain declares war on the Kingdom of Great Britain, and the Great Siege of Gibraltar begins.
 <br/><br/>
-En 1920 : Following the 1920 Schleswig plebiscites, Northern Schleswig is transferred from Germany to Denmark.
+En 1760 : French and Indian War: Robert Rogers and his Rangers surprise French held Fort Sainte Thérèse on the Richelieu River near Lake Champlain. The fort is raided and burned.
 <br/><br/>
-En 1919 : John Alcock and Arthur Brown complete the first nonstop transatlantic flight when they reach Clifden, County Galway, Ireland.
+En 1755 : French and Indian War: The French surrender Fort Beauséjour to the British, leading to the expulsion of the Acadians.
 <br/><br/>
-En 1904 : A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.
+En 1746 : War of the Austrian Succession: Austria and Sardinia defeat a Franco-Spanish army at the Battle of Piacenza.
 <br/><br/>
-En 1896 : One of the deadliest tsunamis in Japan's history kills more than 22,000 people.
+En 1745 : War of the Austrian Succession: New England colonial troops under the command of William Pepperrell capture the Fortress of Louisbourg in Louisbourg, New France (Old Style date).
 <br/><br/>
-En 1864 : American Civil War: The Second Battle of Petersburg begins.
+En 1632 : The Plymouth Company granted a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
 <br/><br/>
-En 1859 : Ambiguity in the Oregon Treaty leads to the "Northwestern Boundary Dispute" between American and British/Canadian settlers.
+En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders of a Yorkist rebellion in the final engagement of the Wars of the Roses.
 <br/><br/>
-En 1846 : The Oregon Treaty extends the border between the United States and British North America, established by the Treaty of 1818, westward to the Pacific Ocean.
+En 1407 : Ming–Hồ War: Retired King Hồ Quý Ly and his son King Hồ Hán Thương of Hồ dynasty are captured by the Ming armies.
 <br/><br/>
-En 1834 : The looting of Safed commences.
+En 632 : Yazdegerd III ascends the throne as king (shah) of the Persian Empire. He becomes the last ruler of the Sasanian dynasty (modern Iran).
 <br/><br/>
-En 1826 : In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud II is defeated and the Janissary corps is disbanded as a result.
+En 2019 : Upwards of 2,000,000 people participate in the 2019–20 Hong Kong protests, the largest in Hong Kong's history.
 <br/><br/>
-En 1804 : New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
+En 2016 : Shanghai Disneyland Park, the first Disney Park in mainland China, opens to the public.
 <br/><br/>
-En 1607 : Virginia colonists finish building James's Fort, to defend against Spanish and Native American attacks.
+En 2015 : American businessman Donald Trump announces his campaign to run for President of the United States in the upcoming election.
 <br/><br/>
-En 1567 : Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
+En 2013 : A multi-day cloudburst, centered on the North Indian state of Uttarakhand, causes devastating floods and landslides, becoming the country's worst natural disaster since the 2004 tsunami.
 <br/><br/>
-En 1520 : Pope Leo X threatens to excommunicate Martin Luther in Exsurge Domine.
+En 2012 : China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
 <br/><br/>
-En 1410 : In a decisive battle at Onon River, the Mongol forces of Oljei Temur were decimated by the Chinese armies of the Yongle Emperor.
+En 2012 : The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
 <br/><br/>
-En 1410 : Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Byzantine capital, Constantinople.
+En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
 <br/><br/>
-En 1389 : The Ottomans under Sultan Murad I defeat a Serb army under Lazar of Serbia in the battle of Kosovo. Both leaders are killed in the battle.
+En 2002 : Padre Pio is canonized by the Roman Catholic Church.
 <br/><br/>
-En 1312 : At the Battle of Rozgony, King Charles I of Hungary wins a decisive victory over the family of Palatine Amade Aba.
+En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
 <br/><br/>
-En 1310 : The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
+En 1997 : Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
 <br/><br/>
-En 1285 : The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeing on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
+En 1995 : The Astronomy Picture of the Day website is launched.
 <br/><br/>
-En 1246 : With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
+En 1989 : Revolutions of 1989: Imre Nagy, the former Hungarian prime minister, is reburied in Budapest following the collapse of Communism in Hungary.
 <br/><br/>
-En 1219 : Northern Crusades: Danish victory at the Battle of Lindanise (modern-day Tallinn) establishes the Danish Duchy of Estonia.
+En 1981 : US President Ronald Reagan awards the Congressional Gold Medal to Ken Taylor, Canada's former ambassador to Iran, for helping six Americans escape from Iran during the hostage crisis of 1979–81; he is the first foreign citizen bestowed the honor.
 <br/><br/>
-En 1215 : King John of England puts his seal to Magna Carta.
+En 1977 : Oracle Corporation is incorporated in Redwood Shores, California, as Software Development Laboratories (SDL), by Larry Ellison, Bob Miner and Ed Oates.
 <br/><br/>
-En 1184 : The naval Battle of Fimreite is won by the Birkebeiner pretender Sverre Sigurdsson. Sigurdsson takes the Norwegian throne and King Magnus V of Norway is killed.
+En 1976 : Soweto uprising: A non-violent march by 15,000 students in Soweto, South Africa, turns into days of rioting when police open fire on the crowd.
 <br/><br/>
-En 923 : Battle of Soissons: King Robert I of France is killed and King Charles the Simple is arrested by the supporters of Duke Rudolph of Burgundy.
+En 1972 : The largest single-site hydroelectric power project in Canada is inaugurated at Churchill Falls Generating Station.
 <br/><br/>
-En 844 : Louis II is crowned as king of Italy at Rome by pope Sergius II.
+En 1963 : Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
 <br/><br/>
-En -763 : Assyrians record a solar eclipse that is later used to fix the chronology of Mesopotamian history.
+En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
+<br/><br/>
+En 1961 : While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
+<br/><br/>
+En 1958 : Imre Nagy, Pál Maléter and other leaders of the 1956 Hungarian Uprising are executed.
+<br/><br/>
+En 1955 : In a futile effort to topple Argentine President Juan Perón, rogue aircraft pilots of the Argentine Navy drop several bombs upon an unarmed crowd demonstrating in favor of Perón in Buenos Aires, killing 364 and injuring at least 800. At the same time on the ground, some soldiers attempt to stage a coup but are suppressed by loyal forces.
+<br/><br/>
+En 1948 : Members of the Malayan Communist Party kill three British plantation managers in Sungai Siput; in response, British Malaya declares a state of emergency.
+<br/><br/>
+En 1940 : World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
+<br/><br/>
+En 1940 : The Soviet Union occupies Lithuania, which will eventually become the Lithuanian Soviet Socialist Republic (SSR).
+<br/><br/>
+En 1933 : The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
+<br/><br/>
+En 1930 : Sovnarkom establishes decree time in the USSR.
+<br/><br/>
+En 1925 : Artek, the most famous Young Pioneer camp of the Soviet Union, is established.
+<br/><br/>
+En 1922 : General election in the Irish Free State: The pro-Treaty Sinn Féin party wins a large majority.
+<br/><br/>
+En 1911 : IBM founded as the Computing-Tabulating-Recording Company in Endicott, New York.
+<br/><br/>
+En 1904 : Eugen Schauman assassinates Nikolay Bobrikov, Governor-General of Finland.
+<br/><br/>
+En 1904 : Irish author James Joyce begins a relationship with Nora Barnacle and subsequently uses the date to set the actions for his novel Ulysses; this date is now traditionally called "Bloomsday".
+<br/><br/>
+En 1903 : The Ford Motor Company is incorporated.
+<br/><br/>
+En 1903 : Roald Amundsen leaves Oslo, Norway, to commence the first east–west navigation of the Northwest Passage.
+<br/><br/>
+En 1897 : A treaty annexing the Republic of Hawaii to the United States is signed; the Republic would not be dissolved until a year later.
+<br/><br/>
+En 1884 : The first purpose-built roller coaster, LaMarcus Adna Thompson's "Switchback Railway", opens in New York's Coney Island amusement park.
+<br/><br/>
+En 1883 : The Victoria Hall theatre panic in Sunderland, England, kills 183 children.
+<br/><br/>
+En 1871 : The Universities Tests Act 1871 allows students to enter the universities of Oxford, Cambridge and Durham without religious tests (except for those intending to study theology).
+<br/><br/>
+En 1858 : Abraham Lincoln delivers his House Divided speech in Springfield, Illinois.
+<br/><br/>
+En 1846 : The Papal conclave of 1846 elects Pope Pius IX, beginning the longest reign in the history of the papacy.
+<br/><br/>
+En 1836 : The formation of the London Working Men's Association gives rise to the Chartist Movement.
+<br/><br/>
+En 1824 : A meeting at Old Slaughter's coffee house in London leads to the formation of what is now the Royal Society for the Prevention of Cruelty to Animals (RSPCA).
+<br/><br/>
+En 1819 : A major earthquake strikes the Kutch district of western India, killing over 1,543 people and raising a 6-metre-high (20 ft), 6-kilometre-wide (3.7 mi), ridge, extending for at least 80 kilometres (50 mi), that was known as the Allah Bund ("Dam of God").
+<br/><br/>
+En 1815 : Battle of Ligny and Battle of Quatre Bras, two days before the Battle of Waterloo.
+<br/><br/>
+En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin, intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
+<br/><br/>
+En 1795 : French Revolutionary Wars: In what became known as Cornwallis's Retreat, a British Royal Navy squadron led by Vice Admiral William Cornwallis strongly resists a much larger French Navy force and withdraws largely intact, setting up the French Navy defeat at the Battle of Groix six days later.
+<br/><br/>
+En 1779 : American Revolutionary War: Spain declares war on the Kingdom of Great Britain, and the Great Siege of Gibraltar begins.
+<br/><br/>
+En 1760 : French and Indian War: Robert Rogers and his Rangers surprise French held Fort Sainte Thérèse on the Richelieu River near Lake Champlain. The fort is raided and burned.
+<br/><br/>
+En 1755 : French and Indian War: The French surrender Fort Beauséjour to the British, leading to the expulsion of the Acadians.
+<br/><br/>
+En 1746 : War of the Austrian Succession: Austria and Sardinia defeat a Franco-Spanish army at the Battle of Piacenza.
+<br/><br/>
+En 1745 : War of the Austrian Succession: New England colonial troops under the command of William Pepperrell capture the Fortress of Louisbourg in Louisbourg, New France (Old Style date).
+<br/><br/>
+En 1632 : The Plymouth Company granted a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
+<br/><br/>
+En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders of a Yorkist rebellion in the final engagement of the Wars of the Roses.
+<br/><br/>
+En 1407 : Ming–Hồ War: Retired King Hồ Quý Ly and his son King Hồ Hán Thương of Hồ dynasty are captured by the Ming armies.
+<br/><br/>
+En 632 : Yazdegerd III ascends the throne as king (shah) of the Persian Empire. He becomes the last ruler of the Sasanian dynasty (modern Iran).
 <br/><br/>
