@@ -22,7 +22,7 @@ En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
 <br/><br/>
 En 2002 : Padre Pio is canonized by the Roman Catholic Church.
 <br/><br/>
-En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
+En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrawn from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
 <br/><br/>
 En 1997 : Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
 <br/><br/>
@@ -40,7 +40,7 @@ En 1972 : The largest single-site hydroelectric power project in Canada is inaug
 <br/><br/>
 En 1963 : Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
 <br/><br/>
-En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
+En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique is signed between President Ngo Dinh Diem and Buddhist leaders.
 <br/><br/>
 En 1961 : While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
 <br/><br/>
@@ -92,7 +92,7 @@ En 1819 : A major earthquake strikes the Kutch district of western India, killin
 <br/><br/>
 En 1815 : Battle of Ligny and Battle of Quatre Bras, two days before the Battle of Waterloo.
 <br/><br/>
-En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin, intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
+En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
 <br/><br/>
 En 1795 : French Revolutionary Wars: In what became known as Cornwallis's Retreat, a British Royal Navy squadron led by Vice Admiral William Cornwallis strongly resists a much larger French Navy force and withdraws largely intact, setting up the French Navy defeat at the Battle of Groix six days later.
 <br/><br/>
@@ -106,7 +106,7 @@ En 1746 : War of the Austrian Succession: Austria and Sardinia defeat a Franco-S
 <br/><br/>
 En 1745 : War of the Austrian Succession: New England colonial troops under the command of William Pepperrell capture the Fortress of Louisbourg in Louisbourg, New France (Old Style date).
 <br/><br/>
-En 1632 : The Plymouth Company granted a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
+En 1632 : The Plymouth Company grants a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
 <br/><br/>
 En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders of a Yorkist rebellion in the final engagement of the Wars of the Roses.
 <br/><br/>
@@ -130,7 +130,7 @@ En 2010 : Bhutan becomes the first country to institute a total ban on tobacco.
 <br/><br/>
 En 2002 : Padre Pio is canonized by the Roman Catholic Church.
 <br/><br/>
-En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
+En 2000 : The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrawn from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
 <br/><br/>
 En 1997 : Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1972 : The largest single-site hydroelectric power project in Canada is inaug
 <br/><br/>
 En 1963 : Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
 <br/><br/>
-En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
+En 1963 : In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique is signed between President Ngo Dinh Diem and Buddhist leaders.
 <br/><br/>
 En 1961 : While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
 <br/><br/>
@@ -200,7 +200,7 @@ En 1819 : A major earthquake strikes the Kutch district of western India, killin
 <br/><br/>
 En 1815 : Battle of Ligny and Battle of Quatre Bras, two days before the Battle of Waterloo.
 <br/><br/>
-En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin, intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
+En 1811 : Survivors of an attack the previous day by Tla-o-qui-aht on board the Pacific Fur Company's ship Tonquin intentionally detonate a powder magazine on the ship, destroying it and killing about 100 attackers.
 <br/><br/>
 En 1795 : French Revolutionary Wars: In what became known as Cornwallis's Retreat, a British Royal Navy squadron led by Vice Admiral William Cornwallis strongly resists a much larger French Navy force and withdraws largely intact, setting up the French Navy defeat at the Battle of Groix six days later.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1746 : War of the Austrian Succession: Austria and Sardinia defeat a Franco-S
 <br/><br/>
 En 1745 : War of the Austrian Succession: New England colonial troops under the command of William Pepperrell capture the Fortress of Louisbourg in Louisbourg, New France (Old Style date).
 <br/><br/>
-En 1632 : The Plymouth Company granted a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
+En 1632 : The Plymouth Company grants a land patent to Thomas Purchase, the first settler of Pejepscot, Maine, settling at the site of Fort Andross.
 <br/><br/>
 En 1487 : Battle of Stoke Field: King Henry VII of England defeats the leaders of a Yorkist rebellion in the final engagement of the Wars of the Roses.
 <br/><br/>
