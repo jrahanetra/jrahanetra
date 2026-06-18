@@ -52,9 +52,9 @@ En 1946 : Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day agai
 <br/><br/>
 En 1945 : William Joyce ("Lord Haw-Haw") is charged with treason for his pro-German propaganda broadcasting during World War II.
 <br/><br/>
-En 1940 : Appeal of 18 June by Charles de Gaulle.
+En 1940 : World War II:  Appeal of 18 June by Charles de Gaulle.
 <br/><br/>
-En 1940 : The "Finest Hour" speech is delivered by Winston Churchill.
+En 1940 : World War II:  The "Finest Hour" speech is delivered by Winston Churchill.
 <br/><br/>
 En 1935 : Police in Vancouver, British Columbia, Canada, clash with striking longshoremen, resulting in a total of 60 injuries and 24 arrests.
 <br/><br/>
@@ -67,8 +67,6 @@ En 1908 : Japanese immigration to Brazil begins when 781 people arrive in Santos
 En 1908 : The University of the Philippines is established.
 <br/><br/>
 En 1906 : Sultan Abdelaziz of Morocco ratifies the agreement reached in the Algeciras Conference in a personal decree.
-<br/><br/>
-En 1900 : Empress Dowager Cixi of China orders all foreigners killed, including foreign diplomats and their families.
 <br/><br/>
 En 1887 : The Reinsurance Treaty between Germany and Russia is signed.
 <br/><br/>
@@ -164,9 +162,9 @@ En 1946 : Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day agai
 <br/><br/>
 En 1945 : William Joyce ("Lord Haw-Haw") is charged with treason for his pro-German propaganda broadcasting during World War II.
 <br/><br/>
-En 1940 : Appeal of 18 June by Charles de Gaulle.
+En 1940 : World War II:  Appeal of 18 June by Charles de Gaulle.
 <br/><br/>
-En 1940 : The "Finest Hour" speech is delivered by Winston Churchill.
+En 1940 : World War II:  The "Finest Hour" speech is delivered by Winston Churchill.
 <br/><br/>
 En 1935 : Police in Vancouver, British Columbia, Canada, clash with striking longshoremen, resulting in a total of 60 injuries and 24 arrests.
 <br/><br/>
@@ -179,8 +177,6 @@ En 1908 : Japanese immigration to Brazil begins when 781 people arrive in Santos
 En 1908 : The University of the Philippines is established.
 <br/><br/>
 En 1906 : Sultan Abdelaziz of Morocco ratifies the agreement reached in the Algeciras Conference in a personal decree.
-<br/><br/>
-En 1900 : Empress Dowager Cixi of China orders all foreigners killed, including foreign diplomats and their families.
 <br/><br/>
 En 1887 : The Reinsurance Treaty between Germany and Russia is signed.
 <br/><br/>
