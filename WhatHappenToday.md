@@ -6,15 +6,15 @@
 <hr/>
 <h1> What happen this day 18/6 ?(Hover on the year)</h1>
 
-En 2023 : Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including OceanGate co-founder and CEO Stockton Rush in the North Atlantic Ocean.
+En 2023 : Titan, a submersible operated by OceanGate Expeditions, implodes in the North Atlantic Ocean while attempting to view the wreck of the Titanic, killing all five people on board, including OceanGate co-founder and CEO Stockton Rush.
 <br/><br/>
 En 2018 : An earthquake of magnitude 6.1 strikes northern Osaka.
 <br/><br/>
 En 2009 : The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched.
 <br/><br/>
-En 2007 : The Charleston Sofa Super Store fire happened in Charleston, South Carolina, killing nine firefighters.
+En 2007 : The Charleston Sofa Super Store fire kills nine firefighters in Charleston, South Carolina.
 <br/><br/>
-En 2006 : The first Kazakh space satellite, KazSat-1 is launched.
+En 2006 : The first Kazakh space satellite, KazSat-1, is launched.
 <br/><br/>
 En 1998 : Propair Flight 420 crashes near Montréal–Mirabel International Airport in Quebec, Canada, killing 11.
 <br/><br/>
@@ -22,9 +22,9 @@ En 1994 : The Troubles: Members of the Ulster Volunteer Force (UVF) attack a cro
 <br/><br/>
 En 1984 : A major clash between about 5,000 police and a similar number of striking miners takes place at Orgreave, South Yorkshire, during the 1984–85 UK miners' strike.
 <br/><br/>
-En 1983 : Space Shuttle program: STS-7, Astronaut Sally Ride becomes the first American woman in space.
+En 1983 : Space Shuttle program: STS-7, astronaut Sally Ride becomes the first American woman in space.
 <br/><br/>
-En 1983 : Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran over her religious beliefs.
+En 1983 : Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran, over her religious beliefs.
 <br/><br/>
 En 1982 : Italian banker Roberto Calvi's body is discovered hanging beneath Blackfriars Bridge in London, England.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1972 : Staines air disaster: One hundred eighteen people are killed when a BE
 <br/><br/>
 En 1965 : Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.
 <br/><br/>
-En 1958 : Benjamin Britten's one-act opera Noye's Fludde premiered at the Aldeburgh Festival.
+En 1958 : Benjamin Britten's one-act opera Noye's Fludde premieres at the Aldeburgh Festival.
 <br/><br/>
 En 1954 : Carlos Castillo Armas leads an invasion force across the Guatemalan border, setting in motion the 1954 Guatemalan coup d'état.
 <br/><br/>
@@ -78,11 +78,11 @@ En 1859 : First ascent of Aletschhorn, second summit of the Bernese Alps.
 <br/><br/>
 En 1858 : Charles Darwin receives a paper from Alfred Russel Wallace that includes nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his theory.
 <br/><br/>
-En 1837 : St. Joseph Mutiny: African soldiers in the 1st West India Regiment – led by former slave trader Daaga – launched a rebellion in the British colony of Trinidad in an attempt to escape to Africa.
+En 1837 : St. Joseph Mutiny: African soldiers in the 1st West India Regiment – led by former slave trader Daaga – launch a rebellion in the British colony of Trinidad in an attempt to escape to Africa.
 <br/><br/>
 En 1822 : Konstantinos Kanaris blows up the Ottoman navy's flagship at Chios, killing the Kapudan Pasha Nasuhzade Ali Pasha.
 <br/><br/>
-En 1815 : Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher forcing him to abdicate the throne of France for the second and last time.
+En 1815 : Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher, forcing Napoleon to abdicate the throne of France for the second and last time.
 <br/><br/>
 En 1812 : The United States declaration of war upon the United Kingdom is signed by President James Madison, beginning the War of 1812.
 <br/><br/>
@@ -106,11 +106,11 @@ En 1265 : A draft Byzantine–Venetian treaty is concluded between Venetian envo
 <br/><br/>
 En 1264 : The Parliament of Ireland meets at Castledermot in County Kildare, the first definitively known meeting of this Irish legislature.
 <br/><br/>
-En 1156 : The treaty of Benevento between pope Adrian IV and William I of Sicily is concluded.
+En 1156 : The treaty of Benevento between Pope Adrian IV and William I of Sicily is concluded.
 <br/><br/>
 En 1155 : Pope Adrian IV crowns Frederick Barbarossa as Holy Roman Emperor.
 <br/><br/>
-En 1053 : Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX..
+En 1053 : Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX.
 <br/><br/>
 En 860 : Byzantine–Rus' War: A fleet of about 200 Rus' vessels sails into the Bosphorus and starts pillaging the suburbs of the Byzantine capital Constantinople.
 <br/><br/>
@@ -118,15 +118,15 @@ En 656 : Ali becomes Caliph of the Rashidun Caliphate.
 <br/><br/>
 En 618 : Li Yuan becomes Emperor Gaozu of Tang, initiating three centuries of Tang dynasty rule over China.
 <br/><br/>
-En 2023 : Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including OceanGate co-founder and CEO Stockton Rush in the North Atlantic Ocean.
+En 2023 : Titan, a submersible operated by OceanGate Expeditions, implodes in the North Atlantic Ocean while attempting to view the wreck of the Titanic, killing all five people on board, including OceanGate co-founder and CEO Stockton Rush.
 <br/><br/>
 En 2018 : An earthquake of magnitude 6.1 strikes northern Osaka.
 <br/><br/>
 En 2009 : The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched.
 <br/><br/>
-En 2007 : The Charleston Sofa Super Store fire happened in Charleston, South Carolina, killing nine firefighters.
+En 2007 : The Charleston Sofa Super Store fire kills nine firefighters in Charleston, South Carolina.
 <br/><br/>
-En 2006 : The first Kazakh space satellite, KazSat-1 is launched.
+En 2006 : The first Kazakh space satellite, KazSat-1, is launched.
 <br/><br/>
 En 1998 : Propair Flight 420 crashes near Montréal–Mirabel International Airport in Quebec, Canada, killing 11.
 <br/><br/>
@@ -134,9 +134,9 @@ En 1994 : The Troubles: Members of the Ulster Volunteer Force (UVF) attack a cro
 <br/><br/>
 En 1984 : A major clash between about 5,000 police and a similar number of striking miners takes place at Orgreave, South Yorkshire, during the 1984–85 UK miners' strike.
 <br/><br/>
-En 1983 : Space Shuttle program: STS-7, Astronaut Sally Ride becomes the first American woman in space.
+En 1983 : Space Shuttle program: STS-7, astronaut Sally Ride becomes the first American woman in space.
 <br/><br/>
-En 1983 : Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran over her religious beliefs.
+En 1983 : Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran, over her religious beliefs.
 <br/><br/>
 En 1982 : Italian banker Roberto Calvi's body is discovered hanging beneath Blackfriars Bridge in London, England.
 <br/><br/>
@@ -148,7 +148,7 @@ En 1972 : Staines air disaster: One hundred eighteen people are killed when a BE
 <br/><br/>
 En 1965 : Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.
 <br/><br/>
-En 1958 : Benjamin Britten's one-act opera Noye's Fludde premiered at the Aldeburgh Festival.
+En 1958 : Benjamin Britten's one-act opera Noye's Fludde premieres at the Aldeburgh Festival.
 <br/><br/>
 En 1954 : Carlos Castillo Armas leads an invasion force across the Guatemalan border, setting in motion the 1954 Guatemalan coup d'état.
 <br/><br/>
@@ -190,11 +190,11 @@ En 1859 : First ascent of Aletschhorn, second summit of the Bernese Alps.
 <br/><br/>
 En 1858 : Charles Darwin receives a paper from Alfred Russel Wallace that includes nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his theory.
 <br/><br/>
-En 1837 : St. Joseph Mutiny: African soldiers in the 1st West India Regiment – led by former slave trader Daaga – launched a rebellion in the British colony of Trinidad in an attempt to escape to Africa.
+En 1837 : St. Joseph Mutiny: African soldiers in the 1st West India Regiment – led by former slave trader Daaga – launch a rebellion in the British colony of Trinidad in an attempt to escape to Africa.
 <br/><br/>
 En 1822 : Konstantinos Kanaris blows up the Ottoman navy's flagship at Chios, killing the Kapudan Pasha Nasuhzade Ali Pasha.
 <br/><br/>
-En 1815 : Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher forcing him to abdicate the throne of France for the second and last time.
+En 1815 : Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher, forcing Napoleon to abdicate the throne of France for the second and last time.
 <br/><br/>
 En 1812 : The United States declaration of war upon the United Kingdom is signed by President James Madison, beginning the War of 1812.
 <br/><br/>
@@ -218,11 +218,11 @@ En 1265 : A draft Byzantine–Venetian treaty is concluded between Venetian envo
 <br/><br/>
 En 1264 : The Parliament of Ireland meets at Castledermot in County Kildare, the first definitively known meeting of this Irish legislature.
 <br/><br/>
-En 1156 : The treaty of Benevento between pope Adrian IV and William I of Sicily is concluded.
+En 1156 : The treaty of Benevento between Pope Adrian IV and William I of Sicily is concluded.
 <br/><br/>
 En 1155 : Pope Adrian IV crowns Frederick Barbarossa as Holy Roman Emperor.
 <br/><br/>
-En 1053 : Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX..
+En 1053 : Battle of Civitate: Three thousand Norman horsemen of Count Humphrey rout the troops of Pope Leo IX.
 <br/><br/>
 En 860 : Byzantine–Rus' War: A fleet of about 200 Rus' vessels sails into the Bosphorus and starts pillaging the suburbs of the Byzantine capital Constantinople.
 <br/><br/>
