@@ -88,6 +88,8 @@ En 1811 : The Carlton House Fête is held in London to celebrate the establishme
 <br/><br/>
 En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French victory over Austria.
 <br/><br/>
+En 1791 : The first New Church place of worship was dedicated on the 19th day of June, 1791, in Birmingham, England. The auspiciousness of this date was noted at the time.
+<br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
 En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
@@ -185,6 +187,8 @@ En 1816 : Battle of Seven Oaks between North West Company and Hudson's Bay Compa
 En 1811 : The Carlton House Fête is held in London to celebrate the establishment of the Regency era.
 <br/><br/>
 En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French victory over Austria.
+<br/><br/>
+En 1791 : The first New Church place of worship was dedicated on the 19th day of June, 1791, in Birmingham, England. The auspiciousness of this date was noted at the time.
 <br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
