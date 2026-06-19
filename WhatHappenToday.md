@@ -20,6 +20,8 @@ En 2009 : War in North-West Pakistan: The Pakistani Armed Forces open Operation 
 <br/><br/>
 En 2007 : The al-Khilani Mosque bombing in Baghdad leaves 78 people dead and another 218 injured.
 <br/><br/>
+En 2006 : Singer-songwriter Taylor Swift releases her debut single "Tim McGraw".
+<br/><br/>
 En 2005 : Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdraw after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race.
 <br/><br/>
 En 1991 : The last Soviet army units in Hungary are withdrawn.
@@ -88,8 +90,6 @@ En 1811 : The Carlton House Fête is held in London to celebrate the establishme
 <br/><br/>
 En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French victory over Austria.
 <br/><br/>
-En 1791 : The first New Church place of worship was dedicated on the 19th day of June, 1791, in Birmingham, England. The auspiciousness of this date was noted at the time.
-<br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
 En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
@@ -99,8 +99,6 @@ En 1718 : At least 73,000 people die in the 1718 Tongwei–Gansu earthquake due 
 En 1586 : English colonists leave Roanoke Island, after failing to establish England's first permanent settlement in North America.
 <br/><br/>
 En 1306 : The Earl of Pembroke's army defeats Bruce's Scottish army at the Battle of Methven.
-<br/><br/>
-En 1179 : The Battle of Kalvskinnet takes place outside Nidaros (now Trondheim), Norway. Earl Erling Skakke is killed, and the battle changes the tide of the civil wars.
 <br/><br/>
 En 978 : Byzantine forces loyal to emperor Basil II under Bardas Phokas the Younger defeat rebel forces under Bardas Skleros in the battle of Pankaleia (approximate date).
 <br/><br/>
@@ -120,6 +118,8 @@ En 2009 : War in North-West Pakistan: The Pakistani Armed Forces open Operation 
 <br/><br/>
 En 2007 : The al-Khilani Mosque bombing in Baghdad leaves 78 people dead and another 218 injured.
 <br/><br/>
+En 2006 : Singer-songwriter Taylor Swift releases her debut single "Tim McGraw".
+<br/><br/>
 En 2005 : Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdraw after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race.
 <br/><br/>
 En 1991 : The last Soviet army units in Hungary are withdrawn.
@@ -188,8 +188,6 @@ En 1811 : The Carlton House Fête is held in London to celebrate the establishme
 <br/><br/>
 En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French victory over Austria.
 <br/><br/>
-En 1791 : The first New Church place of worship was dedicated on the 19th day of June, 1791, in Birmingham, England. The auspiciousness of this date was noted at the time.
-<br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
 En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
@@ -199,8 +197,6 @@ En 1718 : At least 73,000 people die in the 1718 Tongwei–Gansu earthquake due 
 En 1586 : English colonists leave Roanoke Island, after failing to establish England's first permanent settlement in North America.
 <br/><br/>
 En 1306 : The Earl of Pembroke's army defeats Bruce's Scottish army at the Battle of Methven.
-<br/><br/>
-En 1179 : The Battle of Kalvskinnet takes place outside Nidaros (now Trondheim), Norway. Earl Erling Skakke is killed, and the battle changes the tide of the civil wars.
 <br/><br/>
 En 978 : Byzantine forces loyal to emperor Basil II under Bardas Phokas the Younger defeat rebel forces under Bardas Skleros in the battle of Pankaleia (approximate date).
 <br/><br/>
