@@ -90,6 +90,8 @@ En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French
 <br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
 <br/><br/>
+En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
+<br/><br/>
 En 1718 : At least 73,000 people die in the 1718 Tongwei–Gansu earthquake due to landslides in the Qing dynasty.
 <br/><br/>
 En 1586 : English colonists leave Roanoke Island, after failing to establish England's first permanent settlement in North America.
@@ -185,6 +187,8 @@ En 1811 : The Carlton House Fête is held in London to celebrate the establishme
 En 1800 : War of the Second Coalition: Battle of Höchstädt results in a French victory over Austria.
 <br/><br/>
 En 1785 : The Boston King's Chapel adopts James Freeman's revised prayer book, without the Nicene Creed, establishing it as the first Unitarian congregation in the United States.
+<br/><br/>
+En 1770 : New Church Day: Emanuel Swedenborg wrote: "The Lord sent forth His twelve disciples, who followed Him in the world into the whole spiritual world to preach the Gospel that the Lord God Jesus Christ reigns. This took place on the 19th day of June, in the year 1770."
 <br/><br/>
 En 1718 : At least 73,000 people die in the 1718 Tongwei–Gansu earthquake due to landslides in the Qing dynasty.
 <br/><br/>
