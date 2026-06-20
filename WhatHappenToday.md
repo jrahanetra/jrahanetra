@@ -50,7 +50,7 @@ En 1959 : A rare June hurricane strikes Canada's Gulf of St. Lawrence killing 35
 <br/><br/>
 En 1956 : A Venezuelan Super-Constellation crashes in the Atlantic Ocean off Asbury Park, New Jersey, killing 74 people.
 <br/><br/>
-En 1948 : The Deutsche Mark is introduced in Western Allied-occupied Germany. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
+En 1948 : In Western Allied-occupied Germany, the Currency Reform of 1948 goes into effect, introducing the Deutsche Mark. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
 <br/><br/>
 En 1945 : The United States Secretary of State approves the transfer of Wernher von Braun and his team of Nazi rocket scientists to the U.S. under Operation Paperclip.
 <br/><br/>
@@ -160,7 +160,7 @@ En 1959 : A rare June hurricane strikes Canada's Gulf of St. Lawrence killing 35
 <br/><br/>
 En 1956 : A Venezuelan Super-Constellation crashes in the Atlantic Ocean off Asbury Park, New Jersey, killing 74 people.
 <br/><br/>
-En 1948 : The Deutsche Mark is introduced in Western Allied-occupied Germany. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
+En 1948 : In Western Allied-occupied Germany, the Currency Reform of 1948 goes into effect, introducing the Deutsche Mark. The Soviet Military Administration in Germany responded by imposing the Berlin Blockade four days later.
 <br/><br/>
 En 1945 : The United States Secretary of State approves the transfer of Wernher von Braun and his team of Nazi rocket scientists to the U.S. under Operation Paperclip.
 <br/><br/>
