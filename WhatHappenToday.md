@@ -64,7 +64,7 @@ En 1930 : One-year conscription comes into force in France.
 <br/><br/>
 En 1929 : An agreement brokered by U.S. Ambassador Dwight Whitney Morrow ends the Cristero War in Mexico.
 <br/><br/>
-En 1921 : The Irish village of Knockcroghery was burned by British forces.
+En 1921 : The Irish village of Knockcroghery is burned by British forces.
 <br/><br/>
 En 1919 : The Royal Canadian Mounted Police fire a volley into a crowd of unemployed war veterans, killing two, during the Winnipeg general strike.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1930 : One-year conscription comes into force in France.
 <br/><br/>
 En 1929 : An agreement brokered by U.S. Ambassador Dwight Whitney Morrow ends the Cristero War in Mexico.
 <br/><br/>
-En 1921 : The Irish village of Knockcroghery was burned by British forces.
+En 1921 : The Irish village of Knockcroghery is burned by British forces.
 <br/><br/>
 En 1919 : The Royal Canadian Mounted Police fire a volley into a crowd of unemployed war veterans, killing two, during the Winnipeg general strike.
 <br/><br/>
