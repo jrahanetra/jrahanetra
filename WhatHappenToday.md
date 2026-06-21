@@ -70,7 +70,7 @@ En 1919 : The Royal Canadian Mounted Police fire a volley into a crowd of unempl
 <br/><br/>
 En 1919 : Admiral Ludwig von Reuter scuttles the German fleet at Scapa Flow, Orkney. The nine sailors killed are the last casualties of World War I.
 <br/><br/>
-En 1915 : The U.S. Supreme Court hands down its decision in Guinn v. United States 238 US 347 1915, striking down Oklahoma grandfather clause legislation which had the effect of denying the right to vote to blacks.
+En 1915 : The U.S. Supreme Court hands down its decision in Guinn v. United States 238 US 347 1915, striking down Oklahoma grandfather clause legislation which had the effect of denying the right to vote to African-Americans.
 <br/><br/>
 En 1900 : Boxer Rebellion: China formally declares war on the United States, Britain, Germany, France and Japan, as an edict issued from the Empress Dowager Cixi.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1919 : The Royal Canadian Mounted Police fire a volley into a crowd of unempl
 <br/><br/>
 En 1919 : Admiral Ludwig von Reuter scuttles the German fleet at Scapa Flow, Orkney. The nine sailors killed are the last casualties of World War I.
 <br/><br/>
-En 1915 : The U.S. Supreme Court hands down its decision in Guinn v. United States 238 US 347 1915, striking down Oklahoma grandfather clause legislation which had the effect of denying the right to vote to blacks.
+En 1915 : The U.S. Supreme Court hands down its decision in Guinn v. United States 238 US 347 1915, striking down Oklahoma grandfather clause legislation which had the effect of denying the right to vote to African-Americans.
 <br/><br/>
 En 1900 : Boxer Rebellion: China formally declares war on the United States, Britain, Germany, France and Japan, as an edict issued from the Empress Dowager Cixi.
 <br/><br/>
