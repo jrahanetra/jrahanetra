@@ -10,7 +10,7 @@ En 2018 : Twelve boys and an assistant coach from a soccer team in Thailand are 
 <br/><br/>
 En 2017 : A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
 <br/><br/>
-En 2016 : The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
+En 2016 : Brexit:  The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
 <br/><br/>
 En 2014 : The last of Syria's declared chemical weapons are shipped out for destruction.
 <br/><br/>
@@ -64,8 +64,6 @@ En 1942 : World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, 
 <br/><br/>
 En 1941 : The Lithuanian Activist Front declares independence from the Soviet Union and forms the Provisional Government of Lithuania; it lasts only briefly as the Nazis will occupy Lithuania a few weeks later.
 <br/><br/>
-En 1940 : Adolf Hitler goes on a three-hour tour of the architecture of Paris with architect Albert Speer and sculptor Arno Breker in his only visit to the city.
-<br/><br/>
 En 1940 : Henry Larsen begins the first successful west-to-east navigation of Northwest Passage from Vancouver, British Columbia, Canada.
 <br/><br/>
 En 1938 : The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States.
@@ -77,8 +75,6 @@ En 1926 : The College Board administers the first SAT exam.
 En 1925 : Shameen Incident: British Army and French Army soldiers stationed in the concession of Shameen open fire on Chinese protesters, resulting in at least 52 deaths.
 <br/><br/>
 En 1919 : Estonian War of Independence: The decisive defeat of the Baltische Landeswehr in the Battle of Cēsis; this date is celebrated as Victory Day in Estonia.
-<br/><br/>
-En 1917 : In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire.
 <br/><br/>
 En 1914 : Mexican Revolution: Pancho Villa takes Zacatecas from Victoriano Huerta.
 <br/><br/>
@@ -113,8 +109,6 @@ En 1757 : Battle of Plassey: Three thousand British troops under Robert Clive de
 En 1713 : The French residents of Acadia are given one year to declare allegiance to Britain or leave Nova Scotia, Canada.
 <br/><br/>
 En 1683 : William Penn signs a friendship treaty with Lenape Indians in Pennsylvania.
-<br/><br/>
-En 1611 : The mutinous crew of Henry Hudson's fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now Hudson Bay; they are never heard from again.
 <br/><br/>
 En 1594 : The Action of Faial, Azores. The Portuguese carrack Cinco Chagas, loaded with slaves and treasure, is attacked and sunk by English ships with only 13 survivors out of over 700 on board.
 <br/><br/>
@@ -138,7 +132,7 @@ En 2018 : Twelve boys and an assistant coach from a soccer team in Thailand are 
 <br/><br/>
 En 2017 : A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
 <br/><br/>
-En 2016 : The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
+En 2016 : Brexit:  The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
 <br/><br/>
 En 2014 : The last of Syria's declared chemical weapons are shipped out for destruction.
 <br/><br/>
@@ -192,8 +186,6 @@ En 1942 : World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, 
 <br/><br/>
 En 1941 : The Lithuanian Activist Front declares independence from the Soviet Union and forms the Provisional Government of Lithuania; it lasts only briefly as the Nazis will occupy Lithuania a few weeks later.
 <br/><br/>
-En 1940 : Adolf Hitler goes on a three-hour tour of the architecture of Paris with architect Albert Speer and sculptor Arno Breker in his only visit to the city.
-<br/><br/>
 En 1940 : Henry Larsen begins the first successful west-to-east navigation of Northwest Passage from Vancouver, British Columbia, Canada.
 <br/><br/>
 En 1938 : The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States.
@@ -205,8 +197,6 @@ En 1926 : The College Board administers the first SAT exam.
 En 1925 : Shameen Incident: British Army and French Army soldiers stationed in the concession of Shameen open fire on Chinese protesters, resulting in at least 52 deaths.
 <br/><br/>
 En 1919 : Estonian War of Independence: The decisive defeat of the Baltische Landeswehr in the Battle of Cēsis; this date is celebrated as Victory Day in Estonia.
-<br/><br/>
-En 1917 : In a game against the Washington Senators, Boston Red Sox pitcher Ernie Shore retires 26 batters in a row after replacing Babe Ruth, who had been ejected for punching the umpire.
 <br/><br/>
 En 1914 : Mexican Revolution: Pancho Villa takes Zacatecas from Victoriano Huerta.
 <br/><br/>
@@ -241,8 +231,6 @@ En 1757 : Battle of Plassey: Three thousand British troops under Robert Clive de
 En 1713 : The French residents of Acadia are given one year to declare allegiance to Britain or leave Nova Scotia, Canada.
 <br/><br/>
 En 1683 : William Penn signs a friendship treaty with Lenape Indians in Pennsylvania.
-<br/><br/>
-En 1611 : The mutinous crew of Henry Hudson's fourth voyage sets Henry, his son and seven loyal crew members adrift in an open boat in what is now Hudson Bay; they are never heard from again.
 <br/><br/>
 En 1594 : The Action of Faial, Azores. The Portuguese carrack Cinco Chagas, loaded with slaves and treasure, is attacked and sunk by English ships with only 13 survivors out of over 700 on board.
 <br/><br/>
