@@ -40,7 +40,7 @@ En 1969 : Warren E. Burger is sworn in as Chief Justice of the United States Sup
 <br/><br/>
 En 1969 : IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.
 <br/><br/>
-En 1968 : Seventy-four people were killed and 150 other injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
+En 1968 : Seventy-four people were killed and 150 others injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
 <br/><br/>
 En 1967 : Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1969 : Warren E. Burger is sworn in as Chief Justice of the United States Sup
 <br/><br/>
 En 1969 : IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.
 <br/><br/>
-En 1968 : Seventy-four people were killed and 150 other injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
+En 1968 : Seventy-four people were killed and 150 others injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
 <br/><br/>
 En 1967 : Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference.
 <br/><br/>
