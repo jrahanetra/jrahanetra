@@ -64,8 +64,6 @@ En 1940 : World War II: Operation Collar, the first British Commando raid on occ
 <br/><br/>
 En 1939 : Siam is renamed Thailand by Plaek Phibunsongkhram, the country's third prime minister.
 <br/><br/>
-En 1938 : Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded.
-<br/><br/>
 En 1932 : A bloodless revolution instigated by the People's Party ends the absolute power of King Prajadhipok of Siam (now Thailand).
 <br/><br/>
 En 1922 : The American Professional Football Association is renamed the National Football League.
@@ -80,7 +78,7 @@ En 1894 : Assassination of the French President, Sadi Carnot by Sante Caserio du
 <br/><br/>
 En 1880 : First performance of O Canada at the Congrès national des Canadiens-Français. The song would later become the national anthem of Canada.
 <br/><br/>
-En 1866 : Battle of Custoza: An Austrian army defeats the Italian army during the Austro-Prussian War.
+En 1866 : Austro-Prussian War:  In the Battle of Custoza an Austrian army defeats the Italian army.
 <br/><br/>
 En 1859 : Battle of Solferino (Battle of the Three Sovereigns): Sardinia and France defeat Austria in Solferino, northern Italy.
 <br/><br/>
@@ -204,8 +202,6 @@ En 1940 : World War II: Operation Collar, the first British Commando raid on occ
 <br/><br/>
 En 1939 : Siam is renamed Thailand by Plaek Phibunsongkhram, the country's third prime minister.
 <br/><br/>
-En 1938 : Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded.
-<br/><br/>
 En 1932 : A bloodless revolution instigated by the People's Party ends the absolute power of King Prajadhipok of Siam (now Thailand).
 <br/><br/>
 En 1922 : The American Professional Football Association is renamed the National Football League.
@@ -220,7 +216,7 @@ En 1894 : Assassination of the French President, Sadi Carnot by Sante Caserio du
 <br/><br/>
 En 1880 : First performance of O Canada at the Congrès national des Canadiens-Français. The song would later become the national anthem of Canada.
 <br/><br/>
-En 1866 : Battle of Custoza: An Austrian army defeats the Italian army during the Austro-Prussian War.
+En 1866 : Austro-Prussian War:  In the Battle of Custoza an Austrian army defeats the Italian army.
 <br/><br/>
 En 1859 : Battle of Solferino (Battle of the Three Sovereigns): Sardinia and France defeat Austria in Solferino, northern Italy.
 <br/><br/>
