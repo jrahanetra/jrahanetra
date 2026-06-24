@@ -102,7 +102,7 @@ En 1724 : On the Feast of St. John the Baptist, Bach leads the first performance
 <br/><br/>
 En 1717 : The Premier Grand Lodge of England is founded in London, the first Masonic Grand Lodge in the world (now the United Grand Lodge of England).
 <br/><br/>
-En 1713 : The treaty of Adrianople ends the Russo-Ottoman War of 1711–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes.
+En 1713 : The treaty of Adrianople ends the Russo-Turkish War of 1710–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes.
 <br/><br/>
 En 1663 : The Spanish garrison of Évora capitulates, following the Portuguese victory at the Battle of Ameixial.
 <br/><br/>
@@ -242,7 +242,7 @@ En 1724 : On the Feast of St. John the Baptist, Bach leads the first performance
 <br/><br/>
 En 1717 : The Premier Grand Lodge of England is founded in London, the first Masonic Grand Lodge in the world (now the United Grand Lodge of England).
 <br/><br/>
-En 1713 : The treaty of Adrianople ends the Russo-Ottoman War of 1711–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes.
+En 1713 : The treaty of Adrianople ends the Russo-Turkish War of 1710–1713, which restores territory to the Ottomans while allowing the Russians to focus on their war against the Swedes.
 <br/><br/>
 En 1663 : The Spanish garrison of Évora capitulates, following the Portuguese victory at the Battle of Ameixial.
 <br/><br/>
