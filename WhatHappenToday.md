@@ -36,6 +36,8 @@ En 1981 : Microsoft is restructured to become an incorporated business in its ho
 <br/><br/>
 En 1978 : The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
 <br/><br/>
+En 1978 : Hosts Argentina defeat the Netherlands by a score of 3–1 in the final to win their first ever FIFA World Cup.
+<br/><br/>
 En 1976 : Missouri Governor Kit Bond issues an executive order rescinding the Extermination Order, formally apologizing on behalf of the state of Missouri for the suffering it had caused to members of the Church of Jesus Christ of Latter-day Saints.
 <br/><br/>
 En 1975 : Mozambique achieves independence from Portugal.
@@ -94,7 +96,7 @@ En 1658 : Spanish forces fail to retake Jamaica at the Battle of Rio Nuevo durin
 <br/><br/>
 En 1530 : At the Diet of Augsburg the Augsburg Confession is presented to the Holy Roman Emperor by the Lutheran princes and Electors of Germany.
 <br/><br/>
-En 1401 : Schaffhausen massacre: 30 Jews were executed, following torture, after being accused of a blood libel in Schaffhausen (in present-day Switzerland).
+En 1401 : Schaffhausen massacre: 30 Jews are executed, following torture, after being accused of a blood libel in Schaffhausen (in present-day Switzerland).
 <br/><br/>
 En 1357 : The English defeat a French fleet which aimed to bring relief to the besieged Calais in the battle of Crotoy.
 <br/><br/>
@@ -134,6 +136,8 @@ En 1981 : Microsoft is restructured to become an incorporated business in its ho
 <br/><br/>
 En 1978 : The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
 <br/><br/>
+En 1978 : Hosts Argentina defeat the Netherlands by a score of 3–1 in the final to win their first ever FIFA World Cup.
+<br/><br/>
 En 1976 : Missouri Governor Kit Bond issues an executive order rescinding the Extermination Order, formally apologizing on behalf of the state of Missouri for the suffering it had caused to members of the Church of Jesus Christ of Latter-day Saints.
 <br/><br/>
 En 1975 : Mozambique achieves independence from Portugal.
@@ -192,7 +196,7 @@ En 1658 : Spanish forces fail to retake Jamaica at the Battle of Rio Nuevo durin
 <br/><br/>
 En 1530 : At the Diet of Augsburg the Augsburg Confession is presented to the Holy Roman Emperor by the Lutheran princes and Electors of Germany.
 <br/><br/>
-En 1401 : Schaffhausen massacre: 30 Jews were executed, following torture, after being accused of a blood libel in Schaffhausen (in present-day Switzerland).
+En 1401 : Schaffhausen massacre: 30 Jews are executed, following torture, after being accused of a blood libel in Schaffhausen (in present-day Switzerland).
 <br/><br/>
 En 1357 : The English defeat a French fleet which aimed to bring relief to the besieged Calais in the battle of Crotoy.
 <br/><br/>
