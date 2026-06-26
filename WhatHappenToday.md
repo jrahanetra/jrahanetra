@@ -138,13 +138,13 @@ En 1407 : Ulrich von Jungingen becomes Grand Master of the Teutonic Knights.
 <br/><br/>
 En 1295 : Przemysł II crowned king of Poland, following Ducal period. The white eagle is added to the Polish coat of arms.
 <br/><br/>
-En 1243 : Mongols under Baiju Noyan defeat the Seljuk Turks under Kaykhusraw II at the Battle of Köse Dağ. The Sultanate of Rum becomes subsequently a vassal to the Mongol Empire.
+En 1243 : Mongols under Baiju Noyan defeat the Seljuk Turks under Kaykhusraw II at the Battle of Köse Dağ. The Sultanate of Rum subsequently becomes a vassal to the Mongol Empire.
 <br/><br/>
-En 1243 : Election of pope Innocent IV following the death of pope Celestine IV in 1241.
+En 1243 : Election of Pope Innocent IV following the death of Pope Celestine IV in 1241.
 <br/><br/>
-En 699 : En no Ozuno, a Japanese mystic and apothecary who will later be regarded as the founder of a folk religion Shugendō, is banished to Izu Ōshima.
+En 699 : En no Ozuno, a Japanese mystic and apothecary who will later be regarded as the founder of the folk religion Shugendō, is banished to Izu Ōshima.
 <br/><br/>
-En 684 : Pope Benedict II is consecrated as pope following imperial approval from the Byzantine Emperor. He is the last pope to require the confirmation of the emperor, the next popes require only that of the more closely situated exarch of Ravenna.
+En 684 : Pope Benedict II is consecrated as pope following imperial approval from the Byzantine Emperor. He is the last pope to require the confirmation of the emperor; the next popes require only that of the more closely situated exarch of Ravenna.
 <br/><br/>
 En 363 : Roman emperor Julian is fatally wounded by Sassanid troops in a skirmish close to Samarra while retreating from his failed siege of Ctesiphon.
 <br/><br/>
@@ -284,13 +284,13 @@ En 1407 : Ulrich von Jungingen becomes Grand Master of the Teutonic Knights.
 <br/><br/>
 En 1295 : Przemysł II crowned king of Poland, following Ducal period. The white eagle is added to the Polish coat of arms.
 <br/><br/>
-En 1243 : Mongols under Baiju Noyan defeat the Seljuk Turks under Kaykhusraw II at the Battle of Köse Dağ. The Sultanate of Rum becomes subsequently a vassal to the Mongol Empire.
+En 1243 : Mongols under Baiju Noyan defeat the Seljuk Turks under Kaykhusraw II at the Battle of Köse Dağ. The Sultanate of Rum subsequently becomes a vassal to the Mongol Empire.
 <br/><br/>
-En 1243 : Election of pope Innocent IV following the death of pope Celestine IV in 1241.
+En 1243 : Election of Pope Innocent IV following the death of Pope Celestine IV in 1241.
 <br/><br/>
-En 699 : En no Ozuno, a Japanese mystic and apothecary who will later be regarded as the founder of a folk religion Shugendō, is banished to Izu Ōshima.
+En 699 : En no Ozuno, a Japanese mystic and apothecary who will later be regarded as the founder of the folk religion Shugendō, is banished to Izu Ōshima.
 <br/><br/>
-En 684 : Pope Benedict II is consecrated as pope following imperial approval from the Byzantine Emperor. He is the last pope to require the confirmation of the emperor, the next popes require only that of the more closely situated exarch of Ravenna.
+En 684 : Pope Benedict II is consecrated as pope following imperial approval from the Byzantine Emperor. He is the last pope to require the confirmation of the emperor; the next popes require only that of the more closely situated exarch of Ravenna.
 <br/><br/>
 En 363 : Roman emperor Julian is fatally wounded by Sassanid troops in a skirmish close to Samarra while retreating from his failed siege of Ctesiphon.
 <br/><br/>
