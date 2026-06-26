@@ -8,7 +8,7 @@
 
 En 2024 : Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
 <br/><br/>
-En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
+En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occur on what was dubbed Bloody Friday by international media. Upwards of 750 people are either killed or injured in these uncoordinated attacks.
 <br/><br/>
 En 2015 : The U.S. Supreme Court rules, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
 <br/><br/>
@@ -30,7 +30,7 @@ En 2000 : The Human Genome Project announces the completion of a "rough draft" s
 <br/><br/>
 En 1997 : The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
 <br/><br/>
-En 1997 : J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
+En 1997 : J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone, in the United Kingdom.
 <br/><br/>
 En 1995 : Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
 <br/><br/>
@@ -56,7 +56,7 @@ En 1960 : The former British Protectorate of British Somaliland gains its indepe
 <br/><br/>
 En 1960 : Madagascar gains its independence from France.
 <br/><br/>
-En 1959 : Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
+En 1959 : Swedish boxer Ingemar Johansson becomes world champion of heavyweight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
 <br/><br/>
 En 1955 : The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
 <br/><br/>
@@ -100,13 +100,13 @@ En 1906 : The first Grand Prix motor race is held at Le Mans.
 <br/><br/>
 En 1889 : Bangui is founded by Albert Dolisie and Alfred Uzac in what was then the upper reaches of the French Congo.
 <br/><br/>
-En 1886 : Henri Moissan isolated elemental Fluorine for the first time.
+En 1886 : Henri Moissan isolates elemental fluorine for the first time.
 <br/><br/>
 En 1857 : The first investiture of the Victoria Cross in Hyde Park, London.
 <br/><br/>
 En 1848 : End of the June Days Uprising in Paris.
 <br/><br/>
-En 1843 : Treaty of Nanking comes into effect, Hong Kong Island is ceded to the British "in perpetuity".
+En 1843 : Treaty of Nanking comes into effect; Hong Kong Island is ceded to the British "in perpetuity".
 <br/><br/>
 En 1830 : William IV becomes king of Britain and Hanover following the death without surviving legitimate issue of his older brother George IV.
 <br/><br/>
@@ -154,7 +154,7 @@ En 4 : Augustus adopts Tiberius.
 <br/><br/>
 En 2024 : Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
 <br/><br/>
-En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
+En 2015 : Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occur on what was dubbed Bloody Friday by international media. Upwards of 750 people are either killed or injured in these uncoordinated attacks.
 <br/><br/>
 En 2015 : The U.S. Supreme Court rules, 5–4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
 <br/><br/>
@@ -176,7 +176,7 @@ En 2000 : The Human Genome Project announces the completion of a "rough draft" s
 <br/><br/>
 En 1997 : The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
 <br/><br/>
-En 1997 : J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
+En 1997 : J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone, in the United Kingdom.
 <br/><br/>
 En 1995 : Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
 <br/><br/>
@@ -202,7 +202,7 @@ En 1960 : The former British Protectorate of British Somaliland gains its indepe
 <br/><br/>
 En 1960 : Madagascar gains its independence from France.
 <br/><br/>
-En 1959 : Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
+En 1959 : Swedish boxer Ingemar Johansson becomes world champion of heavyweight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
 <br/><br/>
 En 1955 : The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
 <br/><br/>
@@ -246,13 +246,13 @@ En 1906 : The first Grand Prix motor race is held at Le Mans.
 <br/><br/>
 En 1889 : Bangui is founded by Albert Dolisie and Alfred Uzac in what was then the upper reaches of the French Congo.
 <br/><br/>
-En 1886 : Henri Moissan isolated elemental Fluorine for the first time.
+En 1886 : Henri Moissan isolates elemental fluorine for the first time.
 <br/><br/>
 En 1857 : The first investiture of the Victoria Cross in Hyde Park, London.
 <br/><br/>
 En 1848 : End of the June Days Uprising in Paris.
 <br/><br/>
-En 1843 : Treaty of Nanking comes into effect, Hong Kong Island is ceded to the British "in perpetuity".
+En 1843 : Treaty of Nanking comes into effect; Hong Kong Island is ceded to the British "in perpetuity".
 <br/><br/>
 En 1830 : William IV becomes king of Britain and Hanover following the death without surviving legitimate issue of his older brother George IV.
 <br/><br/>
