@@ -92,7 +92,7 @@ En 1556 : The thirteen Stratford Martyrs are burned at the stake near London for
 <br/><br/>
 En 1499 : Amerigo Vespucci sights what is now Amapá State in Brazil.
 <br/><br/>
-En 678 : Pope Agatho is consecrated following the death of pope Donus two month prior.
+En 678 : Pope Agatho is consecrated following the death of pope Donus two months prior.
 <br/><br/>
 En 363 : Jovian is proclaimed Roman emperor following the death of emperor Julian in the previous night.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1556 : The thirteen Stratford Martyrs are burned at the stake near London for
 <br/><br/>
 En 1499 : Amerigo Vespucci sights what is now Amapá State in Brazil.
 <br/><br/>
-En 678 : Pope Agatho is consecrated following the death of pope Donus two month prior.
+En 678 : Pope Agatho is consecrated following the death of pope Donus two months prior.
 <br/><br/>
 En 363 : Jovian is proclaimed Roman emperor following the death of emperor Julian in the previous night.
 <br/><br/>
