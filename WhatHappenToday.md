@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 27/6 ?(Hover on the year)</h1>
 
-En 2026 : BBC Radio 4 closes it's long wave service on 198 kHz and replaced with a retune loop until the carrier will be shut off on the 30th.
+En 2026 : BBC Radio 4 closes its long wave service on 198 kHz and replaces it with a looping announcement advising listeners to retune, until the carrier will be shut off on the 30th.
 <br/><br/>
 En 2024 : U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
 <br/><br/>
@@ -98,7 +98,7 @@ En 678 : Pope Agatho is consecrated following the death of pope Donus two months
 <br/><br/>
 En 363 : Jovian is proclaimed Roman emperor following the death of emperor Julian in the previous night.
 <br/><br/>
-En 2026 : BBC Radio 4 closes it's long wave service on 198 kHz and replaced with a retune loop until the carrier will be shut off on the 30th.
+En 2026 : BBC Radio 4 closes its long wave service on 198 kHz and replaces it with a looping announcement advising listeners to retune, until the carrier will be shut off on the 30th.
 <br/><br/>
 En 2024 : U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
 <br/><br/>
