@@ -86,7 +86,7 @@ En 1613 : The Globe Theatre in London, built by William Shakespeare's playing co
 <br/><br/>
 En 1534 : Jacques Cartier is the first European to reach Prince Edward Island.
 <br/><br/>
-En 1457 : The Dutch city of Dordrecht is devastated by fire
+En 1457 : The Dutch city of Dordrecht is devastated by fire.
 <br/><br/>
 En 1444 : Skanderbeg defeats an Ottoman invasion force at Torvioll.
 <br/><br/>
@@ -182,7 +182,7 @@ En 1613 : The Globe Theatre in London, built by William Shakespeare's playing co
 <br/><br/>
 En 1534 : Jacques Cartier is the first European to reach Prince Edward Island.
 <br/><br/>
-En 1457 : The Dutch city of Dordrecht is devastated by fire
+En 1457 : The Dutch city of Dordrecht is devastated by fire.
 <br/><br/>
 En 1444 : Skanderbeg defeats an Ottoman invasion force at Torvioll.
 <br/><br/>
