@@ -22,6 +22,8 @@ En 1995 : The Sampoong Department Store collapses in the Seocho District of Seou
 <br/><br/>
 En 1987 : Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
 <br/><br/>
+En 1986 : The Argentina national football team wins the FIFA World Cup held in Mexico after defeating the West Germany national football team by a score of 3–2 in the final at the Estadio Azteca.
+<br/><br/>
 En 1976 : The Seychelles become independent from the United Kingdom.
 <br/><br/>
 En 1976 : The Conference of Communist and Workers Parties of Europe convenes in East Berlin.
@@ -117,6 +119,8 @@ En 1995 : Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russia
 En 1995 : The Sampoong Department Store collapses in the Seocho District of Seoul, South Korea, killing 502 and injuring 937.
 <br/><br/>
 En 1987 : Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
+<br/><br/>
+En 1986 : The Argentina national football team wins the FIFA World Cup held in Mexico after defeating the West Germany national football team by a score of 3–2 in the final at the Estadio Azteca.
 <br/><br/>
 En 1976 : The Seychelles become independent from the United Kingdom.
 <br/><br/>
