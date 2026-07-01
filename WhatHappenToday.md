@@ -100,7 +100,7 @@ En 1942 : World War II: start of the First Battle of El Alamein.
 <br/><br/>
 En 1942 : The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished.
 <br/><br/>
-En 1935 : Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek.
+En 1935 : In Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek.
 <br/><br/>
 En 1932 : Australia's national broadcaster, the Australian Broadcasting Corporation, was formed.
 <br/><br/>
@@ -122,7 +122,7 @@ En 1917 : Chinese General Zhang Xun seizes control of Beijing and restores the m
 <br/><br/>
 En 1916 : World War I: First day on the Somme: On the first day of the Battle of the Somme 19,000 soldiers of the British Army are killed and 40,000 wounded.
 <br/><br/>
-En 1915 : Leutnant Kurt Wintgens of the then-named German Deutsches Heer's Fliegertruppe army air service achieves the first known aerial victory with a synchronized machine-gun armed fighter plane, the Fokker M.5K/MG Eindecker.
+En 1915 : World War I:  Leutnant Kurt Wintgens of the then-named German Deutsches Heer's Fliegertruppe army air service achieves the first known aerial victory with a synchronized machine-gun armed fighter plane, the Fokker M.5K/MG Eindecker.
 <br/><br/>
 En 1911 : Germany dispatches the gunboat SMS Panther to Morocco, sparking the Agadir Crisis.
 <br/><br/>
@@ -300,7 +300,7 @@ En 1942 : World War II: start of the First Battle of El Alamein.
 <br/><br/>
 En 1942 : The Australian Federal Government becomes the sole collector of income tax in Australia as State Income Tax is abolished.
 <br/><br/>
-En 1935 : Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek.
+En 1935 : In Regina, Saskatchewan, police and Royal Canadian Mounted Police ambush strikers participating in the On-to-Ottawa Trek.
 <br/><br/>
 En 1932 : Australia's national broadcaster, the Australian Broadcasting Corporation, was formed.
 <br/><br/>
@@ -322,7 +322,7 @@ En 1917 : Chinese General Zhang Xun seizes control of Beijing and restores the m
 <br/><br/>
 En 1916 : World War I: First day on the Somme: On the first day of the Battle of the Somme 19,000 soldiers of the British Army are killed and 40,000 wounded.
 <br/><br/>
-En 1915 : Leutnant Kurt Wintgens of the then-named German Deutsches Heer's Fliegertruppe army air service achieves the first known aerial victory with a synchronized machine-gun armed fighter plane, the Fokker M.5K/MG Eindecker.
+En 1915 : World War I:  Leutnant Kurt Wintgens of the then-named German Deutsches Heer's Fliegertruppe army air service achieves the first known aerial victory with a synchronized machine-gun armed fighter plane, the Fokker M.5K/MG Eindecker.
 <br/><br/>
 En 1911 : Germany dispatches the gunboat SMS Panther to Morocco, sparking the Agadir Crisis.
 <br/><br/>
