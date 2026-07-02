@@ -38,7 +38,7 @@ En 1934 : The Night of the Long Knives ends after three days of killings.
 <br/><br/>
 En 1921 : World War I: U.S. President Warren G. Harding signs the Knox–Porter Resolution formally ending the war between the United States and Germany.
 <br/><br/>
-En 1917 : In the leadup to the Battle of Aqaba, T.E.Lawrence and his Arab forces defeat a battalion of  Ottomans at Abu al-Lissan.
+En 1917 : In the leadup to the Battle of Aqaba, T. E. Lawrence and his Arab forces defeat a battalion of  Ottomans at Abu al-Lissan.
 <br/><br/>
 En 1890 : The U.S. Congress passes the Sherman Antitrust Act.
 <br/><br/>
@@ -100,7 +100,7 @@ En 1934 : The Night of the Long Knives ends after three days of killings.
 <br/><br/>
 En 1921 : World War I: U.S. President Warren G. Harding signs the Knox–Porter Resolution formally ending the war between the United States and Germany.
 <br/><br/>
-En 1917 : In the leadup to the Battle of Aqaba, T.E.Lawrence and his Arab forces defeat a battalion of  Ottomans at Abu al-Lissan.
+En 1917 : In the leadup to the Battle of Aqaba, T. E. Lawrence and his Arab forces defeat a battalion of  Ottomans at Abu al-Lissan.
 <br/><br/>
 En 1890 : The U.S. Congress passes the Sherman Antitrust Act.
 <br/><br/>
