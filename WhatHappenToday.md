@@ -50,7 +50,7 @@ En 1840 : A Ms 7.4 earthquake strikes present-day Turkey and Armenia; combined w
 <br/><br/>
 En 1823 : Bahia Independence Day: The Siege of Salvador ends Portuguese rule in Brazil, with the final defeat of the Portuguese crown loyalists in the province of Bahia.
 <br/><br/>
-En 1776 : American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain, although the wording of the formal Declaration of Independence is not adopted until July 4.
+En 1776 : American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain. The wording of the formal Declaration of Independence was agreed upon and publicly released two days later, on July 4.
 <br/><br/>
 En 1645 : Wars of the Three Kingdoms: Battle of Alford.
 <br/><br/>
@@ -112,7 +112,7 @@ En 1840 : A Ms 7.4 earthquake strikes present-day Turkey and Armenia; combined w
 <br/><br/>
 En 1823 : Bahia Independence Day: The Siege of Salvador ends Portuguese rule in Brazil, with the final defeat of the Portuguese crown loyalists in the province of Bahia.
 <br/><br/>
-En 1776 : American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain, although the wording of the formal Declaration of Independence is not adopted until July 4.
+En 1776 : American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain. The wording of the formal Declaration of Independence was agreed upon and publicly released two days later, on July 4.
 <br/><br/>
 En 1645 : Wars of the Three Kingdoms: Battle of Alford.
 <br/><br/>
