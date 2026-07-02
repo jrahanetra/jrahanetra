@@ -18,7 +18,7 @@ En 1997 : The Bank of Thailand floats the baht, triggering the Asian financial c
 <br/><br/>
 En 1994 : USAir Flight 1016 crashes near Charlotte Douglas International Airport, killing 37 of the 57 people on board.
 <br/><br/>
-En 1993 : A mob sets fire to the Hotel Madımak in Sivas, Turkey, where a Alevi cultural festival was taking place, killing 37 people.
+En 1993 : A mob sets fire to the Hotel Madımak in Sivas, Turkey, where an Alevi cultural festival was taking place, killing 37 people.
 <br/><br/>
 En 1990 : In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.
 <br/><br/>
@@ -80,7 +80,7 @@ En 1997 : The Bank of Thailand floats the baht, triggering the Asian financial c
 <br/><br/>
 En 1994 : USAir Flight 1016 crashes near Charlotte Douglas International Airport, killing 37 of the 57 people on board.
 <br/><br/>
-En 1993 : A mob sets fire to the Hotel Madımak in Sivas, Turkey, where a Alevi cultural festival was taking place, killing 37 people.
+En 1993 : A mob sets fire to the Hotel Madımak in Sivas, Turkey, where an Alevi cultural festival was taking place, killing 37 people.
 <br/><br/>
 En 1990 : In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.
 <br/><br/>
