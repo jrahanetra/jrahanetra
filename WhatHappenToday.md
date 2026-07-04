@@ -70,7 +70,7 @@ En 1946 : The Kielce pogrom against Jewish Holocaust survivors in Poland.
 <br/><br/>
 En 1946 : After 381 years of near-continuous colonial rule by various powers, the Philippines attains full independence from the United States.
 <br/><br/>
-En 1943 : World War II: The Battle of Kursk, the largest full-scale battle in history and the world's largest tank battle, begins in the village of Prokhorovka.
+En 1943 : World War II: The Battle of Kursk, the largest full-scale battle in history and the world's largest tank battle, begins in the village of  Prokhorovka.
 <br/><br/>
 En 1943 : World War II: In Gibraltar, a Royal Air Force B-24 Liberator bomber crashes into the sea in an apparent accident moments after takeoff, killing sixteen passengers on board, including general Władysław Sikorski, the commander-in-chief of the Polish Army and the Prime Minister of the Polish government-in-exile; only the pilot survives.
 <br/><br/>
@@ -252,7 +252,7 @@ En 1946 : The Kielce pogrom against Jewish Holocaust survivors in Poland.
 <br/><br/>
 En 1946 : After 381 years of near-continuous colonial rule by various powers, the Philippines attains full independence from the United States.
 <br/><br/>
-En 1943 : World War II: The Battle of Kursk, the largest full-scale battle in history and the world's largest tank battle, begins in the village of Prokhorovka.
+En 1943 : World War II: The Battle of Kursk, the largest full-scale battle in history and the world's largest tank battle, begins in the village of  Prokhorovka.
 <br/><br/>
 En 1943 : World War II: In Gibraltar, a Royal Air Force B-24 Liberator bomber crashes into the sea in an apparent accident moments after takeoff, killing sixteen passengers on board, including general Władysław Sikorski, the commander-in-chief of the Polish Army and the Prime Minister of the Polish government-in-exile; only the pilot survives.
 <br/><br/>
