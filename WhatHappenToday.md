@@ -130,7 +130,7 @@ En 1838 : The Iowa Territory is organized.
 <br/><br/>
 En 1837 : Grand Junction Railway, the world's first long-distance railway, opens between Birmingham and Liverpool.
 <br/><br/>
-En 1832 : John Neal delivers the first public lecture in the US to advocate the rights of women.
+En 1832 : John Neal delivers the first public lecture in the U.S. to advocate the rights of women.
 <br/><br/>
 En 1832 : Durham University established by Act of Parliament; the first recognized university to be founded in England since Cambridge over 600 years earlier.
 <br/><br/>
@@ -138,15 +138,15 @@ En 1831 : Samuel Francis Smith writes "My Country, 'Tis of Thee" for the Boston,
 <br/><br/>
 En 1827 : Slavery is abolished in the State of New York.
 <br/><br/>
-En 1818 : US Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars would be added on July 4 after a new state had been admitted.
+En 1818 : U.S. Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars are to be added on the July 4 following the admission of each new state to the Union.
 <br/><br/>
 En 1817 : In Rome, New York, construction on the Erie Canal begins.
 <br/><br/>
-En 1803 : The Louisiana Purchase is announced to the US people.
+En 1803 : The Louisiana Purchase is announced to the public.
 <br/><br/>
 En 1802 : The United States Military Academy opens at West Point, New York.
 <br/><br/>
-En 1778 : American Revolutionary War: US forces under George Clark capture Kaskaskia during the Illinois campaign.
+En 1778 : American Revolutionary War: U.S. forces under George Clark capture Kaskaskia during the Illinois campaign.
 <br/><br/>
 En 1776 : American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress, formally announcing and explaining separation from the Kingdom of Great Britain and the creation of the United States.
 <br/><br/>
@@ -312,7 +312,7 @@ En 1838 : The Iowa Territory is organized.
 <br/><br/>
 En 1837 : Grand Junction Railway, the world's first long-distance railway, opens between Birmingham and Liverpool.
 <br/><br/>
-En 1832 : John Neal delivers the first public lecture in the US to advocate the rights of women.
+En 1832 : John Neal delivers the first public lecture in the U.S. to advocate the rights of women.
 <br/><br/>
 En 1832 : Durham University established by Act of Parliament; the first recognized university to be founded in England since Cambridge over 600 years earlier.
 <br/><br/>
@@ -320,15 +320,15 @@ En 1831 : Samuel Francis Smith writes "My Country, 'Tis of Thee" for the Boston,
 <br/><br/>
 En 1827 : Slavery is abolished in the State of New York.
 <br/><br/>
-En 1818 : US Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars would be added on July 4 after a new state had been admitted.
+En 1818 : U.S. Flag Act of 1818 goes into effect creating a 13-stripe flag with a star for each state. New stars are to be added on the July 4 following the admission of each new state to the Union.
 <br/><br/>
 En 1817 : In Rome, New York, construction on the Erie Canal begins.
 <br/><br/>
-En 1803 : The Louisiana Purchase is announced to the US people.
+En 1803 : The Louisiana Purchase is announced to the public.
 <br/><br/>
 En 1802 : The United States Military Academy opens at West Point, New York.
 <br/><br/>
-En 1778 : American Revolutionary War: US forces under George Clark capture Kaskaskia during the Illinois campaign.
+En 1778 : American Revolutionary War: U.S. forces under George Clark capture Kaskaskia during the Illinois campaign.
 <br/><br/>
 En 1776 : American Revolution: The United States Declaration of Independence is adopted by the Second Continental Congress, formally announcing and explaining separation from the Kingdom of Great Britain and the creation of the United States.
 <br/><br/>
