@@ -174,7 +174,7 @@ En 1187 : The Crusades: Battle of Hattin: Saladin defeats Guy of Lusignan, King 
 <br/><br/>
 En 1120 : Jordan II of Capua is anointed as prince after his infant nephew's death.
 <br/><br/>
-En 1054 : A supernova, called SN 1054, is seen by Chinese Song dynasty, Arab, and possibly Amerindian observers near the star Zeta Tauri. For several months it remains bright enough to be seen during the day. Its remnants form the Crab Nebula.
+En 1054 : A supernova, called SN 1054, is seen by Chinese Song dynasty, Arab, and possibly indigenous American observers near the star Zeta Tauri. For several months it remains bright enough to be seen during the day. Its remnants form the Crab Nebula.
 <br/><br/>
 En 993 : Ulrich of Augsburg is canonized as a saint.
 <br/><br/>
@@ -356,7 +356,7 @@ En 1187 : The Crusades: Battle of Hattin: Saladin defeats Guy of Lusignan, King 
 <br/><br/>
 En 1120 : Jordan II of Capua is anointed as prince after his infant nephew's death.
 <br/><br/>
-En 1054 : A supernova, called SN 1054, is seen by Chinese Song dynasty, Arab, and possibly Amerindian observers near the star Zeta Tauri. For several months it remains bright enough to be seen during the day. Its remnants form the Crab Nebula.
+En 1054 : A supernova, called SN 1054, is seen by Chinese Song dynasty, Arab, and possibly indigenous American observers near the star Zeta Tauri. For several months it remains bright enough to be seen during the day. Its remnants form the Crab Nebula.
 <br/><br/>
 En 993 : Ulrich of Augsburg is canonized as a saint.
 <br/><br/>
