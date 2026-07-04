@@ -12,7 +12,7 @@ En 2025 : The Oasis Live '25 tour begins in Principality Stadium, Cardiff, endin
 <br/><br/>
 En 2024 : The Labour Party, led by Keir Starmer, wins a landslide majority in the 2024 United Kingdom general election, ending 14 years of Conservative government.
 <br/><br/>
-En 2015 : Chile claims its first title in international football by defeating Argentina in the 2015 Copa América Final.
+En 2015 : Chile claims its first title in international football by defeating Argentina in the 2015 Copa América final.
 <br/><br/>
 En 2012 : The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.
 <br/><br/>
@@ -194,7 +194,7 @@ En 2025 : The Oasis Live '25 tour begins in Principality Stadium, Cardiff, endin
 <br/><br/>
 En 2024 : The Labour Party, led by Keir Starmer, wins a landslide majority in the 2024 United Kingdom general election, ending 14 years of Conservative government.
 <br/><br/>
-En 2015 : Chile claims its first title in international football by defeating Argentina in the 2015 Copa América Final.
+En 2015 : Chile claims its first title in international football by defeating Argentina in the 2015 Copa América final.
 <br/><br/>
 En 2012 : The discovery of particles consistent with the Higgs boson at the Large Hadron Collider is announced at CERN.
 <br/><br/>
