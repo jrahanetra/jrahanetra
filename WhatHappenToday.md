@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 5/7 ?(Hover on the year)</h1>
 
-En 2024 : Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election
+En 2024 : Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election.
 <br/><br/>
 En 2023 : The last Ariane 5 rocket is launched, carrying the Heinrich Hertz and Syracuse 4B satellites.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1294 : Election of pope Celestine V following the death of pope Nicholas IV t
 <br/><br/>
 En 328 : The official opening of Constantine's Bridge built over the Danube between Sucidava (Corabia, Romania) and Oescus (Gigen, Bulgaria) by the Roman architect Theophilus Patricius.
 <br/><br/>
-En 2024 : Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election
+En 2024 : Keir Starmer is appointed Prime Minister by Charles III, becoming the first Labour prime minister since Gordon Brown in 2010 and the first one to win a general election since Tony Blair at the 2005 general election.
 <br/><br/>
 En 2023 : The last Ariane 5 rocket is launched, carrying the Heinrich Hertz and Syracuse 4B satellites.
 <br/><br/>
