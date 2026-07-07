@@ -118,7 +118,7 @@ En 1585 : The Treaty of Nemours abolishes tolerance to Protestants in France.
 <br/><br/>
 En 1575 : The Raid of the Redeswire is the last major battle between England and Scotland.
 <br/><br/>
-En 1548 : Scotland and France conclude the treaty of Haddington in response to the "rough wooing". According to the treaty, the five-year old Mary, Queen of Scots, is to marry the Dauphin of France.
+En 1548 : Scotland and France conclude the Treaty of Haddington in response to the war known as the "Rough Wooing". According to the treaty, the five-year old Mary, Queen of Scots, is to marry the Dauphin of France.
 <br/><br/>
 En 1534 : Jacques Cartier makes his first contact with aboriginal peoples in what is now Canada.
 <br/><br/>
@@ -240,7 +240,7 @@ En 1585 : The Treaty of Nemours abolishes tolerance to Protestants in France.
 <br/><br/>
 En 1575 : The Raid of the Redeswire is the last major battle between England and Scotland.
 <br/><br/>
-En 1548 : Scotland and France conclude the treaty of Haddington in response to the "rough wooing". According to the treaty, the five-year old Mary, Queen of Scots, is to marry the Dauphin of France.
+En 1548 : Scotland and France conclude the Treaty of Haddington in response to the war known as the "Rough Wooing". According to the treaty, the five-year old Mary, Queen of Scots, is to marry the Dauphin of France.
 <br/><br/>
 En 1534 : Jacques Cartier makes his first contact with aboriginal peoples in what is now Canada.
 <br/><br/>
