@@ -20,11 +20,11 @@ En 2013 : A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten
 <br/><br/>
 En 2012 : At least 172 people are killed in a flash flood in the Krasnodar Krai region of Russia.
 <br/><br/>
-En 2011 : A man goes on a killing spree in Grand Rapids, Michigan, killing 7 and wounding 2 before killing himself.
+En 2011 : A man goes on a killing spree in Grand Rapids, Michigan, killing seven and wounding two before killing himself.
 <br/><br/>
 En 2007 : The first Live Earth benefit concert was held in 11 locations around the world.
 <br/><br/>
-En 2006 : A shootout happens in Spiritwood, Canada, killing 2 Royal Canadian Mounted Police and wounding a 3rd officer.
+En 2006 : A shootout happens in Spiritwood, Canada, killing two Royal Canadian Mounted Police and wounding a third officer.
 <br/><br/>
 En 2005 : A series of four explosions occurs on London's transport system, killing 56 people, including four suicide bombers, and injuring over 700 others.
 <br/><br/>
@@ -38,7 +38,7 @@ En 1991 : Yugoslav Wars: The Brioni Agreement ends the ten-day independence war 
 <br/><br/>
 En 1985 : Boris Becker becomes the youngest male player ever to win Wimbledon at age 17.
 <br/><br/>
-En 1983 : Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.
+En 1983 : Cold War: Samantha Smith, a United States schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.
 <br/><br/>
 En 1981 : US President Ronald Reagan nominates Sandra Day O'Connor to become the first female member of the Supreme Court of the United States.
 <br/><br/>
@@ -142,11 +142,11 @@ En 2013 : A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten
 <br/><br/>
 En 2012 : At least 172 people are killed in a flash flood in the Krasnodar Krai region of Russia.
 <br/><br/>
-En 2011 : A man goes on a killing spree in Grand Rapids, Michigan, killing 7 and wounding 2 before killing himself.
+En 2011 : A man goes on a killing spree in Grand Rapids, Michigan, killing seven and wounding two before killing himself.
 <br/><br/>
 En 2007 : The first Live Earth benefit concert was held in 11 locations around the world.
 <br/><br/>
-En 2006 : A shootout happens in Spiritwood, Canada, killing 2 Royal Canadian Mounted Police and wounding a 3rd officer.
+En 2006 : A shootout happens in Spiritwood, Canada, killing two Royal Canadian Mounted Police and wounding a third officer.
 <br/><br/>
 En 2005 : A series of four explosions occurs on London's transport system, killing 56 people, including four suicide bombers, and injuring over 700 others.
 <br/><br/>
@@ -160,7 +160,7 @@ En 1991 : Yugoslav Wars: The Brioni Agreement ends the ten-day independence war 
 <br/><br/>
 En 1985 : Boris Becker becomes the youngest male player ever to win Wimbledon at age 17.
 <br/><br/>
-En 1983 : Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.
+En 1983 : Cold War: Samantha Smith, a United States schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.
 <br/><br/>
 En 1981 : US President Ronald Reagan nominates Sandra Day O'Connor to become the first female member of the Supreme Court of the United States.
 <br/><br/>
