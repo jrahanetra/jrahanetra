@@ -80,7 +80,7 @@ En 1928 : Sliced bread is sold for the first time (on the inventor's 48th birthd
 <br/><br/>
 En 1916 : The New Zealand Labour Party was founded in Wellington.
 <br/><br/>
-En 1915 : The First Battle of the Isonzo comes to an end.
+En 1915 : World War I:  The First Battle of the Isonzo between Italy and Austria-Hungary comes to an end.
 <br/><br/>
 En 1915 : Colombo Town Guard officer Henry Pedris is executed in British Ceylon for allegedly inciting persecution of Muslims.
 <br/><br/>
@@ -202,7 +202,7 @@ En 1928 : Sliced bread is sold for the first time (on the inventor's 48th birthd
 <br/><br/>
 En 1916 : The New Zealand Labour Party was founded in Wellington.
 <br/><br/>
-En 1915 : The First Battle of the Isonzo comes to an end.
+En 1915 : World War I:  The First Battle of the Isonzo between Italy and Austria-Hungary comes to an end.
 <br/><br/>
 En 1915 : Colombo Town Guard officer Henry Pedris is executed in British Ceylon for allegedly inciting persecution of Muslims.
 <br/><br/>
