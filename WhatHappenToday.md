@@ -34,8 +34,6 @@ En 1972 : Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.
 <br/><br/>
 En 1970 : Richard Nixon delivers a special congressional message enunciating Native American self-determination as official US Indian policy, leading to the Indian Self-Determination and Education Assistance Act of 1975.
 <br/><br/>
-En 1968 : The Chrysler wildcat strike begins in Detroit, Michigan.
-<br/><br/>
 En 1966 : King Mwambutsa IV Bangiriceng of Burundi is deposed by his son Prince Charles Ndizi.
 <br/><br/>
 En 1965 : Canadian Pacific Air Lines Flight 21 is destroyed by a bomb near 100 Mile House, Canada, killing 52.
@@ -50,13 +48,9 @@ En 1947 : Reports are broadcast that a UFO crash-landed in Roswell, New Mexico i
 <br/><br/>
 En 1937 : Turkey, Iran, Iraq, and Afghanistan sign the Treaty of Saadabad.
 <br/><br/>
-En 1933 : The first rugby union test match between the Wallabies of Australia and the Springboks of South Africa is played at Newlands Stadium in Cape Town.
-<br/><br/>
 En 1932 : The Dow Jones Industrial Average reaches its lowest level of the Great Depression, closing at 41.22.
 <br/><br/>
 En 1912 : Henrique Mitchell de Paiva Couceiro leads an unsuccessful royalist attack against the First Portuguese Republic in Chaves.
-<br/><br/>
-En 1898 : The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.
 <br/><br/>
 En 1892 : St. John's, Newfoundland is devastated in the Great Fire of 1892.
 <br/><br/>
@@ -136,8 +130,6 @@ En 1972 : Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.
 <br/><br/>
 En 1970 : Richard Nixon delivers a special congressional message enunciating Native American self-determination as official US Indian policy, leading to the Indian Self-Determination and Education Assistance Act of 1975.
 <br/><br/>
-En 1968 : The Chrysler wildcat strike begins in Detroit, Michigan.
-<br/><br/>
 En 1966 : King Mwambutsa IV Bangiriceng of Burundi is deposed by his son Prince Charles Ndizi.
 <br/><br/>
 En 1965 : Canadian Pacific Air Lines Flight 21 is destroyed by a bomb near 100 Mile House, Canada, killing 52.
@@ -152,13 +144,9 @@ En 1947 : Reports are broadcast that a UFO crash-landed in Roswell, New Mexico i
 <br/><br/>
 En 1937 : Turkey, Iran, Iraq, and Afghanistan sign the Treaty of Saadabad.
 <br/><br/>
-En 1933 : The first rugby union test match between the Wallabies of Australia and the Springboks of South Africa is played at Newlands Stadium in Cape Town.
-<br/><br/>
 En 1932 : The Dow Jones Industrial Average reaches its lowest level of the Great Depression, closing at 41.22.
 <br/><br/>
 En 1912 : Henrique Mitchell de Paiva Couceiro leads an unsuccessful royalist attack against the First Portuguese Republic in Chaves.
-<br/><br/>
-En 1898 : The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.
 <br/><br/>
 En 1892 : St. John's, Newfoundland is devastated in the Great Fire of 1892.
 <br/><br/>
