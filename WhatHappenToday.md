@@ -72,7 +72,7 @@ En 1832 : An Egyptian army under Ibrahim Pascha defeats an Ottoman army under Me
 <br/><br/>
 En 1822 : Chippewas turn over a huge tract of land in Ontario to the United Kingdom.
 <br/><br/>
-En 1776 : Church bells (possibly including the Liberty Bell) are rung after John Nixon delivers the first public reading of the Declaration of Independence of the United States.
+En 1776 : John Nixon delivers the first public reading of the Declaration of Independence of the United States.
 <br/><br/>
 En 1775 : The Olive Branch Petition is signed by the Continental Congress of the Thirteen Colonies of North America.
 <br/><br/>
@@ -168,7 +168,7 @@ En 1832 : An Egyptian army under Ibrahim Pascha defeats an Ottoman army under Me
 <br/><br/>
 En 1822 : Chippewas turn over a huge tract of land in Ontario to the United Kingdom.
 <br/><br/>
-En 1776 : Church bells (possibly including the Liberty Bell) are rung after John Nixon delivers the first public reading of the Declaration of Independence of the United States.
+En 1776 : John Nixon delivers the first public reading of the Declaration of Independence of the United States.
 <br/><br/>
 En 1775 : The Olive Branch Petition is signed by the Continental Congress of the Thirteen Colonies of North America.
 <br/><br/>
