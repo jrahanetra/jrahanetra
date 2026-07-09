@@ -130,7 +130,7 @@ En 1357 : Emperor Charles IV assists in laying the foundation stone of Charles B
 <br/><br/>
 En 969 : The Fatimid general Jawhar leads the Friday prayer in Fustat in the name of Caliph al-Mu'izz li-Din Allah, thereby symbolically completing the Fatimid conquest of Egypt.
 <br/><br/>
-En 869 : The 8.4–9.0 MwSanriku earthquake strikes the area around Sendai in northern Honshu, Japan. Inundation from the tsunami extended several kilometers inland.
+En 869 : The 8.4–9.0 Mw Sanriku earthquake strikes the area around Sendai in northern Honshu, Japan. Inundation from the tsunami extended several kilometers inland.
 <br/><br/>
 En 660 : Korean forces under general Kim Yu-sin of Silla defeat the army of Baekje in the Battle of Hwangsanbeol.
 <br/><br/>
@@ -268,7 +268,7 @@ En 1357 : Emperor Charles IV assists in laying the foundation stone of Charles B
 <br/><br/>
 En 969 : The Fatimid general Jawhar leads the Friday prayer in Fustat in the name of Caliph al-Mu'izz li-Din Allah, thereby symbolically completing the Fatimid conquest of Egypt.
 <br/><br/>
-En 869 : The 8.4–9.0 MwSanriku earthquake strikes the area around Sendai in northern Honshu, Japan. Inundation from the tsunami extended several kilometers inland.
+En 869 : The 8.4–9.0 Mw Sanriku earthquake strikes the area around Sendai in northern Honshu, Japan. Inundation from the tsunami extended several kilometers inland.
 <br/><br/>
 En 660 : Korean forces under general Kim Yu-sin of Silla defeat the army of Baekje in the Battle of Hwangsanbeol.
 <br/><br/>
