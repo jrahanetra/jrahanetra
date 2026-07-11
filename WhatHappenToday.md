@@ -32,7 +32,7 @@ En 1982 : Italy defeats West Germany 3–1 to win the FIFA World Cup.
 <br/><br/>
 En 1979 : America's first space station, Skylab, is destroyed as it re-enters the Earth's atmosphere over the Indian Ocean.
 <br/><br/>
-En 1978 : Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain killing 216 tourists.
+En 1978 : Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain, killing 216 tourists.
 <br/><br/>
 En 1977 : Martin Luther King Jr., assassinated in 1968, is posthumously awarded the Presidential Medal of Freedom.
 <br/><br/>
@@ -70,7 +70,7 @@ En 1936 : The Triborough Bridge in New York City is opened to traffic.
 <br/><br/>
 En 1934 : Engelbert Zaschka of Germany flies his large human-powered aircraft, the Zaschka Human-Power Aircraft, about 20 meters at Berlin Tempelhof Airport without assisted take-off.
 <br/><br/>
-En 1924 : Eric Liddell won the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday.
+En 1924 : Eric Liddell wins the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday.
 <br/><br/>
 En 1922 : The Hollywood Bowl opens.
 <br/><br/>
@@ -174,7 +174,7 @@ En 1982 : Italy defeats West Germany 3–1 to win the FIFA World Cup.
 <br/><br/>
 En 1979 : America's first space station, Skylab, is destroyed as it re-enters the Earth's atmosphere over the Indian Ocean.
 <br/><br/>
-En 1978 : Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain killing 216 tourists.
+En 1978 : Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain, killing 216 tourists.
 <br/><br/>
 En 1977 : Martin Luther King Jr., assassinated in 1968, is posthumously awarded the Presidential Medal of Freedom.
 <br/><br/>
@@ -212,7 +212,7 @@ En 1936 : The Triborough Bridge in New York City is opened to traffic.
 <br/><br/>
 En 1934 : Engelbert Zaschka of Germany flies his large human-powered aircraft, the Zaschka Human-Power Aircraft, about 20 meters at Berlin Tempelhof Airport without assisted take-off.
 <br/><br/>
-En 1924 : Eric Liddell won the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday.
+En 1924 : Eric Liddell wins the gold medal in 400m at the 1924 Paris Olympics, after refusing to run in the heats for 100m, his favoured distance, on a Sunday.
 <br/><br/>
 En 1922 : The Hollywood Bowl opens.
 <br/><br/>
