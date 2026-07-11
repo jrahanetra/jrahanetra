@@ -18,7 +18,7 @@ En 2010 : In Johannesburg, Spain defeat the Netherlands 1–0 after extra time t
 <br/><br/>
 En 2007 : The Siege of Lal Masjid in Islamabad, Pakistan, ends after the Pakistan Army storms the mosque which had been occupied by Islamist militants.
 <br/><br/>
-En 2006 : Mumbai train bombings: Teo hundred and nine people are killed in a series of bomb attacks in Mumbai, India.
+En 2006 : Mumbai train bombings: 209 people are killed in a series of bomb attacks in Mumbai, India.
 <br/><br/>
 En 1995 : Yugoslav Wars: Srebrenica massacre begins, lasting until 22 July.
 <br/><br/>
@@ -160,7 +160,7 @@ En 2010 : In Johannesburg, Spain defeat the Netherlands 1–0 after extra time t
 <br/><br/>
 En 2007 : The Siege of Lal Masjid in Islamabad, Pakistan, ends after the Pakistan Army storms the mosque which had been occupied by Islamist militants.
 <br/><br/>
-En 2006 : Mumbai train bombings: Teo hundred and nine people are killed in a series of bomb attacks in Mumbai, India.
+En 2006 : Mumbai train bombings: 209 people are killed in a series of bomb attacks in Mumbai, India.
 <br/><br/>
 En 1995 : Yugoslav Wars: Srebrenica massacre begins, lasting until 22 July.
 <br/><br/>
