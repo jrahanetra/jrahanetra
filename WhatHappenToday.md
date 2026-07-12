@@ -20,7 +20,7 @@ En 2006 : A cross-border raid by Hezbollah militants starts the 2006 Lebanon War
 <br/><br/>
 En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
 <br/><br/>
-En 1998 : The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
+En 1998 : The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
 <br/><br/>
 En 1998 : France win their first World Cup title, defeating defending champions Brazil 3–0.
 <br/><br/>
@@ -60,7 +60,7 @@ En 1913 : The Second Revolution breaks out against the Beiyang government, as Li
 <br/><br/>
 En 1862 : The Medal of Honor is authorized by the United States Congress.
 <br/><br/>
-En 1847 : A riot occurred in Woodstock, New Brunswick, between Catholics and members of the Orange Order that resulted in up to ten deaths.
+En 1847 : A riot occurs in Woodstock, New Brunswick, between Catholics and members of the Orange Order that results in up to ten deaths.
 <br/><br/>
 En 1812 : The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario.
 <br/><br/>
@@ -86,11 +86,11 @@ En 1562 : Fray Diego de Landa, acting Bishop of Yucatán, burns the sacred idols
 <br/><br/>
 En 1543 : King Henry VIII of England marries his sixth and last wife, Catherine Parr, at Hampton Court Palace.
 <br/><br/>
-En 1527 : Lê Cung Hoàng ceded the throne to Mạc Đăng Dung, ending the Lê dynasty and starting the Mạc dynasty.
+En 1527 : Lê Cung Hoàng cedes the throne to Mạc Đăng Dung, ending the Lê dynasty and starting the Mạc dynasty.
 <br/><br/>
 En 1493 : Hartmann Schedel's Nuremberg Chronicle, one of the best-documented early printed books, is published.
 <br/><br/>
-En 1488 : Joseon Dynasty official Choe Bu returned to Korea after months of shipwrecked travel in China.
+En 1488 : Joseon Dynasty official Choe Bu returns to Korea after months of shipwrecked travel in China.
 <br/><br/>
 En 1470 : The Ottomans capture Euboea.
 <br/><br/>
@@ -100,7 +100,7 @@ En 1335 : Pope Benedict XII issues the papal bull Fulgens sicut stella matutina 
 <br/><br/>
 En 1191 : Third Crusade: Saladin's garrison surrenders to Philip Augustus, ending the two-year siege of Acre.
 <br/><br/>
-En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred of Bamburgh and King Owain of the Cumbrians accepted the overlordship of King Æthelstan of England, leading to seven years of peace in the north.
+En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred of Bamburgh and King Owain of the Cumbrians accept the overlordship of King Æthelstan of England, leading to seven years of peace in the north.
 <br/><br/>
 En 813 : Leo V the Armenian is crowned as Byzantine Emperor after he successfully forced previous emperor Michael I Rangabe to abdicate the previous day.
 <br/><br/>
@@ -122,7 +122,7 @@ En 2006 : A cross-border raid by Hezbollah militants starts the 2006 Lebanon War
 <br/><br/>
 En 2001 : Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
 <br/><br/>
-En 1998 : The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
+En 1998 : The Ulster Volunteer Force attack a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
 <br/><br/>
 En 1998 : France win their first World Cup title, defeating defending champions Brazil 3–0.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1913 : The Second Revolution breaks out against the Beiyang government, as Li
 <br/><br/>
 En 1862 : The Medal of Honor is authorized by the United States Congress.
 <br/><br/>
-En 1847 : A riot occurred in Woodstock, New Brunswick, between Catholics and members of the Orange Order that resulted in up to ten deaths.
+En 1847 : A riot occurs in Woodstock, New Brunswick, between Catholics and members of the Orange Order that results in up to ten deaths.
 <br/><br/>
 En 1812 : The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario.
 <br/><br/>
@@ -188,11 +188,11 @@ En 1562 : Fray Diego de Landa, acting Bishop of Yucatán, burns the sacred idols
 <br/><br/>
 En 1543 : King Henry VIII of England marries his sixth and last wife, Catherine Parr, at Hampton Court Palace.
 <br/><br/>
-En 1527 : Lê Cung Hoàng ceded the throne to Mạc Đăng Dung, ending the Lê dynasty and starting the Mạc dynasty.
+En 1527 : Lê Cung Hoàng cedes the throne to Mạc Đăng Dung, ending the Lê dynasty and starting the Mạc dynasty.
 <br/><br/>
 En 1493 : Hartmann Schedel's Nuremberg Chronicle, one of the best-documented early printed books, is published.
 <br/><br/>
-En 1488 : Joseon Dynasty official Choe Bu returned to Korea after months of shipwrecked travel in China.
+En 1488 : Joseon Dynasty official Choe Bu returns to Korea after months of shipwrecked travel in China.
 <br/><br/>
 En 1470 : The Ottomans capture Euboea.
 <br/><br/>
@@ -202,7 +202,7 @@ En 1335 : Pope Benedict XII issues the papal bull Fulgens sicut stella matutina 
 <br/><br/>
 En 1191 : Third Crusade: Saladin's garrison surrenders to Philip Augustus, ending the two-year siege of Acre.
 <br/><br/>
-En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred of Bamburgh and King Owain of the Cumbrians accepted the overlordship of King Æthelstan of England, leading to seven years of peace in the north.
+En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred of Bamburgh and King Owain of the Cumbrians accept the overlordship of King Æthelstan of England, leading to seven years of peace in the north.
 <br/><br/>
 En 813 : Leo V the Armenian is crowned as Byzantine Emperor after he successfully forced previous emperor Michael I Rangabe to abdicate the previous day.
 <br/><br/>
