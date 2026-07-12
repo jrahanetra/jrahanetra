@@ -104,7 +104,7 @@ En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred
 <br/><br/>
 En 813 : Leo V the Armenian is crowned as Byzantine Emperor after he successfully forced previous emperor Michael I Rangabe to abdicate the previous day.
 <br/><br/>
-En 526 : Election of pope Felix IV following the death of pope John I earlier that year.
+En 526 : Election of Pope Felix IV following the death of Pope John I earlier that year.
 <br/><br/>
 En 70 : The armies of Titus attack the walls of Jerusalem after a six-month siege. Three days later they breach the walls, which enables the army to destroy the Second Temple.
 <br/><br/>
@@ -206,7 +206,7 @@ En 927 : King Constantine II of Scotland, King Hywel Dda of Deheubarth, Ealdred
 <br/><br/>
 En 813 : Leo V the Armenian is crowned as Byzantine Emperor after he successfully forced previous emperor Michael I Rangabe to abdicate the previous day.
 <br/><br/>
-En 526 : Election of pope Felix IV following the death of pope John I earlier that year.
+En 526 : Election of Pope Felix IV following the death of Pope John I earlier that year.
 <br/><br/>
 En 70 : The armies of Titus attack the walls of Jerusalem after a six-month siege. Three days later they breach the walls, which enables the army to destroy the Second Temple.
 <br/><br/>
