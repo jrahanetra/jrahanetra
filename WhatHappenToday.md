@@ -60,11 +60,11 @@ En 1863 : American Civil War: The New York City draft riots begin three days of 
 <br/><br/>
 En 1854 : In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
 <br/><br/>
-En 1849 : The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
+En 1849 : The Charleston Workhouse Slave Rebellion begins in Charleston, South Carolina, United States.
 <br/><br/>
-En 1841 : Austria, Britain, France, Prussia and Russia conclude the London Straits Convention, which prevents warships to cross the Bosporus and Dardanelles in times of war.
+En 1841 : Austria, Britain, France, Prussia and Russia conclude the London Straits Convention, which forbids warships to cross the Bosporus and Dardanelles in times of war.
 <br/><br/>
-En 1831 : Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
+En 1831 : Regulamentul Organic, a quasi-constitutional organic law, is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
 <br/><br/>
 En 1830 : The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1794 : The Battle of Trippstadt between French forces and those of Prussia an
 <br/><br/>
 En 1787 : The Congress of the Confederation enacts the Northwest Ordinance establishing governing rules for the Northwest Territory. It also establishes procedures for the admission of new states and limits the expansion of slavery.
 <br/><br/>
-En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville fresh from their victory at Beachy Head sail West and launch a raid on the small English town of Teignmouth leaving it devastated.
+En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville, fresh from their victory at Beachy Head, sail West and launch a raid on the small English town of Teignmouth, leaving it devastated.
 <br/><br/>
 En 1643 : English Civil War: Battle of Roundway Down: In England, Henry Wilmot, 1st Earl of Rochester, commanding the Royalist forces, heavily defeats the Parliamentarian forces led by Sir William Waller.
 <br/><br/>
@@ -88,7 +88,7 @@ En 1558 : Battle of Gravelines: In France, Spanish forces led by Count Lamoral o
 <br/><br/>
 En 1402 : Nanjing surrenders to Zhu Di without a fight, ending the Jingnan campaign. The Jianwen Emperor disappears and his family is incarcerated.
 <br/><br/>
-En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania
+En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania.
 <br/><br/>
 En 1249 : Coronation of Alexander III as King of Scots.
 <br/><br/>
@@ -148,11 +148,11 @@ En 1863 : American Civil War: The New York City draft riots begin three days of 
 <br/><br/>
 En 1854 : In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
 <br/><br/>
-En 1849 : The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
+En 1849 : The Charleston Workhouse Slave Rebellion begins in Charleston, South Carolina, United States.
 <br/><br/>
-En 1841 : Austria, Britain, France, Prussia and Russia conclude the London Straits Convention, which prevents warships to cross the Bosporus and Dardanelles in times of war.
+En 1841 : Austria, Britain, France, Prussia and Russia conclude the London Straits Convention, which forbids warships to cross the Bosporus and Dardanelles in times of war.
 <br/><br/>
-En 1831 : Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
+En 1831 : Regulamentul Organic, a quasi-constitutional organic law, is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
 <br/><br/>
 En 1830 : The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1794 : The Battle of Trippstadt between French forces and those of Prussia an
 <br/><br/>
 En 1787 : The Congress of the Confederation enacts the Northwest Ordinance establishing governing rules for the Northwest Territory. It also establishes procedures for the admission of new states and limits the expansion of slavery.
 <br/><br/>
-En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville fresh from their victory at Beachy Head sail West and launch a raid on the small English town of Teignmouth leaving it devastated.
+En 1690 : Nine Years' War: French naval forces led by Anne Hilarion de Tourville, fresh from their victory at Beachy Head, sail West and launch a raid on the small English town of Teignmouth, leaving it devastated.
 <br/><br/>
 En 1643 : English Civil War: Battle of Roundway Down: In England, Henry Wilmot, 1st Earl of Rochester, commanding the Royalist forces, heavily defeats the Parliamentarian forces led by Sir William Waller.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1558 : Battle of Gravelines: In France, Spanish forces led by Count Lamoral o
 <br/><br/>
 En 1402 : Nanjing surrenders to Zhu Di without a fight, ending the Jingnan campaign. The Jianwen Emperor disappears and his family is incarcerated.
 <br/><br/>
-En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania
+En 1260 : The Livonian Order suffers its greatest defeat in the 13th century in the Battle of Durbe against the Grand Duchy of Lithuania.
 <br/><br/>
 En 1249 : Coronation of Alexander III as King of Scots.
 <br/><br/>
