@@ -16,7 +16,7 @@ En 2013 : Dedication of statue of Rachel Carson, a sculpture named for the envir
 <br/><br/>
 En 2002 : French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
 <br/><br/>
-En 2001 : Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducted his girlfriend in the Northern Territory.
+En 2001 : Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducts his girlfriend in the Northern Territory.
 <br/><br/>
 En 2001 : Rus Flight 9633 crashes during takeoff from Chkalovsky Airport, killing all 10 people on board.
 <br/><br/>
@@ -102,7 +102,7 @@ En 2013 : Dedication of statue of Rachel Carson, a sculpture named for the envir
 <br/><br/>
 En 2002 : French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
 <br/><br/>
-En 2001 : Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducted his girlfriend in the Northern Territory.
+En 2001 : Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducts his girlfriend in the Northern Territory.
 <br/><br/>
 En 2001 : Rus Flight 9633 crashes during takeoff from Chkalovsky Airport, killing all 10 people on board.
 <br/><br/>
