@@ -12,7 +12,7 @@ En 2016 : A man ploughs a truck into a Bastille Day celebration in Nice, France,
 <br/><br/>
 En 2015 : NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.
 <br/><br/>
-En 2013 : Dedication of statue of Rachel Carson, a sculpture named for the environmentalist, in Woods Hole, Massachusetts.
+En 2013 : Dedication of the statue of Rachel Carson, a sculpture of the environmentalist, in Woods Hole, Massachusetts.
 <br/><br/>
 En 2002 : French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
 <br/><br/>
@@ -98,7 +98,7 @@ En 2016 : A man ploughs a truck into a Bastille Day celebration in Nice, France,
 <br/><br/>
 En 2015 : NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.
 <br/><br/>
-En 2013 : Dedication of statue of Rachel Carson, a sculpture named for the environmentalist, in Woods Hole, Massachusetts.
+En 2013 : Dedication of the statue of Rachel Carson, a sculpture of the environmentalist, in Woods Hole, Massachusetts.
 <br/><br/>
 En 2002 : French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
 <br/><br/>
