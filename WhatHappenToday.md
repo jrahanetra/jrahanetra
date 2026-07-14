@@ -46,7 +46,7 @@ En 1933 : In a decree called the Gleichschaltung, Adolf Hitler abolishes all Ger
 <br/><br/>
 En 1933 : Nazi eugenics programme begins with the proclamation of the Law for the Prevention of Hereditarily Diseased Offspring requiring the compulsory sterilization of any citizen who suffers from alleged genetic disorders.
 <br/><br/>
-En 1916 : Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
+En 1916 : World War I:   Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
 <br/><br/>
 En 1915 : Beginning of the McMahon–Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.
 <br/><br/>
@@ -132,7 +132,7 @@ En 1933 : In a decree called the Gleichschaltung, Adolf Hitler abolishes all Ger
 <br/><br/>
 En 1933 : Nazi eugenics programme begins with the proclamation of the Law for the Prevention of Hereditarily Diseased Offspring requiring the compulsory sterilization of any citizen who suffers from alleged genetic disorders.
 <br/><br/>
-En 1916 : Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
+En 1916 : World War I:   Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
 <br/><br/>
 En 1915 : Beginning of the McMahon–Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.
 <br/><br/>
