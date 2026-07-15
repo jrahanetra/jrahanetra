@@ -24,7 +24,7 @@ En 2003 : AOL Time Warner disbands Netscape. The Mozilla Foundation is establish
 <br/><br/>
 En 2002 : "American Taliban" John Walker Lindh pleads guilty to supplying aid to the enemy and possession of explosives during the commission of a felony.
 <br/><br/>
-En 2002 : The Anti-Terrorism Court of Pakistan sentences British born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
+En 2002 : The Anti-Terrorism Court of Pakistan sentences British-born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
 <br/><br/>
 En 1998 : Sri Lankan Civil War: Sri Lankan Tamil MP S. Shanmuganathan is killed by a claymore mine.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1870 : Canadian Confederation: Rupert's Land and the North-Western Territory 
 <br/><br/>
 En 1862 : American Civil War: The CSS Arkansas, the most effective ironclad on the Mississippi River, battles with Union Navy ships commanded by Admiral David Farragut, severely damaging three ships and sustaining heavy damage herself.
 <br/><br/>
-En 1849 : The first air raid in history occurs; Austria launches pilotless balloons against the city of Venice
+En 1849 : The first air raid in history occurs; Austria launches pilotless balloons against the city of Venice.
 <br/><br/>
 En 1840 : The Great Powers of Europe conclude the convention of London in order to stabilise the Near East.
 <br/><br/>
@@ -136,7 +136,7 @@ En 2003 : AOL Time Warner disbands Netscape. The Mozilla Foundation is establish
 <br/><br/>
 En 2002 : "American Taliban" John Walker Lindh pleads guilty to supplying aid to the enemy and possession of explosives during the commission of a felony.
 <br/><br/>
-En 2002 : The Anti-Terrorism Court of Pakistan sentences British born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
+En 2002 : The Anti-Terrorism Court of Pakistan sentences British-born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
 <br/><br/>
 En 1998 : Sri Lankan Civil War: Sri Lankan Tamil MP S. Shanmuganathan is killed by a claymore mine.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1870 : Canadian Confederation: Rupert's Land and the North-Western Territory 
 <br/><br/>
 En 1862 : American Civil War: The CSS Arkansas, the most effective ironclad on the Mississippi River, battles with Union Navy ships commanded by Admiral David Farragut, severely damaging three ships and sustaining heavy damage herself.
 <br/><br/>
-En 1849 : The first air raid in history occurs; Austria launches pilotless balloons against the city of Venice
+En 1849 : The first air raid in history occurs; Austria launches pilotless balloons against the city of Venice.
 <br/><br/>
 En 1840 : The Great Powers of Europe conclude the convention of London in order to stabilise the Near East.
 <br/><br/>
