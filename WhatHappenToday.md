@@ -20,10 +20,6 @@ En 2007 : An earthquake of magnitude 6.8 and 6.6 aftershock occurs off the Niiga
 <br/><br/>
 En 2005 : An Antonov An-24 crashes near Baney in Bioko Norte, Equatorial Guinea, killing 60 people.
 <br/><br/>
-En 2004 : Millennium Park, considered Chicago's first and most ambitious early 21st-century architectural project, is opened to the public by Mayor Richard M. Daley.
-<br/><br/>
-En 1999 : John F. Kennedy Jr., his wife, Carolyn Bessette-Kennedy, and her sister, Lauren Bessette, die when the aircraft he is piloting crashes into the Atlantic Ocean off the coast of Martha's Vineyard.
-<br/><br/>
 En 1994 : The comet Shoemaker-Levy 9 is destroyed in a head-on collision with Jupiter.
 <br/><br/>
 En 1990 : The Luzon earthquake strikes the Philippines with an intensity of 7.7, affecting Benguet, Pangasinan, Nueva Ecija, La Union, Aurora, Bataan, Zambales and Tarlac.
@@ -42,8 +38,6 @@ En 1965 : South Vietnamese Colonel Phạm Ngọc Thảo, a formerly undetected c
 <br/><br/>
 En 1957 : KLM Flight 844 crashes off the Schouten Islands in present day Indonesia (then Netherlands New Guinea), killing 58 people.
 <br/><br/>
-En 1956 : Ringling Bros. and Barnum & Bailey Circus closes its last "Big Tent" show in Pittsburgh, Pennsylvania; due to changing economics, all subsequent circus shows will be held in arenas.
-<br/><br/>
 En 1951 : King Leopold III of Belgium abdicates in favor of his son, Baudouin of Belgium.
 <br/><br/>
 En 1951 : J. D. Salinger publishes his popular yet controversial novel, The Catcher in the Rye.
@@ -58,11 +52,7 @@ En 1948 : The storming of the cockpit of the Miss Macao passenger seaplane, oper
 <br/><br/>
 En 1945 : Manhattan Project: The Atomic Age begins when the United States successfully detonates a plutonium-based test nuclear weapon near Alamogordo, New Mexico.
 <br/><br/>
-En 1945 : World War II: The heavy cruiser USS Indianapolis leaves San Francisco with parts for the atomic bomb "Little Boy" bound for Tinian Island.
-<br/><br/>
 En 1942 : Holocaust: Vel' d'Hiv Roundup (Rafle du Vel' d'Hiv): The government of Vichy France orders the mass arrest of 13,152 Jews who are held at the Vélodrome d'Hiver in Paris before deportation to Auschwitz.
-<br/><br/>
-En 1941 : Joe DiMaggio hits safely for the 56th consecutive game, a streak that still stands as an MLB record.
 <br/><br/>
 En 1935 : The world's first parking meter is installed in Oklahoma City, Oklahoma.
 <br/><br/>
@@ -109,8 +99,6 @@ En 1377 : King Richard II of England is crowned.
 En 1251 : Celebrated by the Carmelite Order–but doubted by modern historians–as the day when Saint Simon Stock had a vision of the Virgin Mary.
 <br/><br/>
 En 1232 : The Spanish town of Arjona declares independence and names its native Muhammad ibn Yusuf as ruler. This marks the Muhammad's first rise to prominence; he later established the Nasrid Emirate of Granada, the last independent Muslim state in Spain.
-<br/><br/>
-En 1228 : Saint Francis of Assisi was canonized.
 <br/><br/>
 En 1212 : Battle of Las Navas de Tolosa: After Pope Innocent III calls European knights to a crusade, the forces of kings Alfonso VIII of Castile, Sancho VII of Navarre, Peter II of Aragon and Afonso II of Portugal defeat those of the Berber Muslim leader Almohad, thus marking a significant turning point in the Reconquista and in the medieval history of Spain.
 <br/><br/>
@@ -134,10 +122,6 @@ En 2007 : An earthquake of magnitude 6.8 and 6.6 aftershock occurs off the Niiga
 <br/><br/>
 En 2005 : An Antonov An-24 crashes near Baney in Bioko Norte, Equatorial Guinea, killing 60 people.
 <br/><br/>
-En 2004 : Millennium Park, considered Chicago's first and most ambitious early 21st-century architectural project, is opened to the public by Mayor Richard M. Daley.
-<br/><br/>
-En 1999 : John F. Kennedy Jr., his wife, Carolyn Bessette-Kennedy, and her sister, Lauren Bessette, die when the aircraft he is piloting crashes into the Atlantic Ocean off the coast of Martha's Vineyard.
-<br/><br/>
 En 1994 : The comet Shoemaker-Levy 9 is destroyed in a head-on collision with Jupiter.
 <br/><br/>
 En 1990 : The Luzon earthquake strikes the Philippines with an intensity of 7.7, affecting Benguet, Pangasinan, Nueva Ecija, La Union, Aurora, Bataan, Zambales and Tarlac.
@@ -156,8 +140,6 @@ En 1965 : South Vietnamese Colonel Phạm Ngọc Thảo, a formerly undetected c
 <br/><br/>
 En 1957 : KLM Flight 844 crashes off the Schouten Islands in present day Indonesia (then Netherlands New Guinea), killing 58 people.
 <br/><br/>
-En 1956 : Ringling Bros. and Barnum & Bailey Circus closes its last "Big Tent" show in Pittsburgh, Pennsylvania; due to changing economics, all subsequent circus shows will be held in arenas.
-<br/><br/>
 En 1951 : King Leopold III of Belgium abdicates in favor of his son, Baudouin of Belgium.
 <br/><br/>
 En 1951 : J. D. Salinger publishes his popular yet controversial novel, The Catcher in the Rye.
@@ -172,11 +154,7 @@ En 1948 : The storming of the cockpit of the Miss Macao passenger seaplane, oper
 <br/><br/>
 En 1945 : Manhattan Project: The Atomic Age begins when the United States successfully detonates a plutonium-based test nuclear weapon near Alamogordo, New Mexico.
 <br/><br/>
-En 1945 : World War II: The heavy cruiser USS Indianapolis leaves San Francisco with parts for the atomic bomb "Little Boy" bound for Tinian Island.
-<br/><br/>
 En 1942 : Holocaust: Vel' d'Hiv Roundup (Rafle du Vel' d'Hiv): The government of Vichy France orders the mass arrest of 13,152 Jews who are held at the Vélodrome d'Hiver in Paris before deportation to Auschwitz.
-<br/><br/>
-En 1941 : Joe DiMaggio hits safely for the 56th consecutive game, a streak that still stands as an MLB record.
 <br/><br/>
 En 1935 : The world's first parking meter is installed in Oklahoma City, Oklahoma.
 <br/><br/>
@@ -223,8 +201,6 @@ En 1377 : King Richard II of England is crowned.
 En 1251 : Celebrated by the Carmelite Order–but doubted by modern historians–as the day when Saint Simon Stock had a vision of the Virgin Mary.
 <br/><br/>
 En 1232 : The Spanish town of Arjona declares independence and names its native Muhammad ibn Yusuf as ruler. This marks the Muhammad's first rise to prominence; he later established the Nasrid Emirate of Granada, the last independent Muslim state in Spain.
-<br/><br/>
-En 1228 : Saint Francis of Assisi was canonized.
 <br/><br/>
 En 1212 : Battle of Las Navas de Tolosa: After Pope Innocent III calls European knights to a crusade, the forces of kings Alfonso VIII of Castile, Sancho VII of Navarre, Peter II of Aragon and Afonso II of Portugal defeat those of the Berber Muslim leader Almohad, thus marking a significant turning point in the Reconquista and in the medieval history of Spain.
 <br/><br/>
