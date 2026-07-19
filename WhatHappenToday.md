@@ -22,7 +22,7 @@ En 1992 : A car bomb kills Judge Paolo Borsellino and five members of his escort
 <br/><br/>
 En 1989 : United Airlines Flight 232 crashes in Sioux City, Iowa, killing 111.
 <br/><br/>
-En 1985 : The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
+En 1985 : The Val di Stava dam collapses, killing 268 people in Val di Stava, Italy.
 <br/><br/>
 En 1983 : The first three-dimensional reconstruction of a human head in a CT is published.
 <br/><br/>
@@ -36,7 +36,7 @@ En 1979 : The Sandinista rebels overthrow the government of the Somoza family in
 <br/><br/>
 En 1979 : The oil tanker SS Atlantic Empress collides with another oil tanker, causing the largest ever ship-borne oil spill.
 <br/><br/>
-En 1977 : The world's first Global Positioning System (GPS) signal was transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
+En 1977 : The world's first Global Positioning System (GPS) signal is transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
 <br/><br/>
 En 1976 : Sagarmatha National Park in Nepal is created.
 <br/><br/>
@@ -44,7 +44,7 @@ En 1972 : Dhofar Rebellion: British SAS units help the Omani government against 
 <br/><br/>
 En 1969 : Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.
 <br/><br/>
-En 1967 : Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.
+En 1967 : Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22, and a twin-engine Cessna 310 collide over Hendersonville, North Carolina, USA. Both aircraft are destroyed and all passengers and crew are killed, including John T. McNaughton, an advisor to Robert McNamara.
 <br/><br/>
 En 1964 : Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.
 <br/><br/>
@@ -52,7 +52,7 @@ En 1963 : Joe Walker flies a North American X-15 to a record altitude of 106,010
 <br/><br/>
 En 1961 : Tunisia imposes a blockade on the French naval base at Bizerte; the French would capture the entire town four days later.
 <br/><br/>
-En 1957 : The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh was published.
+En 1957 : The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh is published.
 <br/><br/>
 En 1952 : Opening of the Summer Olympics in Helsinki, Finland.
 <br/><br/>
@@ -72,7 +72,7 @@ En 1940 : World War II: Army order 112 forms the Intelligence Corps of the Briti
 <br/><br/>
 En 1936 : Spanish Civil War: The CNT and UGT call a general strike in Spain – mobilizing workers' militias against the Nationalist forces. People's Olympiad of Barcelona cancelled.
 <br/><br/>
-En 1934 : The rigid airship USS Macon surprised the USS Houston near Clipperton Island with a mail delivery for President Franklin D. Roosevelt, demonstrating its potential for tracking ships at sea.
+En 1934 : The rigid airship USS Macon surprises the USS Houston near Clipperton Island with a mail delivery for President Franklin D. Roosevelt, demonstrating its potential for tracking ships at sea.
 <br/><br/>
 En 1916 : World War I: Battle of Fromelles: British and Australian troops attack German trenches as part of the Battle of the Somme.
 <br/><br/>
@@ -142,7 +142,7 @@ En 1992 : A car bomb kills Judge Paolo Borsellino and five members of his escort
 <br/><br/>
 En 1989 : United Airlines Flight 232 crashes in Sioux City, Iowa, killing 111.
 <br/><br/>
-En 1985 : The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
+En 1985 : The Val di Stava dam collapses, killing 268 people in Val di Stava, Italy.
 <br/><br/>
 En 1983 : The first three-dimensional reconstruction of a human head in a CT is published.
 <br/><br/>
@@ -156,7 +156,7 @@ En 1979 : The Sandinista rebels overthrow the government of the Somoza family in
 <br/><br/>
 En 1979 : The oil tanker SS Atlantic Empress collides with another oil tanker, causing the largest ever ship-borne oil spill.
 <br/><br/>
-En 1977 : The world's first Global Positioning System (GPS) signal was transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
+En 1977 : The world's first Global Positioning System (GPS) signal is transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
 <br/><br/>
 En 1976 : Sagarmatha National Park in Nepal is created.
 <br/><br/>
@@ -164,7 +164,7 @@ En 1972 : Dhofar Rebellion: British SAS units help the Omani government against 
 <br/><br/>
 En 1969 : Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.
 <br/><br/>
-En 1967 : Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.
+En 1967 : Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22, and a twin-engine Cessna 310 collide over Hendersonville, North Carolina, USA. Both aircraft are destroyed and all passengers and crew are killed, including John T. McNaughton, an advisor to Robert McNamara.
 <br/><br/>
 En 1964 : Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.
 <br/><br/>
@@ -172,7 +172,7 @@ En 1963 : Joe Walker flies a North American X-15 to a record altitude of 106,010
 <br/><br/>
 En 1961 : Tunisia imposes a blockade on the French naval base at Bizerte; the French would capture the entire town four days later.
 <br/><br/>
-En 1957 : The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh was published.
+En 1957 : The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh is published.
 <br/><br/>
 En 1952 : Opening of the Summer Olympics in Helsinki, Finland.
 <br/><br/>
@@ -192,7 +192,7 @@ En 1940 : World War II: Army order 112 forms the Intelligence Corps of the Briti
 <br/><br/>
 En 1936 : Spanish Civil War: The CNT and UGT call a general strike in Spain – mobilizing workers' militias against the Nationalist forces. People's Olympiad of Barcelona cancelled.
 <br/><br/>
-En 1934 : The rigid airship USS Macon surprised the USS Houston near Clipperton Island with a mail delivery for President Franklin D. Roosevelt, demonstrating its potential for tracking ships at sea.
+En 1934 : The rigid airship USS Macon surprises the USS Houston near Clipperton Island with a mail delivery for President Franklin D. Roosevelt, demonstrating its potential for tracking ships at sea.
 <br/><br/>
 En 1916 : World War I: Battle of Fromelles: British and Australian troops attack German trenches as part of the Battle of the Somme.
 <br/><br/>
