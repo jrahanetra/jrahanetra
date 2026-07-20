@@ -50,7 +50,7 @@ En 1977 : Aeroflot Flight B-2 crashes after takeoff from Vitim Airport in the Sa
 <br/><br/>
 En 1976 : The American Viking 1 lander successfully lands on Mars.
 <br/><br/>
-En 1974 : Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.
+En 1974 : Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organized by the dictator of Greece, against president Makarios.
 <br/><br/>
 En 1969 : Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1977 : Aeroflot Flight B-2 crashes after takeoff from Vitim Airport in the Sa
 <br/><br/>
 En 1976 : The American Viking 1 lander successfully lands on Mars.
 <br/><br/>
-En 1974 : Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.
+En 1974 : Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organized by the dictator of Greece, against president Makarios.
 <br/><br/>
 En 1969 : Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.
 <br/><br/>
