@@ -118,7 +118,7 @@ En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of
 <br/><br/>
 En 905 : King Berengar I of Italy and a hired Hungarian army defeat the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
 <br/><br/>
-En 365 : The 365 Crete earthquake affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
+En 365 : Crete earthquake:  Affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
 <br/><br/>
 En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
 <br/><br/>
@@ -238,7 +238,7 @@ En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of
 <br/><br/>
 En 905 : King Berengar I of Italy and a hired Hungarian army defeat the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
 <br/><br/>
-En 365 : The 365 Crete earthquake affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
+En 365 : Crete earthquake:  Affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
 <br/><br/>
 En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
 <br/><br/>
