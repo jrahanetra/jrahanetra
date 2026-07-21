@@ -48,9 +48,9 @@ En 1969 : Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the fir
 <br/><br/>
 En 1964 : A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
 <br/><br/>
-En 1961 : Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
+En 1961 : Mercury program: Mercury-Redstone 4 mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
 <br/><br/>
-En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
+En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska, killing six.
 <br/><br/>
 En 1960 : Sirimavo Bandaranaike is sworn in as prime minister of Ceylon, becoming the world's first democratically elected female head of government.
 <br/><br/>
@@ -92,13 +92,13 @@ En 1865 : In the market square of Springfield, Missouri, Wild Bill Hickok shoots
 <br/><br/>
 En 1861 : American Civil War: First Battle of Bull Run: At Manassas Junction, Virginia, the first major battle of the war begins and ends in a victory for the Confederate army.
 <br/><br/>
-En 1832 : Signature of the treaty of Constantinople between the Britain, France, Russia and the Ottoman Empire, which outlines the borders of the new kingdom of Greece.
+En 1832 : Signing of the treaty of Constantinople between Britain, France, Russia and the Ottoman Empire, which outlines the borders of the new kingdom of Greece.
 <br/><br/>
 En 1831 : Inauguration of Leopold I of Belgium, first king of the Belgians.
 <br/><br/>
 En 1798 : French campaign in Egypt and Syria: Napoleon's forces defeat an Ottoman-Mamluk army near Cairo in the Battle of the Pyramids.
 <br/><br/>
-En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war. It is the first time, that an Ottoman ruler surrendered territory largely populated by Muslims and the first time that a separation of secular and spiritual authority in the Ottoman Empire was established.
+En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war. It is the first time that an Ottoman ruler surrendered territory largely populated by Muslims and the first time that a separation of secular and spiritual authority in the Ottoman Empire was established.
 <br/><br/>
 En 1718 : The Treaty of Passarowitz between the Ottoman Empire, Austria and the Republic of Venice is signed.
 <br/><br/>
@@ -116,9 +116,9 @@ En 1403 : Battle of Shrewsbury: King Henry IV of England defeats rebels to the n
 <br/><br/>
 En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of his vassals Henry III of England and Hugh X of Lusignan.
 <br/><br/>
-En 905 : King Berengar I of Italy and a hired Hungarian army defeats the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
+En 905 : King Berengar I of Italy and a hired Hungarian army defeat the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
 <br/><br/>
-En 365 : The 365 Crete earthquake affected the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
+En 365 : The 365 Crete earthquake affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
 <br/><br/>
 En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
 <br/><br/>
@@ -168,9 +168,9 @@ En 1969 : Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the fir
 <br/><br/>
 En 1964 : A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
 <br/><br/>
-En 1961 : Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
+En 1961 : Mercury program: Mercury-Redstone 4 mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
 <br/><br/>
-En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
+En 1961 : Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska, killing six.
 <br/><br/>
 En 1960 : Sirimavo Bandaranaike is sworn in as prime minister of Ceylon, becoming the world's first democratically elected female head of government.
 <br/><br/>
@@ -212,13 +212,13 @@ En 1865 : In the market square of Springfield, Missouri, Wild Bill Hickok shoots
 <br/><br/>
 En 1861 : American Civil War: First Battle of Bull Run: At Manassas Junction, Virginia, the first major battle of the war begins and ends in a victory for the Confederate army.
 <br/><br/>
-En 1832 : Signature of the treaty of Constantinople between the Britain, France, Russia and the Ottoman Empire, which outlines the borders of the new kingdom of Greece.
+En 1832 : Signing of the treaty of Constantinople between Britain, France, Russia and the Ottoman Empire, which outlines the borders of the new kingdom of Greece.
 <br/><br/>
 En 1831 : Inauguration of Leopold I of Belgium, first king of the Belgians.
 <br/><br/>
 En 1798 : French campaign in Egypt and Syria: Napoleon's forces defeat an Ottoman-Mamluk army near Cairo in the Battle of the Pyramids.
 <br/><br/>
-En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war. It is the first time, that an Ottoman ruler surrendered territory largely populated by Muslims and the first time that a separation of secular and spiritual authority in the Ottoman Empire was established.
+En 1774 : Russo-Turkish War (1768–74): Russia and the Ottoman Empire sign the Treaty of Küçük Kaynarca ending the war. It is the first time that an Ottoman ruler surrendered territory largely populated by Muslims and the first time that a separation of secular and spiritual authority in the Ottoman Empire was established.
 <br/><br/>
 En 1718 : The Treaty of Passarowitz between the Ottoman Empire, Austria and the Republic of Venice is signed.
 <br/><br/>
@@ -236,9 +236,9 @@ En 1403 : Battle of Shrewsbury: King Henry IV of England defeats rebels to the n
 <br/><br/>
 En 1242 : Battle of Taillebourg: Louis IX of France puts an end to the revolt of his vassals Henry III of England and Hugh X of Lusignan.
 <br/><br/>
-En 905 : King Berengar I of Italy and a hired Hungarian army defeats the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
+En 905 : King Berengar I of Italy and a hired Hungarian army defeat the Frankish forces at Verona. King Louis III is captured and blinded for breaking his oath (see 902).
 <br/><br/>
-En 365 : The 365 Crete earthquake affected the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
+En 365 : The 365 Crete earthquake affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme), causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria. Many thousands are killed.
 <br/><br/>
 En 285 : Diocletian appoints Maximian as Caesar and co-ruler.
 <br/><br/>
