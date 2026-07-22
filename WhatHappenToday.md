@@ -108,7 +108,7 @@ En 1342 : St. Mary Magdalene's flood is the worst such event on record for centr
 <br/><br/>
 En 1298 : Wars of Scottish Independence: Battle of Falkirk: King Edward I of England and his longbowmen defeat William Wallace and his Scottish schiltrons outside the town of Falkirk.
 <br/><br/>
-En 1227 : A coalition of north-east German towns, counts and princes defeats king Valdemar II of Denmark in the battle of Bornhöved.
+En 1227 : A coalition of north-east German towns, counts and princes defeats King Valdemar II of Denmark in the Battle of Bornhöved.
 <br/><br/>
 En 1209 : Massacre at Béziers: The first major military action of the Albigensian Crusade.
 <br/><br/>
@@ -116,7 +116,7 @@ En 1099 : First Crusade: Godfrey of Bouillon is elected the first Defender of th
 <br/><br/>
 En 838 : Battle of Anzen: The Byzantine emperor Theophilos suffers a heavy defeat by the Abbasids.
 <br/><br/>
-En 259 : Election of pope Dionysius after the death of pope Sixtus II in the persecutions of emperor Valerian in the previous year.
+En 259 : Election of Pope Dionysius after the death of Pope Sixtus II in the persecutions of Emperor Valerian in the previous year.
 <br/><br/>
 En 2019 : Chandrayaan-2, the second lunar exploration mission developed by Indian Space Research Organisation after Chandrayaan-1 is launched from Satish Dhawan Space Centre in a GSLV Mark III M1. It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover.
 <br/><br/>
@@ -220,7 +220,7 @@ En 1342 : St. Mary Magdalene's flood is the worst such event on record for centr
 <br/><br/>
 En 1298 : Wars of Scottish Independence: Battle of Falkirk: King Edward I of England and his longbowmen defeat William Wallace and his Scottish schiltrons outside the town of Falkirk.
 <br/><br/>
-En 1227 : A coalition of north-east German towns, counts and princes defeats king Valdemar II of Denmark in the battle of Bornhöved.
+En 1227 : A coalition of north-east German towns, counts and princes defeats King Valdemar II of Denmark in the Battle of Bornhöved.
 <br/><br/>
 En 1209 : Massacre at Béziers: The first major military action of the Albigensian Crusade.
 <br/><br/>
@@ -228,5 +228,5 @@ En 1099 : First Crusade: Godfrey of Bouillon is elected the first Defender of th
 <br/><br/>
 En 838 : Battle of Anzen: The Byzantine emperor Theophilos suffers a heavy defeat by the Abbasids.
 <br/><br/>
-En 259 : Election of pope Dionysius after the death of pope Sixtus II in the persecutions of emperor Valerian in the previous year.
+En 259 : Election of Pope Dionysius after the death of Pope Sixtus II in the persecutions of Emperor Valerian in the previous year.
 <br/><br/>
