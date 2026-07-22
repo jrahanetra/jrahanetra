@@ -68,7 +68,7 @@ En 1894 : The first ever motor race is held in France between the cities of Pari
 <br/><br/>
 En 1893 : Katharine Lee Bates writes "America the Beautiful" after admiring the view from the top of Pikes Peak near Colorado Springs, Colorado.
 <br/><br/>
-En 1880 : Abdur Rahman is proclaimed emir after having been accepted as ruler by the British.
+En 1880 : Abdur Rahman is proclaimed emir of Afghanistan after having been accepted as ruler by the British.
 <br/><br/>
 En 1864 : American Civil War: In the  Battle of Atlanta, Confederate General John Bell Hood leads an unsuccessful attack on Union troops under General William T. Sherman on Bald Hill outside Atlanta.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1894 : The first ever motor race is held in France between the cities of Pari
 <br/><br/>
 En 1893 : Katharine Lee Bates writes "America the Beautiful" after admiring the view from the top of Pikes Peak near Colorado Springs, Colorado.
 <br/><br/>
-En 1880 : Abdur Rahman is proclaimed emir after having been accepted as ruler by the British.
+En 1880 : Abdur Rahman is proclaimed emir of Afghanistan after having been accepted as ruler by the British.
 <br/><br/>
 En 1864 : American Civil War: In the  Battle of Atlanta, Confederate General John Bell Hood leads an unsuccessful attack on Union troops under General William T. Sherman on Bald Hill outside Atlanta.
 <br/><br/>
