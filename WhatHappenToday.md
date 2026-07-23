@@ -54,7 +54,7 @@ En 1970 : Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his 
 <br/><br/>
 En 1968 : Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days.
 <br/><br/>
-En 1968 : The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, to Lod, Israel.
+En 1968 : The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, Italy to Lod, Israel.
 <br/><br/>
 En 1967 : Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1970 : Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his 
 <br/><br/>
 En 1968 : Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days.
 <br/><br/>
-En 1968 : The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, to Lod, Israel.
+En 1968 : The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, Italy to Lod, Israel.
 <br/><br/>
 En 1967 : Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.
 <br/><br/>
