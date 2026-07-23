@@ -68,7 +68,7 @@ En 1961 : The Sandinista National Liberation Front is founded in Nicaragua.
 <br/><br/>
 En 1952 : General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.
 <br/><br/>
-En 1945 : The post-war legal processes against Philippe Pétain begin.
+En 1945 : The post-war legal processes against Philippe Pétain, the former president of Vichy France begin.
 <br/><br/>
 En 1943 : The Rayleigh bath chair murder occurs in Rayleigh, Essex, England.
 <br/><br/>
@@ -192,7 +192,7 @@ En 1961 : The Sandinista National Liberation Front is founded in Nicaragua.
 <br/><br/>
 En 1952 : General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.
 <br/><br/>
-En 1945 : The post-war legal processes against Philippe Pétain begin.
+En 1945 : The post-war legal processes against Philippe Pétain, the former president of Vichy France begin.
 <br/><br/>
 En 1943 : The Rayleigh bath chair murder occurs in Rayleigh, Essex, England.
 <br/><br/>
