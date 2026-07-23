@@ -70,7 +70,7 @@ En 1952 : General Muhammad Naguib leads the Free Officers Movement (formed by Ga
 <br/><br/>
 En 1945 : The post-war legal processes against Philippe Pétain begin.
 <br/><br/>
-En 1943 : The Rayleigh bath chair murder occurred in Rayleigh, Essex, England.
+En 1943 : The Rayleigh bath chair murder occurs in Rayleigh, Essex, England.
 <br/><br/>
 En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland.
 <br/><br/>
@@ -88,13 +88,13 @@ En 1926 : Fox Film buys the patents of the Movietone sound system for recording 
 <br/><br/>
 En 1921 : The Chinese Communist Party (CCP) is established at the founding National Congress.
 <br/><br/>
-En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana
+En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana.
 <br/><br/>
 En 1914 : July Crisis: Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.
 <br/><br/>
-En 1908 : The Second Constitution accepted by the Ottomans.
+En 1908 : The Second Constitution is accepted by the Ottomans.
 <br/><br/>
-En 1906 : The Amsden Building collapse in Framingham, Massachusetts, U.S., claimed 12 lives.
+En 1906 : The Amsden Building collapse in Framingham, Massachusetts, U.S., claims 12 lives.
 <br/><br/>
 En 1903 : The Ford Motor Company sells its first car.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1952 : General Muhammad Naguib leads the Free Officers Movement (formed by Ga
 <br/><br/>
 En 1945 : The post-war legal processes against Philippe Pétain begin.
 <br/><br/>
-En 1943 : The Rayleigh bath chair murder occurred in Rayleigh, Essex, England.
+En 1943 : The Rayleigh bath chair murder occurs in Rayleigh, Essex, England.
 <br/><br/>
 En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sink the Italian submarine Ascianghi in the Mediterranean after she torpedoes the cruiser HMS Newfoundland.
 <br/><br/>
@@ -212,13 +212,13 @@ En 1926 : Fox Film buys the patents of the Movietone sound system for recording 
 <br/><br/>
 En 1921 : The Chinese Communist Party (CCP) is established at the founding National Congress.
 <br/><br/>
-En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana
+En 1919 : Prince Regent Aleksander Karađorđević signs the decree establishing the University of Ljubljana.
 <br/><br/>
 En 1914 : July Crisis: Austria-Hungary issues a series of demands in an ultimatum to the Kingdom of Serbia demanding Serbia to allow the Austrians to determine who assassinated Archduke Franz Ferdinand. Serbia accepts all but one of those demands and Austria declares war on July 28.
 <br/><br/>
-En 1908 : The Second Constitution accepted by the Ottomans.
+En 1908 : The Second Constitution is accepted by the Ottomans.
 <br/><br/>
-En 1906 : The Amsden Building collapse in Framingham, Massachusetts, U.S., claimed 12 lives.
+En 1906 : The Amsden Building collapse in Framingham, Massachusetts, U.S., claims 12 lives.
 <br/><br/>
 En 1903 : The Ford Motor Company sells its first car.
 <br/><br/>
