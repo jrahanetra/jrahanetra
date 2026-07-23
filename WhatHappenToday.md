@@ -76,7 +76,7 @@ En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sin
 <br/><br/>
 En 1942 : World War II: The German offensives Operation Edelweiss and Operation Braunschweig begin on the Eastern Front.
 <br/><br/>
-En 1942 : Bulgarian poet and Communist leader Nikola Vaptsarov is executed by firing squad.
+En 1942 : Bulgarian poet and communist activist Nikola Vaptsarov is executed by firing squad.
 <br/><br/>
 En 1940 : The United States' Under Secretary of State Sumner Welles issues a declaration on the U.S. non-recognition policy of the Soviet annexation and incorporation of three Baltic states: Estonia, Latvia and Lithuania.
 <br/><br/>
@@ -128,7 +128,7 @@ En 1319 : A Knights Hospitaller fleet scores a crushing victory over an Aydinid 
 <br/><br/>
 En 811 : Byzantine emperor Nikephoros I plunders the Bulgarian capital of Pliska and captures Khan Krum's treasury.
 <br/><br/>
-En 685 : Election of pope John V following the death of pope Benedict II two months prior.
+En 685 : The election of Pope John V following the death of Pope Benedict II two months prior.
 <br/><br/>
 En 2018 : A wildfire in East Attica kills at least 102 people. It is the deadliest wildfire in the history of Greece.
 <br/><br/>
@@ -200,7 +200,7 @@ En 1943 : World War II: The British destroyers HMS Eclipse and HMS Laforey sin
 <br/><br/>
 En 1942 : World War II: The German offensives Operation Edelweiss and Operation Braunschweig begin on the Eastern Front.
 <br/><br/>
-En 1942 : Bulgarian poet and Communist leader Nikola Vaptsarov is executed by firing squad.
+En 1942 : Bulgarian poet and communist activist Nikola Vaptsarov is executed by firing squad.
 <br/><br/>
 En 1940 : The United States' Under Secretary of State Sumner Welles issues a declaration on the U.S. non-recognition policy of the Soviet annexation and incorporation of three Baltic states: Estonia, Latvia and Lithuania.
 <br/><br/>
@@ -252,5 +252,5 @@ En 1319 : A Knights Hospitaller fleet scores a crushing victory over an Aydinid 
 <br/><br/>
 En 811 : Byzantine emperor Nikephoros I plunders the Bulgarian capital of Pliska and captures Khan Krum's treasury.
 <br/><br/>
-En 685 : Election of pope John V following the death of pope Benedict II two months prior.
+En 685 : The election of Pope John V following the death of Pope Benedict II two months prior.
 <br/><br/>
