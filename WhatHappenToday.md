@@ -8,7 +8,7 @@
 
 En 2025 : Angara Airlines Flight 2311 crashes on approach to Tynda Airport, killing all 48 people on board.
 <br/><br/>
-En 2024 : A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal killing 18.
+En 2024 : A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal, killing 18.
 <br/><br/>
 En 2019 : Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in a leadership contest, succeeding Theresa May.
 <br/><br/>
@@ -24,15 +24,15 @@ En 2001 : The Bandaranaike Airport attack is carried out by 14 Tamil Tiger comma
 <br/><br/>
 En 1999 : Air Fiji flight 121 crashes while en route to Nadi, Fiji, killing all 17 people on board.
 <br/><br/>
-En 1998 : Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial.
+En 1998 : Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing two police officers. He is later ruled to be incompetent to stand trial.
 <br/><br/>
-En 1987 : US supertanker SS Bridgeton collides with mines laid by IRGC causing a 43-square-meter dent in the body of the oil tanker.
+En 1987 : US supertanker SS Bridgeton collides with mines laid by IRGC, causing a 43-square-meter dent in the body of the oil tanker.
 <br/><br/>
-En 1987 : Hulda Crooks, at 91 years of age, climbed Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
+En 1987 : Hulda Crooks, at 91 years of age, climbs Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
 <br/><br/>
 En 1983 : The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
 <br/><br/>
-En 1983 : George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
+En 1983 : George Brett, playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
 <br/><br/>
 En 1982 : Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
 <br/><br/>
@@ -40,7 +40,7 @@ En 1980 : The Quietly Confident Quartet of Australia wins the men's 4 x 100 metr
 <br/><br/>
 En 1977 : End of a four-day-long Libyan–Egyptian War.
 <br/><br/>
-En 1974 : Watergate scandal: The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
+En 1974 : Watergate scandal: The United States Supreme Court unanimously rules that President Richard Nixon does not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
 <br/><br/>
 En 1969 : Apollo program: Apollo 11 splashes down safely in the Pacific Ocean.
 <br/><br/>
@@ -48,7 +48,7 @@ En 1967 : During an official state visit to Canada, French President Charles de 
 <br/><br/>
 En 1966 : Michael Pelkey makes the first BASE jump from El Capitan along with Brian Schubert. Both came out with broken bones. BASE jumping has now been banned from El Cap.
 <br/><br/>
-En 1963 : The ship Bluenose II was launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
+En 1963 : The ship Bluenose II is launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
 <br/><br/>
 En 1959 : At the opening of the American National Exhibition in Moscow, U.S. vice president Richard Nixon and Soviet premier Nikita Khrushchev have a "Kitchen Debate".
 <br/><br/>
@@ -66,7 +66,7 @@ En 1924 : Themistoklis Sofoulis becomes Prime Minister of Greece.
 <br/><br/>
 En 1923 : The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria and other countries that fought in World War I.
 <br/><br/>
-En 1922 : The draft of the British Mandate of Palestine was formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
+En 1922 : The draft of the British Mandate of Palestine is formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
 <br/><br/>
 En 1915 : The passenger ship SS Eastland capsizes while tied to a dock in the Chicago River. A total of 844 passengers and crew are killed in the largest loss of life disaster from a single shipwreck on the Great Lakes.
 <br/><br/>
@@ -82,7 +82,7 @@ En 1864 : American Civil War: Battle of Kernstown: Confederate General Jubal Ear
 <br/><br/>
 En 1847 : After 17 months of travel, Brigham Young leads 148 Mormon pioneers into Salt Lake Valley, resulting in the establishment of Salt Lake City.
 <br/><br/>
-En 1847 : Richard March Hoe,  American inventor, patented the rotary-type printing press.
+En 1847 : Richard March Hoe, American inventor, patents the rotary-type printing press.
 <br/><br/>
 En 1712 : War of the Spanish Succession: The French under Marshal Villars win a decisive victory over Eugene of Savoy at Denain.
 <br/><br/>
@@ -106,7 +106,7 @@ En 1132 : Battle of Nocera between Ranulf II of Alife and Roger II of Sicily.
 <br/><br/>
 En 2025 : Angara Airlines Flight 2311 crashes on approach to Tynda Airport, killing all 48 people on board.
 <br/><br/>
-En 2024 : A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal killing 18.
+En 2024 : A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal, killing 18.
 <br/><br/>
 En 2019 : Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in a leadership contest, succeeding Theresa May.
 <br/><br/>
@@ -122,15 +122,15 @@ En 2001 : The Bandaranaike Airport attack is carried out by 14 Tamil Tiger comma
 <br/><br/>
 En 1999 : Air Fiji flight 121 crashes while en route to Nadi, Fiji, killing all 17 people on board.
 <br/><br/>
-En 1998 : Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial.
+En 1998 : Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing two police officers. He is later ruled to be incompetent to stand trial.
 <br/><br/>
-En 1987 : US supertanker SS Bridgeton collides with mines laid by IRGC causing a 43-square-meter dent in the body of the oil tanker.
+En 1987 : US supertanker SS Bridgeton collides with mines laid by IRGC, causing a 43-square-meter dent in the body of the oil tanker.
 <br/><br/>
-En 1987 : Hulda Crooks, at 91 years of age, climbed Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
+En 1987 : Hulda Crooks, at 91 years of age, climbs Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
 <br/><br/>
 En 1983 : The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
 <br/><br/>
-En 1983 : George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
+En 1983 : George Brett, playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
 <br/><br/>
 En 1982 : Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1980 : The Quietly Confident Quartet of Australia wins the men's 4 x 100 metr
 <br/><br/>
 En 1977 : End of a four-day-long Libyan–Egyptian War.
 <br/><br/>
-En 1974 : Watergate scandal: The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
+En 1974 : Watergate scandal: The United States Supreme Court unanimously rules that President Richard Nixon does not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
 <br/><br/>
 En 1969 : Apollo program: Apollo 11 splashes down safely in the Pacific Ocean.
 <br/><br/>
@@ -146,7 +146,7 @@ En 1967 : During an official state visit to Canada, French President Charles de 
 <br/><br/>
 En 1966 : Michael Pelkey makes the first BASE jump from El Capitan along with Brian Schubert. Both came out with broken bones. BASE jumping has now been banned from El Cap.
 <br/><br/>
-En 1963 : The ship Bluenose II was launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
+En 1963 : The ship Bluenose II is launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
 <br/><br/>
 En 1959 : At the opening of the American National Exhibition in Moscow, U.S. vice president Richard Nixon and Soviet premier Nikita Khrushchev have a "Kitchen Debate".
 <br/><br/>
@@ -164,7 +164,7 @@ En 1924 : Themistoklis Sofoulis becomes Prime Minister of Greece.
 <br/><br/>
 En 1923 : The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria and other countries that fought in World War I.
 <br/><br/>
-En 1922 : The draft of the British Mandate of Palestine was formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
+En 1922 : The draft of the British Mandate of Palestine is formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
 <br/><br/>
 En 1915 : The passenger ship SS Eastland capsizes while tied to a dock in the Chicago River. A total of 844 passengers and crew are killed in the largest loss of life disaster from a single shipwreck on the Great Lakes.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1864 : American Civil War: Battle of Kernstown: Confederate General Jubal Ear
 <br/><br/>
 En 1847 : After 17 months of travel, Brigham Young leads 148 Mormon pioneers into Salt Lake Valley, resulting in the establishment of Salt Lake City.
 <br/><br/>
-En 1847 : Richard March Hoe,  American inventor, patented the rotary-type printing press.
+En 1847 : Richard March Hoe, American inventor, patents the rotary-type printing press.
 <br/><br/>
 En 1712 : War of the Spanish Succession: The French under Marshal Villars win a decisive victory over Eugene of Savoy at Denain.
 <br/><br/>
