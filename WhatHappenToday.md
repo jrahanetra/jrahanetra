@@ -14,7 +14,7 @@ En 2010 : WikiLeaks publishes classified documents about the War in Afghanistan,
 <br/><br/>
 En 2007 : Pratibha Patil is sworn in as India's first female president.
 <br/><br/>
-En 2001 : Phoolan Devi, a serving Member of Parliament, was assassinated by shooting in New Delhi, India.
+En 2001 : Phoolan Devi, a serving Member of Parliament, is assassinated by shooting in New Delhi, India.
 <br/><br/>
 En 2000 : Concorde Air France Flight 4590 crashes outside of Paris shortly after taking off at Charles de Gaulle Airport, killing 113 people.
 <br/><br/>
@@ -140,13 +140,13 @@ En 1591 : The Duke of Parma is defeated near the Dutch city of Nijmegen by an An
 <br/><br/>
 En 1567 : Don Diego de Losada founds the city of Santiago de Leon de Caracas, modern-day Caracas, the capital city of Venezuela.
 <br/><br/>
-En 1554 : The royal wedding of Mary I and Philip II of Spain celebrated at Winchester Cathedral.
+En 1554 : The royal wedding of Mary I and Philip II of Spain is celebrated at Winchester Cathedral.
 <br/><br/>
 En 1547 : Henry II of France is crowned.
 <br/><br/>
 En 1538 : The city of Guayaquil is founded by the Spanish Conquistador Francisco de Orellana and given the name Muy Noble y Muy Leal Ciudad de Santiago de Guayaquil.
 <br/><br/>
-En 1536 : Sebastián de Belalcázar on his search of El Dorado founds the city of Santiago de Cali.
+En 1536 : Sebastián de Belalcázar, on his search for El Dorado, founds the city of Santiago de Cali.
 <br/><br/>
 En 1467 : The Battle of Molinella: The first battle in Italy in which firearms are used extensively.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1139 : Pope Innocent II confirms in the treaty of Mignano the investiture of 
 <br/><br/>
 En 1137 : Eleanor of Aquitaine marries Prince Louis, later King Louis VII of France, at the Cathedral of Saint-André in Bordeaux.
 <br/><br/>
-En 918 : Wang Geon becomes King of Goryeo after overthrowing Gung Ye in a coup the previous day
+En 918 : Wang Geon becomes King of Goryeo after overthrowing Gung Ye in a coup the previous day.
 <br/><br/>
 En 864 : The Edict of Pistres of Charles the Bald orders defensive measures against the Vikings.
 <br/><br/>
@@ -180,7 +180,7 @@ En 2010 : WikiLeaks publishes classified documents about the War in Afghanistan,
 <br/><br/>
 En 2007 : Pratibha Patil is sworn in as India's first female president.
 <br/><br/>
-En 2001 : Phoolan Devi, a serving Member of Parliament, was assassinated by shooting in New Delhi, India.
+En 2001 : Phoolan Devi, a serving Member of Parliament, is assassinated by shooting in New Delhi, India.
 <br/><br/>
 En 2000 : Concorde Air France Flight 4590 crashes outside of Paris shortly after taking off at Charles de Gaulle Airport, killing 113 people.
 <br/><br/>
@@ -306,13 +306,13 @@ En 1591 : The Duke of Parma is defeated near the Dutch city of Nijmegen by an An
 <br/><br/>
 En 1567 : Don Diego de Losada founds the city of Santiago de Leon de Caracas, modern-day Caracas, the capital city of Venezuela.
 <br/><br/>
-En 1554 : The royal wedding of Mary I and Philip II of Spain celebrated at Winchester Cathedral.
+En 1554 : The royal wedding of Mary I and Philip II of Spain is celebrated at Winchester Cathedral.
 <br/><br/>
 En 1547 : Henry II of France is crowned.
 <br/><br/>
 En 1538 : The city of Guayaquil is founded by the Spanish Conquistador Francisco de Orellana and given the name Muy Noble y Muy Leal Ciudad de Santiago de Guayaquil.
 <br/><br/>
-En 1536 : Sebastián de Belalcázar on his search of El Dorado founds the city of Santiago de Cali.
+En 1536 : Sebastián de Belalcázar, on his search for El Dorado, founds the city of Santiago de Cali.
 <br/><br/>
 En 1467 : The Battle of Molinella: The first battle in Italy in which firearms are used extensively.
 <br/><br/>
@@ -328,7 +328,7 @@ En 1139 : Pope Innocent II confirms in the treaty of Mignano the investiture of 
 <br/><br/>
 En 1137 : Eleanor of Aquitaine marries Prince Louis, later King Louis VII of France, at the Cathedral of Saint-André in Bordeaux.
 <br/><br/>
-En 918 : Wang Geon becomes King of Goryeo after overthrowing Gung Ye in a coup the previous day
+En 918 : Wang Geon becomes King of Goryeo after overthrowing Gung Ye in a coup the previous day.
 <br/><br/>
 En 864 : The Edict of Pistres of Charles the Bald orders defensive measures against the Vikings.
 <br/><br/>
