@@ -60,6 +60,8 @@ En 1950 : Korean War: After four days, the No Gun Ri Massacre ends when the US A
 <br/><br/>
 En 1948 : Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London.
 <br/><br/>
+En 1947 : - A gas explosion in Harrisonburg, Virginia kills 11 and injures 30.
+<br/><br/>
 En 1945 : The BBC Light Programme radio station is launched for mainstream light entertainment and music.
 <br/><br/>
 En 1937 : Tongzhou mutiny: In Tongzhou, China, the East Hebei Army attacks Japanese troops and civilians.
@@ -181,6 +183,8 @@ En 1957 : Tonight Starring Jack Paar premieres on NBC with Jack Paar beginning t
 En 1950 : Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn.
 <br/><br/>
 En 1948 : Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London.
+<br/><br/>
+En 1947 : - A gas explosion in Harrisonburg, Virginia kills 11 and injures 30.
 <br/><br/>
 En 1945 : The BBC Light Programme radio station is launched for mainstream light entertainment and music.
 <br/><br/>
