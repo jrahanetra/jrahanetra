@@ -50,8 +50,6 @@ En 1967 : During the fourth day of celebrating its 400th anniversary, the city o
 <br/><br/>
 En 1965 : Vietnam War: The first 4,000 101st Airborne Division paratroopers arrive in Vietnam, landing at Cam Ranh Bay.
 <br/><br/>
-En 1959 : First United States Congress elections in Hawaii as a state of the Union.
-<br/><br/>
 En 1958 : U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).
 <br/><br/>
 En 1957 : The International Atomic Energy Agency is established.
@@ -173,8 +171,6 @@ En 1967 : Vietnam War: Off the coast of North Vietnam the USS Forrestal catches
 En 1967 : During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.
 <br/><br/>
 En 1965 : Vietnam War: The first 4,000 101st Airborne Division paratroopers arrive in Vietnam, landing at Cam Ranh Bay.
-<br/><br/>
-En 1959 : First United States Congress elections in Hawaii as a state of the Union.
 <br/><br/>
 En 1958 : U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).
 <br/><br/>
