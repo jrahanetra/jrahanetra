@@ -10,7 +10,7 @@ En 2025 : A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Paci
 <br/><br/>
 En 2024 : A series of landslides occurs in Kerala, India, causing over 420 fatalities.
 <br/><br/>
-En 2020 : NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station.
+En 2020 : NASA's Mars 2020 mission is launched on an Atlas V rocket from Cape Canaveral Air Force Station.
 <br/><br/>
 En 2014 : Twenty killed and 150 are trapped after a landslide in Maharashtra, India.
 <br/><br/>
@@ -26,11 +26,11 @@ En 2006 : An Israeli airstrike kills 28 Lebanese civilians, including 16 childre
 <br/><br/>
 En 2003 : In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.
 <br/><br/>
-En 2003 : Three years after the death of the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so-far only species to have ever gone de-extinct as well as go extinct twice.
+En 2003 : Three years after the death of the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so far only species to have ever gone de-extinct as well as go extinct twice.
 <br/><br/>
 En 1990 : Ian Gow, Conservative Member of Parliament, is assassinated at his home by the IRA in a car bombing after he assured the group that the British government would never surrender to them.
 <br/><br/>
-En 1981 : As many as 50,000 demonstrators, mostly women and children, took to the streets in Łódź to protest food ration shortages in Communist Poland.
+En 1981 : As many as 50,000 demonstrators, mostly women and children, take to the streets in Łódź to protest food ration shortages in Communist Poland.
 <br/><br/>
 En 1980 : Vanuatu gains independence.
 <br/><br/>
@@ -74,9 +74,9 @@ En 1865 : The steamboat Brother Jonathan sinks off the coast of Crescent City, C
 <br/><br/>
 En 1864 : American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches.
 <br/><br/>
-En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder.
+En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone) sign the Treaty of Box Elder.
 <br/><br/>
-En 1863 : Valuev Circular banned the publication of religious, educational and training books in Ukrainian in the Russian Empire.
+En 1863 : The Valuev Circular bans the publication of religious, educational and training books in Ukrainian in the Russian Empire.
 <br/><br/>
 En 1859 : First ascent of Grand Combin, one of the highest summits in the Alps.
 <br/><br/>
@@ -118,7 +118,7 @@ En 2025 : A magnitude 8.8 earthquake hits Russia, causing tsunamis over the Paci
 <br/><br/>
 En 2024 : A series of landslides occurs in Kerala, India, causing over 420 fatalities.
 <br/><br/>
-En 2020 : NASA's Mars 2020 mission was launched on an Atlas V rocket from Cape Canaveral Air Force Station.
+En 2020 : NASA's Mars 2020 mission is launched on an Atlas V rocket from Cape Canaveral Air Force Station.
 <br/><br/>
 En 2014 : Twenty killed and 150 are trapped after a landslide in Maharashtra, India.
 <br/><br/>
@@ -134,11 +134,11 @@ En 2006 : An Israeli airstrike kills 28 Lebanese civilians, including 16 childre
 <br/><br/>
 En 2003 : In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.
 <br/><br/>
-En 2003 : Three years after the death of the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so-far only species to have ever gone de-extinct as well as go extinct twice.
+En 2003 : Three years after the death of the last Pyrenean ibex, Celia, a clone of her is born only to subsequently die from lung defects. Within minutes, the Pyrenean ibex becomes the first and so far only species to have ever gone de-extinct as well as go extinct twice.
 <br/><br/>
 En 1990 : Ian Gow, Conservative Member of Parliament, is assassinated at his home by the IRA in a car bombing after he assured the group that the British government would never surrender to them.
 <br/><br/>
-En 1981 : As many as 50,000 demonstrators, mostly women and children, took to the streets in Łódź to protest food ration shortages in Communist Poland.
+En 1981 : As many as 50,000 demonstrators, mostly women and children, take to the streets in Łódź to protest food ration shortages in Communist Poland.
 <br/><br/>
 En 1980 : Vanuatu gains independence.
 <br/><br/>
@@ -182,9 +182,9 @@ En 1865 : The steamboat Brother Jonathan sinks off the coast of Crescent City, C
 <br/><br/>
 En 1864 : American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches.
 <br/><br/>
-En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone)  sign the Treaty of Box Elder.
+En 1863 : American Indian Wars: Representatives of the United States and tribal leaders including Chief Pocatello (of the Shoshone) sign the Treaty of Box Elder.
 <br/><br/>
-En 1863 : Valuev Circular banned the publication of religious, educational and training books in Ukrainian in the Russian Empire.
+En 1863 : The Valuev Circular bans the publication of religious, educational and training books in Ukrainian in the Russian Empire.
 <br/><br/>
 En 1859 : First ascent of Grand Combin, one of the highest summits in the Alps.
 <br/><br/>
