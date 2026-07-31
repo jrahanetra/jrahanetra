@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 31/7 ?(Hover on the year)</h1>
 
+En 2020 : A De Havilland Canada DHC-2 Beaver and Piper PA-12 Super Cruiser collide over Soldotna, Alaska, killing all seven people on board both aircraft, including state representative Gary Knopp.
+<br/><br/>
 En 2014 : Gas explosions in the southern Taiwanese city of Kaohsiung kill at least 20 people and injure more than 270.
 <br/><br/>
 En 2012 : Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.
@@ -113,6 +115,8 @@ En 768 : Antipope Constantine II is arrested by primicerius Christopher and Lomb
 En 432 : Election of pope Sixtus III following the death of pope Celestine I four days prior.
 <br/><br/>
 En 398 : End of the Gildonic rebellion after Gildo's forces are defeated by forces loyal to Western Roman Emperor Honorius under Gildo's brother Mascezel and Gildo's subsequent death.
+<br/><br/>
+En 2020 : A De Havilland Canada DHC-2 Beaver and Piper PA-12 Super Cruiser collide over Soldotna, Alaska, killing all seven people on board both aircraft, including state representative Gary Knopp.
 <br/><br/>
 En 2014 : Gas explosions in the southern Taiwanese city of Kaohsiung kill at least 20 people and injure more than 270.
 <br/><br/>
