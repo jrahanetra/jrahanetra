@@ -24,7 +24,7 @@ En 1997 : FedEx Express Flight 14 crashes at Newark International Airport, injur
 <br/><br/>
 En 1992 : The nation of Georgia joins the United Nations.
 <br/><br/>
-En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal killing all 113 people on board.
+En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal, killing all 113 people on board.
 <br/><br/>
 En 1992 : China General Aviation Flight 7552 crashes during takeoff from Nanjing Dajiaochang Airport, killing 108.
 <br/><br/>
@@ -38,15 +38,15 @@ En 1987 : A tornado occurs in Edmonton, Alberta, killing 27 people.
 <br/><br/>
 En 1975 : The Troubles: Three members of a popular cabaret band and two gunmen are killed during a botched paramilitary attack in Northern Ireland.
 <br/><br/>
-En 1973 : A Delta Air Lines jetliner, flight DL 723 crashes while landing in fog at Logan International Airport, Boston, Massachusetts killing 89.
+En 1973 : A Delta Air Lines jetliner, flight DL 723, crashes while landing in fog at Logan International Airport, Boston, Massachusetts, killing 89.
 <br/><br/>
 En 1972 : The Troubles: In Operation Motorman, the British Army re-takes the urban no-go areas of Northern Ireland. It is the biggest British military operation since the Suez Crisis of 1956, and the biggest in Ireland since the Irish War of Independence. Later that day, nine civilians are killed by car bombs in the village of Claudy.
 <br/><br/>
-En 1971 : Apollo program: the Apollo 15 astronauts become the first to ride in a lunar rover.
+En 1971 : Apollo program: The Apollo 15 astronauts become the first to ride in a lunar rover.
 <br/><br/>
 En 1970 : Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy.
 <br/><br/>
-En 1966 : The pleasure cruiser MV Darlwyne disappeared off the Cornwall coast with the loss of all 31 aboard.
+En 1966 : The pleasure cruiser MV Darlwyne disappears off the Cornwall coast with the loss of all 31 aboard.
 <br/><br/>
 En 1964 : Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.
 <br/><br/>
@@ -70,7 +70,7 @@ En 1917 : World War I: The Battle of Passchendaele begins near Ypres in West Fla
 <br/><br/>
 En 1904 : Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation.
 <br/><br/>
-En 1874 : Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University.
+En 1874 : Patrick Francis Healy becomes the first African-American inaugurated as president of a predominantly white university, Georgetown University.
 <br/><br/>
 En 1865 : The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia.
 <br/><br/>
@@ -134,7 +134,7 @@ En 1997 : FedEx Express Flight 14 crashes at Newark International Airport, injur
 <br/><br/>
 En 1992 : The nation of Georgia joins the United Nations.
 <br/><br/>
-En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal killing all 113 people on board.
+En 1992 : Thai Airways International Flight 311 crashes into a mountain north of Kathmandu, Nepal, killing all 113 people on board.
 <br/><br/>
 En 1992 : China General Aviation Flight 7552 crashes during takeoff from Nanjing Dajiaochang Airport, killing 108.
 <br/><br/>
@@ -148,15 +148,15 @@ En 1987 : A tornado occurs in Edmonton, Alberta, killing 27 people.
 <br/><br/>
 En 1975 : The Troubles: Three members of a popular cabaret band and two gunmen are killed during a botched paramilitary attack in Northern Ireland.
 <br/><br/>
-En 1973 : A Delta Air Lines jetliner, flight DL 723 crashes while landing in fog at Logan International Airport, Boston, Massachusetts killing 89.
+En 1973 : A Delta Air Lines jetliner, flight DL 723, crashes while landing in fog at Logan International Airport, Boston, Massachusetts, killing 89.
 <br/><br/>
 En 1972 : The Troubles: In Operation Motorman, the British Army re-takes the urban no-go areas of Northern Ireland. It is the biggest British military operation since the Suez Crisis of 1956, and the biggest in Ireland since the Irish War of Independence. Later that day, nine civilians are killed by car bombs in the village of Claudy.
 <br/><br/>
-En 1971 : Apollo program: the Apollo 15 astronauts become the first to ride in a lunar rover.
+En 1971 : Apollo program: The Apollo 15 astronauts become the first to ride in a lunar rover.
 <br/><br/>
 En 1970 : Black Tot Day: The last day of the officially sanctioned rum ration in the Royal Navy.
 <br/><br/>
-En 1966 : The pleasure cruiser MV Darlwyne disappeared off the Cornwall coast with the loss of all 31 aboard.
+En 1966 : The pleasure cruiser MV Darlwyne disappears off the Cornwall coast with the loss of all 31 aboard.
 <br/><br/>
 En 1964 : Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1917 : World War I: The Battle of Passchendaele begins near Ypres in West Fla
 <br/><br/>
 En 1904 : Russo-Japanese War: Battle of Hsimucheng: Units of the Imperial Japanese Army defeat units of the Imperial Russian Army in a strategic confrontation.
 <br/><br/>
-En 1874 : Patrick Francis Healy became the first African-American inaugurated as president of a predominantly white university, Georgetown University.
+En 1874 : Patrick Francis Healy becomes the first African-American inaugurated as president of a predominantly white university, Georgetown University.
 <br/><br/>
 En 1865 : The first narrow-gauge mainline railway in the world opens at Grandchester, Queensland, Australia.
 <br/><br/>
