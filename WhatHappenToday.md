@@ -110,7 +110,7 @@ En 1009 : Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII.
 <br/><br/>
 En 781 : The oldest recorded eruption of Mount Fuji (Traditional Japanese date: Sixth day of the seventh month of the first year of the Ten'o (天応) era).
 <br/><br/>
-En 768 : Antipope Constantine II is arrested by primicerius Christopher and Lombard troops send to aid him by king Desiderius.
+En 768 : Antipope Constantine II is arrested by primicerius Christopher and Lombard troops sent to aid him by king Desiderius.
 <br/><br/>
 En 432 : Election of pope Sixtus III following the death of pope Celestine I four days prior.
 <br/><br/>
@@ -220,7 +220,7 @@ En 1009 : Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII.
 <br/><br/>
 En 781 : The oldest recorded eruption of Mount Fuji (Traditional Japanese date: Sixth day of the seventh month of the first year of the Ten'o (天応) era).
 <br/><br/>
-En 768 : Antipope Constantine II is arrested by primicerius Christopher and Lombard troops send to aid him by king Desiderius.
+En 768 : Antipope Constantine II is arrested by primicerius Christopher and Lombard troops sent to aid him by king Desiderius.
 <br/><br/>
 En 432 : Election of pope Sixtus III following the death of pope Celestine I four days prior.
 <br/><br/>
