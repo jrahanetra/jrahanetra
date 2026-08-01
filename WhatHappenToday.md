@@ -12,19 +12,19 @@ En 2017 : A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
 <br/><br/>
 En 2008 : The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
 <br/><br/>
-En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
+En 2008 : Eleven mountaineers from international expeditions die on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
 <br/><br/>
 En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
 <br/><br/>
 En 2004 : A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.
 <br/><br/>
-En 1998 : Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
+En 1998 : Puntland, an autonomous state in northeastern Somalia, is officially established following a constitutional conference in Garowe. Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
 <br/><br/>
 En 1993 : The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.
 <br/><br/>
 En 1990 : A plane crash in the Karabakh Range kills 46 people.
 <br/><br/>
-En 1988 : A British soldier was killed in the Inglis Barracks bombing in London, England.
+En 1988 : A British soldier is killed in the Inglis Barracks bombing in London, England.
 <br/><br/>
 En 1984 : Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.
 <br/><br/>
@@ -48,7 +48,7 @@ En 1966 : Charles Whitman kills 15 people at the University of Texas at Austin b
 <br/><br/>
 En 1966 : Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.
 <br/><br/>
-En 1965 : Frank Herbert's novel, Dune was published for the first time. It was named as the world's best-selling science fiction novel in 2003.
+En 1965 : Frank Herbert's novel, Dune, is published for the first time. It was named as the world's best-selling science fiction novel in 2003.
 <br/><br/>
 En 1964 : The former Belgian Congo is renamed the Democratic Republic of the Congo.
 <br/><br/>
@@ -66,11 +66,11 @@ En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners o
 <br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
-En 1943 : World War II: Operation Tidal Wave, also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
+En 1943 : World War II: Operation Tidal Wave, also known as "Black Sunday", is a failed American attempt to destroy Romanian oil fields.
 <br/><br/>
 En 1937 : Josip Broz Tito reads the resolution "Manifesto of constitutional congress of KPH" to the constitutive congress of KPH (Croatian Communist Party) in woods near Samobor.
 <br/><br/>
-En 1936 : The Olympics opened in Berlin with a ceremony presided over by Adolf Hitler.
+En 1936 : The Olympics open in Berlin with a ceremony presided over by Adolf Hitler.
 <br/><br/>
 En 1933 : Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.
 <br/><br/>
@@ -148,19 +148,19 @@ En 2017 : A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
 <br/><br/>
 En 2008 : The Beijing–Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
 <br/><br/>
-En 2008 : Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
+En 2008 : Eleven mountaineers from international expeditions die on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
 <br/><br/>
 En 2007 : The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
 <br/><br/>
 En 2004 : A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.
 <br/><br/>
-En 1998 : Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
+En 1998 : Puntland, an autonomous state in northeastern Somalia, is officially established following a constitutional conference in Garowe. Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
 <br/><br/>
 En 1993 : The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.
 <br/><br/>
 En 1990 : A plane crash in the Karabakh Range kills 46 people.
 <br/><br/>
-En 1988 : A British soldier was killed in the Inglis Barracks bombing in London, England.
+En 1988 : A British soldier is killed in the Inglis Barracks bombing in London, England.
 <br/><br/>
 En 1984 : Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.
 <br/><br/>
@@ -184,7 +184,7 @@ En 1966 : Charles Whitman kills 15 people at the University of Texas at Austin b
 <br/><br/>
 En 1966 : Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.
 <br/><br/>
-En 1965 : Frank Herbert's novel, Dune was published for the first time. It was named as the world's best-selling science fiction novel in 2003.
+En 1965 : Frank Herbert's novel, Dune, is published for the first time. It was named as the world's best-selling science fiction novel in 2003.
 <br/><br/>
 En 1964 : The former Belgian Congo is renamed the Democratic Republic of the Congo.
 <br/><br/>
@@ -202,11 +202,11 @@ En 1946 : Leaders of the Russian Liberation Army, a force of Russian prisoners o
 <br/><br/>
 En 1944 : World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
 <br/><br/>
-En 1943 : World War II: Operation Tidal Wave, also known as "Black Sunday", was a failed American attempt to destroy Romanian oil fields.
+En 1943 : World War II: Operation Tidal Wave, also known as "Black Sunday", is a failed American attempt to destroy Romanian oil fields.
 <br/><br/>
 En 1937 : Josip Broz Tito reads the resolution "Manifesto of constitutional congress of KPH" to the constitutive congress of KPH (Croatian Communist Party) in woods near Samobor.
 <br/><br/>
-En 1936 : The Olympics opened in Berlin with a ceremony presided over by Adolf Hitler.
+En 1936 : The Olympics open in Berlin with a ceremony presided over by Adolf Hitler.
 <br/><br/>
 En 1933 : Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.
 <br/><br/>
