@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 2/8 ?(Hover on the year)</h1>
 
-En 2014 : At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+En 2014 : At least 146 people are killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
 <br/><br/>
 En 2005 : Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
 <br/><br/>
@@ -106,9 +106,9 @@ En -49 : Caesar, who marched to Spain earlier in the year, leaving Marcus Antoni
 <br/><br/>
 En -216 : The Carthaginian army led by Hannibal defeats a numerically superior Roman army at the Battle of Cannae.
 <br/><br/>
-En -338 : A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
+En -338 : A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
 <br/><br/>
-En 2014 : At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+En 2014 : At least 146 people are killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
 <br/><br/>
 En 2005 : Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
 <br/><br/>
@@ -208,5 +208,5 @@ En -49 : Caesar, who marched to Spain earlier in the year, leaving Marcus Antoni
 <br/><br/>
 En -216 : The Carthaginian army led by Hannibal defeats a numerically superior Roman army at the Battle of Cannae.
 <br/><br/>
-En -338 : A Macedonian army led by Philip II defeated the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
+En -338 : A Macedonian army led by Philip II defeats the combined forces of Athens and Thebes in the Battle of Chaeronea, securing Macedonian hegemony in Greece and the Aegean.
 <br/><br/>
