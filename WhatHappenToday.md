@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 3/8 ?(Hover on the year)</h1>
 
-En 2023 : Worst floods hit major parts of Slovenia.
+En 2023 : Major floods hit parts of Slovenia.
 <br/><br/>
 En 2019 : Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.
 <br/><br/>
@@ -28,7 +28,7 @@ En 2004 : The pedestal of the Statue of Liberty reopens after being closed since
 <br/><br/>
 En 1997 : Oued El-Had and Mezouara massacre in Algeria: A total of 116 villagers killed, 40 in Oued El-Had and 76 in Mezouara.
 <br/><br/>
-En 1997 : The tallest free-standing structure in the Southern Hemisphere, Sky Tower in downtown Auckland, New Zealand, opens after two-and-a-half years of construction.
+En 1997 : Sky Tower in downtown Auckland, New Zealand opens after two-and-a-half years of construction, becoming the tallest free-standing structure in the Southern Hemisphere at the time.
 <br/><br/>
 En 1981 : Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.
 <br/><br/>
@@ -108,7 +108,7 @@ En 435 : Deposed Ecumenical Patriarch of Constantinople Nestorius, considered th
 <br/><br/>
 En 8 : Roman Empire general Tiberius defeats the Dalmatae on the river Bosna.
 <br/><br/>
-En 2023 : Worst floods hit major parts of Slovenia.
+En 2023 : Major floods hit parts of Slovenia.
 <br/><br/>
 En 2019 : Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.
 <br/><br/>
@@ -130,7 +130,7 @@ En 2004 : The pedestal of the Statue of Liberty reopens after being closed since
 <br/><br/>
 En 1997 : Oued El-Had and Mezouara massacre in Algeria: A total of 116 villagers killed, 40 in Oued El-Had and 76 in Mezouara.
 <br/><br/>
-En 1997 : The tallest free-standing structure in the Southern Hemisphere, Sky Tower in downtown Auckland, New Zealand, opens after two-and-a-half years of construction.
+En 1997 : Sky Tower in downtown Auckland, New Zealand opens after two-and-a-half years of construction, becoming the tallest free-standing structure in the Southern Hemisphere at the time.
 <br/><br/>
 En 1981 : Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.
 <br/><br/>
