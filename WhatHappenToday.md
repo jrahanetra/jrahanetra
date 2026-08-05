@@ -12,6 +12,8 @@ En 2021 : Australia's second most populous state Victoria enters its sixth COVID
 <br/><br/>
 En 2019 : The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).
 <br/><br/>
+En 2016 : The 31st modern Olympic Games took place in Rio de Janiero, lasting until August 21.
+<br/><br/>
 En 2015 : The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.
 <br/><br/>
 En 2012 : The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.
@@ -58,7 +60,7 @@ En 1957 : American Bandstand, a show dedicated to the teenage "baby-boomers" by 
 <br/><br/>
 En 1949 : In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.
 <br/><br/>
-En 1949 : In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire.
+En 1949 : In Montana, 12 smokejumper firefighters and a US Forest Service fire guard are killed in the Mann Gulch Fire.
 <br/><br/>
 En 1944 : World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured.
 <br/><br/>
@@ -168,6 +170,8 @@ En 2021 : Australia's second most populous state Victoria enters its sixth COVID
 <br/><br/>
 En 2019 : The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).
 <br/><br/>
+En 2016 : The 31st modern Olympic Games took place in Rio de Janiero, lasting until August 21.
+<br/><br/>
 En 2015 : The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.
 <br/><br/>
 En 2012 : The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.
@@ -214,7 +218,7 @@ En 1957 : American Bandstand, a show dedicated to the teenage "baby-boomers" by 
 <br/><br/>
 En 1949 : In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.
 <br/><br/>
-En 1949 : In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire.
+En 1949 : In Montana, 12 smokejumper firefighters and a US Forest Service fire guard are killed in the Mann Gulch Fire.
 <br/><br/>
 En 1944 : World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured.
 <br/><br/>
