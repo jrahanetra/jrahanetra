@@ -118,6 +118,8 @@ En 1781 : British and Dutch ships engage in the second Battle of Dogger Bank.
 <br/><br/>
 En 1772 : First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the "anarchy" of the Polish–Lithuanian Commonwealth and imputing to the three powers "ancient and legitimate rights" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months.
 <br/><br/>
+En 1766 : An earthquake in the Sea of Marmara and Gallipoli (present-day Turkey) along the North Anatolian Fault kills at least 5,000 people.
+<br/><br/>
 En 1763 : Pontiac's War: Battle of Bushy Run: British forces led by Henry Bouquet defeat Chief Pontiac's Indians at Bushy Run.
 <br/><br/>
 En 1735 : Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true.
@@ -271,6 +273,8 @@ En 1796 : The Battle of Castiglione in Napoleon's first Italian campaigns of the
 En 1781 : British and Dutch ships engage in the second Battle of Dogger Bank.
 <br/><br/>
 En 1772 : First Partition of Poland: The representatives of Austria, Prussia, and Russia sign three bilateral conventions condemning the "anarchy" of the Polish–Lithuanian Commonwealth and imputing to the three powers "ancient and legitimate rights" to the territories of the Commonwealth. The conventions allow each of the three great powers to annex a part of the Commonwealth, which they proceed to do over the course of the following two months.
+<br/><br/>
+En 1766 : An earthquake in the Sea of Marmara and Gallipoli (present-day Turkey) along the North Anatolian Fault kills at least 5,000 people.
 <br/><br/>
 En 1763 : Pontiac's War: Battle of Bushy Run: British forces led by Henry Bouquet defeat Chief Pontiac's Indians at Bushy Run.
 <br/><br/>
