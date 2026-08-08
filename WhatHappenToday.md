@@ -26,7 +26,7 @@ En 2009 : A Eurocopter AS350 Écureuil and Piper PA-32R collide over the Hudson 
 <br/><br/>
 En 2008 : A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
 <br/><br/>
-En 2008 : The 29th modern summer Olympic Games took place in Beijing, China until August 24.
+En 2008 : The 29th modern summer Olympic Games take place in Beijing, China until August 24.
 <br/><br/>
 En 2007 : An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
 <br/><br/>
@@ -38,7 +38,7 @@ En 2001 : Albanian rebels ambush a convoy of the Army of the Republic of Macedon
 <br/><br/>
 En 2000 : Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
 <br/><br/>
-En 1998 : Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
+En 1998 : The Iranian consulate in Mazar-i-Sharif, Afghanistan, is raided by Taliban, leading to the deaths of ten Iranian diplomats and a journalist.
 <br/><br/>
 En 1993 : The 7.8 Mw Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
 <br/><br/>
@@ -64,7 +64,7 @@ En 1963 : Great Train Robbery: In England, a gang of 15 train robbers steal £2.
 <br/><br/>
 En 1963 : The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
 <br/><br/>
-En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
+En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, are killed in one of the largest mining accidents in Belgian history.
 <br/><br/>
 En 1946 : First flight of the nuclear capable Convair B-36, heaviest mass-produced piston-engined aircraft at the time.
 <br/><br/>
@@ -86,7 +86,7 @@ En 1908 : Wilbur Wright makes the Wright Brothers' first public flight, at a rac
 <br/><br/>
 En 1903 : Black Saturday occurs, killing 12 in a stadium collapse in Philadelphia.
 <br/><br/>
-En 1897 : Italian anarchist Michele Angiolillo assassinates Spanish Prime Minister Antonio Cánovas del Castillo
+En 1897 : Italian anarchist Michele Angiolillo assassinates Spanish Prime Minister Antonio Cánovas del Castillo.
 <br/><br/>
 En 1876 : Thomas Edison receives a patent for his mimeograph.
 <br/><br/>
@@ -94,7 +94,7 @@ En 1870 : The Republic of Ploiești, a failed Radical-Liberal rising against Dom
 <br/><br/>
 En 1863 : American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt).
 <br/><br/>
-En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
+En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee, despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
 <br/><br/>
 En 1844 : The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church).
 <br/><br/>
@@ -118,13 +118,13 @@ En 1576 : The cornerstone for Tycho Brahe's Uraniborg observatory is laid on the
 <br/><br/>
 En 1509 : Krishnadeva Raya is crowned Emperor of Vijayanagara at Chittoor.
 <br/><br/>
-En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England at Holyrood Abbey in Edinburgh, Scotland.
+En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England, at Holyrood Abbey in Edinburgh, Scotland.
 <br/><br/>
-En 1264 : Mudéjar revolt: Muslim rebel forces took the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
+En 1264 : Mudéjar revolt: Muslim rebel forces take the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
 <br/><br/>
 En 1220 : Sweden is defeated by Estonian tribes in the Battle of Lihula.
 <br/><br/>
-En 1164 : Hassan II of Alamut proclaims the qiyāma, according to which Ismaili practice would change from traditional islamic practice.
+En 1164 : Hassan II of Alamut proclaims the qiyāma, according to which Ismaili practice would change from traditional Islamic practice.
 <br/><br/>
 En 870 : Treaty of Meerssen: King Louis the German and his half-brother Charles the Bald partition the Middle Frankish Kingdom into two larger east and west divisions.
 <br/><br/>
@@ -150,7 +150,7 @@ En 2009 : A Eurocopter AS350 Écureuil and Piper PA-32R collide over the Hudson 
 <br/><br/>
 En 2008 : A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
 <br/><br/>
-En 2008 : The 29th modern summer Olympic Games took place in Beijing, China until August 24.
+En 2008 : The 29th modern summer Olympic Games take place in Beijing, China until August 24.
 <br/><br/>
 En 2007 : An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
 <br/><br/>
@@ -162,7 +162,7 @@ En 2001 : Albanian rebels ambush a convoy of the Army of the Republic of Macedon
 <br/><br/>
 En 2000 : Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
 <br/><br/>
-En 1998 : Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
+En 1998 : The Iranian consulate in Mazar-i-Sharif, Afghanistan, is raided by Taliban, leading to the deaths of ten Iranian diplomats and a journalist.
 <br/><br/>
 En 1993 : The 7.8 Mw Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1963 : Great Train Robbery: In England, a gang of 15 train robbers steal £2.
 <br/><br/>
 En 1963 : The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
 <br/><br/>
-En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
+En 1956 : Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, are killed in one of the largest mining accidents in Belgian history.
 <br/><br/>
 En 1946 : First flight of the nuclear capable Convair B-36, heaviest mass-produced piston-engined aircraft at the time.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1908 : Wilbur Wright makes the Wright Brothers' first public flight, at a rac
 <br/><br/>
 En 1903 : Black Saturday occurs, killing 12 in a stadium collapse in Philadelphia.
 <br/><br/>
-En 1897 : Italian anarchist Michele Angiolillo assassinates Spanish Prime Minister Antonio Cánovas del Castillo
+En 1897 : Italian anarchist Michele Angiolillo assassinates Spanish Prime Minister Antonio Cánovas del Castillo.
 <br/><br/>
 En 1876 : Thomas Edison receives a patent for his mimeograph.
 <br/><br/>
@@ -218,7 +218,7 @@ En 1870 : The Republic of Ploiești, a failed Radical-Liberal rising against Dom
 <br/><br/>
 En 1863 : American Civil War: Following his defeat in the Battle of Gettysburg, General Robert E. Lee sends a letter of resignation to Confederate President Jefferson Davis (which is refused upon receipt).
 <br/><br/>
-En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
+En 1863 : Tennessee Military Governor Andrew Johnson frees his personal slaves in Greeneville, Tennessee, despite them being exempt from the Emancipation Proclamation, now commemorated as Emancipation Day in the state.
 <br/><br/>
 En 1844 : The Quorum of the Twelve Apostles, headed by Brigham Young, is reaffirmed as the leading body of the Church of Jesus Christ of Latter-day Saints (LDS Church).
 <br/><br/>
@@ -242,13 +242,13 @@ En 1576 : The cornerstone for Tycho Brahe's Uraniborg observatory is laid on the
 <br/><br/>
 En 1509 : Krishnadeva Raya is crowned Emperor of Vijayanagara at Chittoor.
 <br/><br/>
-En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England at Holyrood Abbey in Edinburgh, Scotland.
+En 1503 : King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England, at Holyrood Abbey in Edinburgh, Scotland.
 <br/><br/>
-En 1264 : Mudéjar revolt: Muslim rebel forces took the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
+En 1264 : Mudéjar revolt: Muslim rebel forces take the Alcázar of Jerez de la Frontera after defeating the Castilian garrison.
 <br/><br/>
 En 1220 : Sweden is defeated by Estonian tribes in the Battle of Lihula.
 <br/><br/>
-En 1164 : Hassan II of Alamut proclaims the qiyāma, according to which Ismaili practice would change from traditional islamic practice.
+En 1164 : Hassan II of Alamut proclaims the qiyāma, according to which Ismaili practice would change from traditional Islamic practice.
 <br/><br/>
 En 870 : Treaty of Meerssen: King Louis the German and his half-brother Charles the Bald partition the Middle Frankish Kingdom into two larger east and west divisions.
 <br/><br/>
