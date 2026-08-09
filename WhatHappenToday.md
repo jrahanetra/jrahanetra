@@ -28,7 +28,7 @@ En 1993 : The Liberal Democratic Party of Japan loses a 38-year hold on national
 <br/><br/>
 En 1991 : The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.
 <br/><br/>
-En 1979 : Female workers of YH Trading in South Korea held a sit-in protest in response to the company's unilateral shutdown.
+En 1979 : Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.
 <br/><br/>
 En 1974 : As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.
 <br/><br/>
@@ -40,7 +40,7 @@ En 1970 : LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete I
 <br/><br/>
 En 1969 : Tate–LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.
 <br/><br/>
-En 1965 : The State of Singapore separated from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]
+En 1965 : The State of Singapore separates from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]
 <br/><br/>
 En 1960 : South Kasai secedes from the Congo.
 <br/><br/>
@@ -50,11 +50,11 @@ En 1945 : World War II:  The Red Army invades Japanese-occupied Manchuria.
 <br/><br/>
 En 1944 : The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.
 <br/><br/>
-En 1944 : World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dug to defensive positions, and the front remains stable until the end of the war.
+En 1944 : World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dig to defensive positions, and the front remains stable until the end of the war.
 <br/><br/>
 En 1942 : World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.
 <br/><br/>
-En 1942 : Dmitri Shostakovich's 7th symphony premiers in a besieged Leningrad.
+En 1942 : Dmitri Shostakovich's 7th symphony premieres in a besieged Leningrad.
 <br/><br/>
 En 1936 : Summer Olympics: Jesse Owens wins his fourth gold medal at the games.
 <br/><br/>
@@ -120,7 +120,7 @@ En 1993 : The Liberal Democratic Party of Japan loses a 38-year hold on national
 <br/><br/>
 En 1991 : The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.
 <br/><br/>
-En 1979 : Female workers of YH Trading in South Korea held a sit-in protest in response to the company's unilateral shutdown.
+En 1979 : Female workers of YH Trading in South Korea hold a sit-in protest in response to the company's unilateral shutdown.
 <br/><br/>
 En 1974 : As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.
 <br/><br/>
@@ -132,7 +132,7 @@ En 1970 : LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete I
 <br/><br/>
 En 1969 : Tate–LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.
 <br/><br/>
-En 1965 : The State of Singapore separated from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]
+En 1965 : The State of Singapore separates from the Malaysian federation due to a heated ideological conflict between their ruling parties.[citation needed][needs copy edit]
 <br/><br/>
 En 1960 : South Kasai secedes from the Congo.
 <br/><br/>
@@ -142,11 +142,11 @@ En 1945 : World War II:  The Red Army invades Japanese-occupied Manchuria.
 <br/><br/>
 En 1944 : The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.
 <br/><br/>
-En 1944 : World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dug to defensive positions, and the front remains stable until the end of the war.
+En 1944 : World War II: Continuation War: The Vyborg–Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dig to defensive positions, and the front remains stable until the end of the war.
 <br/><br/>
 En 1942 : World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.
 <br/><br/>
-En 1942 : Dmitri Shostakovich's 7th symphony premiers in a besieged Leningrad.
+En 1942 : Dmitri Shostakovich's 7th symphony premieres in a besieged Leningrad.
 <br/><br/>
 En 1936 : Summer Olympics: Jesse Owens wins his fourth gold medal at the games.
 <br/><br/>
