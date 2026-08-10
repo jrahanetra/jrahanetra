@@ -26,7 +26,7 @@ En 2009 : Twenty people are killed in Handlová, Trenčín Region, in the deadli
 <br/><br/>
 En 2003 : The Okinawa Urban Monorail is opened in Naha, Okinawa.
 <br/><br/>
-En 2001 : The 2001 Angola train attack occurred, causing 252 deaths.
+En 2001 : The 2001 Angola train attack occurs, causing 252 deaths.
 <br/><br/>
 En 2001 : Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.
 <br/><br/>
@@ -152,7 +152,7 @@ En 2009 : Twenty people are killed in Handlová, Trenčín Region, in the deadli
 <br/><br/>
 En 2003 : The Okinawa Urban Monorail is opened in Naha, Okinawa.
 <br/><br/>
-En 2001 : The 2001 Angola train attack occurred, causing 252 deaths.
+En 2001 : The 2001 Angola train attack occurs, causing 252 deaths.
 <br/><br/>
 En 2001 : Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.
 <br/><br/>
