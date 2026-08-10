@@ -86,7 +86,7 @@ En 1901 : The U.S. Steel recognition strike by the Amalgamated Association of Ir
 <br/><br/>
 En 1864 : After Uruguay's governing Blanco Party refuses Brazil's demands, José Antônio Saraiva announces that the Brazilian military will begin reprisals, beginning the Uruguayan War.
 <br/><br/>
-En 1861 : American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of the state.
+En 1861 : American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of Missouri.
 <br/><br/>
 En 1856 : The Last Island hurricane strikes Louisiana, resulting in over 200 deaths.
 <br/><br/>
@@ -212,7 +212,7 @@ En 1901 : The U.S. Steel recognition strike by the Amalgamated Association of Ir
 <br/><br/>
 En 1864 : After Uruguay's governing Blanco Party refuses Brazil's demands, José Antônio Saraiva announces that the Brazilian military will begin reprisals, beginning the Uruguayan War.
 <br/><br/>
-En 1861 : American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of the state.
+En 1861 : American Civil War: Battle of Wilson's Creek: A mixed force of Confederate, Missouri State Guard, and Arkansas State troops defeat outnumbered attacking Union forces in the southwestern part of Missouri.
 <br/><br/>
 En 1856 : The Last Island hurricane strikes Louisiana, resulting in over 200 deaths.
 <br/><br/>
