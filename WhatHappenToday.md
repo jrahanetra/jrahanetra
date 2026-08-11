@@ -20,11 +20,11 @@ En 2003 : Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is 
 <br/><br/>
 En 2000 : An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
 <br/><br/>
-En 1995 : The Russell Hill subway accident in Toronto kills 3 and injures 30, due to a combination of human error and a safety system design flaw.
+En 1995 : The Russell Hill subway accident in Toronto kills three and injures 30, due to a combination of human error and a safety system design flaw.
 <br/><br/>
-En 1992 : The Mall of America in Bloomington, Minnesota opens. At the time the largest shopping mall in the United States.
+En 1992 : The Mall of America in Bloomington, Minnesota opens. At the time, it is the largest shopping mall in the United States.
 <br/><br/>
-En 1991 : Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
+En 1991 : Nickelodeon's first line of "Nicktoons" (Doug, Rugrats and Ren & Stimpy) premiere on the channel.
 <br/><br/>
 En 1988 : A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.
 <br/><br/>
@@ -124,11 +124,11 @@ En 2003 : Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is 
 <br/><br/>
 En 2000 : An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
 <br/><br/>
-En 1995 : The Russell Hill subway accident in Toronto kills 3 and injures 30, due to a combination of human error and a safety system design flaw.
+En 1995 : The Russell Hill subway accident in Toronto kills three and injures 30, due to a combination of human error and a safety system design flaw.
 <br/><br/>
-En 1992 : The Mall of America in Bloomington, Minnesota opens. At the time the largest shopping mall in the United States.
+En 1992 : The Mall of America in Bloomington, Minnesota opens. At the time, it is the largest shopping mall in the United States.
 <br/><br/>
-En 1991 : Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
+En 1991 : Nickelodeon's first line of "Nicktoons" (Doug, Rugrats and Ren & Stimpy) premiere on the channel.
 <br/><br/>
 En 1988 : A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.
 <br/><br/>
