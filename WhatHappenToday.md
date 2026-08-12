@@ -52,11 +52,11 @@ En 1950 : Korean War: Bloody Gulch massacre: Seventy-five American POWs are mass
 <br/><br/>
 En 1948 : Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
 <br/><br/>
-En 1944 : Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
+En 1944 : World War II:  Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
 <br/><br/>
-En 1944 : Nazi German troops end the week-long Wola massacre, during which at least 40,000 people are killed indiscriminately or in mass executions.
+En 1944 : World War II:  Nazi German troops end the week-long Wola massacre, during which at least 40,000 people are killed indiscriminately or in mass executions.
 <br/><br/>
-En 1944 : Alençon is liberated by General Philippe Leclerc de Hauteclocque, becoming the first city in France to be liberated from the Nazis by French forces.
+En 1944 : World War II:  Alençon is liberated by General Philippe Leclerc de Hauteclocque, becoming the first city in France to be liberated from the Nazis by French forces.
 <br/><br/>
 En 1914 : World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary.
 <br/><br/>
@@ -148,11 +148,11 @@ En 1950 : Korean War: Bloody Gulch massacre: Seventy-five American POWs are mass
 <br/><br/>
 En 1948 : Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
 <br/><br/>
-En 1944 : Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
+En 1944 : World War II:  Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
 <br/><br/>
-En 1944 : Nazi German troops end the week-long Wola massacre, during which at least 40,000 people are killed indiscriminately or in mass executions.
+En 1944 : World War II:  Nazi German troops end the week-long Wola massacre, during which at least 40,000 people are killed indiscriminately or in mass executions.
 <br/><br/>
-En 1944 : Alençon is liberated by General Philippe Leclerc de Hauteclocque, becoming the first city in France to be liberated from the Nazis by French forces.
+En 1944 : World War II:  Alençon is liberated by General Philippe Leclerc de Hauteclocque, becoming the first city in France to be liberated from the Nazis by French forces.
 <br/><br/>
 En 1914 : World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary.
 <br/><br/>
