@@ -10,7 +10,7 @@ En 2021 : Six people, five victims and the perpetrator are killed in Keyham, Ply
 <br/><br/>
 En 2018 : Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
 <br/><br/>
-En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
+En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to three deaths and injuring nearly 50 more.
 <br/><br/>
 En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
 <br/><br/>
@@ -106,7 +106,7 @@ En 2021 : Six people, five victims and the perpetrator are killed in Keyham, Ply
 <br/><br/>
 En 2018 : Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
 <br/><br/>
-En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
+En 2017 : The Unite the Right rally occurs in Charlottesville, Virginia, leading to three deaths and injuring nearly 50 more.
 <br/><br/>
 En 2016 : Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
 <br/><br/>
