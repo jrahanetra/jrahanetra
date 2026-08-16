@@ -78,7 +78,7 @@ En 1918 : The Battle of Lake Baikal is fought between the Czechoslovak Legion an
 <br/><br/>
 En 1916 : The Migratory Bird Treaty between Canada and the United States is signed.
 <br/><br/>
-En 1916 : German admiral Wilhelm Souchon hands over the two warships under his command to the Ottomans and becomes commander of the Turkish navy, leading later to the entry of the Ottoman Empire in World War I.
+En 1914 : German admiral Wilhelm Souchon hands over the two warships under his command to the Ottomans and becomes commander of the Turkish navy, leading later to the entry of the Ottoman Empire in World War I.
 <br/><br/>
 En 1913 : Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.
 <br/><br/>
@@ -216,7 +216,7 @@ En 1918 : The Battle of Lake Baikal is fought between the Czechoslovak Legion an
 <br/><br/>
 En 1916 : The Migratory Bird Treaty between Canada and the United States is signed.
 <br/><br/>
-En 1916 : German admiral Wilhelm Souchon hands over the two warships under his command to the Ottomans and becomes commander of the Turkish navy, leading later to the entry of the Ottoman Empire in World War I.
+En 1914 : German admiral Wilhelm Souchon hands over the two warships under his command to the Ottomans and becomes commander of the Turkish navy, leading later to the entry of the Ottoman Empire in World War I.
 <br/><br/>
 En 1913 : Tōhoku Imperial University of Japan (modern day Tohoku University) becomes the first university in Japan to admit female students.
 <br/><br/>
