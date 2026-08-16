@@ -122,9 +122,9 @@ En 1780 : American Revolutionary War: Battle of Camden: The British defeat the A
 <br/><br/>
 En 1777 : American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York.
 <br/><br/>
-En 1717 : An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.
+En 1717 : Austro-Turkish War (1716–1718): An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.
 <br/><br/>
-En 1685 : An imperial coalition army under Charles of Lorraine defeats the Ottoman army that had been besieging Esztergom.
+En 1685 : Great Turkish War: An imperial coalition army under Charles of Lorraine defeats the Ottoman army that had been besieging Esztergom.
 <br/><br/>
 En 1652 : Battle of Plymouth: Inconclusive naval action between the fleets of Michiel de Ruyter and George Ayscue in the First Anglo-Dutch War.
 <br/><br/>
@@ -260,9 +260,9 @@ En 1780 : American Revolutionary War: Battle of Camden: The British defeat the A
 <br/><br/>
 En 1777 : American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York.
 <br/><br/>
-En 1717 : An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.
+En 1717 : Austro-Turkish War (1716–1718): An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later.
 <br/><br/>
-En 1685 : An imperial coalition army under Charles of Lorraine defeats the Ottoman army that had been besieging Esztergom.
+En 1685 : Great Turkish War: An imperial coalition army under Charles of Lorraine defeats the Ottoman army that had been besieging Esztergom.
 <br/><br/>
 En 1652 : Battle of Plymouth: Inconclusive naval action between the fleets of Michiel de Ruyter and George Ayscue in the First Anglo-Dutch War.
 <br/><br/>
