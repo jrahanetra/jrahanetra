@@ -90,7 +90,7 @@ En 1914 : World War I: Battle of Stallupönen: The German army of General Herman
 <br/><br/>
 En 1907 : Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington.
 <br/><br/>
-En 1896 : Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
+En 1896 : Bridget Driscoll becomes the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
 <br/><br/>
 En 1883 : The first public performance of the Dominican Republic's national anthem, Himno Nacional.
 <br/><br/>
@@ -234,7 +234,7 @@ En 1914 : World War I: Battle of Stallupönen: The German army of General Herman
 <br/><br/>
 En 1907 : Pike Place Market, one of the oldest continuously operated public farmers' markets in the U.S. and a popular tourist attraction, opens in Seattle, Washington.
 <br/><br/>
-En 1896 : Bridget Driscoll became the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
+En 1896 : Bridget Driscoll becomes the first recorded case of a pedestrian killed in a collision with a motor car in the United Kingdom.
 <br/><br/>
 En 1883 : The first public performance of the Dominican Republic's national anthem, Himno Nacional.
 <br/><br/>
