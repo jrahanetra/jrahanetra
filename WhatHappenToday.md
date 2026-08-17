@@ -50,11 +50,11 @@ En 1959 : Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake 
 <br/><br/>
 En 1958 : Pioneer 0, America's first attempt at lunar orbit, is launched using the first Thor-Able rocket and fails. Notable as one of the first attempted launches beyond Earth orbit by any country.
 <br/><br/>
-En 1955 : Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people.
+En 1955 : Hurricane Diane makes landfall near Wilmington, North Carolina; it went on to cause major floods and kill more than 184 people.
 <br/><br/>
 En 1953 : First meeting of Narcotics Anonymous takes place, in Southern California.
 <br/><br/>
-En 1950 : Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea.
+En 1950 : Korean War: Forty-two American prisoners of war are massacred by the Korean People's Army on a hill above Waegwan, South Korea.
 <br/><br/>
 En 1949 : The 6.7 Ms Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.
 <br/><br/>
@@ -82,7 +82,7 @@ En 1918 : Bolshevik revolutionary leader Moisei Uritsky is assassinated.
 <br/><br/>
 En 1916 : World War I: Romania signs a secret treaty with the Entente Powers. According to the treaty, Romania agreed to join the war on the Allied side.
 <br/><br/>
-En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John Slaton.
+En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John M. Slaton.
 <br/><br/>
 En 1915 : A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h).
 <br/><br/>
@@ -194,11 +194,11 @@ En 1959 : Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake 
 <br/><br/>
 En 1958 : Pioneer 0, America's first attempt at lunar orbit, is launched using the first Thor-Able rocket and fails. Notable as one of the first attempted launches beyond Earth orbit by any country.
 <br/><br/>
-En 1955 : Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people.
+En 1955 : Hurricane Diane makes landfall near Wilmington, North Carolina; it went on to cause major floods and kill more than 184 people.
 <br/><br/>
 En 1953 : First meeting of Narcotics Anonymous takes place, in Southern California.
 <br/><br/>
-En 1950 : Korean War: Forty-two American prisoners of war were massacred by the Korean People's Army on a hill above Waegwan, South Korea.
+En 1950 : Korean War: Forty-two American prisoners of war are massacred by the Korean People's Army on a hill above Waegwan, South Korea.
 <br/><br/>
 En 1949 : The 6.7 Ms Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320–450 dead.
 <br/><br/>
@@ -226,7 +226,7 @@ En 1918 : Bolshevik revolutionary leader Moisei Uritsky is assassinated.
 <br/><br/>
 En 1916 : World War I: Romania signs a secret treaty with the Entente Powers. According to the treaty, Romania agreed to join the war on the Allied side.
 <br/><br/>
-En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John Slaton.
+En 1915 : Jewish American Leo Frank is lynched in Marietta, Georgia, USA after his death sentence is commuted by Governor John M. Slaton.
 <br/><br/>
 En 1915 : A Category 4 hurricane hits Galveston, Texas with winds at 135 miles per hour (217 km/h).
 <br/><br/>
