@@ -48,7 +48,7 @@ En 1958 : Brojen Das from Bangladesh swims across the English Channel in a compe
 <br/><br/>
 En 1950 : Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.
 <br/><br/>
-En 1949 : 1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
+En 1949 : Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
 <br/><br/>
 En 1945 : Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day.
 <br/><br/>
@@ -154,7 +154,7 @@ En 1958 : Brojen Das from Bangladesh swims across the English Channel in a compe
 <br/><br/>
 En 1950 : Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.
 <br/><br/>
-En 1949 : 1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
+En 1949 : Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
 <br/><br/>
 En 1945 : Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day.
 <br/><br/>
