@@ -38,6 +38,8 @@ En 1987 : Hungerford massacre: In the United Kingdom, Michael Ryan kills sixteen
 <br/><br/>
 En 1981 : Gulf of Sidra Incident: United States F-14A Tomcat fighters intercept and shoot down two Libyan Sukhoi Su-22 fighter jets over the Gulf of Sidra.
 <br/><br/>
+En 1981 : Silvio Santos launched a new Brazilian television channel in São Paulo, Sistema Brasileiro de Televisão.
+<br/><br/>
 En 1980 : Saudia Flight 163, a Lockheed L-1011 TriStar burns after making an emergency landing at Riyadh International Airport in Riyadh, Saudi Arabia, killing 301 people.
 <br/><br/>
 En 1980 : Otłoczyn railway accident: In Poland's worst post-war railway accident, 67 people lose their lives and a further 62 are injured.
@@ -167,6 +169,8 @@ En 1989 : Several hundred East Germans cross the frontier between Hungary and Au
 En 1987 : Hungerford massacre: In the United Kingdom, Michael Ryan kills sixteen people with a semi-automatic rifle and then commits suicide.
 <br/><br/>
 En 1981 : Gulf of Sidra Incident: United States F-14A Tomcat fighters intercept and shoot down two Libyan Sukhoi Su-22 fighter jets over the Gulf of Sidra.
+<br/><br/>
+En 1981 : Silvio Santos launched a new Brazilian television channel in São Paulo, Sistema Brasileiro de Televisão.
 <br/><br/>
 En 1980 : Saudia Flight 163, a Lockheed L-1011 TriStar burns after making an emergency landing at Riyadh International Airport in Riyadh, Saudi Arabia, killing 301 people.
 <br/><br/>
