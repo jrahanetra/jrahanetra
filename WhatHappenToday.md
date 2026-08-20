@@ -60,7 +60,7 @@ En 1962 : The NS Savannah, the world's first nuclear-powered civilian ship, emba
 <br/><br/>
 En 1960 : Senegal breaks from the Mali Federation, declaring its independence.
 <br/><br/>
-En 1955 : Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
+En 1955 : Battle of Philippeville: In Algeria, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
 <br/><br/>
 En 1949 : Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1962 : The NS Savannah, the world's first nuclear-powered civilian ship, emba
 <br/><br/>
 En 1960 : Senegal breaks from the Mali Federation, declaring its independence.
 <br/><br/>
-En 1955 : Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
+En 1955 : Battle of Philippeville: In Algeria, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
 <br/><br/>
 En 1949 : Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
 <br/><br/>
