@@ -128,7 +128,7 @@ En 1057 : An army under Isaac I Komnenos defeat forces loyal to rival emperor Mi
 <br/><br/>
 En 917 : Battle of Acheloos: Tsar Simeon I of Bulgaria decisively defeats a Byzantine army.
 <br/><br/>
-En 636 : Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.
+En 636 : Battle of the Yarmuk: Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.
 <br/><br/>
 En 14 : Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is executed by his guards while in exile.
 <br/><br/>
@@ -254,7 +254,7 @@ En 1057 : An army under Isaac I Komnenos defeat forces loyal to rival emperor Mi
 <br/><br/>
 En 917 : Battle of Acheloos: Tsar Simeon I of Bulgaria decisively defeats a Byzantine army.
 <br/><br/>
-En 636 : Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.
+En 636 : Battle of the Yarmuk: Marking the first great wave of Muslim conquests and the rapid advance of Islam outside Arabia, Arab forces led by Khalid ibn al-Walid defeat the Byzantine Empire and take control of the Levant.
 <br/><br/>
 En 14 : Agrippa Postumus, maternal grandson of the late Roman emperor Augustus, is executed by his guards while in exile.
 <br/><br/>
