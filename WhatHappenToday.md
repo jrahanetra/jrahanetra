@@ -90,8 +90,6 @@ En 1778 : American Revolutionary War: British forces begin besieging the French 
 <br/><br/>
 En 1772 : King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot.
 <br/><br/>
-En 1770 : James Cook formally claims eastern Australia for Great Britain, naming it New South Wales.
-<br/><br/>
 En 1716 : Seventh Ottoman–Venetian War: The arrival of naval reinforcements and the news of the Battle of Petrovaradin force the Ottomans to abandon the Siege of Corfu, thus preserving the Ionian Islands under Venetian rule.
 <br/><br/>
 En 1689 : The Battle of Dunkeld in Scotland.
@@ -195,8 +193,6 @@ En 1791 : Enslaved Africans in Saint-Domingue, led by Dutty Boukman, held a Vodo
 En 1778 : American Revolutionary War: British forces begin besieging the French outpost at Pondichéry.
 <br/><br/>
 En 1772 : King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot.
-<br/><br/>
-En 1770 : James Cook formally claims eastern Australia for Great Britain, naming it New South Wales.
 <br/><br/>
 En 1716 : Seventh Ottoman–Venetian War: The arrival of naval reinforcements and the news of the Battle of Petrovaradin force the Ottomans to abandon the Siege of Corfu, thus preserving the Ionian Islands under Venetian rule.
 <br/><br/>
