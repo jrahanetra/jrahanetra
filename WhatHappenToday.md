@@ -76,7 +76,7 @@ En 1864 : Twelve nations sign the First Geneva Convention, establishing the rule
 <br/><br/>
 En 1851 : The first America's Cup is won by the yacht America.
 <br/><br/>
-En 1849 : Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days after.
+En 1849 : Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days later.
 <br/><br/>
 En 1846 : The Second Federal Republic of Mexico is established.
 <br/><br/>
@@ -110,7 +110,7 @@ En 1559 : Spanish archbishop Bartolomé Carranza is arrested for heresy.
 <br/><br/>
 En 1485 : The Battle of Bosworth Field occurs; King Richard III of England's death in battle marks the end of the reigning Plantagenet dynasty and the beginning of the Tudors under Henry VII.
 <br/><br/>
-En 1153 : Crusader–Fatimid wars: The fortress of Ascalon was surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem.
+En 1153 : Crusader–Fatimid wars: The fortress of Ascalon is surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem.
 <br/><br/>
 En 1138 : Battle of the Standard between Scotland and England.
 <br/><br/>
@@ -188,7 +188,7 @@ En 1864 : Twelve nations sign the First Geneva Convention, establishing the rule
 <br/><br/>
 En 1851 : The first America's Cup is won by the yacht America.
 <br/><br/>
-En 1849 : Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days after.
+En 1849 : Passaleão incident: João Maria Ferreira do Amaral, the governor of Portuguese Macau, is assassinated by a group of Chinese locals, triggering a military confrontation between China and Portugal at the Battle of Passaleão three days later.
 <br/><br/>
 En 1846 : The Second Federal Republic of Mexico is established.
 <br/><br/>
@@ -222,7 +222,7 @@ En 1559 : Spanish archbishop Bartolomé Carranza is arrested for heresy.
 <br/><br/>
 En 1485 : The Battle of Bosworth Field occurs; King Richard III of England's death in battle marks the end of the reigning Plantagenet dynasty and the beginning of the Tudors under Henry VII.
 <br/><br/>
-En 1153 : Crusader–Fatimid wars: The fortress of Ascalon was surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem.
+En 1153 : Crusader–Fatimid wars: The fortress of Ascalon is surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem.
 <br/><br/>
 En 1138 : Battle of the Standard between Scotland and England.
 <br/><br/>
