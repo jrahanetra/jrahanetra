@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 23/8 ?(Hover on the year)</h1>
 
-En 2023 : Chandrayaan-3 mission initiated first Moon landing in Indian history.
+En 2023 : Chandrayaan-3 mission initiates first Moon landing in Indian history.
 <br/><br/>
 En 2023 : A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.
 <br/><br/>
@@ -18,7 +18,7 @@ En 2011 : A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damag
 <br/><br/>
 En 2011 : Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.
 <br/><br/>
-En 2010 : The Manila hostage crisis occurred near the Quirino Grandstand in Manila, Philippines killing 9 people including the perpetrator while injuring 9 others.
+En 2010 : The Manila hostage crisis occurs near the Quirino Grandstand in Manila, Philippines, killing 9 people including the perpetrator while injuring 9 others.
 <br/><br/>
 En 2007 : The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.
 <br/><br/>
@@ -42,7 +42,7 @@ En 1985 : Hans Tiedge, top counter-spy of West Germany, defects to East Germany.
 <br/><br/>
 En 1975 : The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration.
 <br/><br/>
-En 1975 : The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan
+En 1975 : The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan.
 <br/><br/>
 En 1973 : A bank robbery gone wrong in Stockholm, Sweden, turns into a hostage crisis; over the next five days the hostages begin to sympathise with their captors, leading to the term "Stockholm syndrome".
 <br/><br/>
@@ -144,7 +144,7 @@ En 406 : The Western Roman army under Stilicho corners and defeats the Ostrogoth
 <br/><br/>
 En 79 : Mount Vesuvius begins stirring, on the feast day of Vulcan, the Roman god of fire.
 <br/><br/>
-En 2023 : Chandrayaan-3 mission initiated first Moon landing in Indian history.
+En 2023 : Chandrayaan-3 mission initiates first Moon landing in Indian history.
 <br/><br/>
 En 2023 : A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.
 <br/><br/>
@@ -156,7 +156,7 @@ En 2011 : A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damag
 <br/><br/>
 En 2011 : Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.
 <br/><br/>
-En 2010 : The Manila hostage crisis occurred near the Quirino Grandstand in Manila, Philippines killing 9 people including the perpetrator while injuring 9 others.
+En 2010 : The Manila hostage crisis occurs near the Quirino Grandstand in Manila, Philippines, killing 9 people including the perpetrator while injuring 9 others.
 <br/><br/>
 En 2007 : The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1985 : Hans Tiedge, top counter-spy of West Germany, defects to East Germany.
 <br/><br/>
 En 1975 : The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration.
 <br/><br/>
-En 1975 : The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan
+En 1975 : The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan.
 <br/><br/>
 En 1973 : A bank robbery gone wrong in Stockholm, Sweden, turns into a hostage crisis; over the next five days the hostages begin to sympathise with their captors, leading to the term "Stockholm syndrome".
 <br/><br/>
