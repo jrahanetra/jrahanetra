@@ -130,9 +130,9 @@ En 1514 : The Battle of Chaldiran ends with a decisive victory for the Sultan Se
 <br/><br/>
 En 1382 : The Golden Horde, led by Khan Tokhtamysh, begins the Siege of Moscow, which ends four days later with the storming of the city and the death of Muscovite Prince Ostei.
 <br/><br/>
-En 1328 : William Wallace is put on trial and subsequently hanged, drawn and quartered.
-<br/><br/>
 En 1328 : Battle of Cassel: French troops stop an uprising of Flemish farmers.
+<br/><br/>
+En 1305 : William Wallace is put on trial and subsequently hanged, drawn and quartered.
 <br/><br/>
 En 1268 : The Battle of Tagliacozzo: The army of Prince Conradin is nearly destroyed by Charles of Anjou, ending Hohenstaufen control over the Kingdom of Sicily and leaving the Angevins in control.
 <br/><br/>
@@ -268,9 +268,9 @@ En 1514 : The Battle of Chaldiran ends with a decisive victory for the Sultan Se
 <br/><br/>
 En 1382 : The Golden Horde, led by Khan Tokhtamysh, begins the Siege of Moscow, which ends four days later with the storming of the city and the death of Muscovite Prince Ostei.
 <br/><br/>
-En 1328 : William Wallace is put on trial and subsequently hanged, drawn and quartered.
-<br/><br/>
 En 1328 : Battle of Cassel: French troops stop an uprising of Flemish farmers.
+<br/><br/>
+En 1305 : William Wallace is put on trial and subsequently hanged, drawn and quartered.
 <br/><br/>
 En 1268 : The Battle of Tagliacozzo: The army of Prince Conradin is nearly destroyed by Charles of Anjou, ending Hohenstaufen control over the Kingdom of Sicily and leaving the Angevins in control.
 <br/><br/>
