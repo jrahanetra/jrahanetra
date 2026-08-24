@@ -34,6 +34,8 @@ En 2006 : The International Astronomical Union (IAU) redefines the term "planet"
 <br/><br/>
 En 2004 : Ninety passengers die after two airliners explode after flying out of Domodedovo International Airport, near Moscow. The explosions are caused by suicide bombers from Chechnya.
 <br/><br/>
+En 2001 : Microsoft makes the RTM release of Windows XP.
+<br/><br/>
 En 2001 : Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.
 <br/><br/>
 En 1998 : First radio-frequency identification (RFID) human implantation tested in the United Kingdom.
@@ -183,6 +185,8 @@ En 2008 : A Cessna 208 Caravan crashes in Cabañas, Zacapa, Guatemala, killing 1
 En 2006 : The International Astronomical Union (IAU) redefines the term "planet" such that Pluto is now considered a dwarf planet.
 <br/><br/>
 En 2004 : Ninety passengers die after two airliners explode after flying out of Domodedovo International Airport, near Moscow. The explosions are caused by suicide bombers from Chechnya.
+<br/><br/>
+En 2001 : Microsoft makes the RTM release of Windows XP.
 <br/><br/>
 En 2001 : Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.
 <br/><br/>
