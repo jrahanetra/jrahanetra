@@ -108,9 +108,9 @@ En 1814 : War of 1812: On the second day of the Burning of Washington, British t
 <br/><br/>
 En 1758 : Seven Years' War: Frederick II of Prussia defeats the Russian army at the Battle of Zorndorf.
 <br/><br/>
-En 1630 : Portuguese forces are defeated by the Kingdom of Kandy at the Battle of Randeniwela in Sri Lanka.
+En 1651 : A parliamentarian army defeats a royalist army under James Stanley, 7th Earl of Derby, in the battle of Wigan Lane during the Third English Civial War.
 <br/><br/>
-En 1630 : A parliamentarian army defeats a royalist army under James Stanley, 7th Earl of Derby, in the battle of Wigan Lane during the Third English Civial War.
+En 1630 : Portuguese forces are defeated by the Kingdom of Kandy at the Battle of Randeniwela in Sri Lanka.
 <br/><br/>
 En 1609 : Galileo Galilei demonstrates his first telescope to Venetian lawmakers.
 <br/><br/>
@@ -234,9 +234,9 @@ En 1814 : War of 1812: On the second day of the Burning of Washington, British t
 <br/><br/>
 En 1758 : Seven Years' War: Frederick II of Prussia defeats the Russian army at the Battle of Zorndorf.
 <br/><br/>
-En 1630 : Portuguese forces are defeated by the Kingdom of Kandy at the Battle of Randeniwela in Sri Lanka.
+En 1651 : A parliamentarian army defeats a royalist army under James Stanley, 7th Earl of Derby, in the battle of Wigan Lane during the Third English Civial War.
 <br/><br/>
-En 1630 : A parliamentarian army defeats a royalist army under James Stanley, 7th Earl of Derby, in the battle of Wigan Lane during the Third English Civial War.
+En 1630 : Portuguese forces are defeated by the Kingdom of Kandy at the Battle of Randeniwela in Sri Lanka.
 <br/><br/>
 En 1609 : Galileo Galilei demonstrates his first telescope to Venetian lawmakers.
 <br/><br/>
