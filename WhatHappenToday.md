@@ -64,11 +64,11 @@ En 1914 : World War I: During the retreat from Mons, the British II Corps comman
 <br/><br/>
 En 1883 : The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.
 <br/><br/>
-En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.
+En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposes the current blue-and-white cross flag as the flag of Finland.
 <br/><br/>
 En 1849 : President Faustin Soulouque of the First Republic of Haiti has the Senate and Chamber of Deputies proclaim him the Emperor of Haiti, abolishing the Republic and inaugurating the Second Empire of Haiti.
 <br/><br/>
-En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish.
+En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, killing a total of 500 people.
 <br/><br/>
 En 1814 : Chilean War of Independence: Infighting between the rebel forces of José Miguel Carrera and Bernardo O'Higgins erupts in the Battle of Las Tres Acequias.
 <br/><br/>
@@ -82,7 +82,7 @@ En 1789 : The Declaration of the Rights of Man and of the Citizen is approved by
 <br/><br/>
 En 1778 : The first recorded ascent of Triglav, the highest mountain in Slovenia.
 <br/><br/>
-En 1768 : Captain James Cook sets sail from England on board HMS Endeavour.
+En 1768 : Captain James Cook sets sail from England on board HMS Endeavour, starting his first voyage of discovery.
 <br/><br/>
 En 1767 : Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus.
 <br/><br/>
@@ -166,11 +166,11 @@ En 1914 : World War I: During the retreat from Mons, the British II Corps comman
 <br/><br/>
 En 1883 : The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.
 <br/><br/>
-En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.
+En 1863 : The Swedish-language liberal newspaper Helsingfors Dagblad proposes the current blue-and-white cross flag as the flag of Finland.
 <br/><br/>
 En 1849 : President Faustin Soulouque of the First Republic of Haiti has the Senate and Chamber of Deputies proclaim him the Emperor of Haiti, abolishing the Republic and inaugurating the Second Empire of Haiti.
 <br/><br/>
-En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, a total of 500 people perish.
+En 1833 : The great 1833 Kathmandu–Bihar earthquake causes major damage in Nepal, northern India and Tibet, killing a total of 500 people.
 <br/><br/>
 En 1814 : Chilean War of Independence: Infighting between the rebel forces of José Miguel Carrera and Bernardo O'Higgins erupts in the Battle of Las Tres Acequias.
 <br/><br/>
@@ -184,7 +184,7 @@ En 1789 : The Declaration of the Rights of Man and of the Citizen is approved by
 <br/><br/>
 En 1778 : The first recorded ascent of Triglav, the highest mountain in Slovenia.
 <br/><br/>
-En 1768 : Captain James Cook sets sail from England on board HMS Endeavour.
+En 1768 : Captain James Cook sets sail from England on board HMS Endeavour, starting his first voyage of discovery.
 <br/><br/>
 En 1767 : Jesuits all over Chile are arrested as the Spanish Empire suppresses the Society of Jesus.
 <br/><br/>
