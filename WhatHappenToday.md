@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 26/8 ?(Hover on the year)</h1>
 
-En 2023 : Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
+En 2023 : Exactly five years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving three people dead.
 <br/><br/>
 En 2021 : During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.
 <br/><br/>
@@ -108,7 +108,7 @@ En 1071 : The Seljuq Turks defeat the Byzantine army at the Battle of Manzikert,
 <br/><br/>
 En 683 : The Battle of al-Harrah concludes, with Yazid I's army killing 11,000 people of the city of Medina.
 <br/><br/>
-En 2023 : Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
+En 2023 : Exactly five years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving three people dead.
 <br/><br/>
 En 2021 : During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.
 <br/><br/>
