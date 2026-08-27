@@ -108,7 +108,7 @@ En 1600 : Ishida Mitsunari's Western Army commences the Siege of Fushimi Castle,
 <br/><br/>
 En 1597 : Jeongyu War: Battle of Chilcheollyang: A Japanese fleet of 500 ships destroys Joseon commander Wŏn Kyun's fleet of 200 ships at Chilcheollyang.
 <br/><br/>
-En 1593 : Pierre Barrière failed in an attempt to assassinate Henry IV of France.
+En 1593 : Pierre Barrière fails in an attempt to assassinate Henry IV of France.
 <br/><br/>
 En 1557 : The Battle of St. Quentin results in Emmanuel Philibert becoming Duke of Savoy.
 <br/><br/>
@@ -222,7 +222,7 @@ En 1600 : Ishida Mitsunari's Western Army commences the Siege of Fushimi Castle,
 <br/><br/>
 En 1597 : Jeongyu War: Battle of Chilcheollyang: A Japanese fleet of 500 ships destroys Joseon commander Wŏn Kyun's fleet of 200 ships at Chilcheollyang.
 <br/><br/>
-En 1593 : Pierre Barrière failed in an attempt to assassinate Henry IV of France.
+En 1593 : Pierre Barrière fails in an attempt to assassinate Henry IV of France.
 <br/><br/>
 En 1557 : The Battle of St. Quentin results in Emmanuel Philibert becoming Duke of Savoy.
 <br/><br/>
