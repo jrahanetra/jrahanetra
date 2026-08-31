@@ -16,6 +16,8 @@ En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Al
 <br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
+En 2007 : hatsune miku was created
+<br/><br/>
 En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 <br/><br/>
 En 2005 : The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
@@ -125,6 +127,8 @@ En 2024 : A helicopter crashes in Kamchatka Krai in the Russian Far East, killin
 En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.
 <br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
+<br/><br/>
+En 2007 : hatsune miku was created
 <br/><br/>
 En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 <br/><br/>
