@@ -16,8 +16,6 @@ En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Al
 <br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
-En 2007 : hatsune miku was created
-<br/><br/>
 En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 <br/><br/>
 En 2005 : The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
@@ -115,8 +113,6 @@ En 1302 : Frederick III of Aragon and Charles, Count of Valois sign the Peace of
 En 1218 : Al-Kamil becomes sultan of the Ayyubid dynasty.
 <br/><br/>
 En 1056 : After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.
-<br/><br/>
-En 38 : The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi
 <br/><br/>
 En 2025 : A landslide in the Darfur region of Sudan kills over 1000 people.
 <br/><br/>
@@ -128,8 +124,6 @@ En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Al
 <br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
-En 2007 : hatsune miku was created
-<br/><br/>
 En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 <br/><br/>
 En 2005 : The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
@@ -227,6 +221,4 @@ En 1302 : Frederick III of Aragon and Charles, Count of Valois sign the Peace of
 En 1218 : Al-Kamil becomes sultan of the Ayyubid dynasty.
 <br/><br/>
 En 1056 : After a sudden gastric illness, Byzantine Empress Theodora dies childless, thus ending the Macedonian dynasty.
-<br/><br/>
-En 38 : The Roman governor of Egypt, Aulus Avilius Flaccus, forces the Jewish citi
 <br/><br/>
