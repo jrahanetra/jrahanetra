@@ -12,6 +12,8 @@ En 2025 : An earthquake in eastern Afghanistan kills over 1400 people.
 <br/><br/>
 En 2024 : A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants.
 <br/><br/>
+En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.
+<br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
 En 2006 : Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
@@ -119,6 +121,8 @@ En 2025 : A landslide in the Darfur region of Sudan kills over 1000 people.
 En 2025 : An earthquake in eastern Afghanistan kills over 1400 people.
 <br/><br/>
 En 2024 : A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants.
+<br/><br/>
+En 2019 : A sightseeing helicopter crashes in the mountains of Skoddevarre in Alta, Norway, killing all six people on board.
 <br/><br/>
 En 2016 : Brazil's President Dilma Rousseff is impeached and removed from office.
 <br/><br/>
