@@ -24,6 +24,8 @@ En 1973 : A 76-hour multinational rescue effort in the Celtic Sea resulted in th
 <br/><br/>
 En 1969 : A coup in Libya brings Muammar Gaddafi to power.
 <br/><br/>
+En 1969 : The flagship news program Jornal Nacional premieres on TV Globo.
+<br/><br/>
 En 1967 : Six-Day War: The Khartoum Resolution is issued at the Arab Summit, and eight countries adopt the "three 'no's against Israel".
 <br/><br/>
 En 1961 : TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
@@ -115,6 +117,8 @@ En 1974 : The SR-71 Blackbird sets (and holds) the record for flying from New Yo
 En 1973 : A 76-hour multinational rescue effort in the Celtic Sea resulted in the Rescue of Roger Mallinson and Roger Chapman.
 <br/><br/>
 En 1969 : A coup in Libya brings Muammar Gaddafi to power.
+<br/><br/>
+En 1969 : The flagship news program Jornal Nacional premieres on TV Globo.
 <br/><br/>
 En 1967 : Six-Day War: The Khartoum Resolution is issued at the Arab Summit, and eight countries adopt the "three 'no's against Israel".
 <br/><br/>
