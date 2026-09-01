@@ -70,7 +70,7 @@ En 1763 : Catherine the Great, Empress of Russia, endorses Ivan Betskoy's plans 
 <br/><br/>
 En 1715 : At the age of five, Louis XV becomes king of France in succession to his great-grandfather, King Louis XIV.
 <br/><br/>
-En 1645 : English Civil War. Scottish Covenanter forces abandon their month-long Siege of Hereford, a Cavalier stronghold, on news of Royalist victories in Scotland.
+En 1645 : English Civil War: Scottish Covenanter forces abandon their month-long Siege of Hereford, a Cavalier stronghold, on news of Royalist victories in Scotland.
 <br/><br/>
 En 1644 : Battle of Tippermuir: James Graham, 1st Marquess of Montrose defeats the Earl of Wemyss's Covenanters, reviving the Royalist cause.
 <br/><br/>
@@ -162,7 +162,7 @@ En 1763 : Catherine the Great, Empress of Russia, endorses Ivan Betskoy's plans 
 <br/><br/>
 En 1715 : At the age of five, Louis XV becomes king of France in succession to his great-grandfather, King Louis XIV.
 <br/><br/>
-En 1645 : English Civil War. Scottish Covenanter forces abandon their month-long Siege of Hereford, a Cavalier stronghold, on news of Royalist victories in Scotland.
+En 1645 : English Civil War: Scottish Covenanter forces abandon their month-long Siege of Hereford, a Cavalier stronghold, on news of Royalist victories in Scotland.
 <br/><br/>
 En 1644 : Battle of Tippermuir: James Graham, 1st Marquess of Montrose defeats the Earl of Wemyss's Covenanters, reviving the Royalist cause.
 <br/><br/>
