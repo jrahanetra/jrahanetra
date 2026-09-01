@@ -20,13 +20,13 @@ En 1981 : Central African President David Dacko is ousted from power in a bloodl
 <br/><br/>
 En 1974 : The SR-71 Blackbird sets (and holds) the record for flying from New York to London in the time of one hour, 54 minutes and 56.4 seconds at a speed of 1,435.587 miles per hour (2,310.353 km/h).
 <br/><br/>
-En 1973 : A 76-hour multinational rescue effort in the Celtic Sea resulted in the Rescue of Roger Mallinson and Roger Chapman.
+En 1973 : A 76-hour multinational rescue effort in the Celtic Sea results in the rescue of Roger Mallinson and Roger Chapman.
 <br/><br/>
 En 1969 : A coup in Libya brings Muammar Gaddafi to power.
 <br/><br/>
 En 1967 : Six-Day War: The Khartoum Resolution is issued at the Arab Summit, and eight countries adopt the "three 'no's against Israel".
 <br/><br/>
-En 1961 : TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
+En 1961 : TWA Flight 529 crashes shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
 <br/><br/>
 En 1944 : World War II: Launch of Operation Ratweek, complicating German retreat.
 <br/><br/>
@@ -112,13 +112,13 @@ En 1981 : Central African President David Dacko is ousted from power in a bloodl
 <br/><br/>
 En 1974 : The SR-71 Blackbird sets (and holds) the record for flying from New York to London in the time of one hour, 54 minutes and 56.4 seconds at a speed of 1,435.587 miles per hour (2,310.353 km/h).
 <br/><br/>
-En 1973 : A 76-hour multinational rescue effort in the Celtic Sea resulted in the Rescue of Roger Mallinson and Roger Chapman.
+En 1973 : A 76-hour multinational rescue effort in the Celtic Sea results in the rescue of Roger Mallinson and Roger Chapman.
 <br/><br/>
 En 1969 : A coup in Libya brings Muammar Gaddafi to power.
 <br/><br/>
 En 1967 : Six-Day War: The Khartoum Resolution is issued at the Arab Summit, and eight countries adopt the "three 'no's against Israel".
 <br/><br/>
-En 1961 : TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
+En 1961 : TWA Flight 529 crashes shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
 <br/><br/>
 En 1944 : World War II: Launch of Operation Ratweek, complicating German retreat.
 <br/><br/>
