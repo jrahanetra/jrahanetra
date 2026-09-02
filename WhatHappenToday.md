@@ -8,7 +8,7 @@
 
 En 2024 : Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States.
 <br/><br/>
-En 2024 : A suicide bombing in Kabul, Afghanistan, kills 6 people and injures 13.
+En 2024 : A suicide bombing in Kabul, Afghanistan, kills six people and injures 13.
 <br/><br/>
 En 2024 : At least 129 inmates are killed and 59 more injured in an attempted prison break at Makala Prison in Kinshasa, Democratic Republic of the Congo.
 <br/><br/>
@@ -20,13 +20,13 @@ En 2019 : Hurricane Dorian, a category 5 hurricane, devastates the Bahamas, kill
 <br/><br/>
 En 2019 : The dive boat MV Conception catches fire and sinks near Santa Cruz Island, killing 34.
 <br/><br/>
-En 2018 : National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
+En 2018 : National Museum of Brazil fire: A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
 <br/><br/>
 En 2013 : The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
 <br/><br/>
 En 2010 : Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
 <br/><br/>
-En 2009 : The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
+En 2009 : The Andhra Pradesh, India helicopter crash occurs near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities include Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
 <br/><br/>
 En 2008 : Google launches its Google Chrome web browser.
 <br/><br/>
@@ -34,7 +34,7 @@ En 1998 : Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 pe
 <br/><br/>
 En 1998 : The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
 <br/><br/>
-En 1992 : The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
+En 1992 : The 7.7 Mw Nicaragua earthquake affects the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggers a tsunami that causes most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
 <br/><br/>
 En 1990 : Transnistria is unilaterally proclaimed a Soviet republic; the Soviet president Mikhail Gorbachev declares the decision null and void.
 <br/><br/>
@@ -62,7 +62,7 @@ En 1946 : The Interim Government of India is formed, headed by Jawaharlal Nehru 
 <br/><br/>
 En 1945 : World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.
 <br/><br/>
-En 1945 : Communist leader Ho Chi Minh proclaimed the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
+En 1945 : Communist leader Ho Chi Minh proclaims the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
 <br/><br/>
 En 1944 : The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.
 <br/><br/>
@@ -124,7 +124,7 @@ En -44 : Cicero launches the first of his Philippicae (oratorical attacks) on Ma
 <br/><br/>
 En 2024 : Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States.
 <br/><br/>
-En 2024 : A suicide bombing in Kabul, Afghanistan, kills 6 people and injures 13.
+En 2024 : A suicide bombing in Kabul, Afghanistan, kills six people and injures 13.
 <br/><br/>
 En 2024 : At least 129 inmates are killed and 59 more injured in an attempted prison break at Makala Prison in Kinshasa, Democratic Republic of the Congo.
 <br/><br/>
@@ -136,13 +136,13 @@ En 2019 : Hurricane Dorian, a category 5 hurricane, devastates the Bahamas, kill
 <br/><br/>
 En 2019 : The dive boat MV Conception catches fire and sinks near Santa Cruz Island, killing 34.
 <br/><br/>
-En 2018 : National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
+En 2018 : National Museum of Brazil fire: A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
 <br/><br/>
 En 2013 : The Eastern span replacement of the San Francisco–Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
 <br/><br/>
 En 2010 : Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
 <br/><br/>
-En 2009 : The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
+En 2009 : The Andhra Pradesh, India helicopter crash occurs near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities include Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
 <br/><br/>
 En 2008 : Google launches its Google Chrome web browser.
 <br/><br/>
@@ -150,7 +150,7 @@ En 1998 : Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 pe
 <br/><br/>
 En 1998 : The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
 <br/><br/>
-En 1992 : The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
+En 1992 : The 7.7 Mw Nicaragua earthquake affects the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggers a tsunami that causes most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
 <br/><br/>
 En 1990 : Transnistria is unilaterally proclaimed a Soviet republic; the Soviet president Mikhail Gorbachev declares the decision null and void.
 <br/><br/>
@@ -178,7 +178,7 @@ En 1946 : The Interim Government of India is formed, headed by Jawaharlal Nehru 
 <br/><br/>
 En 1945 : World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.
 <br/><br/>
-En 1945 : Communist leader Ho Chi Minh proclaimed the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
+En 1945 : Communist leader Ho Chi Minh proclaims the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
 <br/><br/>
 En 1944 : The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.
 <br/><br/>
