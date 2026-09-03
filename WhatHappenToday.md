@@ -12,7 +12,7 @@ En 2016 : The U.S. and China, together responsible for 40% of the world's carbon
 <br/><br/>
 En 2010 : After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
 <br/><br/>
-En 2004 : Beslan school siege results in over 330 fatalities, including 186 children.
+En 2004 : Beslan school siege ends, resulting in over 330 fatalities, including 186 children.
 <br/><br/>
 En 2001 : In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
 <br/><br/>
@@ -56,9 +56,9 @@ En 1935 : Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the 
 <br/><br/>
 En 1933 : Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
 <br/><br/>
-En 1925 : USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
+En 1925 : USS Shenandoah, the United States' first American-built rigid airship, is destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
 <br/><br/>
-En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
+En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; this is the first German airship to be shot down on British soil.
 <br/><br/>
 En 1914 : Wilhelm, Prince of Albania leaves the country after just six months due to opposition to his rule.
 <br/><br/>
@@ -73,8 +73,6 @@ En 1895 : John Brallier becomes the first openly paid professional American foot
 En 1879 : Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.
 <br/><br/>
 En 1878 : Over 640 die when the crowded pleasure boat Princess Alice collides with the Bywell Castle in the River Thames.
-<br/><br/>
-En 1875 : The first official game of polo is played in Argentina after being introduced by British ranchers.
 <br/><br/>
 En 1870 : Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23.
 <br/><br/>
@@ -126,7 +124,7 @@ En 2016 : The U.S. and China, together responsible for 40% of the world's carbon
 <br/><br/>
 En 2010 : After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
 <br/><br/>
-En 2004 : Beslan school siege results in over 330 fatalities, including 186 children.
+En 2004 : Beslan school siege ends, resulting in over 330 fatalities, including 186 children.
 <br/><br/>
 En 2001 : In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
 <br/><br/>
@@ -170,9 +168,9 @@ En 1935 : Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the 
 <br/><br/>
 En 1933 : Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
 <br/><br/>
-En 1925 : USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
+En 1925 : USS Shenandoah, the United States' first American-built rigid airship, is destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
 <br/><br/>
-En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
+En 1916 : World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; this is the first German airship to be shot down on British soil.
 <br/><br/>
 En 1914 : Wilhelm, Prince of Albania leaves the country after just six months due to opposition to his rule.
 <br/><br/>
@@ -187,8 +185,6 @@ En 1895 : John Brallier becomes the first openly paid professional American foot
 En 1879 : Siege of the British Residency in Kabul: British envoy Sir Louis Cavagnari and 72 men of the Guides are massacred by Afghan troops while defending the British Residency in Kabul. Their heroism and loyalty became famous and revered throughout the British Empire.
 <br/><br/>
 En 1878 : Over 640 die when the crowded pleasure boat Princess Alice collides with the Bywell Castle in the River Thames.
-<br/><br/>
-En 1875 : The first official game of polo is played in Argentina after being introduced by British ranchers.
 <br/><br/>
 En 1870 : Franco-Prussian War: The Siege of Metz begins, resulting in a decisive Prussian victory on October 23.
 <br/><br/>
