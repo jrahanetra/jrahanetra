@@ -20,7 +20,7 @@ En 2001 : Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort
 <br/><br/>
 En 1998 : Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
 <br/><br/>
-En 1995 : The 1995 Okinawa rape occurred, when 3 US servicemen abducted and raped a schoolchild.  This would cause widespread protest against the US military presence on the prefecture.
+En 1995 : The 1995 Okinawa rape occurs when 3 US servicemen abduct and rape a schoolchild. This would cause widespread protest against the US military presence on the prefecture.
 <br/><br/>
 En 1989 : In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
 <br/><br/>
@@ -128,7 +128,7 @@ En 2001 : Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort
 <br/><br/>
 En 1998 : Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
 <br/><br/>
-En 1995 : The 1995 Okinawa rape occurred, when 3 US servicemen abducted and raped a schoolchild.  This would cause widespread protest against the US military presence on the prefecture.
+En 1995 : The 1995 Okinawa rape occurs when 3 US servicemen abduct and rape a schoolchild. This would cause widespread protest against the US military presence on the prefecture.
 <br/><br/>
 En 1989 : In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
 <br/><br/>
