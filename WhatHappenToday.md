@@ -4,221 +4,245 @@
 <h3 align="center">A passionate FullStack and AI Developer from Madagascar</h3>
     
 <hr/>
-<h1> What happen this day 4/9 ?(Hover on the year)</h1>
+<h1> What happen this day 5/9 ?(Hover on the year)</h1>
 
-En 2024 : A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.
+En 2022 : Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.
 <br/><br/>
-En 2022 : Ten people are killed and 15 are injured in  a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
+En 2022 : At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.
 <br/><br/>
-En 2020 : Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.
+En 2021 : The President of Guinea, Alpha Condé is captured by armed forces during a coup d'état.
 <br/><br/>
-En 2007 : Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
+En 2012 : An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.
 <br/><br/>
-En 2002 : The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.
+En 2006 : The Waziristan Accord is signed between the Government of Pakistan and local Taliban militants in North Waziristan, obliging the Taliban to expel foreign jihadists and the government to compensate the tribes for loss of life and property and launch reconstruction projects.
 <br/><br/>
-En 2001 : Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
+En 2005 : Mandala Airlines Flight 091 crashes after takeoff from Polonia International Airport in Medan, Indonesia, killing 149.
 <br/><br/>
-En 1998 : Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
+En 1996 : Hurricane Fran makes landfall near Cape Fear, North Carolina as a Category 3 storm with 115 mph sustained winds. Fran caused over $3 billion in damage and killed 27 people.
 <br/><br/>
-En 1995 : The 1995 Okinawa rape occurs when 3 US servicemen abduct and rape a schoolchild. This would cause widespread protest against the US military presence on the prefecture.
+En 1991 : The current international treaty defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, comes into force.
 <br/><br/>
-En 1989 : In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
+En 1990 : Sri Lankan Civil War: Sri Lankan Army soldiers slaughter 158 civilians.
 <br/><br/>
-En 1985 : The discovery of Buckminsterfullerene, the first fullerene molecule of carbon.
+En 1986 : Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.
 <br/><br/>
-En 1977 : The Golden Dragon massacre takes place in San Francisco.
+En 1984 : STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.
 <br/><br/>
-En 1975 : The Sinai Interim Agreement relating to the Arab–Israeli conflict is signed.
+En 1984 : Western Australia becomes the last Australian state to abolish capital punishment.
 <br/><br/>
-En 1972 : Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.
+En 1981 : The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.
 <br/><br/>
-En 1972 : The Price Is Right premieres on CBS. It currently is the longest running game show on American television.
+En 1980 : The Gotthard Road Tunnel opens in Switzerland as the world's longest highway tunnel at 16.9 kilometres (10.5 mi) stretching from Göschenen to Airolo.
 <br/><br/>
-En 1971 : Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board.
+En 1978 : Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.
 <br/><br/>
-En 1970 : Salvador Allende is elected President of Chile.
+En 1977 : Voyager Program: NASA launches the Voyager 1 spacecraft.
 <br/><br/>
-En 1967 : Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.
+En 1975 : Sacramento, California: Lynette Fromme attempts to assassinate U.S. President Gerald Ford.
 <br/><br/>
-En 1964 : Scotland's Forth Road Bridge near Edinburgh officially opens.
+En 1972 : Munich massacre: A Palestinian terrorist group called "Black September" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.
 <br/><br/>
-En 1963 : Swissair Flight 306 crashes near Dürrenäsch, Switzerland, killing all 80 people on board.
+En 1970 : Vietnam War: Operation Jefferson Glenn begins: The United States 101st Airborne Division and the South Vietnamese 1st Infantry Division initiate a new operation in Thừa Thiên–Huế Province.
 <br/><br/>
-En 1957 : American Civil Rights Movement: Little Rock Crisis: The governor of Arkansas calls out the National Guard to prevent African American students from enrolling in Little Rock Central High School, resulting in the lawsuit Cooper v. Aaron the following year.
+En 1969 : Mỹ Lai Massacre: U.S. Army Lieutenant William Calley is charged with six specifications of premeditated murder for the death of 109 Vietnamese civilians in My Lai.
 <br/><br/>
-En 1951 : The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference.
+En 1968 : End of the Congress of Carrara, one of the major 20th century anarchist congresses.
 <br/><br/>
-En 1950 : Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
+En 1960 : Poet Léopold Sédar Senghor is the first elected President of Senegal.
 <br/><br/>
-En 1949 : Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.
+En 1960 : Muhammad Ali (then known as Cassius Clay) wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.
 <br/><br/>
-En 1948 : Queen Wilhelmina of the Netherlands abdicates for health reasons.
+En 1957 : Cuban Revolution: Fulgencio Batista bombs the revolt in Cienfuegos.
 <br/><br/>
-En 1944 : World War II: The British 11th Armoured Division liberates the Belgian city of Antwerp.
+En 1954 : KLM Flight 633 crashes into the River Shannon in Shannon, County Clare, Ireland, killing 28.
 <br/><br/>
-En 1944 : World War II: Finland exits from the war with Soviet Union.
+En 1948 : In France, Robert Schuman becomes President of the Council while being Foreign minister; as such, he is the French negotiator of the major treaties of the end of World War II.
 <br/><br/>
-En 1941 : World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.
+En 1945 : Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.
 <br/><br/>
-En 1939 : World War II: William J. Murphy commands the first Royal Air Force attack on Germany.
+En 1945 : Iva Toguri D'Aquino, a Japanese American who broadcast under the name Orphan Annie during World War II, is arrested in Yokohama by U.S. military authorities amid widespread speculation of her being wartime radio propagandist Tokyo Rose.
 <br/><br/>
-En 1936 : Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort.
+En 1944 : Belgium, Netherlands and Luxembourg constitute Benelux.
 <br/><br/>
-En 1923 : Maiden flight of the first U.S. airship, the USS Shenandoah.
+En 1943 : World War II: In the Pacific Theater, the 503rd Parachute Infantry Regiment lands and occupies Lae Nadzab Airport, near Lae during the Salamaua–Lae campaign.
 <br/><br/>
-En 1919 : Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.
+En 1942 : World War II: Japanese high command orders withdrawal at Milne Bay, the first major Japanese defeat in land warfare during the Pacific War.
 <br/><br/>
-En 1912 : Albanian rebels succeed in their revolt when the Ottoman Empire agrees to fulfill their demands
+En 1941 : Whole territory of Estonia is occupied by Nazi Germany.
 <br/><br/>
-En 1888 : George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film.
+En 1938 : Chile: A group of youths affiliated with the fascist National Socialist Movement of Chile are executed after surrendering during a failed coup.
 <br/><br/>
-En 1886 : American Indian Wars: After almost 30 years of fighting, Apache leader Geronimo, with his remaining warriors,  surrenders to General Nelson Miles in Arizona.
+En 1937 : Spanish Civil War: Llanes falls to the Nationalists following a one-day siege.
 <br/><br/>
-En 1882 : The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers.
+En 1932 : The French Upper Volta is broken apart between Ivory Coast, French Sudan, and Niger.
 <br/><br/>
-En 1870 : Emperor Napoleon III of France is deposed and the Third Republic is declared.
+En 1915 : The pacifist Zimmerwald Conference begins.
 <br/><br/>
-En 1862 : American Civil War Maryland Campaign: General Robert E. Lee takes the Army of Northern Virginia, and the war, into the North.
+En 1914 : World War I: First Battle of the Marne begins. Northeast of Paris, the French attack and defeat German forces who are advancing on the capital.
 <br/><br/>
-En 1839 : Battle of Kowloon: British vessels open fire on Chinese war junks enforcing a food sales embargo on the British community in China in the first armed conflict of the First Opium War.
+En 1905 : Russo-Japanese War: In New Hampshire, United States, the Treaty of Portsmouth, mediated by U.S. President Theodore Roosevelt, ends the war.
 <br/><br/>
-En 1827 : The Great Fire of Turku almost completely destroys Finland's former capital city.
+En 1887 : A fire at the Theatre Royal, Exeter kills 186, making it the UK's deadliest ever building fire.
 <br/><br/>
-En 1813 : Future U.S. president Andrew Jackson is shot in a tavern brawl with future U.S. Senator Thomas Hart Benton and others.
+En 1882 : The first United States Labor Day parade is held in New York City.
 <br/><br/>
-En 1812 : War of 1812: The Siege of Fort Harrison begins when the fort is set on fire.
+En 1877 : American Indian Wars: Oglala Sioux chief Crazy Horse is bayoneted by a United States soldier after resisting confinement in a guardhouse at Fort Robinson in Nebraska.
 <br/><br/>
-En 1800 : The French garrison in Valletta surrenders to British troops who had been called at the invitation of the Maltese. The islands of Malta and Gozo become the Malta Protectorate.
+En 1862 : American Civil War: The Army of Northern Virginia crosses the Potomac River at White's Ford in the Maryland Campaign.
 <br/><br/>
-En 1797 : Coup of 18 Fructidor in France.
+En 1839 : The United Kingdom declares war on the Qing dynasty of China.
 <br/><br/>
-En 1781 : Los Angeles is founded as El Pueblo de Nuestra Señora La Reina de los Ángeles (The Village of Our Lady, the Queen of the Angels) by 44 Spanish settlers.
+En 1836 : Sam Houston is elected as the first president of the Republic of Texas.
 <br/><br/>
-En 1774 : New Caledonia is first sighted by Europeans, during the second voyage of Captain James Cook.
+En 1816 : Louis XVIII of France has to dissolve the Chambre introuvable ("Unobtainable Chamber").
 <br/><br/>
-En 1746 : The Treaty of Kerden concludes the Ottoman–Persian War (1743–1746).
+En 1812 : War of 1812: The Siege of Fort Wayne begins when Chief Winamac's forces attack two soldiers returning from the fort's outhouses.
 <br/><br/>
-En 1666 : In London, England, the most destructive damage from the Great Fire occurs.
+En 1798 : Conscription is made mandatory in France by the Jourdan law.
 <br/><br/>
-En 1607 : The Flight of the Earls takes place in Ireland (14 September N.S.).
+En 1793 : French Revolution: The French National Convention initiates the Reign of Terror.
 <br/><br/>
-En 1479 : The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.
+En 1791 : Olympe de Gouges writes the Declaration of the Rights of Woman and of the Female Citizen.
 <br/><br/>
-En 1282 : Peter III of Aragon is proclaimed King of Sicily in Palermo.
+En 1781 : Battle of the Chesapeake in the American Revolutionary War: The British Navy is repelled by the French Navy, contributing to the British surrender at Yorktown.
 <br/><br/>
-En 1260 : The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.
+En 1774 : First Continental Congress assembles in Philadelphia.
 <br/><br/>
-En 929 : Battle of Lenzen: Slavic forces (the Redarii and the Obotrites) are defeated by a Saxon army near the fortified stronghold of Lenzen in Brandenburg.
+En 1725 : Wedding of Louis XV and Maria Leszczyńska.
 <br/><br/>
-En 626 : Li Shimin, posthumously known as Emperor Taizong of Tang, assumes the throne over the Tang dynasty of China.
+En 1698 : In an effort to Westernize his nobility, Tsar Peter I of Russia imposes a tax on beards for all men except the clergy and peasantry.
 <br/><br/>
-En 476 : Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire.
+En 1697 : War of the Grand Alliance: A French warship commanded by Captain Pierre Le Moyne d'Iberville defeats an English squadron at the Battle of Hudson's Bay.
 <br/><br/>
-En 2024 : A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.
+En 1661 : Fall of Nicolas Fouquet: Louis XIV's Superintendent of Finances is arrested in Nantes by D'Artagnan, captain of the king's musketeers.
 <br/><br/>
-En 2022 : Ten people are killed and 15 are injured in  a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
+En 1590 : An army led by Alexander Farnese, Duke of Parma forces Henry IV of France to lift the siege of Paris.
 <br/><br/>
-En 2020 : Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.
+En 1367 : Swa Saw Ke becomes king of Ava
 <br/><br/>
-En 2007 : Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
+En 1234 : The Decretals of Gregory IX, a new canonical collection assembled by Raymond of Peñafort, are promulgated.
 <br/><br/>
-En 2002 : The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.
+En 917 : Liu Yan declares himself emperor, establishing the Southern Han state in southern China, at his capital of Panyu.
 <br/><br/>
-En 2001 : Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
+En 394 : On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I.
 <br/><br/>
-En 1998 : Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
+En 2022 : Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.
 <br/><br/>
-En 1995 : The 1995 Okinawa rape occurs when 3 US servicemen abduct and rape a schoolchild. This would cause widespread protest against the US military presence on the prefecture.
+En 2022 : At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.
 <br/><br/>
-En 1989 : In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
+En 2021 : The President of Guinea, Alpha Condé is captured by armed forces during a coup d'état.
 <br/><br/>
-En 1985 : The discovery of Buckminsterfullerene, the first fullerene molecule of carbon.
+En 2012 : An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.
 <br/><br/>
-En 1977 : The Golden Dragon massacre takes place in San Francisco.
+En 2006 : The Waziristan Accord is signed between the Government of Pakistan and local Taliban militants in North Waziristan, obliging the Taliban to expel foreign jihadists and the government to compensate the tribes for loss of life and property and launch reconstruction projects.
 <br/><br/>
-En 1975 : The Sinai Interim Agreement relating to the Arab–Israeli conflict is signed.
+En 2005 : Mandala Airlines Flight 091 crashes after takeoff from Polonia International Airport in Medan, Indonesia, killing 149.
 <br/><br/>
-En 1972 : Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.
+En 1996 : Hurricane Fran makes landfall near Cape Fear, North Carolina as a Category 3 storm with 115 mph sustained winds. Fran caused over $3 billion in damage and killed 27 people.
 <br/><br/>
-En 1972 : The Price Is Right premieres on CBS. It currently is the longest running game show on American television.
+En 1991 : The current international treaty defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, comes into force.
 <br/><br/>
-En 1971 : Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board.
+En 1990 : Sri Lankan Civil War: Sri Lankan Army soldiers slaughter 158 civilians.
 <br/><br/>
-En 1970 : Salvador Allende is elected President of Chile.
+En 1986 : Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.
 <br/><br/>
-En 1967 : Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.
+En 1984 : STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.
 <br/><br/>
-En 1964 : Scotland's Forth Road Bridge near Edinburgh officially opens.
+En 1984 : Western Australia becomes the last Australian state to abolish capital punishment.
 <br/><br/>
-En 1963 : Swissair Flight 306 crashes near Dürrenäsch, Switzerland, killing all 80 people on board.
+En 1981 : The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.
 <br/><br/>
-En 1957 : American Civil Rights Movement: Little Rock Crisis: The governor of Arkansas calls out the National Guard to prevent African American students from enrolling in Little Rock Central High School, resulting in the lawsuit Cooper v. Aaron the following year.
+En 1980 : The Gotthard Road Tunnel opens in Switzerland as the world's longest highway tunnel at 16.9 kilometres (10.5 mi) stretching from Göschenen to Airolo.
 <br/><br/>
-En 1951 : The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference.
+En 1978 : Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.
 <br/><br/>
-En 1950 : Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
+En 1977 : Voyager Program: NASA launches the Voyager 1 spacecraft.
 <br/><br/>
-En 1949 : Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.
+En 1975 : Sacramento, California: Lynette Fromme attempts to assassinate U.S. President Gerald Ford.
 <br/><br/>
-En 1948 : Queen Wilhelmina of the Netherlands abdicates for health reasons.
+En 1972 : Munich massacre: A Palestinian terrorist group called "Black September" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.
 <br/><br/>
-En 1944 : World War II: The British 11th Armoured Division liberates the Belgian city of Antwerp.
+En 1970 : Vietnam War: Operation Jefferson Glenn begins: The United States 101st Airborne Division and the South Vietnamese 1st Infantry Division initiate a new operation in Thừa Thiên–Huế Province.
 <br/><br/>
-En 1944 : World War II: Finland exits from the war with Soviet Union.
+En 1969 : Mỹ Lai Massacre: U.S. Army Lieutenant William Calley is charged with six specifications of premeditated murder for the death of 109 Vietnamese civilians in My Lai.
 <br/><br/>
-En 1941 : World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.
+En 1968 : End of the Congress of Carrara, one of the major 20th century anarchist congresses.
 <br/><br/>
-En 1939 : World War II: William J. Murphy commands the first Royal Air Force attack on Germany.
+En 1960 : Poet Léopold Sédar Senghor is the first elected President of Senegal.
 <br/><br/>
-En 1936 : Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort.
+En 1960 : Muhammad Ali (then known as Cassius Clay) wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.
 <br/><br/>
-En 1923 : Maiden flight of the first U.S. airship, the USS Shenandoah.
+En 1957 : Cuban Revolution: Fulgencio Batista bombs the revolt in Cienfuegos.
 <br/><br/>
-En 1919 : Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.
+En 1954 : KLM Flight 633 crashes into the River Shannon in Shannon, County Clare, Ireland, killing 28.
 <br/><br/>
-En 1912 : Albanian rebels succeed in their revolt when the Ottoman Empire agrees to fulfill their demands
+En 1948 : In France, Robert Schuman becomes President of the Council while being Foreign minister; as such, he is the French negotiator of the major treaties of the end of World War II.
 <br/><br/>
-En 1888 : George Eastman registers the trademark Kodak and receives a patent for his camera that uses roll film.
+En 1945 : Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.
 <br/><br/>
-En 1886 : American Indian Wars: After almost 30 years of fighting, Apache leader Geronimo, with his remaining warriors,  surrenders to General Nelson Miles in Arizona.
+En 1945 : Iva Toguri D'Aquino, a Japanese American who broadcast under the name Orphan Annie during World War II, is arrested in Yokohama by U.S. military authorities amid widespread speculation of her being wartime radio propagandist Tokyo Rose.
 <br/><br/>
-En 1882 : The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers.
+En 1944 : Belgium, Netherlands and Luxembourg constitute Benelux.
 <br/><br/>
-En 1870 : Emperor Napoleon III of France is deposed and the Third Republic is declared.
+En 1943 : World War II: In the Pacific Theater, the 503rd Parachute Infantry Regiment lands and occupies Lae Nadzab Airport, near Lae during the Salamaua–Lae campaign.
 <br/><br/>
-En 1862 : American Civil War Maryland Campaign: General Robert E. Lee takes the Army of Northern Virginia, and the war, into the North.
+En 1942 : World War II: Japanese high command orders withdrawal at Milne Bay, the first major Japanese defeat in land warfare during the Pacific War.
 <br/><br/>
-En 1839 : Battle of Kowloon: British vessels open fire on Chinese war junks enforcing a food sales embargo on the British community in China in the first armed conflict of the First Opium War.
+En 1941 : Whole territory of Estonia is occupied by Nazi Germany.
 <br/><br/>
-En 1827 : The Great Fire of Turku almost completely destroys Finland's former capital city.
+En 1938 : Chile: A group of youths affiliated with the fascist National Socialist Movement of Chile are executed after surrendering during a failed coup.
 <br/><br/>
-En 1813 : Future U.S. president Andrew Jackson is shot in a tavern brawl with future U.S. Senator Thomas Hart Benton and others.
+En 1937 : Spanish Civil War: Llanes falls to the Nationalists following a one-day siege.
 <br/><br/>
-En 1812 : War of 1812: The Siege of Fort Harrison begins when the fort is set on fire.
+En 1932 : The French Upper Volta is broken apart between Ivory Coast, French Sudan, and Niger.
 <br/><br/>
-En 1800 : The French garrison in Valletta surrenders to British troops who had been called at the invitation of the Maltese. The islands of Malta and Gozo become the Malta Protectorate.
+En 1915 : The pacifist Zimmerwald Conference begins.
 <br/><br/>
-En 1797 : Coup of 18 Fructidor in France.
+En 1914 : World War I: First Battle of the Marne begins. Northeast of Paris, the French attack and defeat German forces who are advancing on the capital.
 <br/><br/>
-En 1781 : Los Angeles is founded as El Pueblo de Nuestra Señora La Reina de los Ángeles (The Village of Our Lady, the Queen of the Angels) by 44 Spanish settlers.
+En 1905 : Russo-Japanese War: In New Hampshire, United States, the Treaty of Portsmouth, mediated by U.S. President Theodore Roosevelt, ends the war.
 <br/><br/>
-En 1774 : New Caledonia is first sighted by Europeans, during the second voyage of Captain James Cook.
+En 1887 : A fire at the Theatre Royal, Exeter kills 186, making it the UK's deadliest ever building fire.
 <br/><br/>
-En 1746 : The Treaty of Kerden concludes the Ottoman–Persian War (1743–1746).
+En 1882 : The first United States Labor Day parade is held in New York City.
 <br/><br/>
-En 1666 : In London, England, the most destructive damage from the Great Fire occurs.
+En 1877 : American Indian Wars: Oglala Sioux chief Crazy Horse is bayoneted by a United States soldier after resisting confinement in a guardhouse at Fort Robinson in Nebraska.
 <br/><br/>
-En 1607 : The Flight of the Earls takes place in Ireland (14 September N.S.).
+En 1862 : American Civil War: The Army of Northern Virginia crosses the Potomac River at White's Ford in the Maryland Campaign.
 <br/><br/>
-En 1479 : The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.
+En 1839 : The United Kingdom declares war on the Qing dynasty of China.
 <br/><br/>
-En 1282 : Peter III of Aragon is proclaimed King of Sicily in Palermo.
+En 1836 : Sam Houston is elected as the first president of the Republic of Texas.
 <br/><br/>
-En 1260 : The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.
+En 1816 : Louis XVIII of France has to dissolve the Chambre introuvable ("Unobtainable Chamber").
 <br/><br/>
-En 929 : Battle of Lenzen: Slavic forces (the Redarii and the Obotrites) are defeated by a Saxon army near the fortified stronghold of Lenzen in Brandenburg.
+En 1812 : War of 1812: The Siege of Fort Wayne begins when Chief Winamac's forces attack two soldiers returning from the fort's outhouses.
 <br/><br/>
-En 626 : Li Shimin, posthumously known as Emperor Taizong of Tang, assumes the throne over the Tang dynasty of China.
+En 1798 : Conscription is made mandatory in France by the Jourdan law.
 <br/><br/>
-En 476 : Romulus Augustulus is deposed when Odoacer proclaims himself "King of Italy", thus ending the Western Roman Empire.
+En 1793 : French Revolution: The French National Convention initiates the Reign of Terror.
+<br/><br/>
+En 1791 : Olympe de Gouges writes the Declaration of the Rights of Woman and of the Female Citizen.
+<br/><br/>
+En 1781 : Battle of the Chesapeake in the American Revolutionary War: The British Navy is repelled by the French Navy, contributing to the British surrender at Yorktown.
+<br/><br/>
+En 1774 : First Continental Congress assembles in Philadelphia.
+<br/><br/>
+En 1725 : Wedding of Louis XV and Maria Leszczyńska.
+<br/><br/>
+En 1698 : In an effort to Westernize his nobility, Tsar Peter I of Russia imposes a tax on beards for all men except the clergy and peasantry.
+<br/><br/>
+En 1697 : War of the Grand Alliance: A French warship commanded by Captain Pierre Le Moyne d'Iberville defeats an English squadron at the Battle of Hudson's Bay.
+<br/><br/>
+En 1661 : Fall of Nicolas Fouquet: Louis XIV's Superintendent of Finances is arrested in Nantes by D'Artagnan, captain of the king's musketeers.
+<br/><br/>
+En 1590 : An army led by Alexander Farnese, Duke of Parma forces Henry IV of France to lift the siege of Paris.
+<br/><br/>
+En 1367 : Swa Saw Ke becomes king of Ava
+<br/><br/>
+En 1234 : The Decretals of Gregory IX, a new canonical collection assembled by Raymond of Peñafort, are promulgated.
+<br/><br/>
+En 917 : Liu Yan declares himself emperor, establishing the Southern Han state in southern China, at his capital of Panyu.
+<br/><br/>
+En 394 : On the first day of the battle of Frigidus, the Western Roman troops of Arbogast manage to defend their positions against the Eastern Roman troops of emperor Theodosius I.
 <br/><br/>
