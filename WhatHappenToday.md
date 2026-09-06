@@ -114,7 +114,7 @@ En 1628 : Puritans settle Salem, which became part of Massachusetts Bay Colony.
 <br/><br/>
 En 1622 : The Spanish treasure galleon Atocha sinks during a hurricane off Key West in the Straits of Florida, taking 40 short tons (36 t) of gold and silver and 260 of its 265 passengers and crew to the bottom.
 <br/><br/>
-En 1620 : The Pilgrims sail from Plymouth, England on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
+En 1620 : The Pilgrim Fathers sail from Plymouth, England, on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
 <br/><br/>
 En 1522 : The Victoria returns to Sanlúcar de Barrameda in Spain, the only surviving ship of Ferdinand Magellan's expedition and the first known ship to circumnavigate the world.
 <br/><br/>
@@ -230,7 +230,7 @@ En 1628 : Puritans settle Salem, which became part of Massachusetts Bay Colony.
 <br/><br/>
 En 1622 : The Spanish treasure galleon Atocha sinks during a hurricane off Key West in the Straits of Florida, taking 40 short tons (36 t) of gold and silver and 260 of its 265 passengers and crew to the bottom.
 <br/><br/>
-En 1620 : The Pilgrims sail from Plymouth, England on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
+En 1620 : The Pilgrim Fathers sail from Plymouth, England, on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
 <br/><br/>
 En 1522 : The Victoria returns to Sanlúcar de Barrameda in Spain, the only surviving ship of Ferdinand Magellan's expedition and the first known ship to circumnavigate the world.
 <br/><br/>
