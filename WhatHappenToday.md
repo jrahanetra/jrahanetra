@@ -144,7 +144,7 @@ En 1565 : Arrival of the so-called Grande Soccorso ("great relief") by Philip II
 <br/><br/>
 En 1303 : Guillaume de Nogaret takes Pope Boniface VIII prisoner on behalf of Philip IV of France.
 <br/><br/>
-En 1228 : Holy Roman Emperor Frederick II lands in Acre, Israel, and starts the Sixth Crusade, which results in a peaceful restoration of the Kingdom of Jerusalem.
+En 1228 : Holy Roman Emperor Frederick II lands in Acre, and starts the Sixth Crusade, which results in a peaceful restoration of the Kingdom of Jerusalem.
 <br/><br/>
 En 1191 : Third Crusade: Battle of Arsuf: Richard I of England defeats Saladin at Arsuf.
 <br/><br/>
@@ -290,7 +290,7 @@ En 1565 : Arrival of the so-called Grande Soccorso ("great relief") by Philip II
 <br/><br/>
 En 1303 : Guillaume de Nogaret takes Pope Boniface VIII prisoner on behalf of Philip IV of France.
 <br/><br/>
-En 1228 : Holy Roman Emperor Frederick II lands in Acre, Israel, and starts the Sixth Crusade, which results in a peaceful restoration of the Kingdom of Jerusalem.
+En 1228 : Holy Roman Emperor Frederick II lands in Acre, and starts the Sixth Crusade, which results in a peaceful restoration of the Kingdom of Jerusalem.
 <br/><br/>
 En 1191 : Third Crusade: Battle of Arsuf: Richard I of England defeats Saladin at Arsuf.
 <br/><br/>
