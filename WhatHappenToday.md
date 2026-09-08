@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 8/9 ?(Hover on the year)</h1>
 
-En 2025 : Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.
+En 2025 : Balçova police station shooting: Four people, including the perpetrator are killed an attack on a police station in Turkey.
 <br/><br/>
 En 2023 : A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.
 <br/><br/>
@@ -174,7 +174,7 @@ En 70 : After the capture of Herod's Palace the previous day, a Roman army under
 <br/><br/>
 En 14 : The funeral of Augustus takes place. His body is cremated and placed in his mausoleum.
 <br/><br/>
-En 2025 : Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.
+En 2025 : Balçova police station shooting: Four people, including the perpetrator are killed an attack on a police station in Turkey.
 <br/><br/>
 En 2023 : A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.
 <br/><br/>
