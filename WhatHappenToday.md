@@ -92,7 +92,7 @@ En 1914 : World War I: The creation of the Canadian Automobile Machine Gun Briga
 <br/><br/>
 En 1892 : Amalthea becomes the last moon to be discovered without the use of photography.
 <br/><br/>
-En 1888 : A British force repels an Egyptian force led by Ahmed Urabi in the battle of Qassasin during the Anglo-Egyptian War.
+En 1882 : A British force repels an Egyptian force led by Ahmed Urabi in the battle of Qassasin during the Anglo-Egyptian War.
 <br/><br/>
 En 1863 : American Civil War: The Union Army enters Chattanooga, Tennessee.
 <br/><br/>
@@ -226,7 +226,7 @@ En 1914 : World War I: The creation of the Canadian Automobile Machine Gun Briga
 <br/><br/>
 En 1892 : Amalthea becomes the last moon to be discovered without the use of photography.
 <br/><br/>
-En 1888 : A British force repels an Egyptian force led by Ahmed Urabi in the battle of Qassasin during the Anglo-Egyptian War.
+En 1882 : A British force repels an Egyptian force led by Ahmed Urabi in the battle of Qassasin during the Anglo-Egyptian War.
 <br/><br/>
 En 1863 : American Civil War: The Union Army enters Chattanooga, Tennessee.
 <br/><br/>
