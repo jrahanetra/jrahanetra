@@ -60,8 +60,6 @@ En 1954 : The 6.7 Mw Chlef earthquake shakes northern Algeria with a maximum Mer
 <br/><br/>
 En 1948 : Kim Il Sung is appointed as premier of the Democratic People's Republic of Korea (North Korea). This is celebrated annually as its national holiday.
 <br/><br/>
-En 1947 : First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
-<br/><br/>
 En 1945 : World War II and Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
 <br/><br/>
 En 1944 : World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.
@@ -193,8 +191,6 @@ En 1956 : Elvis Presley appears on The Ed Sullivan Show for the first time.
 En 1954 : The 6.7 Mw Chlef earthquake shakes northern Algeria with a maximum Mercalli intensity of XI (Extreme). At least 1,243 people were killed and 5,000 were injured.
 <br/><br/>
 En 1948 : Kim Il Sung is appointed as premier of the Democratic People's Republic of Korea (North Korea). This is celebrated annually as its national holiday.
-<br/><br/>
-En 1947 : First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
 <br/><br/>
 En 1945 : World War II and Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
 <br/><br/>
