@@ -76,7 +76,7 @@ En 1939 : World War II: The Battle of Hel begins, the longest-defended pocket of
 <br/><br/>
 En 1939 : Burmese national hero U Ottama dies in prison after a hunger strike to protest Britain's colonial government.
 <br/><br/>
-En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutinied against the Salazar dictatorship's support of General Franco's coup and declared their solidarity with the Spanish Republic.
+En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutiny against the Salazar dictatorship's support of General Franco's coup and declare their solidarity with the Spanish Republic.
 <br/><br/>
 En 1926 : Yleisradio (YLE), the Finnish national public broadcasting company, begins its broadcasts.
 <br/><br/>
@@ -106,7 +106,7 @@ En 1839 : John Herschel takes the first glass plate photograph.
 <br/><br/>
 En 1801 : Alexander I of Russia confirms the privileges of Baltic provinces.
 <br/><br/>
-En 1796 : Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory
+En 1796 : Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory.
 <br/><br/>
 En 1791 : Washington, D.C., the capital of the United States, is named after President George Washington.
 <br/><br/>
@@ -208,7 +208,7 @@ En 1939 : World War II: The Battle of Hel begins, the longest-defended pocket of
 <br/><br/>
 En 1939 : Burmese national hero U Ottama dies in prison after a hunger strike to protest Britain's colonial government.
 <br/><br/>
-En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutinied against the Salazar dictatorship's support of General Franco's coup and declared their solidarity with the Spanish Republic.
+En 1936 : The crews of Portuguese Navy frigate NRP Afonso de Albuquerque and destroyer Dão mutiny against the Salazar dictatorship's support of General Franco's coup and declare their solidarity with the Spanish Republic.
 <br/><br/>
 En 1926 : Yleisradio (YLE), the Finnish national public broadcasting company, begins its broadcasts.
 <br/><br/>
@@ -238,7 +238,7 @@ En 1839 : John Herschel takes the first glass plate photograph.
 <br/><br/>
 En 1801 : Alexander I of Russia confirms the privileges of Baltic provinces.
 <br/><br/>
-En 1796 : Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory
+En 1796 : Grenelle camp affair, a failed uprising by supporters of Gracchus Babeuf against the French Directory.
 <br/><br/>
 En 1791 : Washington, D.C., the capital of the United States, is named after President George Washington.
 <br/><br/>
