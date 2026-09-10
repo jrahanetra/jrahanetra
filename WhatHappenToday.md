@@ -24,6 +24,8 @@ En 2001 : During his appearance on the British TV game show Who Wants to be a Mi
 <br/><br/>
 En 2000 : Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.
 <br/><br/>
+En 1990 : The Fresh Prince of Bel-Air Debuted on NBC.
+<br/><br/>
 En 1977 : Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.
 <br/><br/>
 En 1976 : A British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176.
@@ -123,6 +125,8 @@ En 2001 : Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
 En 2001 : During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.
 <br/><br/>
 En 2000 : Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.
+<br/><br/>
+En 1990 : The Fresh Prince of Bel-Air Debuted on NBC.
 <br/><br/>
 En 1977 : Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.
 <br/><br/>
