@@ -122,8 +122,6 @@ En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish c
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
 <br/><br/>
-En 1813 : War of 1812: British troops arrive in Mount Vernon and prepare to march to and invade Washington, D.C.
-<br/><br/>
 En 1803 : The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.
 <br/><br/>
 En 1802 : France annexes the Kingdom of Piedmont.
@@ -291,8 +289,6 @@ En 1836 : The Riograndense Republic is proclaimed by rebels after defeating Empi
 En 1829 : An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.
 <br/><br/>
 En 1814 : War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.
-<br/><br/>
-En 1813 : War of 1812: British troops arrive in Mount Vernon and prepare to march to and invade Washington, D.C.
 <br/><br/>
 En 1803 : The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.
 <br/><br/>
