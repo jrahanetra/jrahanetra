@@ -168,7 +168,7 @@ En 1390 : Lithuanian Civil War (1389–1392): The Teutonic Knights begin a five-
 <br/><br/>
 En 1297 : Battle of Stirling Bridge: Scots jointly led by William Wallace and Andrew Moray defeat the English.
 <br/><br/>
-En 1275 : An earthquake occurred in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.
+En 1275 : An earthquake occurs in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.
 <br/><br/>
 En 1185 : Isaac II Angelos kills Stephen Hagiochristophorites and then appeals to the people, resulting in the revolt that deposes Andronikos I Komnenos and places Isaac on the throne of the Byzantine Empire.
 <br/><br/>
@@ -338,7 +338,7 @@ En 1390 : Lithuanian Civil War (1389–1392): The Teutonic Knights begin a five-
 <br/><br/>
 En 1297 : Battle of Stirling Bridge: Scots jointly led by William Wallace and Andrew Moray defeat the English.
 <br/><br/>
-En 1275 : An earthquake occurred in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.
+En 1275 : An earthquake occurs in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.
 <br/><br/>
 En 1185 : Isaac II Angelos kills Stephen Hagiochristophorites and then appeals to the people, resulting in the revolt that deposes Andronikos I Komnenos and places Isaac on the throne of the Byzantine Empire.
 <br/><br/>
