@@ -8,7 +8,7 @@
 
 En 2021 : Siberian Light Aviation Flight 51 crashes short of the runway at Kazachinskoye Airport, killing four.
 <br/><br/>
-En 2014 : Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.
+En 2014 : The Synagogue Church building collapse results in the deaths of 115 people and several injured, in the Church run by Nigeria's T. B. Joshua.
 <br/><br/>
 En 2013 : NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.
 <br/><br/>
@@ -30,11 +30,11 @@ En 2003 : Typhoon Maemi, the strongest recorded typhoon to strike South Korea, m
 <br/><br/>
 En 2001 : Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.
 <br/><br/>
-En 1994 : Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.
+En 1994 : Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West Wing. There were no other casualties.
 <br/><br/>
 En 1993 : NASA launches Space Shuttle Discovery on STS-51.
 <br/><br/>
-En 1992 : NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.
+En 1992 : NASA launches Space Shuttle Endeavour on STS-47, which marks the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spacecraft, and Mark Lee and Jan Davis, the first married couple in space.
 <br/><br/>
 En 1992 : Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well.
 <br/><br/>
@@ -42,7 +42,7 @@ En 1991 : NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper At
 <br/><br/>
 En 1990 : The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.
 <br/><br/>
-En 1990 : The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
+En 1990 : The Red Cross organizations of mainland China and Taiwan sign the Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
 <br/><br/>
 En 1988 : Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.
 <br/><br/>
@@ -64,7 +64,7 @@ En 1970 : Dawson's Field hijackings: Popular Front for the Liberation of Palesti
 <br/><br/>
 En 1969 : Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
 <br/><br/>
-En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
+En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions and Artemis II).
 <br/><br/>
 En 1962 : US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
 <br/><br/>
@@ -126,7 +126,7 @@ En 1634 : A gunpowder factory explodes in Valletta, Malta, killing 22 people and
 <br/><br/>
 En 1609 : Henry Hudson begins his exploration of the Hudson River while aboard the Halve Maen.
 <br/><br/>
-En 1309 : The First siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.
+En 1309 : The first siege of Gibraltar takes place in the context of the Spanish Reconquista, pitting the forces of the Kingdom of Castile against the Emirate of Granada and resulting in a Castilian victory.
 <br/><br/>
 En 1297 : The Treaty of Alcañices, mediated by the pope, between the king Denis of Portugal and king Ferdinand IV of Castile defines the border between the two countries and establishes an alliance of friendship.
 <br/><br/>
@@ -142,7 +142,7 @@ En -490 : Battle of Marathon: The conventionally accepted date for the Battle of
 <br/><br/>
 En 2021 : Siberian Light Aviation Flight 51 crashes short of the runway at Kazachinskoye Airport, killing four.
 <br/><br/>
-En 2014 : Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.
+En 2014 : The Synagogue Church building collapse results in the deaths of 115 people and several injured, in the Church run by Nigeria's T. B. Joshua.
 <br/><br/>
 En 2013 : NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.
 <br/><br/>
@@ -164,11 +164,11 @@ En 2003 : Typhoon Maemi, the strongest recorded typhoon to strike South Korea, m
 <br/><br/>
 En 2001 : Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.
 <br/><br/>
-En 1994 : Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.
+En 1994 : Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West Wing. There were no other casualties.
 <br/><br/>
 En 1993 : NASA launches Space Shuttle Discovery on STS-51.
 <br/><br/>
-En 1992 : NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.
+En 1992 : NASA launches Space Shuttle Endeavour on STS-47, which marks the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spacecraft, and Mark Lee and Jan Davis, the first married couple in space.
 <br/><br/>
 En 1992 : Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1991 : NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper At
 <br/><br/>
 En 1990 : The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.
 <br/><br/>
-En 1990 : The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
+En 1990 : The Red Cross organizations of mainland China and Taiwan sign the Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
 <br/><br/>
 En 1988 : Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1970 : Dawson's Field hijackings: Popular Front for the Liberation of Palesti
 <br/><br/>
 En 1969 : Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
 <br/><br/>
-En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
+En 1966 : Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions and Artemis II).
 <br/><br/>
 En 1962 : US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
 <br/><br/>
@@ -260,7 +260,7 @@ En 1634 : A gunpowder factory explodes in Valletta, Malta, killing 22 people and
 <br/><br/>
 En 1609 : Henry Hudson begins his exploration of the Hudson River while aboard the Halve Maen.
 <br/><br/>
-En 1309 : The First siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.
+En 1309 : The first siege of Gibraltar takes place in the context of the Spanish Reconquista, pitting the forces of the Kingdom of Castile against the Emirate of Granada and resulting in a Castilian victory.
 <br/><br/>
 En 1297 : The Treaty of Alcañices, mediated by the pope, between the king Denis of Portugal and king Ferdinand IV of Castile defines the border between the two countries and establishes an alliance of friendship.
 <br/><br/>
