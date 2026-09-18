@@ -76,6 +76,8 @@ En 1960 : Fidel Castro arrives in New York City as the head of the Cuban delegat
 <br/><br/>
 En 1958 : The Bank of America introduces its first credit card, the BankAmericard (later renamed the VISA Card), in a test market in Fresno County, California.
 <br/><br/>
+En 1956 : The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.
+<br/><br/>
 En 1955 : A four-person landing party, led by Lt.-Cdr. Desmond Scott RN, disembarks from a Royal Navy helicopter and raises the Union Flag on Rockall, claiming the uninhabited Atlantic island for the United Kingdom.
 <br/><br/>
 En 1954 : Finnish president J. K. Paasikivi becomes the first Western head of state to be awarded the highest honor of the Soviet Union, the Order of Lenin.
@@ -176,7 +178,7 @@ En 1812 : The 1812 Fire of Moscow dies down after destroying more than three-qua
 <br/><br/>
 En 1810 : First Government Junta in Chile. Though supposed to rule only during the Peninsular War in Spain, it is in fact the first step towards independence from Spain, and is commemorated as such.
 <br/><br/>
-En 1809 : The Royal Opera House in London opens.
+En 1809 : The Royal Opera House in Covent Garden, London, opens.
 <br/><br/>
 En 1793 : The first cornerstone of the United States Capitol is laid by George Washington.
 <br/><br/>
@@ -272,6 +274,8 @@ En 1960 : Fidel Castro arrives in New York City as the head of the Cuban delegat
 <br/><br/>
 En 1958 : The Bank of America introduces its first credit card, the BankAmericard (later renamed the VISA Card), in a test market in Fresno County, California.
 <br/><br/>
+En 1956 : The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.
+<br/><br/>
 En 1955 : A four-person landing party, led by Lt.-Cdr. Desmond Scott RN, disembarks from a Royal Navy helicopter and raises the Union Flag on Rockall, claiming the uninhabited Atlantic island for the United Kingdom.
 <br/><br/>
 En 1954 : Finnish president J. K. Paasikivi becomes the first Western head of state to be awarded the highest honor of the Soviet Union, the Order of Lenin.
@@ -372,7 +376,7 @@ En 1812 : The 1812 Fire of Moscow dies down after destroying more than three-qua
 <br/><br/>
 En 1810 : First Government Junta in Chile. Though supposed to rule only during the Peninsular War in Spain, it is in fact the first step towards independence from Spain, and is commemorated as such.
 <br/><br/>
-En 1809 : The Royal Opera House in London opens.
+En 1809 : The Royal Opera House in Covent Garden, London, opens.
 <br/><br/>
 En 1793 : The first cornerstone of the United States Capitol is laid by George Washington.
 <br/><br/>
