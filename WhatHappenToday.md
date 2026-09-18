@@ -140,13 +140,9 @@ En 1906 : The 1906 Hong Kong typhoon kills an estimated 10,000 people.
 <br/><br/>
 En 1898 : The Fashoda Incident triggers the last war scare between Britain and France.
 <br/><br/>
-En 1897 : Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway.
-<br/><br/>
 En 1885 : Five Chinese people were lynched outside of Pierce City in the Idaho Territory of the United States.
 <br/><br/>
 En 1882 : The Pacific Stock Exchange opens.
-<br/><br/>
-En 1879 : The Blackpool Illuminations are switched on for the first time.
 <br/><br/>
 En 1873 : The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873.
 <br/><br/>
@@ -166,27 +162,19 @@ En 1860 : Second Opium War: Battle of Zhangjiawan: Now heading towards Beijing a
 <br/><br/>
 En 1860 : Wars of Italian Unification: Battle of Castelfidardo: Royal Sardinian Army defeats forces of the Papal States, resulting in the conquest of Umbria and Marche by the Kingdom of Italy.
 <br/><br/>
-En 1851 : First publication of The New-York Daily Times, which later becomes The New York Times.
-<br/><br/>
 En 1850 : The U.S. Congress passes the Fugitive Slave Act of 1850.
 <br/><br/>
 En 1838 : The Anti-Corn Law League is established by Richard Cobden.
 <br/><br/>
 En 1837 : Tiffany & Co. (first named Tiffany & Young) is founded by Charles Lewis Tiffany and Teddy Young in New York City. The store is called a "stationery and fancy goods emporium".
 <br/><br/>
-En 1812 : The 1812 Fire of Moscow dies down after destroying more than three-quarters of the city. Napoleon returns from the Petrovsky Palace to the Moscow Kremlin, spared from the fire.
-<br/><br/>
 En 1810 : First Government Junta in Chile. Though supposed to rule only during the Peninsular War in Spain, it is in fact the first step towards independence from Spain, and is commemorated as such.
 <br/><br/>
 En 1809 : The Royal Opera House in Covent Garden, London, opens.
 <br/><br/>
-En 1793 : The first cornerstone of the United States Capitol is laid by George Washington.
-<br/><br/>
 En 1759 : French and Indian War: The Articles of Capitulation of Quebec are signed.
 <br/><br/>
 En 1739 : The Treaty of Belgrade is signed, whereby Austria cedes lands south of the Sava and Danube rivers to the Ottoman Empire.
-<br/><br/>
-En 1714 : George I arrives in Great Britain after becoming king on August 1.
 <br/><br/>
 En 1618 : The twelfth baktun in the Mesoamerican Long Count calendar begins.
 <br/><br/>
@@ -338,13 +326,9 @@ En 1906 : The 1906 Hong Kong typhoon kills an estimated 10,000 people.
 <br/><br/>
 En 1898 : The Fashoda Incident triggers the last war scare between Britain and France.
 <br/><br/>
-En 1897 : Veal Oscar, a dish of veal, seafood, asparagus, and Bernaise sauce, is first served at the  Grand Hotel in Stockholm, in honour of the 25th anniversary of the reign of King Oscar II of Sweden and Norway.
-<br/><br/>
 En 1885 : Five Chinese people were lynched outside of Pierce City in the Idaho Territory of the United States.
 <br/><br/>
 En 1882 : The Pacific Stock Exchange opens.
-<br/><br/>
-En 1879 : The Blackpool Illuminations are switched on for the first time.
 <br/><br/>
 En 1873 : The U.S. bank Jay Cooke & Company declares bankruptcy, contributing to the Panic of 1873.
 <br/><br/>
@@ -364,27 +348,19 @@ En 1860 : Second Opium War: Battle of Zhangjiawan: Now heading towards Beijing a
 <br/><br/>
 En 1860 : Wars of Italian Unification: Battle of Castelfidardo: Royal Sardinian Army defeats forces of the Papal States, resulting in the conquest of Umbria and Marche by the Kingdom of Italy.
 <br/><br/>
-En 1851 : First publication of The New-York Daily Times, which later becomes The New York Times.
-<br/><br/>
 En 1850 : The U.S. Congress passes the Fugitive Slave Act of 1850.
 <br/><br/>
 En 1838 : The Anti-Corn Law League is established by Richard Cobden.
 <br/><br/>
 En 1837 : Tiffany & Co. (first named Tiffany & Young) is founded by Charles Lewis Tiffany and Teddy Young in New York City. The store is called a "stationery and fancy goods emporium".
 <br/><br/>
-En 1812 : The 1812 Fire of Moscow dies down after destroying more than three-quarters of the city. Napoleon returns from the Petrovsky Palace to the Moscow Kremlin, spared from the fire.
-<br/><br/>
 En 1810 : First Government Junta in Chile. Though supposed to rule only during the Peninsular War in Spain, it is in fact the first step towards independence from Spain, and is commemorated as such.
 <br/><br/>
 En 1809 : The Royal Opera House in Covent Garden, London, opens.
 <br/><br/>
-En 1793 : The first cornerstone of the United States Capitol is laid by George Washington.
-<br/><br/>
 En 1759 : French and Indian War: The Articles of Capitulation of Quebec are signed.
 <br/><br/>
 En 1739 : The Treaty of Belgrade is signed, whereby Austria cedes lands south of the Sava and Danube rivers to the Ottoman Empire.
-<br/><br/>
-En 1714 : George I arrives in Great Britain after becoming king on August 1.
 <br/><br/>
 En 1618 : The twelfth baktun in the Mesoamerican Long Count calendar begins.
 <br/><br/>
