@@ -66,6 +66,8 @@ En 1940 : World War II: Witold Pilecki is voluntarily captured and sent to Ausch
 <br/><br/>
 En 1939 : World War II: The Battle of Kępa Oksywska concludes, with Polish losses reaching roughly 14% of all the forces engaged.
 <br/><br/>
+En 1926 : Football Stadium San Siro is inaugurated in Milan, Italy
+<br/><br/>
 En 1918 : The battle of Megiddo begins in which British forces attack the right flank of the Ottoman army during World War I.
 <br/><br/>
 En 1916 : World War I: During the East African Campaign, colonial forces of the Belgian Congo (Force Publique) under the command of Charles Tombeur capture the town of Tabora after heavy fighting.
@@ -167,6 +169,8 @@ En 1944 : World War II: The Moscow Armistice between Finland and the Soviet Unio
 En 1940 : World War II: Witold Pilecki is voluntarily captured and sent to Auschwitz concentration camp to gather and smuggle out information for the resistance movement.
 <br/><br/>
 En 1939 : World War II: The Battle of Kępa Oksywska concludes, with Polish losses reaching roughly 14% of all the forces engaged.
+<br/><br/>
+En 1926 : Football Stadium San Siro is inaugurated in Milan, Italy
 <br/><br/>
 En 1918 : The battle of Megiddo begins in which British forces attack the right flank of the Ottoman army during World War I.
 <br/><br/>
