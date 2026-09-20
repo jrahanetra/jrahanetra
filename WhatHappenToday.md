@@ -36,7 +36,7 @@ En 1984 : A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon,
 <br/><br/>
 En 1982 : NFL season: American football players in the National Football League begin a 57-day strike.
 <br/><br/>
-En 1979 : A French-supported coup d'état in the Central African Empire overthrows Emperor Bokassa I.
+En 1979 : A French-organized coup d'état in the Central African Empire overthrows Emperor Bokassa I.
 <br/><br/>
 En 1977 : Vietnam is admitted to the United Nations.
 <br/><br/>
@@ -144,7 +144,7 @@ En 1984 : A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon,
 <br/><br/>
 En 1982 : NFL season: American football players in the National Football League begin a 57-day strike.
 <br/><br/>
-En 1979 : A French-supported coup d'état in the Central African Empire overthrows Emperor Bokassa I.
+En 1979 : A French-organized coup d'état in the Central African Empire overthrows Emperor Bokassa I.
 <br/><br/>
 En 1977 : Vietnam is admitted to the United Nations.
 <br/><br/>
