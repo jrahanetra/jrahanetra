@@ -106,7 +106,7 @@ En 1378 : Cardinal Robert of Geneva is elected as Pope Clement VII, beginning th
 <br/><br/>
 En 1260 : The Great Prussian Uprising among the old Prussians begins against the Teutonic Knights.
 <br/><br/>
-En 1217 : Following the French defeat in the battle of Lincoln, prince Louis of France ratifies the treaty of Lambeth under which he abandons all claims to the English throne and returns to France in exchange of an indemnity payment.
+En 1217 : Following the French defeat in the battle of Lincoln, Prince Louis of France ratifies the treaty of Lambeth under which he abandons all claims to the English throne and returns to France in exchange of an indemnity payment.
 <br/><br/>
 En 1187 : Saladin begins the Siege of Jerusalem.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1378 : Cardinal Robert of Geneva is elected as Pope Clement VII, beginning th
 <br/><br/>
 En 1260 : The Great Prussian Uprising among the old Prussians begins against the Teutonic Knights.
 <br/><br/>
-En 1217 : Following the French defeat in the battle of Lincoln, prince Louis of France ratifies the treaty of Lambeth under which he abandons all claims to the English throne and returns to France in exchange of an indemnity payment.
+En 1217 : Following the French defeat in the battle of Lincoln, Prince Louis of France ratifies the treaty of Lambeth under which he abandons all claims to the English throne and returns to France in exchange of an indemnity payment.
 <br/><br/>
 En 1187 : Saladin begins the Siege of Jerusalem.
 <br/><br/>
