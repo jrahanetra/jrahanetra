@@ -30,6 +30,8 @@ En 1989 : USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff fr
 <br/><br/>
 En 1988 : Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.
 <br/><br/>
+En 1986 : Aeroflot Flight 36075 is hijacked at Ufa International Airport.
+<br/><br/>
 En 1984 : A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.
 <br/><br/>
 En 1982 : NFL season: American football players in the National Football League begin a 57-day strike.
@@ -135,6 +137,8 @@ En 1990 : South Ossetia declares its independence from Georgia.
 En 1989 : USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.
 <br/><br/>
 En 1988 : Margaret Thatcher delivers the Bruges speech, in which she articulates her opposition to further European integration.
+<br/><br/>
+En 1986 : Aeroflot Flight 36075 is hijacked at Ufa International Airport.
 <br/><br/>
 En 1984 : A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.
 <br/><br/>
