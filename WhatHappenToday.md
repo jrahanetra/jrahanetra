@@ -28,6 +28,8 @@ En 1997 : St. Olaf's Church, a stone church from the 16th century in Tyrvää, F
 <br/><br/>
 En 1996 : The Defense of Marriage Act is passed by the United States Congress.
 <br/><br/>
+En 1995 : MIAT Flight 557 crashes near Mörön, Mongolia, killing 41 people.
+<br/><br/>
 En 1993 : Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
 <br/><br/>
 En 1993 : A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sokhumi, Georgia.
@@ -135,6 +137,8 @@ En 1999 : The 7.7-magnitude Chi-Chi earthquake strikes central Taiwan, killing 2
 En 1997 : St. Olaf's Church, a stone church from the 16th century in Tyrvää, Finland, is burnt down by a burglar.
 <br/><br/>
 En 1996 : The Defense of Marriage Act is passed by the United States Congress.
+<br/><br/>
+En 1995 : MIAT Flight 557 crashes near Mörön, Mongolia, killing 41 people.
 <br/><br/>
 En 1993 : Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
 <br/><br/>
