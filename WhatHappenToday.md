@@ -52,6 +52,8 @@ En 1972 : Philippine president Ferdinand Marcos begins authoritarian rule by dec
 <br/><br/>
 En 1971 : Bahrain, Bhutan and Qatar join the United Nations.
 <br/><br/>
+En 1970 : The first Monday Night Football game is between the Cleveland Browns and the New York Jets.
+<br/><br/>
 En 1969 : Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
 <br/><br/>
 En 1965 : The Gambia, Maldives and Singapore are admitted as members of the United Nations.
@@ -161,6 +163,8 @@ En 1976 : Seychelles joins the United Nations.
 En 1972 : Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.
 <br/><br/>
 En 1971 : Bahrain, Bhutan and Qatar join the United Nations.
+<br/><br/>
+En 1970 : The first Monday Night Football game is between the Cleveland Browns and the New York Jets.
 <br/><br/>
 En 1969 : Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
 <br/><br/>
