@@ -90,7 +90,7 @@ En 1459 : The Battle of Blore Heath, the first major battle of the English Wars 
 <br/><br/>
 En 1409 : The Battle of Kherlen is the second significant victory over Ming dynasty China by the Mongols since 1368.
 <br/><br/>
-En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.
+En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first European naval battle in which gunpowder artillery is used.
 <br/><br/>
 En 1122 : Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1459 : The Battle of Blore Heath, the first major battle of the English Wars 
 <br/><br/>
 En 1409 : The Battle of Kherlen is the second significant victory over Ming dynasty China by the Mongols since 1368.
 <br/><br/>
-En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first naval battle in which gunpowder artillery is used.
+En 1338 : The Battle of Arnemuiden, in which a French force defeats the English, is the first naval battle of the Hundred Years' War and the first European naval battle in which gunpowder artillery is used.
 <br/><br/>
 En 1122 : Pope Callixtus II and Holy Roman Emperor Henry V agree to the Concordat of Worms to put an end to the Investiture Controversy.
 <br/><br/>
