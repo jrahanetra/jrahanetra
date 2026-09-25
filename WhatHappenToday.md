@@ -18,7 +18,7 @@ En 1992 : NASA launches the Mars Observer. Eleven months later, the probe would 
 <br/><br/>
 En 1987 : Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
 <br/><br/>
-En 1985 : 3 civilians killed by alleged supporters of the Palestine Liberation Organization in Larnaca yacht killings.
+En 1985 : Three civilians killed by alleged supporters of the Palestine Liberation Organization in Larnaca yacht killings.
 <br/><br/>
 En 1983 : Thirty-eight IRA prisoners, armed with six handguns, hijack a prison meals lorry and smash their way out of the Maze Prison.
 <br/><br/>
@@ -74,7 +74,7 @@ En 1790 : Four Great Anhui Troupes introduce Anhui opera to Beijing in honor of 
 <br/><br/>
 En 1789 : The United States Congress passes twelve constitutional amendments: the ten known as the Bill of Rights, the (unratified) Congressional Apportionment Amendment, and the Congressional Compensation Amendment.
 <br/><br/>
-En 1786 : The mine of Huancavelica in the Peruvian Andes collapses, killing more than hundred people. The event was a major setback for quicksilver production in the Spanish Empire.
+En 1786 : The mine of Huancavelica in the Peruvian Andes collapses, killing more than two hundred people. The event was a major setback for mercury production in the Spanish Empire.
 <br/><br/>
 En 1775 : American Revolutionary War: Ethan Allen surrenders to British forces after attempting to capture Montreal in the Battle of Longue-Pointe during the invasion of Quebec.
 <br/><br/>
@@ -114,7 +114,7 @@ En 1992 : NASA launches the Mars Observer. Eleven months later, the probe would 
 <br/><br/>
 En 1987 : Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
 <br/><br/>
-En 1985 : 3 civilians killed by alleged supporters of the Palestine Liberation Organization in Larnaca yacht killings.
+En 1985 : Three civilians killed by alleged supporters of the Palestine Liberation Organization in Larnaca yacht killings.
 <br/><br/>
 En 1983 : Thirty-eight IRA prisoners, armed with six handguns, hijack a prison meals lorry and smash their way out of the Maze Prison.
 <br/><br/>
@@ -170,7 +170,7 @@ En 1790 : Four Great Anhui Troupes introduce Anhui opera to Beijing in honor of 
 <br/><br/>
 En 1789 : The United States Congress passes twelve constitutional amendments: the ten known as the Bill of Rights, the (unratified) Congressional Apportionment Amendment, and the Congressional Compensation Amendment.
 <br/><br/>
-En 1786 : The mine of Huancavelica in the Peruvian Andes collapses, killing more than hundred people. The event was a major setback for quicksilver production in the Spanish Empire.
+En 1786 : The mine of Huancavelica in the Peruvian Andes collapses, killing more than two hundred people. The event was a major setback for mercury production in the Spanish Empire.
 <br/><br/>
 En 1775 : American Revolutionary War: Ethan Allen surrenders to British forces after attempting to capture Montreal in the Battle of Longue-Pointe during the invasion of Quebec.
 <br/><br/>
