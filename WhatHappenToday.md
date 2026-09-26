@@ -88,7 +88,7 @@ En 1493 : Pope Alexander VI issues the papal bull Dudum siquidem to the Spanish,
 <br/><br/>
 En 1423 : Hundred Years' War: A French army defeats the English at the Battle of La Brossinière.
 <br/><br/>
-En 1371 : Serbian–Turkish wars: Ottoman Turks fought against a Serbian army at the Battle of Maritsa.
+En 1371 : Serbian–Turkish wars: Ottoman Turks fight against a Serbian army at the Battle of Maritsa.
 <br/><br/>
 En 1345 : Friso-Hollandic Wars: Frisians defeat Holland in the Battle of Warns.
 <br/><br/>
@@ -96,7 +96,7 @@ En 1212 : The Golden Bull of Sicily is issued to confirm the hereditary royal ti
 <br/><br/>
 En 1143 : Election of pope Celestine II following the death of pope Innocent II.
 <br/><br/>
-En 1142 : Stephen of Blois's army approached Oxford, beginning the siege of Oxford.
+En 1142 : Stephen of Blois's army approaches Oxford, beginning the siege of Oxford.
 <br/><br/>
 En 1087 : William II is crowned King of England, and reigns until 1100.
 <br/><br/>
@@ -186,7 +186,7 @@ En 1493 : Pope Alexander VI issues the papal bull Dudum siquidem to the Spanish,
 <br/><br/>
 En 1423 : Hundred Years' War: A French army defeats the English at the Battle of La Brossinière.
 <br/><br/>
-En 1371 : Serbian–Turkish wars: Ottoman Turks fought against a Serbian army at the Battle of Maritsa.
+En 1371 : Serbian–Turkish wars: Ottoman Turks fight against a Serbian army at the Battle of Maritsa.
 <br/><br/>
 En 1345 : Friso-Hollandic Wars: Frisians defeat Holland in the Battle of Warns.
 <br/><br/>
@@ -194,7 +194,7 @@ En 1212 : The Golden Bull of Sicily is issued to confirm the hereditary royal ti
 <br/><br/>
 En 1143 : Election of pope Celestine II following the death of pope Innocent II.
 <br/><br/>
-En 1142 : Stephen of Blois's army approached Oxford, beginning the siege of Oxford.
+En 1142 : Stephen of Blois's army approaches Oxford, beginning the siege of Oxford.
 <br/><br/>
 En 1087 : William II is crowned King of England, and reigns until 1100.
 <br/><br/>
