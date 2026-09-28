@@ -94,7 +94,7 @@ En 1821 : The Declaration of Independence of the Mexican Empire is drafted. It w
 <br/><br/>
 En 1787 : The Congress of the Confederation votes to send the newly written United States Constitution to the state legislatures for approval.
 <br/><br/>
-En 1781 : American Revolution: French and American forces backed by a French fleet begin the siege of Yorktown.
+En 1781 : American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown.
 <br/><br/>
 En 1779 : American Revolution: Samuel Huntington is elected President of the Continental Congress, succeeding John Jay.
 <br/><br/>
@@ -214,7 +214,7 @@ En 1821 : The Declaration of Independence of the Mexican Empire is drafted. It w
 <br/><br/>
 En 1787 : The Congress of the Confederation votes to send the newly written United States Constitution to the state legislatures for approval.
 <br/><br/>
-En 1781 : American Revolution: French and American forces backed by a French fleet begin the siege of Yorktown.
+En 1781 : American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown.
 <br/><br/>
 En 1779 : American Revolution: Samuel Huntington is elected President of the Continental Congress, succeeding John Jay.
 <br/><br/>
