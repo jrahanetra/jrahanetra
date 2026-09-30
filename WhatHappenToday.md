@@ -34,7 +34,7 @@ En 1968 : The Boeing 747 is rolled out and shown to the public for the first tim
 <br/><br/>
 En 1966 : Bechuanaland declares its independence, and becomes the Republic of Botswana.
 <br/><br/>
-En 1960 : The Flintstones animated sitcom premieres on ABC television.
+En 1960 : The Flintstones, the first prime-time animated sitcom, premieres on ABC television.
 <br/><br/>
 En 1954 : The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
 <br/><br/>
@@ -76,7 +76,7 @@ En 1907 : The McKinley National Memorial, the final resting place of assassinate
 <br/><br/>
 En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
-En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
+En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.  - Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation.
 <br/><br/>
@@ -104,7 +104,7 @@ En 1342 : Battle of Morlaix is fought in the Hundred Years' War.
 <br/><br/>
 En 1139 : A magnitude 7.7 earthquake strikes the Caucasus mountains in the Seljuk Empire, causing mass destruction and killing up to 300,000 people.
 <br/><br/>
-En 1061 : Election of pope Alexander II following the death of pope Nicholas II two months prior.
+En 1061 : Election of Pope Alexander II following the death of Pope Nicholas II two months prior.
 <br/><br/>
 En 737 : The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train.
 <br/><br/>
@@ -138,7 +138,7 @@ En 1968 : The Boeing 747 is rolled out and shown to the public for the first tim
 <br/><br/>
 En 1966 : Bechuanaland declares its independence, and becomes the Republic of Botswana.
 <br/><br/>
-En 1960 : The Flintstones animated sitcom premieres on ABC television.
+En 1960 : The Flintstones, the first prime-time animated sitcom, premieres on ABC television.
 <br/><br/>
 En 1954 : The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
 <br/><br/>
@@ -180,7 +180,7 @@ En 1907 : The McKinley National Memorial, the final resting place of assassinate
 <br/><br/>
 En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
-En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
+En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.  - Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation.
 <br/><br/>
@@ -208,7 +208,7 @@ En 1342 : Battle of Morlaix is fought in the Hundred Years' War.
 <br/><br/>
 En 1139 : A magnitude 7.7 earthquake strikes the Caucasus mountains in the Seljuk Empire, causing mass destruction and killing up to 300,000 people.
 <br/><br/>
-En 1061 : Election of pope Alexander II following the death of pope Nicholas II two months prior.
+En 1061 : Election of Pope Alexander II following the death of Pope Nicholas II two months prior.
 <br/><br/>
 En 737 : The Türgesh drive back an Umayyad invasion of Khuttal, follow them south of the Oxus, and capture their baggage train.
 <br/><br/>
