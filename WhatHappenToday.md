@@ -76,7 +76,9 @@ En 1907 : The McKinley National Memorial, the final resting place of assassinate
 <br/><br/>
 En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
-En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.  - Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
+En 1895 : Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
+<br/><br/>
+En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation.
 <br/><br/>
@@ -180,7 +182,9 @@ En 1907 : The McKinley National Memorial, the final resting place of assassinate
 <br/><br/>
 En 1906 : The Royal Galician Academy, the Galician language's biggest linguistic authority, is established in La Coruña, Spain.
 <br/><br/>
-En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.  - Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
+En 1895 : Friedrich Nietzsche finished writing The Antichrist, with the 7 propositions Law Against Christianity, marked by him as a Day of Salvation, Day and Year 1 of a new calendar.
+<br/><br/>
+En 1888 : Jack the Ripper kills his third and fourth victims, Elizabeth Stride and Catherine Eddowes.
 <br/><br/>
 En 1882 : Thomas Edison's first commercial hydroelectric power plant, the Vulcan Street Plant, begins operation.
 <br/><br/>
