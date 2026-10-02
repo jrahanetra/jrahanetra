@@ -74,7 +74,7 @@ En 1470 : The Earl of Warwick's rebellion forces King Edward IV of England to fl
 <br/><br/>
 En 1263 : The Battle of Largs is fought between Norwegians and Scots.
 <br/><br/>
-En 1187 : Saladin won Jerusalem after the city surrendered to his forces following a prolonged siege.
+En 1187 : Saladin wins Jerusalem after the city surrendered to his forces following a prolonged siege.
 <br/><br/>
 En 939 : Battle of Andernach: Otto I, Holy Roman Emperor, crushes a rebellion against his rule, by a coalition of Eberhard of Franconia and other Frankish dukes.
 <br/><br/>
@@ -152,7 +152,7 @@ En 1470 : The Earl of Warwick's rebellion forces King Edward IV of England to fl
 <br/><br/>
 En 1263 : The Battle of Largs is fought between Norwegians and Scots.
 <br/><br/>
-En 1187 : Saladin won Jerusalem after the city surrendered to his forces following a prolonged siege.
+En 1187 : Saladin wins Jerusalem after the city surrendered to his forces following a prolonged siege.
 <br/><br/>
 En 939 : Battle of Andernach: Otto I, Holy Roman Emperor, crushes a rebellion against his rule, by a coalition of Eberhard of Franconia and other Frankish dukes.
 <br/><br/>
