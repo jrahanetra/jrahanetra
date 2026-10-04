@@ -90,8 +90,6 @@ En 1636 : Thirty Years' War: The Swedish Army defeats the armies of Saxony and t
 <br/><br/>
 En 1602 : Eighty Years' War and the Anglo-Spanish War: A fleet of Spanish galleys are defeated by English and Dutch galleons in the English Channel.
 <br/><br/>
-En 1597 : Governor Gonzalo Méndez de Canço begins to suppress a native uprising against his rule in what is now the US state of Georgia.
-<br/><br/>
 En 1582 : The Gregorian Calendar is introduced by Pope Gregory XIII.
 <br/><br/>
 En 1535 : The Coverdale Bible is printed, with translations into English by William Tyndale and Myles Coverdale.
@@ -189,8 +187,6 @@ En 1693 : Nine Years' War: Piedmontese troops are defeated by the French.
 En 1636 : Thirty Years' War: The Swedish Army defeats the armies of Saxony and the Holy Roman Empire at the Battle of Wittstock.
 <br/><br/>
 En 1602 : Eighty Years' War and the Anglo-Spanish War: A fleet of Spanish galleys are defeated by English and Dutch galleons in the English Channel.
-<br/><br/>
-En 1597 : Governor Gonzalo Méndez de Canço begins to suppress a native uprising against his rule in what is now the US state of Georgia.
 <br/><br/>
 En 1582 : The Gregorian Calendar is introduced by Pope Gregory XIII.
 <br/><br/>
