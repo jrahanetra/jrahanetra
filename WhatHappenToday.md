@@ -66,8 +66,6 @@ En 1917 : World War I: The Battle of Broodseinde is fought between the British a
 <br/><br/>
 En 1895 : Horace Rawlins wins the first U.S. Open Men's Golf Championship.
 <br/><br/>
-En 1883 : First run of the Orient Express.
-<br/><br/>
 En 1883 : First meeting of the Boys' Brigade in Glasgow, Scotland.
 <br/><br/>
 En 1876 : The Agricultural and Mechanical College of Texas (now known as Texas A&M) opens as the first public college in Texas.
@@ -163,8 +161,6 @@ En 1918 : World War I: An explosion kills more than 100 people and destroys a Sh
 En 1917 : World War I: The Battle of Broodseinde is fought between the British and German armies in Flanders.
 <br/><br/>
 En 1895 : Horace Rawlins wins the first U.S. Open Men's Golf Championship.
-<br/><br/>
-En 1883 : First run of the Orient Express.
 <br/><br/>
 En 1883 : First meeting of the Boys' Brigade in Glasgow, Scotland.
 <br/><br/>
