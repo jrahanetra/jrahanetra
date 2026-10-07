@@ -10,7 +10,7 @@ En 2023 : Hamas and several other Palestinian militant groups launch an attack i
 <br/><br/>
 En 2022 : Ten people are killed and eight are injured in an explosion at a petrol station in Creeslough, Ireland.
 <br/><br/>
-En 2022 : Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
+En 2022 : Ales Bialiatski, along with two organisations, Memorial and Center for Civil Liberties, are awarded the Nobel Peace Prize.
 <br/><br/>
 En 2016 : In the wake of Hurricane Matthew, the death toll rises to over 800.
 <br/><br/>
@@ -64,7 +64,7 @@ En 1950 : Mother Teresa establishes the Missionaries of Charity.
 <br/><br/>
 En 1949 : The communist German Democratic Republic (East Germany) is formed.
 <br/><br/>
-En 1944 : World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV.
+En 1944 : World War II: The Sonderkommando Revolt in Auschwitz occurs with an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp.
 <br/><br/>
 En 1940 : World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States.
 <br/><br/>
@@ -122,7 +122,7 @@ En 2023 : Hamas and several other Palestinian militant groups launch an attack i
 <br/><br/>
 En 2022 : Ten people are killed and eight are injured in an explosion at a petrol station in Creeslough, Ireland.
 <br/><br/>
-En 2022 : Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
+En 2022 : Ales Bialiatski, along with two organisations, Memorial and Center for Civil Liberties, are awarded the Nobel Peace Prize.
 <br/><br/>
 En 2016 : In the wake of Hurricane Matthew, the death toll rises to over 800.
 <br/><br/>
@@ -176,7 +176,7 @@ En 1950 : Mother Teresa establishes the Missionaries of Charity.
 <br/><br/>
 En 1949 : The communist German Democratic Republic (East Germany) is formed.
 <br/><br/>
-En 1944 : World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV.
+En 1944 : World War II: The Sonderkommando Revolt in Auschwitz occurs with an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp.
 <br/><br/>
 En 1940 : World War II: The McCollum memo proposes bringing the United States into the war in Europe by provoking the Japanese to attack the United States.
 <br/><br/>
