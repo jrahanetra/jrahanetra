@@ -8,7 +8,7 @@
 
 En 2023 : Hamas and several other Palestinian militant groups launch an attack into Israel, which results in the deaths of around 1,200, mostly civilians, and the taking of 251 hostages, including civilians and soldiers.
 <br/><br/>
-En 2022 : Ten people are killed and eight are injured in an explosion at petrol station in Creeslough, Ireland.
+En 2022 : Ten people are killed and eight are injured in an explosion at a petrol station in Creeslough, Ireland.
 <br/><br/>
 En 2022 : Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
 <br/><br/>
@@ -120,7 +120,7 @@ En -3761 : The epoch reference date (start) of the modern Hebrew calendar.
 <br/><br/>
 En 2023 : Hamas and several other Palestinian militant groups launch an attack into Israel, which results in the deaths of around 1,200, mostly civilians, and the taking of 251 hostages, including civilians and soldiers.
 <br/><br/>
-En 2022 : Ten people are killed and eight are injured in an explosion at petrol station in Creeslough, Ireland.
+En 2022 : Ten people are killed and eight are injured in an explosion at a petrol station in Creeslough, Ireland.
 <br/><br/>
 En 2022 : Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
 <br/><br/>
