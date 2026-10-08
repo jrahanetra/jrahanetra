@@ -6,13 +6,11 @@
 <hr/>
 <h1> What happen this day 8/10 ?(Hover on the year)</h1>
 
-En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice deliberately targets the Church of the Holy Savior Ghazanchetsots of Shusha.
+En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice targets the Church of the Holy Savior Ghazanchetsots of Shusha.
 <br/><br/>
 En 2019 : About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
 <br/><br/>
 En 2016 : In the wake of Hurricane Matthew, the death toll rises to nearly 900.
-<br/><br/>
-En 2014 : Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
 <br/><br/>
 En 2005 : The 7.6 Mw Kashmir earthquake leaves 86,000–87,351 people dead, 69,000–75,266 injured, and 2.8 million homeless.
 <br/><br/>
@@ -96,13 +94,11 @@ En 451 : The first session of the Council of Chalcedon begins.
 <br/><br/>
 En 316 : Constantine I defeats Licinius, who loses his European territories.
 <br/><br/>
-En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice deliberately targets the Church of the Holy Savior Ghazanchetsots of Shusha.
+En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice targets the Church of the Holy Savior Ghazanchetsots of Shusha.
 <br/><br/>
 En 2019 : About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
 <br/><br/>
 En 2016 : In the wake of Hurricane Matthew, the death toll rises to nearly 900.
-<br/><br/>
-En 2014 : Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
 <br/><br/>
 En 2005 : The 7.6 Mw Kashmir earthquake leaves 86,000–87,351 people dead, 69,000–75,266 injured, and 2.8 million homeless.
 <br/><br/>
