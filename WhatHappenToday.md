@@ -10,8 +10,6 @@ En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice targets the Church of th
 <br/><br/>
 En 2019 : About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
 <br/><br/>
-En 2016 : In the wake of Hurricane Matthew, the death toll rises to nearly 900.
-<br/><br/>
 En 2005 : The 7.6 Mw Kashmir earthquake leaves 86,000–87,351 people dead, 69,000–75,266 injured, and 2.8 million homeless.
 <br/><br/>
 En 2001 : A twin engine Cessna and a Scandinavian Airlines System jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
@@ -97,8 +95,6 @@ En 316 : Constantine I defeats Licinius, who loses his European territories.
 En 2020 : Second Nagorno-Karabakh War: Azerbaijan twice targets the Church of the Holy Savior Ghazanchetsots of Shusha.
 <br/><br/>
 En 2019 : About 200 Extinction Rebellion activists block the gates of Leinster House (parliament) in the Republic of Ireland.
-<br/><br/>
-En 2016 : In the wake of Hurricane Matthew, the death toll rises to nearly 900.
 <br/><br/>
 En 2005 : The 7.6 Mw Kashmir earthquake leaves 86,000–87,351 people dead, 69,000–75,266 injured, and 2.8 million homeless.
 <br/><br/>
