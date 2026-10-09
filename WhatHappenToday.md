@@ -116,9 +116,9 @@ En 1635 : Roger Williams is banished from the Massachusetts Bay Colony after rel
 <br/><br/>
 En 1604 : Kepler's Supernova is the most recent supernova to be observed within the Milky Way.
 <br/><br/>
-En 1594 : Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.
-<br/><br/>
 En 1594 : Troops of the Portuguese Empire are defeated on Sri Lanka, bringing an end to the Campaign of Danture.
+<br/><br/>
+En 1531 : Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.
 <br/><br/>
 En 1410 : The first known mention of the Prague astronomical clock.
 <br/><br/>
@@ -236,9 +236,9 @@ En 1635 : Roger Williams is banished from the Massachusetts Bay Colony after rel
 <br/><br/>
 En 1604 : Kepler's Supernova is the most recent supernova to be observed within the Milky Way.
 <br/><br/>
-En 1594 : Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.
-<br/><br/>
 En 1594 : Troops of the Portuguese Empire are defeated on Sri Lanka, bringing an end to the Campaign of Danture.
+<br/><br/>
+En 1531 : Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.
 <br/><br/>
 En 1410 : The first known mention of the Prague astronomical clock.
 <br/><br/>
