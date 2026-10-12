@@ -140,7 +140,7 @@ En 633 : Battle of Hatfield Chase: King Edwin of Northumbria is defeated and kil
 <br/><br/>
 En 166 : Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians.
 <br/><br/>
-En -539 : The army of Cyrus the Great of Persia conquer Babylon, ending the Babylonian empire. (Julian calendar)
+En -539 : The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)
 <br/><br/>
 En 2022 : 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack.
 <br/><br/>
@@ -276,5 +276,5 @@ En 633 : Battle of Hatfield Chase: King Edwin of Northumbria is defeated and kil
 <br/><br/>
 En 166 : Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in Rome for the successful completion of their war with the Partians.
 <br/><br/>
-En -539 : The army of Cyrus the Great of Persia conquer Babylon, ending the Babylonian empire. (Julian calendar)
+En -539 : The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)
 <br/><br/>
