@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 12/10 ?(Hover on the year)</h1>
 
-En 2022 : 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack.
+En 2022 : 2022 Bratislava shooting occurs outside a gay bar, killing 3 (including the perpetrator) and injuring one.
 <br/><br/>
 En 2019 : Typhoon Hagibis makes landfall in Japan, killing 10 and forcing the evacuation of one million people.
 <br/><br/>
@@ -142,7 +142,7 @@ En 166 : Roman emperors Marcus Aurelius and Lucius Verus celebrate a triumph in 
 <br/><br/>
 En -539 : The army of Cyrus the Great of Persia conquer Babylon, ending the Neo-Babylonian Empire. (Julian calendar)
 <br/><br/>
-En 2022 : 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack.
+En 2022 : 2022 Bratislava shooting occurs outside a gay bar, killing 3 (including the perpetrator) and injuring one.
 <br/><br/>
 En 2019 : Typhoon Hagibis makes landfall in Japan, killing 10 and forcing the evacuation of one million people.
 <br/><br/>
