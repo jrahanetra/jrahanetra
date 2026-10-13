@@ -32,8 +32,6 @@ En 1972 : Uruguayan Air Force Flight 571 crashes in the Andes mountains. Twenty-
 <br/><br/>
 En 1972 : The flag of Okinawa Prefecture, Japan, was officially adopted.
 <br/><br/>
-En 1962 : The Pacific Northwest experiences a cyclone the equal of a Category 3 hurricane, with winds above 150 mph. Forty-six people die.
-<br/><br/>
 En 1946 : France adopts the constitution of the Fourth Republic.
 <br/><br/>
 En 1944 : World War II: The Soviet Riga Offensive captures the city.
@@ -117,8 +115,6 @@ En 1972 : Aeroflot Flight 217 crashes outside Moscow, killing 174.
 En 1972 : Uruguayan Air Force Flight 571 crashes in the Andes mountains. Twenty-eight survive the crash. All but 16 succumb before rescue on December 23.
 <br/><br/>
 En 1972 : The flag of Okinawa Prefecture, Japan, was officially adopted.
-<br/><br/>
-En 1962 : The Pacific Northwest experiences a cyclone the equal of a Category 3 hurricane, with winds above 150 mph. Forty-six people die.
 <br/><br/>
 En 1946 : France adopts the constitution of the Fourth Republic.
 <br/><br/>
