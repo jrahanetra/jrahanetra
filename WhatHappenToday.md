@@ -124,7 +124,7 @@ En 1590 : Prince Gesualdo of Venosa murders his wife and her lover.
 <br/><br/>
 En 1384 : Jadwiga is crowned King of Poland, although she is a woman.
 <br/><br/>
-En 1367 : Pope Urban V enters Rome, the first pope to do so in more than fifty years since the begin of the Avignon Papacy.
+En 1367 : Pope Urban V enters Rome, the first pope to do so in more than fifty years since the beginning of the Avignon Papacy.
 <br/><br/>
 En 1311 : The Council of Vienne convenes for the first time.
 <br/><br/>
@@ -254,7 +254,7 @@ En 1590 : Prince Gesualdo of Venosa murders his wife and her lover.
 <br/><br/>
 En 1384 : Jadwiga is crowned King of Poland, although she is a woman.
 <br/><br/>
-En 1367 : Pope Urban V enters Rome, the first pope to do so in more than fifty years since the begin of the Avignon Papacy.
+En 1367 : Pope Urban V enters Rome, the first pope to do so in more than fifty years since the beginning of the Avignon Papacy.
 <br/><br/>
 En 1311 : The Council of Vienne convenes for the first time.
 <br/><br/>
