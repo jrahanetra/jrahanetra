@@ -10,7 +10,7 @@ En 2019 : NASA Astronauts Jessica Meir and Christina Koch take part in the first
 <br/><br/>
 En 2019 : Riots in Chile's capital Santiago escalate into open battles, with attacks reported at nearly all of the city's 164 Metro stations. President Sebastián Piñera later announces a 15-day state of emergency in the capital.
 <br/><br/>
-En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is fatally injured.
+En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.
 <br/><br/>
 En 2003 : Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.
 <br/><br/>
@@ -22,7 +22,7 @@ En 1989 : The Space Shuttle Atlantis launches on STS-34 to deploy the Jupiter-bo
 <br/><br/>
 En 1979 : The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.
 <br/><br/>
-En 1978 : Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opened in Yerevan.
+En 1978 : Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opens in Yerevan.
 <br/><br/>
 En 1977 : German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.
 <br/><br/>
@@ -114,7 +114,7 @@ En 2019 : NASA Astronauts Jessica Meir and Christina Koch take part in the first
 <br/><br/>
 En 2019 : Riots in Chile's capital Santiago escalate into open battles, with attacks reported at nearly all of the city's 164 Metro stations. President Sebastián Piñera later announces a 15-day state of emergency in the capital.
 <br/><br/>
-En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is fatally injured.
+En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.
 <br/><br/>
 En 2003 : Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.
 <br/><br/>
@@ -126,7 +126,7 @@ En 1989 : The Space Shuttle Atlantis launches on STS-34 to deploy the Jupiter-bo
 <br/><br/>
 En 1979 : The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.
 <br/><br/>
-En 1978 : Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opened in Yerevan.
+En 1978 : Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opens in Yerevan.
 <br/><br/>
 En 1977 : German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.
 <br/><br/>
