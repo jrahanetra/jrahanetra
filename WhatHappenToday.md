@@ -10,7 +10,7 @@ En 2019 : NASA Astronauts Jessica Meir and Christina Koch take part in the first
 <br/><br/>
 En 2019 : Riots in Chile's capital Santiago escalate into open battles, with attacks reported at nearly all of the city's 164 Metro stations. President Sebastián Piñera later announces a 15-day state of emergency in the capital.
 <br/><br/>
-En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.
+En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is fatally injured.
 <br/><br/>
 En 2003 : Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.
 <br/><br/>
@@ -114,7 +114,7 @@ En 2019 : NASA Astronauts Jessica Meir and Christina Koch take part in the first
 <br/><br/>
 En 2019 : Riots in Chile's capital Santiago escalate into open battles, with attacks reported at nearly all of the city's 164 Metro stations. President Sebastián Piñera later announces a 15-day state of emergency in the capital.
 <br/><br/>
-En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.
+En 2007 : Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is fatally injured.
 <br/><br/>
 En 2003 : Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.
 <br/><br/>
