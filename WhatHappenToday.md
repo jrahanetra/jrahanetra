@@ -6,7 +6,7 @@
 <hr/>
 <h1> What happen this day 19/10 ?(Hover on the year)</h1>
 
-En 2025 : Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris..
+En 2025 : Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris.
 <br/><br/>
 En 2019 : Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War.
 <br/><br/>
@@ -120,7 +120,7 @@ En 439 : The Vandals, led by King Gaiseric, take Carthage in North Africa in a s
 <br/><br/>
 En -202 : Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed]
 <br/><br/>
-En 2025 : Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris..
+En 2025 : Pieces of the French Crown Jewels are successfully stolen during a heist on the Louvre Museum in Paris.
 <br/><br/>
 En 2019 : Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War.
 <br/><br/>
