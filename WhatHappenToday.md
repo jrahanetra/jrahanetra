@@ -104,6 +104,8 @@ En 1805 : Napoleonic Wars: A British fleet led by Lord Nelson defeats a combined
 <br/><br/>
 En 1797 : In Boston Harbor, the 44-gun United States Navy frigate USS Constitution is launched.
 <br/><br/>
+En 1639 : A Dutch fleet under Admiral Maarten Tromp defeats a large Spanish fleet at the Battle of the Downs, dealing a heavy blow to Spanish naval power.
+<br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
 En 1520 : João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing on them their original name of "Islands of the 11,000 Virgins".
@@ -223,6 +225,8 @@ En 1824 : Portland cement is patented.
 En 1805 : Napoleonic Wars: A British fleet led by Lord Nelson defeats a combined French and Spanish fleet under Admiral Villeneuve in the Battle of Trafalgar.
 <br/><br/>
 En 1797 : In Boston Harbor, the 44-gun United States Navy frigate USS Constitution is launched.
+<br/><br/>
+En 1639 : A Dutch fleet under Admiral Maarten Tromp defeats a large Spanish fleet at the Battle of the Downs, dealing a heavy blow to Spanish naval power.
 <br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
