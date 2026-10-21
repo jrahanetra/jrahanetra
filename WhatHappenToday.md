@@ -16,7 +16,7 @@ En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people a
 <br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
-En 2007 : Finnish race drivers Kimi Räikkönen of Scuderia Ferrari won the Brazilian Grand Prix in Formula One. With this result, Räikkönen became world champion, surpassing McLaren drivers Lewis Hamilton and Fernando Alonso by one point in the drivers' standings.
+En 2007 : Finnish driver Kimi Räikkönen of Scuderia Ferrari won the Brazilian Grand Prix in Formula One. With this result, Räikkönen became world champion, surpassing McLaren drivers Lewis Hamilton and Fernando Alonso by one point in the drivers' standings.
 <br/><br/>
 En 2003 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
 <br/><br/>
@@ -108,7 +108,7 @@ En 1774 : The flag of Taunton, Massachusetts is the first to include the word "L
 <br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
-En 1520 : João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing them their original name of "Islands of the 11,000 Virgins".
+En 1520 : João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing on them their original name of "Islands of the 11,000 Virgins".
 <br/><br/>
 En 1512 : Martin Luther joins the theological faculty of the University of Wittenberg.
 <br/><br/>
@@ -138,7 +138,7 @@ En 2018 : A passenger train derails in Yilan County, Taiwan, killing 18 people a
 <br/><br/>
 En 2011 : Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 <br/><br/>
-En 2007 : Finnish race drivers Kimi Räikkönen of Scuderia Ferrari won the Brazilian Grand Prix in Formula One. With this result, Räikkönen became world champion, surpassing McLaren drivers Lewis Hamilton and Fernando Alonso by one point in the drivers' standings.
+En 2007 : Finnish driver Kimi Räikkönen of Scuderia Ferrari won the Brazilian Grand Prix in Formula One. With this result, Räikkönen became world champion, surpassing McLaren drivers Lewis Hamilton and Fernando Alonso by one point in the drivers' standings.
 <br/><br/>
 En 2003 : Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
 <br/><br/>
@@ -230,7 +230,7 @@ En 1774 : The flag of Taunton, Massachusetts is the first to include the word "L
 <br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
-En 1520 : João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing them their original name of "Islands of the 11,000 Virgins".
+En 1520 : João Álvares Fagundes discovers the islands of Saint Pierre and Miquelon, bestowing on them their original name of "Islands of the 11,000 Virgins".
 <br/><br/>
 En 1512 : Martin Luther joins the theological faculty of the University of Wittenberg.
 <br/><br/>
