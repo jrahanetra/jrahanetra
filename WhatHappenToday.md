@@ -94,7 +94,7 @@ En 1879 : Thomas Edison applies for a patent for his design for an incandescent 
 <br/><br/>
 En 1867 : The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.
 <br/><br/>
-En 1861 : American Civil War: Union forces under Colonel Edward Baker are defeated by Confederate troops in the second major battle of the war.
+En 1861 : American Civil War: Union forces under Colonel Edward Baker are defeated at Ball's Bluff by Confederate troops in the second major battle of the war.
 <br/><br/>
 En 1854 : Florence Nightingale and a staff of 38 nurses are sent to the Crimean War.
 <br/><br/>
@@ -103,8 +103,6 @@ En 1824 : Portland cement is patented.
 En 1805 : Napoleonic Wars: A British fleet led by Lord Nelson defeats a combined French and Spanish fleet under Admiral Villeneuve in the Battle of Trafalgar.
 <br/><br/>
 En 1797 : In Boston Harbor, the 44-gun United States Navy frigate USS Constitution is launched.
-<br/><br/>
-En 1774 : The flag of Taunton, Massachusetts is the first to include the word "Liberty".
 <br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
@@ -216,7 +214,7 @@ En 1879 : Thomas Edison applies for a patent for his design for an incandescent 
 <br/><br/>
 En 1867 : The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.
 <br/><br/>
-En 1861 : American Civil War: Union forces under Colonel Edward Baker are defeated by Confederate troops in the second major battle of the war.
+En 1861 : American Civil War: Union forces under Colonel Edward Baker are defeated at Ball's Bluff by Confederate troops in the second major battle of the war.
 <br/><br/>
 En 1854 : Florence Nightingale and a staff of 38 nurses are sent to the Crimean War.
 <br/><br/>
@@ -225,8 +223,6 @@ En 1824 : Portland cement is patented.
 En 1805 : Napoleonic Wars: A British fleet led by Lord Nelson defeats a combined French and Spanish fleet under Admiral Villeneuve in the Battle of Trafalgar.
 <br/><br/>
 En 1797 : In Boston Harbor, the 44-gun United States Navy frigate USS Constitution is launched.
-<br/><br/>
-En 1774 : The flag of Taunton, Massachusetts is the first to include the word "Liberty".
 <br/><br/>
 En 1600 : Tokugawa Ieyasu defeats the leaders of rival Japanese clans in the Battle of Sekigahara and becomes shōgun of Japan.
 <br/><br/>
