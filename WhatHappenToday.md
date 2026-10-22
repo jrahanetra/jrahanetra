@@ -102,7 +102,7 @@ En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish def
 <br/><br/>
 En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
-En 1303 : Election of pope Benedict XI following the death of pope Boniface VIII in the previous weeks.
+En 1303 : Election of Pope Benedict XI following the death of Pope Boniface VIII in the previous weeks.
 <br/><br/>
 En 906 : Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.
 <br/><br/>
@@ -208,7 +208,7 @@ En 1721 : The Russian Empire is proclaimed by Tsar Peter I after the Swedish def
 <br/><br/>
 En 1383 : The male line of the Portuguese House of Burgundy becomes extinct with the death of King Fernando, leaving only his daughter Beatrice. Rival claimants begin a period of civil war and disorder.
 <br/><br/>
-En 1303 : Election of pope Benedict XI following the death of pope Boniface VIII in the previous weeks.
+En 1303 : Election of Pope Benedict XI following the death of Pope Boniface VIII in the previous weeks.
 <br/><br/>
 En 906 : Abbasid general Ahmad ibn Kayghalagh leads a raid against the Byzantine Empire, taking 4,000–5,000 captives.
 <br/><br/>
