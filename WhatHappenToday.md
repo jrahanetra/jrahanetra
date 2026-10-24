@@ -24,7 +24,7 @@ En 2007 : Chang'e 1, the first satellite in the Chinese Lunar Exploration Progra
 <br/><br/>
 En 2005 : Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 26 indirect fatalities and causing $20.6B USD in damage.
 <br/><br/>
-En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbeaten matches at 49 matches, which is the record in the Premier League.
+En 2004 : Arsenal Football Club loses 2-0 to Manchester United in a match dubbed the Battle of the Buffet, ending their Premier League record 49-match unbeaten streak.
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
@@ -152,7 +152,7 @@ En 2007 : Chang'e 1, the first satellite in the Chinese Lunar Exploration Progra
 <br/><br/>
 En 2005 : Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 26 indirect fatalities and causing $20.6B USD in damage.
 <br/><br/>
-En 2004 : Arsenal Football Club loses to Manchester United, ending a row of unbeaten matches at 49 matches, which is the record in the Premier League.
+En 2004 : Arsenal Football Club loses 2-0 to Manchester United in a match dubbed the Battle of the Buffet, ending their Premier League record 49-match unbeaten streak.
 <br/><br/>
 En 2003 : Concorde makes its last commercial flight.
 <br/><br/>
