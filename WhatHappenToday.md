@@ -68,7 +68,11 @@ En 1875 : Pyotr Ilyich Tchaikovsky's Piano Concerto No. 1 in B♭ minor, Op. 23 
 <br/><br/>
 En 1868 : The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland.
 <br/><br/>
+En 1864 : American Civil War: A large contingent of Confederate troops participating in Price's Missouri Expedition are captured by Union forces during the Battle of Mine Creek, the largest battle fought in Kansas and one of the largest cavalry engagements of the war.
+<br/><br/>
 En 1861 : The Toronto Stock Exchange is created.
+<br/><br/>
+En 1861 : American Civil War: Union forces under Major Charles Zagonyi achieve a minor victory at the First Battle of Springfield through a charge widely covered by the media, and Federal troops occupy the city two days later.
 <br/><br/>
 En 1854 : The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.
 <br/><br/>
@@ -154,7 +158,11 @@ En 1875 : Pyotr Ilyich Tchaikovsky's Piano Concerto No. 1 in B♭ minor, Op. 23 
 <br/><br/>
 En 1868 : The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland.
 <br/><br/>
+En 1864 : American Civil War: A large contingent of Confederate troops participating in Price's Missouri Expedition are captured by Union forces during the Battle of Mine Creek, the largest battle fought in Kansas and one of the largest cavalry engagements of the war.
+<br/><br/>
 En 1861 : The Toronto Stock Exchange is created.
+<br/><br/>
+En 1861 : American Civil War: Union forces under Major Charles Zagonyi achieve a minor victory at the First Battle of Springfield through a charge widely covered by the media, and Federal troops occupy the city two days later.
 <br/><br/>
 En 1854 : The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.
 <br/><br/>
