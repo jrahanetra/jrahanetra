@@ -104,7 +104,7 @@ En 1524 : French troops lay siege to Pavia.
 <br/><br/>
 En 1275 : Traditional founding of the city of Amsterdam.
 <br/><br/>
-En 625 : Election of pope Honorius I following the death of pope Boniface V two days prior.
+En 625 : Election of Pope Honorius I following the death of Pope Boniface V two days prior.
 <br/><br/>
 En 312 : Constantine the Great is said to have received his famous Vision of the Cross.
 <br/><br/>
@@ -206,7 +206,7 @@ En 1524 : French troops lay siege to Pavia.
 <br/><br/>
 En 1275 : Traditional founding of the city of Amsterdam.
 <br/><br/>
-En 625 : Election of pope Honorius I following the death of pope Boniface V two days prior.
+En 625 : Election of Pope Honorius I following the death of Pope Boniface V two days prior.
 <br/><br/>
 En 312 : Constantine the Great is said to have received his famous Vision of the Cross.
 <br/><br/>
