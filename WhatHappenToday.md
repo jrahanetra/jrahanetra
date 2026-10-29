@@ -70,7 +70,7 @@ En 1957 : Israel's prime minister David Ben-Gurion and five of his ministers are
 <br/><br/>
 En 1956 : Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal.
 <br/><br/>
-En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailers.
+En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailors.
 <br/><br/>
 En 1953 : BCPA Flight 304, a DC-6, crashes near San Francisco.
 <br/><br/>
@@ -184,7 +184,7 @@ En 1957 : Israel's prime minister David Ben-Gurion and five of his ministers are
 <br/><br/>
 En 1956 : Suez Crisis begins: Israeli forces invade the Sinai Peninsula and push Egyptian forces back toward the Suez Canal.
 <br/><br/>
-En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailers.
+En 1955 : The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailors.
 <br/><br/>
 En 1953 : BCPA Flight 304, a DC-6, crashes near San Francisco.
 <br/><br/>
