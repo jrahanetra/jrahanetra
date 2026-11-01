@@ -134,7 +134,7 @@ En 1856 : The British Empire declare war on Iran following Naser al-Din Shah's c
 <br/><br/>
 En 1848 : In Boston, Massachusetts, the first medical school for women, Boston Female Medical School (which later merged with the Boston University School of Medicine), opens.
 <br/><br/>
-En 1814 : Congress of Vienna opens to re-draw the European political map after the defeat of France in the Napoleonic Wars.
+En 1814 : Congress of Vienna opens to redraw the European political map after the defeat of France in the Napoleonic Wars.
 <br/><br/>
 En 1805 : Napoleon Bonaparte invades Austria during the War of the Third Coalition.
 <br/><br/>
@@ -302,7 +302,7 @@ En 1856 : The British Empire declare war on Iran following Naser al-Din Shah's c
 <br/><br/>
 En 1848 : In Boston, Massachusetts, the first medical school for women, Boston Female Medical School (which later merged with the Boston University School of Medicine), opens.
 <br/><br/>
-En 1814 : Congress of Vienna opens to re-draw the European political map after the defeat of France in the Napoleonic Wars.
+En 1814 : Congress of Vienna opens to redraw the European political map after the defeat of France in the Napoleonic Wars.
 <br/><br/>
 En 1805 : Napoleon Bonaparte invades Austria during the War of the Third Coalition.
 <br/><br/>
