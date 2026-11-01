@@ -6,13 +6,15 @@
 <hr/>
 <h1> What happen this day 1/11 ?(Hover on the year)</h1>
 
-En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring 3.
+En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring three.
 <br/><br/>
 En 2012 : A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh, killing 26 people and injuring 135.
 <br/><br/>
 En 2011 : Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
 <br/><br/>
 En 2009 : An Ilyushin Il-76 crashes near the Mir mine after takeoff from Mirny Airport in Yakutia, killing all 11 aboard.
+<br/><br/>
+En 2004 : A suicide bombing at the Carmel Market in Tel Aviv kills three people and injures 50.
 <br/><br/>
 En 2001 : Turkey, Australia, and Canada agree to commit troops to the invasion of Afghanistan.
 <br/><br/>
@@ -172,13 +174,15 @@ En 996 : Emperor Otto III issues a deed to Gottschalk, Bishop of Freising, which
 <br/><br/>
 En 365 : Roman Emperor Valentinian I learns the Alemanni have crossed the Rhine and invaded Gaul.
 <br/><br/>
-En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring 3.
+En 2024 : A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring three.
 <br/><br/>
 En 2012 : A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh, killing 26 people and injuring 135.
 <br/><br/>
 En 2011 : Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
 <br/><br/>
 En 2009 : An Ilyushin Il-76 crashes near the Mir mine after takeoff from Mirny Airport in Yakutia, killing all 11 aboard.
+<br/><br/>
+En 2004 : A suicide bombing at the Carmel Market in Tel Aviv kills three people and injures 50.
 <br/><br/>
 En 2001 : Turkey, Australia, and Canada agree to commit troops to the invasion of Afghanistan.
 <br/><br/>
