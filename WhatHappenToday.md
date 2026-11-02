@@ -100,7 +100,7 @@ En 1622 : The Imperial-Spanish army under the Count of Tilly captures Mannheim.
 <br/><br/>
 En 1410 : The Peace of Bicêtre suspends hostilities in the Armagnac–Burgundian Civil War.
 <br/><br/>
-En 676 : Election of pope Donus following the death of pope Adeodatus II some month prior.
+En 676 : Election of pope Donus following the death of pope Adeodatus II some months prior.
 <br/><br/>
 En 619 : A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu.
 <br/><br/>
@@ -198,7 +198,7 @@ En 1622 : The Imperial-Spanish army under the Count of Tilly captures Mannheim.
 <br/><br/>
 En 1410 : The Peace of Bicêtre suspends hostilities in the Armagnac–Burgundian Civil War.
 <br/><br/>
-En 676 : Election of pope Donus following the death of pope Adeodatus II some month prior.
+En 676 : Election of pope Donus following the death of pope Adeodatus II some months prior.
 <br/><br/>
 En 619 : A qaghan of the Western Turkic Khaganate is assassinated in a Chinese palace by Eastern Turkic rivals after the approval of Tang emperor Gaozu.
 <br/><br/>
