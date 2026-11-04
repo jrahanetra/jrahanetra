@@ -60,6 +60,8 @@ En 1939 : World War II: U.S. president Franklin D. Roosevelt orders the United S
 <br/><br/>
 En 1936 : Spanish Civil War: Largo Caballero reshuffles his war cabinet, persuading the anarcho-syndicalist CNT to join the government.
 <br/><br/>
+En 1926 : Plot of Prats de Molló: French police aborted the attempt led by Francesc Macià to liberate Catalonia from the Spanish dictatorship of Primo de Rivera and proclaim the Catalan Republic.
+<br/><br/>
 En 1924 : Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States.
 <br/><br/>
 En 1922 : In Egypt, British archaeologist Howard Carter and his men find the entrance to Tutankhamun's tomb in the Valley of the Kings.
@@ -159,6 +161,8 @@ En 1942 : World War II: Disobeying a direct order by Adolf Hitler, General Field
 En 1939 : World War II: U.S. president Franklin D. Roosevelt orders the United States Customs Service to implement the Neutrality Act of 1939, allowing cash-and-carry purchases of weapons by belligerents.
 <br/><br/>
 En 1936 : Spanish Civil War: Largo Caballero reshuffles his war cabinet, persuading the anarcho-syndicalist CNT to join the government.
+<br/><br/>
+En 1926 : Plot of Prats de Molló: French police aborted the attempt led by Francesc Macià to liberate Catalonia from the Spanish dictatorship of Primo de Rivera and proclaim the Catalan Republic.
 <br/><br/>
 En 1924 : Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States.
 <br/><br/>
