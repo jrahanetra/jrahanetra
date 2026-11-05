@@ -80,7 +80,7 @@ En 1898 : Negrese nationalists revolt against Spanish rule and establish the sho
 <br/><br/>
 En 1895 : George B. Selden is granted the first U.S. patent for an automobile.
 <br/><br/>
-En 1881 : In New Zealand, 1600 armed volunteers and constabulary field forces led by Minister of Native Affairs John Bryce march on the pacifist Māori settlement at Parihaka, evicting upwards of 2000 residents, and destroying the settlement in the context of the New Zealand land confiscations.
+En 1881 : In New Zealand, 1600 armed volunteers and constabulary field forces led by Minister of Native Affairs John Bryce march on the pacifist Māori settlement at Parihaka, evicting upwards of 2,000 residents, and destroying the settlement in the context of the New Zealand land confiscations.
 <br/><br/>
 En 1872 : Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100.
 <br/><br/>
@@ -184,7 +184,7 @@ En 1898 : Negrese nationalists revolt against Spanish rule and establish the sho
 <br/><br/>
 En 1895 : George B. Selden is granted the first U.S. patent for an automobile.
 <br/><br/>
-En 1881 : In New Zealand, 1600 armed volunteers and constabulary field forces led by Minister of Native Affairs John Bryce march on the pacifist Māori settlement at Parihaka, evicting upwards of 2000 residents, and destroying the settlement in the context of the New Zealand land confiscations.
+En 1881 : In New Zealand, 1600 armed volunteers and constabulary field forces led by Minister of Native Affairs John Bryce march on the pacifist Māori settlement at Parihaka, evicting upwards of 2,000 residents, and destroying the settlement in the context of the New Zealand land confiscations.
 <br/><br/>
 En 1872 : Women's suffrage in the United States: In defiance of the law, suffragist Susan B. Anthony votes for the first time, and is later fined $100.
 <br/><br/>
