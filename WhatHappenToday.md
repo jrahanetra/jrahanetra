@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 7/11 ?(Hover on the year)</h1>
 
+En 2026 : A shooting took place in the Main Market Square in Kraków. At least 5 people were killed, and 15 were injured.
+<br/><br/>
 En 2023 : António Costa resigns as Prime Minister of Portugal following news of an investigation in a corruption scandal implicating members of his cabinet.
 <br/><br/>
 En 2020 : Joe Biden is confirmed elected as the 46th president of the United States, defeating incumbent Donald Trump.
@@ -155,6 +157,8 @@ En 921 : Treaty of Bonn: The Frankish kings Charles the Simple and Henry the Fow
 En 680 : The Sixth Ecumenical Council commences in Constantinople.
 <br/><br/>
 En 335 : Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople.
+<br/><br/>
+En 2026 : A shooting took place in the Main Market Square in Kraków. At least 5 people were killed, and 15 were injured.
 <br/><br/>
 En 2023 : António Costa resigns as Prime Minister of Portugal following news of an investigation in a corruption scandal implicating members of his cabinet.
 <br/><br/>
