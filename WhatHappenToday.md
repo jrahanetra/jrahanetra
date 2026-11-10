@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 10/11 ?(Hover on the year)</h1>
 
+En 2026 : Finnish Embassy in Canberra, Australia, closes temporarily for the day.
+<br/><br/>
 En 2020 : Armenia and Azerbaijan sign a ceasefire agreement, ending the Second Nagorno-Karabakh War, and prompting protests in Armenia.
 <br/><br/>
 En 2019 : President of Bolivia Evo Morales and several of his government resign after 19 days of civil protests and a recommendation from the military.
@@ -115,6 +117,8 @@ En 1160 : The assassination of Maio of Bari, chancelor of the kingdom of Sicily,
 En 937 : Ten Kingdoms: Li Bian usurps the throne and deposes Emperor Yang Pu. The Wu State is replaced by Li (now called "Xu Zhigao"), who becomes the first ruler of Southern Tang.
 <br/><br/>
 En 474 : Emperor Leo II dies after a reign of ten months. He is succeeded by his father Zeno, who becomes sole ruler of the Byzantine Empire.
+<br/><br/>
+En 2026 : Finnish Embassy in Canberra, Australia, closes temporarily for the day.
 <br/><br/>
 En 2020 : Armenia and Azerbaijan sign a ceasefire agreement, ending the Second Nagorno-Karabakh War, and prompting protests in Armenia.
 <br/><br/>
