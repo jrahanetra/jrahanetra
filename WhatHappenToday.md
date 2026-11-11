@@ -16,7 +16,11 @@ En 2012 : A strong earthquake with the magnitude 6.8 hits northern Burma, killin
 <br/><br/>
 En 2011 : A helicopter crash just outside Mexico City kills seven, including Francisco Blake Mora the Secretary of the Interior of Mexico.
 <br/><br/>
+En 2008 : After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.
+<br/><br/>
 En 2006 : Queen Elizabeth II unveils the New Zealand War Memorial in London, United Kingdom, commemorating the loss of soldiers from the New Zealand Army and the British Army.
+<br/><br/>
+En 2006 : The home video game console PlayStation 3 becomes first available to the public in Japan.
 <br/><br/>
 En 2004 : New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.
 <br/><br/>
@@ -162,7 +166,11 @@ En 2012 : A strong earthquake with the magnitude 6.8 hits northern Burma, killin
 <br/><br/>
 En 2011 : A helicopter crash just outside Mexico City kills seven, including Francisco Blake Mora the Secretary of the Interior of Mexico.
 <br/><br/>
+En 2008 : After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed Nasheed as the president of the Maldives.
+<br/><br/>
 En 2006 : Queen Elizabeth II unveils the New Zealand War Memorial in London, United Kingdom, commemorating the loss of soldiers from the New Zealand Army and the British Army.
+<br/><br/>
+En 2006 : The home video game console PlayStation 3 becomes first available to the public in Japan.
 <br/><br/>
 En 2004 : New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.
 <br/><br/>
