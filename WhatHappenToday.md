@@ -20,8 +20,6 @@ En 2008 : After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed
 <br/><br/>
 En 2006 : Queen Elizabeth II unveils the New Zealand War Memorial in London, United Kingdom, commemorating the loss of soldiers from the New Zealand Army and the British Army.
 <br/><br/>
-En 2006 : The home video game console PlayStation 3 becomes first available to the public in Japan.
-<br/><br/>
 En 2004 : New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.
 <br/><br/>
 En 2004 : The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.
@@ -101,10 +99,6 @@ En 1918 : Emperor Charles I of Austria relinquishes power.
 En 1911 : Many cities in the Midwestern United States break their record highs and lows on the same day as a strong cold front rolls through.
 <br/><br/>
 En 1889 : The State of Washington is admitted as the 42nd state of the United States.
-<br/><br/>
-En 1887 : Four convicted anarchists were executed as a result of the Haymarket affair.
-<br/><br/>
-En 1880 : Australian bushranger Ned Kelly is hanged at Melbourne Gaol.
 <br/><br/>
 En 1869 : The Victorian Aboriginal Protection Act is enacted in Australia, giving the government control of indigenous people's wages, their terms of employment, where they could live, and of their children, effectively leading to the Stolen Generations.
 <br/><br/>
@@ -170,8 +164,6 @@ En 2008 : After 30 years in power, Maumoon Abdul Gayoom was succeeded by Mohamed
 <br/><br/>
 En 2006 : Queen Elizabeth II unveils the New Zealand War Memorial in London, United Kingdom, commemorating the loss of soldiers from the New Zealand Army and the British Army.
 <br/><br/>
-En 2006 : The home video game console PlayStation 3 becomes first available to the public in Japan.
-<br/><br/>
 En 2004 : New Zealand Tomb of the Unknown Warrior is dedicated at the National War Memorial, Wellington.
 <br/><br/>
 En 2004 : The Palestine Liberation Organization confirms the death of Yasser Arafat from unidentified causes. Mahmoud Abbas is elected chairman of the PLO minutes later.
@@ -251,10 +243,6 @@ En 1918 : Emperor Charles I of Austria relinquishes power.
 En 1911 : Many cities in the Midwestern United States break their record highs and lows on the same day as a strong cold front rolls through.
 <br/><br/>
 En 1889 : The State of Washington is admitted as the 42nd state of the United States.
-<br/><br/>
-En 1887 : Four convicted anarchists were executed as a result of the Haymarket affair.
-<br/><br/>
-En 1880 : Australian bushranger Ned Kelly is hanged at Melbourne Gaol.
 <br/><br/>
 En 1869 : The Victorian Aboriginal Protection Act is enacted in Australia, giving the government control of indigenous people's wages, their terms of employment, where they could live, and of their children, effectively leading to the Stolen Generations.
 <br/><br/>
