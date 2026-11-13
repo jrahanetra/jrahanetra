@@ -106,7 +106,7 @@ En 1642 : First English Civil War: Battle of Turnham Green: The Royalist forces 
 <br/><br/>
 En 1160 : Louis VII of France marries Adela of Champagne.
 <br/><br/>
-En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland, and his son Edward, are killed.
+En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland and his son Edward are killed.
 <br/><br/>
 En 1002 : English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.
 <br/><br/>
@@ -210,7 +210,7 @@ En 1642 : First English Civil War: Battle of Turnham Green: The Royalist forces 
 <br/><br/>
 En 1160 : Louis VII of France marries Adela of Champagne.
 <br/><br/>
-En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland, and his son Edward, are killed.
+En 1093 : Battle of Alnwick: in an English victory over the Scots, Malcolm III of Scotland and his son Edward are killed.
 <br/><br/>
 En 1002 : English king Æthelred II orders the killing of all Danes in England, known today as the St. Brice's Day massacre.
 <br/><br/>
