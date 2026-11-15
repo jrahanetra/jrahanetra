@@ -6,11 +6,15 @@
 <hr/>
 <h1> What happen this day 15/11 ?(Hover on the year)</h1>
 
+En 2025 : Anti-government demonstrations are held across Mexico following the assassination of Carlos Manzo earlier that month.
+<br/><br/>
 En 2022 : The world population reached eight billion.
 <br/><br/>
-En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
+En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equaling the all-time record held by Michael Schumacher.
 <br/><br/>
 En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
+<br/><br/>
+En 2017 : Khabarovsk Airlines Flight 463 crashes on approach to Nelkan Airport, killing six people.
 <br/><br/>
 En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
 <br/><br/>
@@ -34,6 +38,8 @@ En 2000 : Jharkhand officially becomes the 28th state of India, formed from eigh
 <br/><br/>
 En 1994 : A magnitude 7.1 earthquake hits the central Philippine island of Mindoro, killing 78 people, injuring 430 and triggering a tsunami up to 8.5 m (28 ft) high.
 <br/><br/>
+En 1992 : An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34.
+<br/><br/>
 En 1990 : The Communist People's Republic of Bulgaria is disestablished and a new republican government is instituted.
 <br/><br/>
 En 1990 : Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
@@ -47,6 +53,8 @@ En 1988 : The first Fairtrade label, Max Havelaar, is launched in the Netherland
 En 1987 : In Brașov, Romania, workers rebel against the communist regime of Nicolae Ceaușescu.
 <br/><br/>
 En 1987 : Continental Airlines Flight 1713 crashes during takeoff from Stapleton International Airport in Denver, Colorado, killing 25.
+<br/><br/>
+En 1986 : Israeli yeshiva student Eliahu Amedi is murdered in the Old City of Jerusalem by three members of the Popular Front for the Liberation of Palestine.
 <br/><br/>
 En 1985 : A research assistant is injured when a package from the Unabomber addressed to a University of Michigan professor explodes.
 <br/><br/>
@@ -132,11 +140,15 @@ En 1315 : Growth of the Old Swiss Confederacy: The Schweizer Eidgenossenschaft a
 <br/><br/>
 En 655 : Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria.
 <br/><br/>
+En 2025 : Anti-government demonstrations are held across Mexico following the assassination of Carlos Manzo earlier that month.
+<br/><br/>
 En 2022 : The world population reached eight billion.
 <br/><br/>
-En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
+En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equaling the all-time record held by Michael Schumacher.
 <br/><br/>
 En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
+<br/><br/>
+En 2017 : Khabarovsk Airlines Flight 463 crashes on approach to Nelkan Airport, killing six people.
 <br/><br/>
 En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
 <br/><br/>
@@ -160,6 +172,8 @@ En 2000 : Jharkhand officially becomes the 28th state of India, formed from eigh
 <br/><br/>
 En 1994 : A magnitude 7.1 earthquake hits the central Philippine island of Mindoro, killing 78 people, injuring 430 and triggering a tsunami up to 8.5 m (28 ft) high.
 <br/><br/>
+En 1992 : An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34.
+<br/><br/>
 En 1990 : The Communist People's Republic of Bulgaria is disestablished and a new republican government is instituted.
 <br/><br/>
 En 1990 : Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
@@ -173,6 +187,8 @@ En 1988 : The first Fairtrade label, Max Havelaar, is launched in the Netherland
 En 1987 : In Brașov, Romania, workers rebel against the communist regime of Nicolae Ceaușescu.
 <br/><br/>
 En 1987 : Continental Airlines Flight 1713 crashes during takeoff from Stapleton International Airport in Denver, Colorado, killing 25.
+<br/><br/>
+En 1986 : Israeli yeshiva student Eliahu Amedi is murdered in the Old City of Jerusalem by three members of the Popular Front for the Liberation of Palestine.
 <br/><br/>
 En 1985 : A research assistant is injured when a package from the Unabomber addressed to a University of Michigan professor explodes.
 <br/><br/>
