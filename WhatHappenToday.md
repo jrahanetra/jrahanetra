@@ -16,6 +16,8 @@ En 2017 : A flood a few miles outside of Athens results in the death of 25 peopl
 <br/><br/>
 En 2017 : Khabarovsk Airlines Flight 463 crashes on approach to Nelkan Airport, killing six people.
 <br/><br/>
+En 2017 : Argentine submarine ARA San Juan disappears in the South Atlantic off the coast of Argentina while on a training exercise.
+<br/><br/>
 En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
 <br/><br/>
 En 2012 : Xi Jinping becomes General Secretary of the Chinese Communist Party and a new seven-member Politburo Standing Committee is inaugurated.
@@ -149,6 +151,8 @@ En 2020 : Lewis Hamilton wins the Turkish Grand Prix and secures his seventh dri
 En 2017 : A flood a few miles outside of Athens results in the death of 25 people.
 <br/><br/>
 En 2017 : Khabarovsk Airlines Flight 463 crashes on approach to Nelkan Airport, killing six people.
+<br/><br/>
+En 2017 : Argentine submarine ARA San Juan disappears in the South Atlantic off the coast of Argentina while on a training exercise.
 <br/><br/>
 En 2016 : Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
 <br/><br/>
