@@ -110,7 +110,7 @@ En 1272 : While travelling during the Ninth Crusade, Prince Edward becomes King 
 <br/><br/>
 En 951 : Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
 <br/><br/>
-En 565 : Justin II is crowned in the Hagia Sophia two days following the death of emperor Justinian I, who is burried in the Church of the Holy Apostles.
+En 565 : Justin II is crowned in the Hagia Sophia two days following the death of emperor Justinian I, who is buried in the Church of the Holy Apostles.
 <br/><br/>
 En 534 : The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books.
 <br/><br/>
@@ -218,7 +218,7 @@ En 1272 : While travelling during the Ninth Crusade, Prince Edward becomes King 
 <br/><br/>
 En 951 : Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
 <br/><br/>
-En 565 : Justin II is crowned in the Hagia Sophia two days following the death of emperor Justinian I, who is burried in the Church of the Holy Apostles.
+En 565 : Justin II is crowned in the Hagia Sophia two days following the death of emperor Justinian I, who is buried in the Church of the Holy Apostles.
 <br/><br/>
 En 534 : The second edition of the Code of Justinian is issued by the Byzantine jurist Tribonian and his assistants, consisting of twelve updated and revised books.
 <br/><br/>
