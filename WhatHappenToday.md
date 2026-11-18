@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 18/11 ?(Hover on the year)</h1>
 
+En 2026 : Voyager 1 becomes the first manmade object to travel a full light day from Earth.
+<br/><br/>
 En 2020 : The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
 <br/><br/>
 En 2013 : NASA launches the MAVEN probe to Mars.
@@ -115,6 +117,8 @@ En 1095 : The Council of Clermont begins: called by Pope Urban II, it led to the
 En 401 : The Visigoths, led by king Alaric I, cross the Alps and invade northern Italy.
 <br/><br/>
 En 326 : The old St. Peter's Basilica is consecrated by Pope Sylvester I.
+<br/><br/>
+En 2026 : Voyager 1 becomes the first manmade object to travel a full light day from Earth.
 <br/><br/>
 En 2020 : The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
 <br/><br/>
