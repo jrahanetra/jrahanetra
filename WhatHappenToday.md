@@ -6,6 +6,8 @@
 <hr/>
 <h1> What happen this day 19/11 ?(Hover on the year)</h1>
 
+En 2026 : Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people.
+<br/><br/>
 En 2023 : The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
 <br/><br/>
 En 2022 : A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado.
@@ -113,6 +115,8 @@ En 636 : The Rashidun Caliphate defeats the Sasanian Empire at the Battle of al-
 En 461 : Libius Severus is declared emperor of the Western Roman Empire. The real power is in the hands of the magister militum Ricimer.
 <br/><br/>
 En 461 : Beginning of the papacy of pope Hilarius.
+<br/><br/>
+En 2026 : Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people.
 <br/><br/>
 En 2023 : The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
 <br/><br/>
