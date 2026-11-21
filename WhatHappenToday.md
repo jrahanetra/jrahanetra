@@ -142,6 +142,8 @@ En 1620 : Plymouth Colony settlers sign the Mayflower Compact (November 11, O.S.
 <br/><br/>
 En 1386 : Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive.
 <br/><br/>
+En 1009 : The Lý dynasty in Vietnam is proclaimed by Emperor Lý Thái Tổ.
+<br/><br/>
 En 235 : Pope Anterus succeeds Pontian as the nineteenth pope.
 <br/><br/>
 En -164 : Judas Maccabeus, son of Mattathias of the Hasmonean family, rededicates the Temple in Jerusalem, an event that is commemorated each year by the festival of Hanukkah. (25 Kislev 3597 in the Hebrew calendar.)
@@ -281,6 +283,8 @@ En 1676 : The Danish astronomer Ole Rømer presents the first quantitative measu
 En 1620 : Plymouth Colony settlers sign the Mayflower Compact (November 11, O.S.)
 <br/><br/>
 En 1386 : Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive.
+<br/><br/>
+En 1009 : The Lý dynasty in Vietnam is proclaimed by Emperor Lý Thái Tổ.
 <br/><br/>
 En 235 : Pope Anterus succeeds Pontian as the nineteenth pope.
 <br/><br/>
