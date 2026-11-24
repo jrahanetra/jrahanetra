@@ -96,7 +96,7 @@ En 1429 : Hundred Years' War: Joan of Arc unsuccessfully besieges La Charité.
 <br/><br/>
 En 1359 : Peter I of Cyprus ascends the throne of Cyprus after his father, Hugh IV of Cyprus, abdicates.
 <br/><br/>
-En 1331 : David II is annointed as king of Scotland, but has to spent most of his reign outside Scotland.
+En 1331 : David II is anointed as king of Scotland, but has to spend most of his reign outside Scotland.
 <br/><br/>
 En 1248 : An overnight landslide on the north side of Mont Granier, one of the largest historical rockslope failures ever recorded in Europe, destroys five villages.
 <br/><br/>
@@ -204,7 +204,7 @@ En 1429 : Hundred Years' War: Joan of Arc unsuccessfully besieges La Charité.
 <br/><br/>
 En 1359 : Peter I of Cyprus ascends the throne of Cyprus after his father, Hugh IV of Cyprus, abdicates.
 <br/><br/>
-En 1331 : David II is annointed as king of Scotland, but has to spent most of his reign outside Scotland.
+En 1331 : David II is anointed as king of Scotland, but has to spend most of his reign outside Scotland.
 <br/><br/>
 En 1248 : An overnight landslide on the north side of Mont Granier, one of the largest historical rockslope failures ever recorded in Europe, destroys five villages.
 <br/><br/>
