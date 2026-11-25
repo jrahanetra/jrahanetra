@@ -6,11 +6,15 @@
 <hr/>
 <h1> What happen this day 25/11 ?(Hover on the year)</h1>
 
+En 2023 : Three Palestinian students are injured in a shooting in Burlington, Vermont.
+<br/><br/>
+En 2021 : A fire at a coal mine in Kemerovo Oblast kills 51 people.
+<br/><br/>
 En 2009 : Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing.
 <br/><br/>
 En 2008 : Cyclone Nisha strikes northern Sri Lanka, killing 15 people and displacing 90,000 others while dealing the region the highest rainfall in nine decades.
 <br/><br/>
-En 2000 : The 2000 Baku earthquake, with a Richter magnitude of 7.0 kills 26 people dead in Baku, Azerbaijan, being the strongest earthquake in the region in 158 years.
+En 2000 : The 2000 Baku earthquake, with a Richter magnitude of 7.0 kills 26 people in Baku, Azerbaijan.
 <br/><br/>
 En 1999 : A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
 <br/><br/>
@@ -132,11 +136,15 @@ En 1034 : Máel Coluim mac Cináeda, King of Scots, dies. His grandson, Donnchad
 <br/><br/>
 En -571 : Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans.
 <br/><br/>
+En 2023 : Three Palestinian students are injured in a shooting in Burlington, Vermont.
+<br/><br/>
+En 2021 : A fire at a coal mine in Kemerovo Oblast kills 51 people.
+<br/><br/>
 En 2009 : Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing.
 <br/><br/>
 En 2008 : Cyclone Nisha strikes northern Sri Lanka, killing 15 people and displacing 90,000 others while dealing the region the highest rainfall in nine decades.
 <br/><br/>
-En 2000 : The 2000 Baku earthquake, with a Richter magnitude of 7.0 kills 26 people dead in Baku, Azerbaijan, being the strongest earthquake in the region in 158 years.
+En 2000 : The 2000 Baku earthquake, with a Richter magnitude of 7.0 kills 26 people in Baku, Azerbaijan.
 <br/><br/>
 En 1999 : A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
 <br/><br/>
