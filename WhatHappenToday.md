@@ -114,7 +114,7 @@ En 1237 : Frederick II, Holy Roman Emperor, defeats the Lombard League in the ba
 <br/><br/>
 En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
 <br/><br/>
-En 602 : Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently burried at the monastery of St. Mamas.
+En 602 : Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently buried at the monastery of St. Mamas.
 <br/><br/>
 En 511 : King Clovis I dies at Lutetia and is buried in the Abbey of Saint Genevieve.
 <br/><br/>
@@ -234,7 +234,7 @@ En 1237 : Frederick II, Holy Roman Emperor, defeats the Lombard League in the ba
 <br/><br/>
 En 1095 : Pope Urban II declares the First Crusade at the Council of Clermont.
 <br/><br/>
-En 602 : Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently burried at the monastery of St. Mamas.
+En 602 : Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently buried at the monastery of St. Mamas.
 <br/><br/>
 En 511 : King Clovis I dies at Lutetia and is buried in the Abbey of Saint Genevieve.
 <br/><br/>
